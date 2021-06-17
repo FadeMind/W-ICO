@@ -6,11 +6,11 @@
 Windows 10
 
 ![1](https://raw.githubusercontent.com/FadeMind/W-ICO/master/_img/1.png)
-![2](https://raw.githubusercontent.com/FadeMind/W-ICO/master/_img/1.png)
+![2](https://raw.githubusercontent.com/FadeMind/W-ICO/master/_img/2.png)
 
 Windows 11
 
-![3](https://raw.githubusercontent.com/FadeMind/W-ICO/master/_img/1.png)
+![3](https://raw.githubusercontent.com/FadeMind/W-ICO/master/_img/3.png)
 
 **SOURCES**
 
