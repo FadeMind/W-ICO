@@ -14,9 +14,11 @@ Windows 11
 
 **SOURCES**
 
-http://terraromaster.deviantart.com/art/Windows-10-Custom-Folder-Icon-Pack-599112482
+- http://terraromaster.deviantart.com/art/Windows-10-Custom-Folder-Icon-Pack-599112482
+- https://www.deviantart.com/bongmixtape/art/Windows-Fluent-React-Icons-882186561
+- https://www.deviantart.com/theninjacat27/art/Windows-10X-Icons-835108137
 
 **CONTRIBUTORS**
 
-https://github.com/xmha97
+- https://github.com/xmha97
 
