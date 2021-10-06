@@ -16,4 +16,4 @@ Windows 7 + Windows 10 + Windows 11
 **CONTRIBUTORS**
 
 - https://github.com/xmha97
-
+- https://github.com/devpelux
