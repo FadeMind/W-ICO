@@ -12,6 +12,7 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/bongmixtape/art/Windows-Fluent-React-Icons-882186561
 - https://www.deviantart.com/theninjacat27/art/Windows-10X-Icons-835108137
 - https://www.deviantart.com/davidvkimball/art/Windows-11-Folder-Icons-885700560
+- https://www.folderico.com/icon-libraries.html
 
 **CONTRIBUTORS**
 
