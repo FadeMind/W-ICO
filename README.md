@@ -13,6 +13,10 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/theninjacat27/art/Windows-10X-Icons-835108137
 - https://www.deviantart.com/davidvkimball/art/Windows-11-Folder-Icons-885700560
 - https://www.folderico.com/icon-libraries.html
+- https://www.deviantart.com/ijmm
+- https://www.deviantart.com/jangoetama
+- https://www.deviantart.com/ericmgv
+- https://www.deviantart.com/alpbey
 
 **CONTRIBUTORS**
 
