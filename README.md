@@ -17,6 +17,7 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/jangoetama
 - https://www.deviantart.com/ericmgv
 - https://www.deviantart.com/alpbey
+- [FolderICO.com](https://www.folderico.com/icon-libraries.html)
 
 **CONTRIBUTORS**
 
