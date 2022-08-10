@@ -20,6 +20,7 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/ivan13x/art/Windows-11-style-Folder-Icons-922715959
 - [FolderICO.com](https://www.folderico.com/icon-libraries.html)
 - [Unified-Folder-Icons-for-Win11-by-QuickHows Source](https://www.quickhows.com/articles/change-user-folder-icons-windows11/)
+- https://github.com/icon11-community/Folder11-Ico
 
 **CONTRIBUTORS**
 
