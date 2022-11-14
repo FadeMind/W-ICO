@@ -1,6 +1,4 @@
-# Windows Custom Folder Icon Pack
-
-**Various icons folder for Windows in ICO format**
+# Various icons folder and more for Windows in ICO format
 
 Windows 7 + Windows 10 + Windows 11
 
