@@ -16,11 +16,11 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/ericmgv
 - https://www.deviantart.com/alpbey
 - https://www.deviantart.com/ivan13x/art/Windows-11-style-Folder-Icons-922715959
-- [FolderICO.com](https://www.folderico.com/icon-libraries.html)
 - [Unified-Folder-Icons-for-Win11-by-QuickHows Source](https://www.quickhows.com/articles/change-user-folder-icons-windows11/)
 - https://github.com/icon11-community/Folder11-Ico
 - https://www.reddit.com/r/FluentDesign/comments/on8reh/fluent_design_icons/
 - https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797
+- https://www.deviantart.com/adni18/art/New-Windows-11-Icons-937640902
 
 **CONTRIBUTORS**
 
