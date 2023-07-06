@@ -1,6 +1,5 @@
 .
 |   .gitignore
-|   checksums.blake3
 |   Preview.png
 |   README.md
 |   tree.log
@@ -3438,24 +3437,30 @@
 |   |       Aorus Logo.ico
 |   |       Aorus Name.ico
 |   |       Apple.ico
+|   |       Apps Folder.ico
 |   |       Aqua.ico
 |   |       Archive.ico
 |   |       Artstation.ico
 |   |       Asus.ico
+|   |       Atention Folder.ico
 |   |       Back.ico
 |   |       Battle.net.ico
 |   |       Battlestate.ico
 |   |       Bethesda.ico
 |   |       Blizzard.ico
+|   |       Bookmark Folder.ico
 |   |       Calibre.ico
 |   |       Castle 01.ico
 |   |       Castle 02.ico
+|   |       Checked Folder.ico
 |   |       Chess 01.ico
 |   |       Chess 02.ico
 |   |       Chrome.ico
 |   |       Circle Folder 02.ico
 |   |       Circle.ico
+|   |       Close Folder.ico
 |   |       Colorful.ico
+|   |       Contact Folder.ico
 |   |       Custom Podcasts.ico
 |   |       Dell.ico
 |   |       Desktop.ico
@@ -3471,6 +3476,7 @@
 |   |       epic-1.ico
 |   |       Epic.ico
 |   |       Explorer.ico
+|   |       Game Folder.ico
 |   |       games.ico
 |   |       games2.ico
 |   |       Gigabyte Logo.ico
@@ -3484,8 +3490,12 @@
 |   |       Green.ico
 |   |       humble1.ico
 |   |       humble2.ico
+|   |       Image Settings.ico
 |   |       Jellyfin.ico
+|   |       Kodi Folder 1.ico
+|   |       Kodi Folder 2.ico
 |   |       Lenovo.ico
+|   |       Link Folder.ico
 |   |       Mega.ico
 |   |       Minecraft.ico
 |   |       Music Generic.ico
@@ -3497,21 +3507,25 @@
 |   |       Open Front.ico
 |   |       Origin-1.ico
 |   |       Origin.ico
+|   |       Pen Settings Folder.ico
 |   |       Photos Generic.ico
 |   |       photos.ico
 |   |       Pictures Generic.ico
 |   |       pictures.ico
 |   |       pictures2.ico
+|   |       Pirate Bay Folder.ico
 |   |       Playnite.ico
 |   |       Playstation.ico
 |   |       Plex.ico
 |   |       Podcasts.ico
 |   |       qbittorent.ico
+|   |       qBittorrent 2.ico
 |   |       Riot.ico
 |   |       Rockstar.ico
 |   |       ROG.ico
 |   |       Roku.ico
 |   |       Samsung.ico
+|   |       Search Folder.ico
 |   |       Spotify Dark.ico
 |   |       Spotify.ico
 |   |       Steam 2.ico
@@ -3527,6 +3541,8 @@
 |   |       TUF 2.ico
 |   |       Ubisoft.ico
 |   |       Unsplash.ico
+|   |       Users Folder.ico
+|   |       VBS Folder.ico
 |   |       Videos.ico
 |   |       Virtualbox 2.ico
 |   |       Virtualbox.ico
