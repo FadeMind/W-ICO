@@ -5,261 +5,282 @@
 |   tree.log
 |   
 +---Apps (Windows 11)
-|       Adobe After Effects.ico
-|       Adobe Audition.ico
-|       Adobe Illustrator.ico
-|       Adobe InDesign.ico
-|       Adobe Photoshop-2.ico
-|       Adobe Photoshop.ico
-|       Adobe Premiere Pro.ico
-|       AIDA64.ico
-|       Alarms & Clock 1.ico
-|       Alarms & Clock 2.ico
-|       App Installer.ico
-|       AutoCAD.ico
-|       Autodesk 3ds Max.ico
-|       Bing.ico
-|       Blend for Visual Studio 2022 Preview.ico
-|       Blender.ico
-|       Brackets.ico
-|       Calculator.ico
-|       Calendar.ico
-|       Camera Barcode Scanner.ico
-|       Camera.ico
-|       Cinema 4D.ico
-|       ClipGrab.ico
-|       Control Panel (win 11).ico
-|       CrystalDiskInfo.ico
-|       DDORes_2001.ico
-|       DDORes_2035.ico
-|       DDORes_2067.ico
-|       DDORes_2102.ico
-|       DDORes_2210.ico
-|       DDORes_2305.ico
-|       DDORes_2307.ico
-|       DDORes_2359.ico
-|       DDORes_2413.ico
-|       DDORes_2414.ico
-|       DDORes_2552.ico
-|       DDORes_2553.ico
-|       DDORes_2554.ico
-|       Discord.ico
-|       Epic Games.ico
-|       Facebook.ico
-|       Faceit.ico
-|       Feedback Hub.ico
-|       File Explorer 2.ico
-|       FL Studio.ico
-|       gd (c).ico
-|       Get Help.ico
-|       Google Chrome.ico
-|       Google Docs.ico
-|       Google Drive.ico
-|       Google Sheets.ico
-|       Google Slides.ico
-|       Groove Music.ico
-|       ieframe_31065.ico
-|       imageres_100.ico
-|       imageres_101.ico
-|       imageres_1010.ico
-|       imageres_1013.ico
-|       imageres_1021.ico
-|       imageres_1022.ico
-|       imageres_1024.ico
-|       imageres_1026.ico
-|       imageres_1027.ico
-|       imageres_1028.ico
-|       imageres_104.ico
-|       imageres_1041.ico
-|       imageres_1042.ico
-|       imageres_1043.ico
-|       imageres_105.ico
-|       imageres_106.ico
-|       imageres_107.ico
-|       imageres_110.ico
-|       imageres_114.ico
-|       imageres_116.ico
-|       imageres_117.ico
-|       imageres_120.ico
-|       imageres_122.ico
-|       imageres_130.ico
-|       imageres_1305.ico
-|       imageres_1306.ico
-|       imageres_144.ico
-|       imageres_148.ico
-|       imageres_149.ico
-|       imageres_15.ico
-|       imageres_150.ico
-|       imageres_152.ico
-|       imageres_157.ico
-|       imageres_161.ico
-|       imageres_163.ico
-|       imageres_164.ico
-|       imageres_165.ico
-|       imageres_169.ico
-|       imageres_170.ico
-|       imageres_176.ico
-|       imageres_193.ico
-|       imageres_194.ico
-|       imageres_195.ico
-|       imageres_196.ico
-|       imageres_197.ico
-|       imageres_21.ico
-|       imageres_23.ico
-|       imageres_24.ico
-|       imageres_25.ico
-|       imageres_27.ico
-|       imageres_34.ico
-|       imageres_5.ico
-|       imageres_5100.ico
-|       imageres_5305.ico
-|       imageres_5325.ico
-|       imageres_5375.ico
-|       imageres_54.ico
-|       imageres_55.ico
-|       imageres_59.ico
-|       imageres_6.ico
-|       imageres_60.ico
-|       imageres_6400.ico
-|       imageres_68.ico
-|       imageres_70.ico
-|       imageres_78.ico
-|       imageres_79.ico
-|       imageres_8.ico
-|       imageres_80.ico
-|       imageres_81.ico
-|       imageres_82.ico
-|       imageres_8201.ico
-|       imageres_84.ico
-|       imageres_86.ico
-|       imageres_87.ico
-|       imageres_88.ico
-|       imageres_92.ico
-|       imageres_97.ico
-|       imageres_98.ico
-|       imageres_99.ico
-|       Instagram.ico
-|       Intel Driver & Support Assistant.ico
-|       Mail.ico
-|       Maps.ico
-|       Messenger.ico
-|       Microsoft Edge.ico
-|       Microsoft Editor.ico
-|       Microsoft Emulator.ico
-|       Microsoft News.ico
-|       Microsoft Paint.ico
-|       Microsoft Planner.ico
-|       Microsoft Solitaire Collection.ico
-|       Microsoft Stream.ico
-|       Microsoft To-Do.ico
-|       Microsoft Whiteboard.ico
-|       Mobile Plans.ico
-|       Movies & TV.ico
-|       MSI Afterburner.ico
-|       MSI Kombustor.ico
-|       msi_203.ico
-|       MSN Weather.ico
-|       mstscax_13417.ico
-|       MyHeritage.ico
-|       NASA's Eyes.ico
-|       Notepad.ico
-|       OBS Studio.ico
-|       Office.ico
-|       Office_ Access.ico
-|       Office_ Excel.ico
-|       Office_ Exchange.ico
-|       Office_ Forms.ico
-|       Office_ OneNote.ico
-|       Office_ Outlook.ico
-|       Office_ PowerPoint.ico
-|       Office_ Project.ico
-|       Office_ Publisher.ico
-|       Office_ Sway.ico
-|       Office_ Teams.ico
-|       Office_ Visio.ico
-|       Office_ Word.ico
-|       Office_ Yammer.ico
-|       OneDrive.ico
-|       Origin.ico
-|       Paint 3D.ico
-|       People.ico
-|       Photos.ico
-|       PowerToys.ico
-|       qb (c).ico
-|       Rainmeter.ico
-|       Remote Tools for Microsoft Edge.ico
-|       RivaTuner.ico
-|       Settings.ico
-|       SharePoint.ico
-|       shell32_133.ico
-|       shell32_14.ico
-|       shell32_16739.ico
-|       shell32_16752.ico
-|       shell32_16769.ico
-|       shell32_16770.ico
-|       shell32_16771.ico
-|       shell32_16801.ico
-|       shell32_16802.ico
-|       shell32_16803.ico
-|       shell32_16805.ico
-|       shell32_16806.ico
-|       shell32_16817.ico
-|       shell32_16818.ico
-|       shell32_16826.ico
-|       shell32_16827.ico
-|       shell32_184.ico
-|       shell32_185.ico
-|       shell32_186.ico
-|       shell32_187.ico
-|       shell32_194.ico
-|       shell32_197.ico
-|       shell32_198.ico
-|       shell32_199.ico
-|       shell32_231.ico
-|       shell32_232.ico
-|       shell32_277.ico
-|       shell32_327.ico
-|       shell32_51380.ico
-|       shell32_62998.ico
-|       shell32_62999.ico
-|       shell32_63000.ico
-|       shell32_63001.ico
-|       shell32_63008.ico
-|       shell32_63009.ico
-|       shell32_63010.ico
-|       shell32_63011.ico
-|       Signal.ico
-|       Skype.ico
-|       Snip and Sketch.ico
-|       Steam (dark).ico
-|       Steam (white).ico
-|       Sticky Notes Dark.ico
-|       Sticky Notes.ico
-|       Tips.ico
-|       Twitter 2.ico
-|       Twitter.ico
-|       Ubisoft.ico
-|       Uninstall Tool.ico
-|       Unity.ico
-|       Vegas Pro.ico
-|       Victoria HDD.ico
-|       Visual Studio 2019 Installer.ico
-|       Visual Studio 2019.ico
-|       Visual Studio 2022 Installer.ico
-|       Visual Studio 2022 Preview.ico
-|       Visual Studio Code.ico
-|       Voice Recorder.ico
-|       Windows Defender.ico
-|       Windows Package Feed (Feature Experience Pack).ico
-|       Windows Terminal.ico
-|       Windows.ico
-|       Wise Registry Cleaner.ico
-|       Yandex Disk.ico
-|       Your Phone.ico
-|       YouTube.ico
-|       ÁTorrent.ico
-|       ŐTorrent.ico
-|       
+|   |   AIDA64.ico
+|   |   Alarms & Clock 1.ico
+|   |   Alarms & Clock 2.ico
+|   |   App Installer.ico
+|   |   AutoCAD.ico
+|   |   Autodesk 3ds Max.ico
+|   |   Bing.ico
+|   |   Blender.ico
+|   |   Brackets.ico
+|   |   Calculator.ico
+|   |   Calendar.ico
+|   |   Camera Barcode Scanner.ico
+|   |   Camera.ico
+|   |   Cinema 4D.ico
+|   |   ClipGrab.ico
+|   |   Control Panel (win 11).ico
+|   |   CrystalDiskInfo.ico
+|   |   DDORes_2001.ico
+|   |   DDORes_2035.ico
+|   |   DDORes_2067.ico
+|   |   DDORes_2102.ico
+|   |   DDORes_2210.ico
+|   |   DDORes_2305.ico
+|   |   DDORes_2307.ico
+|   |   DDORes_2359.ico
+|   |   DDORes_2413.ico
+|   |   DDORes_2414.ico
+|   |   DDORes_2552.ico
+|   |   DDORes_2553.ico
+|   |   DDORes_2554.ico
+|   |   DevHome.ico
+|   |   DevHomeGitHubExt.ico
+|   |   DevHomePRE.ico
+|   |   Discord.ico
+|   |   Epic Games.ico
+|   |   Facebook.ico
+|   |   Faceit.ico
+|   |   Feedback Hub.ico
+|   |   File Explorer 2.ico
+|   |   FL Studio.ico
+|   |   gd (c).ico
+|   |   Get Help.ico
+|   |   Google Chrome.ico
+|   |   Google Docs.ico
+|   |   Google Drive.ico
+|   |   Google Sheets.ico
+|   |   Google Slides.ico
+|   |   Groove Music.ico
+|   |   ieframe_31065.ico
+|   |   imageres_100.ico
+|   |   imageres_101.ico
+|   |   imageres_1010.ico
+|   |   imageres_1013.ico
+|   |   imageres_1021.ico
+|   |   imageres_1022.ico
+|   |   imageres_1024.ico
+|   |   imageres_1026.ico
+|   |   imageres_1027.ico
+|   |   imageres_1028.ico
+|   |   imageres_104.ico
+|   |   imageres_1041.ico
+|   |   imageres_1042.ico
+|   |   imageres_1043.ico
+|   |   imageres_105.ico
+|   |   imageres_106.ico
+|   |   imageres_107.ico
+|   |   imageres_110.ico
+|   |   imageres_114.ico
+|   |   imageres_116.ico
+|   |   imageres_117.ico
+|   |   imageres_120.ico
+|   |   imageres_122.ico
+|   |   imageres_130.ico
+|   |   imageres_1305.ico
+|   |   imageres_1306.ico
+|   |   imageres_144.ico
+|   |   imageres_148.ico
+|   |   imageres_149.ico
+|   |   imageres_15.ico
+|   |   imageres_150.ico
+|   |   imageres_152.ico
+|   |   imageres_157.ico
+|   |   imageres_161.ico
+|   |   imageres_163.ico
+|   |   imageres_164.ico
+|   |   imageres_165.ico
+|   |   imageres_169.ico
+|   |   imageres_170.ico
+|   |   imageres_176.ico
+|   |   imageres_193.ico
+|   |   imageres_194.ico
+|   |   imageres_195.ico
+|   |   imageres_196.ico
+|   |   imageres_197.ico
+|   |   imageres_21.ico
+|   |   imageres_23.ico
+|   |   imageres_24.ico
+|   |   imageres_25.ico
+|   |   imageres_27.ico
+|   |   imageres_34.ico
+|   |   imageres_5.ico
+|   |   imageres_5100.ico
+|   |   imageres_5305.ico
+|   |   imageres_5325.ico
+|   |   imageres_5375.ico
+|   |   imageres_54.ico
+|   |   imageres_55.ico
+|   |   imageres_59.ico
+|   |   imageres_6.ico
+|   |   imageres_60.ico
+|   |   imageres_6400.ico
+|   |   imageres_68.ico
+|   |   imageres_70.ico
+|   |   imageres_78.ico
+|   |   imageres_79.ico
+|   |   imageres_8.ico
+|   |   imageres_80.ico
+|   |   imageres_81.ico
+|   |   imageres_82.ico
+|   |   imageres_8201.ico
+|   |   imageres_84.ico
+|   |   imageres_86.ico
+|   |   imageres_87.ico
+|   |   imageres_88.ico
+|   |   imageres_92.ico
+|   |   imageres_97.ico
+|   |   imageres_98.ico
+|   |   imageres_99.ico
+|   |   Instagram.ico
+|   |   Intel Driver & Support Assistant.ico
+|   |   Mail.ico
+|   |   Maps.ico
+|   |   Messenger.ico
+|   |   Microsoft Edge.ico
+|   |   Microsoft Editor.ico
+|   |   Microsoft Emulator.ico
+|   |   Microsoft News.ico
+|   |   Microsoft Paint.ico
+|   |   Microsoft Planner.ico
+|   |   Microsoft Solitaire Collection.ico
+|   |   Microsoft Stream.ico
+|   |   Microsoft To-Do.ico
+|   |   Microsoft Whiteboard.ico
+|   |   Mobile Plans.ico
+|   |   Movies & TV.ico
+|   |   MSI Afterburner.ico
+|   |   MSI Kombustor.ico
+|   |   msi_203.ico
+|   |   MSN Weather.ico
+|   |   mstscax_13417.ico
+|   |   MyHeritage.ico
+|   |   NASA's Eyes.ico
+|   |   Notepad.ico
+|   |   OBS Studio.ico
+|   |   OneDrive.ico
+|   |   Origin.ico
+|   |   Paint 3D.ico
+|   |   People.ico
+|   |   Photos.ico
+|   |   qb (c).ico
+|   |   Rainmeter.ico
+|   |   Remote Tools for Microsoft Edge.ico
+|   |   RivaTuner.ico
+|   |   Settings.ico
+|   |   SharePoint.ico
+|   |   shell32_133.ico
+|   |   shell32_14.ico
+|   |   shell32_16739.ico
+|   |   shell32_16752.ico
+|   |   shell32_16769.ico
+|   |   shell32_16770.ico
+|   |   shell32_16771.ico
+|   |   shell32_16801.ico
+|   |   shell32_16802.ico
+|   |   shell32_16803.ico
+|   |   shell32_16805.ico
+|   |   shell32_16806.ico
+|   |   shell32_16817.ico
+|   |   shell32_16818.ico
+|   |   shell32_16826.ico
+|   |   shell32_16827.ico
+|   |   shell32_184.ico
+|   |   shell32_185.ico
+|   |   shell32_186.ico
+|   |   shell32_187.ico
+|   |   shell32_194.ico
+|   |   shell32_197.ico
+|   |   shell32_198.ico
+|   |   shell32_199.ico
+|   |   shell32_231.ico
+|   |   shell32_232.ico
+|   |   shell32_277.ico
+|   |   shell32_327.ico
+|   |   shell32_51380.ico
+|   |   shell32_62998.ico
+|   |   shell32_62999.ico
+|   |   shell32_63000.ico
+|   |   shell32_63001.ico
+|   |   shell32_63008.ico
+|   |   shell32_63009.ico
+|   |   shell32_63010.ico
+|   |   shell32_63011.ico
+|   |   Signal.ico
+|   |   Skype.ico
+|   |   Snip and Sketch.ico
+|   |   Steam (dark).ico
+|   |   Steam (white).ico
+|   |   Sticky Notes Dark.ico
+|   |   Sticky Notes.ico
+|   |   Tips.ico
+|   |   Twitter 2.ico
+|   |   Twitter.ico
+|   |   Ubisoft.ico
+|   |   Uninstall Tool.ico
+|   |   Unity.ico
+|   |   Vegas Pro.ico
+|   |   Victoria HDD.ico
+|   |   Voice Recorder.ico
+|   |   Windows Defender.ico
+|   |   Windows Package Feed (Feature Experience Pack).ico
+|   |   Windows Terminal.ico
+|   |   Windows.ico
+|   |   Wise Registry Cleaner.ico
+|   |   WSA.ico
+|   |   WSL.ico
+|   |   Yandex Disk.ico
+|   |   Your Phone.ico
+|   |   YouTube.ico
+|   |   ÁTorrent.ico
+|   |   ŐTorrent.ico
+|   |   
+|   +---Adobe
+|   |       Adobe After Effects.ico
+|   |       Adobe Audition.ico
+|   |       Adobe Illustrator.ico
+|   |       Adobe InDesign.ico
+|   |       Adobe Photoshop.ico
+|   |       Adobe Premiere Pro.ico
+|   |       
+|   +---Office
+|   |       Office.ico
+|   |       Office_ Access.ico
+|   |       Office_ Excel.ico
+|   |       Office_ Exchange.ico
+|   |       Office_ Forms.ico
+|   |       Office_ OneNote.ico
+|   |       Office_ Outlook.ico
+|   |       Office_ PowerPoint.ico
+|   |       Office_ Project.ico
+|   |       Office_ Publisher.ico
+|   |       Office_ Sway.ico
+|   |       Office_ Teams.ico
+|   |       Office_ Visio.ico
+|   |       Office_ Word.ico
+|   |       Office_ Yammer.ico
+|   |       
+|   +---PowerToys
+|   |       PowerToys.ico
+|   |       PowerToys_ ColorPicker.ico
+|   |       PowerToys_ FancyZones.ico
+|   |       PowerToys_ Hosts.ico
+|   |       PowerToys_ ImageResizer.ico
+|   |       PowerToys_ KeyboardManagerEditor.ico
+|   |       PowerToys_ MouseWithoutBorders.ico
+|   |       PowerToys_ PowerOCR.ico
+|   |       PowerToys_ PowerRename.ico
+|   |       PowerToys_ RegistryPreview.ico
+|   |       
+|   \---Visual Studio
+|           Blend for Visual Studio 2022 Preview.ico
+|           Visual Studio 2019 Installer.ico
+|           Visual Studio 2019.ico
+|           Visual Studio 2022 Installer.ico
+|           Visual Studio 2022 Preview.ico
+|           Visual Studio Code.ico
+|           
 +---Apps (Windows XP)
 |       Activate Windows.ico
 |       Camera.ico
@@ -3561,117 +3582,126 @@
 |   |       Youtube.ico
 |   |       
 |   +---Extra Folder Icons
-|   |       Blue Folder 3d Objects.ico
-|   |       Blue Folder cloud.ico
-|   |       Blue Folder contacts.ico
-|   |       Blue Folder desktop.ico
-|   |       Blue Folder documents.ico
-|   |       Blue Folder downloads.ico
-|   |       Blue Folder drive.ico
-|   |       Blue Folder drop box.ico
-|   |       Blue Folder favorite.ico
-|   |       Blue Folder folder.ico
-|   |       Blue Folder games.ico
-|   |       Blue Folder google drive.ico
-|   |       Blue Folder joystick.ico
-|   |       Blue Folder link.ico
-|   |       Blue Folder music.ico
-|   |       Blue Folder pacman.ico
-|   |       Blue Folder Pictures.ico
-|   |       Blue Folder search.ico
-|   |       Blue Folder steam.ico
-|   |       Blue Folder user.ico
-|   |       Blue Folder videos.ico
-|   |       Blue Folder zip.ico
-|   |       Green Folders 3d Objects.ico
-|   |       Green Folders cloud.ico
-|   |       Green Folders contacts.ico
-|   |       Green Folders desktop.ico
-|   |       Green Folders documents.ico
-|   |       Green Folders downloads.ico
-|   |       Green Folders drive.ico
-|   |       Green Folders drop box.ico
-|   |       Green Folders favorite.ico
-|   |       Green Folders folder.ico
-|   |       Green Folders games.ico
-|   |       Green Folders google drive.ico
-|   |       Green Folders joystick.ico
-|   |       Green Folders link.ico
-|   |       Green Folders music.ico
-|   |       Green Folders pacman.ico
-|   |       Green Folders Pictures.ico
-|   |       Green Folders search.ico
-|   |       Green Folders steam.ico
-|   |       Green Folders user.ico
-|   |       Green Folders videos.ico
-|   |       Green Folders zip.ico
-|   |       Purple Folders 3d Objects.ico
-|   |       Purple Folders cloud.ico
-|   |       Purple Folders contacts.ico
-|   |       Purple Folders desktop.ico
-|   |       Purple Folders documents.ico
-|   |       Purple Folders downloads.ico
-|   |       Purple Folders drive.ico
-|   |       Purple Folders drop box.ico
-|   |       Purple Folders favorite.ico
-|   |       Purple Folders folder.ico
-|   |       Purple Folders games.ico
-|   |       Purple Folders google drive.ico
-|   |       Purple Folders joystick.ico
-|   |       Purple Folders link.ico
-|   |       Purple Folders music.ico
-|   |       Purple Folders pacman.ico
-|   |       Purple Folders Pictures.ico
-|   |       Purple Folders search.ico
-|   |       Purple Folders steam.ico
-|   |       Purple Folders user.ico
-|   |       Purple Folders videos.ico
-|   |       Purple Folders zip.ico
-|   |       Salte Folder 3d Objects.ico
-|   |       Salte Folder cloud.ico
-|   |       Salte Folder contacts.ico
-|   |       Salte Folder desktop.ico
-|   |       Salte Folder documents.ico
-|   |       Salte Folder downloads.ico
-|   |       Salte Folder drive.ico
-|   |       Salte Folder drop box.ico
-|   |       Salte Folder favorite.ico
-|   |       Salte Folder folder.ico
-|   |       Salte Folder games.ico
-|   |       Salte Folder google drive.ico
-|   |       Salte Folder joystick.ico
-|   |       Salte Folder link.ico
-|   |       Salte Folder music.ico
-|   |       Salte Folder pacman.ico
-|   |       Salte Folder Pictures.ico
-|   |       Salte Folder search.ico
-|   |       Salte Folder steam.ico
-|   |       Salte Folder user.ico
-|   |       Salte Folder videos.ico
-|   |       Salte Folder zip.ico
-|   |       Yellow Folder 3d Objects.ico
-|   |       Yellow Folder cloud.ico
-|   |       Yellow Folder contacts.ico
-|   |       Yellow Folder desktop.ico
-|   |       Yellow Folder documents.ico
-|   |       Yellow Folder downloads.ico
-|   |       Yellow Folder drive.ico
-|   |       Yellow Folder drop box.ico
-|   |       Yellow Folder favorite.ico
-|   |       Yellow Folder folder.ico
-|   |       Yellow Folder games.ico
-|   |       Yellow Folder google drive.ico
-|   |       Yellow Folder joystick.ico
-|   |       Yellow Folder link.ico
-|   |       Yellow Folder music.ico
-|   |       Yellow Folder pacman.ico
-|   |       Yellow Folder Pictures.ico
-|   |       Yellow Folder search.ico
-|   |       Yellow Folder steam.ico
-|   |       Yellow Folder user.ico
-|   |       Yellow Folder videos.ico
-|   |       Yellow Folder zip.ico
-|   |       
+|   |   +---Blue
+|   |   |       Blue Folder 3d Objects.ico
+|   |   |       Blue Folder cloud.ico
+|   |   |       Blue Folder contacts.ico
+|   |   |       Blue Folder desktop.ico
+|   |   |       Blue Folder documents.ico
+|   |   |       Blue Folder downloads.ico
+|   |   |       Blue Folder drive.ico
+|   |   |       Blue Folder drop box.ico
+|   |   |       Blue Folder favorite.ico
+|   |   |       Blue Folder folder.ico
+|   |   |       Blue Folder games.ico
+|   |   |       Blue Folder google drive.ico
+|   |   |       Blue Folder joystick.ico
+|   |   |       Blue Folder link.ico
+|   |   |       Blue Folder music.ico
+|   |   |       Blue Folder pacman.ico
+|   |   |       Blue Folder Pictures.ico
+|   |   |       Blue Folder search.ico
+|   |   |       Blue Folder steam.ico
+|   |   |       Blue Folder user.ico
+|   |   |       Blue Folder videos.ico
+|   |   |       Blue Folder zip.ico
+|   |   |       
+|   |   +---Green
+|   |   |       Green Folders 3d Objects.ico
+|   |   |       Green Folders cloud.ico
+|   |   |       Green Folders contacts.ico
+|   |   |       Green Folders desktop.ico
+|   |   |       Green Folders documents.ico
+|   |   |       Green Folders downloads.ico
+|   |   |       Green Folders drive.ico
+|   |   |       Green Folders drop box.ico
+|   |   |       Green Folders favorite.ico
+|   |   |       Green Folders folder.ico
+|   |   |       Green Folders games.ico
+|   |   |       Green Folders google drive.ico
+|   |   |       Green Folders joystick.ico
+|   |   |       Green Folders link.ico
+|   |   |       Green Folders music.ico
+|   |   |       Green Folders pacman.ico
+|   |   |       Green Folders Pictures.ico
+|   |   |       Green Folders search.ico
+|   |   |       Green Folders steam.ico
+|   |   |       Green Folders user.ico
+|   |   |       Green Folders videos.ico
+|   |   |       Green Folders zip.ico
+|   |   |       
+|   |   +---Purple
+|   |   |       Purple Folders 3d Objects.ico
+|   |   |       Purple Folders cloud.ico
+|   |   |       Purple Folders contacts.ico
+|   |   |       Purple Folders desktop.ico
+|   |   |       Purple Folders documents.ico
+|   |   |       Purple Folders downloads.ico
+|   |   |       Purple Folders drive.ico
+|   |   |       Purple Folders drop box.ico
+|   |   |       Purple Folders favorite.ico
+|   |   |       Purple Folders folder.ico
+|   |   |       Purple Folders games.ico
+|   |   |       Purple Folders google drive.ico
+|   |   |       Purple Folders joystick.ico
+|   |   |       Purple Folders link.ico
+|   |   |       Purple Folders music.ico
+|   |   |       Purple Folders pacman.ico
+|   |   |       Purple Folders Pictures.ico
+|   |   |       Purple Folders search.ico
+|   |   |       Purple Folders steam.ico
+|   |   |       Purple Folders user.ico
+|   |   |       Purple Folders videos.ico
+|   |   |       Purple Folders zip.ico
+|   |   |       
+|   |   +---Salte
+|   |   |       Salte Folder 3d Objects.ico
+|   |   |       Salte Folder cloud.ico
+|   |   |       Salte Folder contacts.ico
+|   |   |       Salte Folder desktop.ico
+|   |   |       Salte Folder documents.ico
+|   |   |       Salte Folder downloads.ico
+|   |   |       Salte Folder drive.ico
+|   |   |       Salte Folder drop box.ico
+|   |   |       Salte Folder favorite.ico
+|   |   |       Salte Folder folder.ico
+|   |   |       Salte Folder games.ico
+|   |   |       Salte Folder google drive.ico
+|   |   |       Salte Folder joystick.ico
+|   |   |       Salte Folder link.ico
+|   |   |       Salte Folder music.ico
+|   |   |       Salte Folder pacman.ico
+|   |   |       Salte Folder Pictures.ico
+|   |   |       Salte Folder search.ico
+|   |   |       Salte Folder steam.ico
+|   |   |       Salte Folder user.ico
+|   |   |       Salte Folder videos.ico
+|   |   |       Salte Folder zip.ico
+|   |   |       
+|   |   \---Yellow
+|   |           Yellow Folder 3d Objects.ico
+|   |           Yellow Folder cloud.ico
+|   |           Yellow Folder contacts.ico
+|   |           Yellow Folder desktop.ico
+|   |           Yellow Folder documents.ico
+|   |           Yellow Folder downloads.ico
+|   |           Yellow Folder drive.ico
+|   |           Yellow Folder drop box.ico
+|   |           Yellow Folder favorite.ico
+|   |           Yellow Folder folder.ico
+|   |           Yellow Folder games.ico
+|   |           Yellow Folder google drive.ico
+|   |           Yellow Folder joystick.ico
+|   |           Yellow Folder link.ico
+|   |           Yellow Folder music.ico
+|   |           Yellow Folder pacman.ico
+|   |           Yellow Folder Pictures.ico
+|   |           Yellow Folder search.ico
+|   |           Yellow Folder steam.ico
+|   |           Yellow Folder user.ico
+|   |           Yellow Folder videos.ico
+|   |           Yellow Folder zip.ico
+|   |           
 |   +---folder11
 |   |       3d_coat.ico
 |   |       4k_downloader.ico
@@ -4228,6 +4258,7 @@
 |   |       rust.ico
 |   |       safari.ico
 |   |       sass.ico
+|   |       Scoop.ico
 |   |       screen_recorder.ico
 |   |       screen_shot.ico
 |   |       sdcard.ico
@@ -4385,7 +4416,6 @@
 |   |   |   Asus.ico
 |   |   |   Audio.ico
 |   |   |   avatar-thelastairbender.ico
-|   |   |   Backup 2.ico
 |   |   |   Backup Folder Icon.ico
 |   |   |   Backup.ico
 |   |   |   bandofbrothers.ico
@@ -4399,23 +4429,17 @@
 |   |   |   Calibre.ico
 |   |   |   Camera.ico
 |   |   |   CD.ico
-|   |   |   Check 2.ico
 |   |   |   Check Mark.ico
-|   |   |   Check.ico
 |   |   |   chernobyl.ico
 |   |   |   Chess.ico
 |   |   |   Chrome.ico
 |   |   |   Circle 01.ico
 |   |   |   Circle.ico
-|   |   |   Compress.ico
 |   |   |   Contacts 2.ico
 |   |   |   Contacts.ico
 |   |   |   cowboybebop.ico
 |   |   |   Creative Cloud.ico
-|   |   |   Custom Default (No Shadow).ico
 |   |   |   Customization.ico
-|   |   |   Default with Contents.ico
-|   |   |   Default.ico
 |   |   |   Dell.ico
 |   |   |   Desktop.ico
 |   |   |   DeviantArt.ico
@@ -4428,7 +4452,6 @@
 |   |   |   EA.ico
 |   |   |   Editing.ico
 |   |   |   Epic.ico
-|   |   |   Error.ico
 |   |   |   euphoria.ico
 |   |   |   Favorites 2.ico
 |   |   |   Favorites.ico
@@ -4444,18 +4467,15 @@
 |   |   |   GOG.ico
 |   |   |   Google Drive.ico
 |   |   |   got.ico
-|   |   |   Grid.ico
 |   |   |   hawkeye.ico
 |   |   |   Heart.ico
 |   |   |   hellbound.ico
 |   |   |   himym.ico
 |   |   |   Home.ico
 |   |   |   howtowithjohnwilson.ico
-|   |   |   HP.ico
 |   |   |   HTML Folder Icon.ico
 |   |   |   inventinganna.ico
 |   |   |   Jellyfin.ico
-|   |   |   JPG Folder Icon.ico
 |   |   |   Lenovo.ico
 |   |   |   Links 2.ico
 |   |   |   Links.ico
@@ -4463,30 +4483,24 @@
 |   |   |   Meetings Folder Icon.ico
 |   |   |   Minecraft.ico
 |   |   |   Music.ico
-|   |   |   Network 2.ico
-|   |   |   Network.ico
 |   |   |   Nexus.ico
 |   |   |   Notes 2.ico
 |   |   |   Notes.ico
-|   |   |   Notice.ico
 |   |   |   NVIDIA.ico
 |   |   |   Office.ico
 |   |   |   Origin 2.ico
 |   |   |   Origin.ico
 |   |   |   peakyblinders.ico
-|   |   |   Pi.ico
 |   |   |   Pictures.ico
 |   |   |   planetearth.ico
 |   |   |   planetearth2.ico
 |   |   |   Playnite.ico
 |   |   |   Playstation.ico
 |   |   |   Plex.ico
-|   |   |   PNG Folder Icon.ico
 |   |   |   Powershell Folder Icon.ico
 |   |   |   program files (x64).ico
 |   |   |   program files (x86).ico
 |   |   |   Projects Folder Icon.ico
-|   |   |   PSD Folder Icon.ico
 |   |   |   reacher.ico
 |   |   |   Recordings.ico
 |   |   |   Registry Folder Icon.ico
@@ -4501,15 +4515,11 @@
 |   |   |   Saves Games.ico
 |   |   |   School.ico
 |   |   |   Screenshots Folder Icon.ico
-|   |   |   Search 2.ico
 |   |   |   Search.ico
 |   |   |   Searches.ico
-|   |   |   Send.ico
 |   |   |   servant.ico
 |   |   |   Settings Folder Icon.ico
 |   |   |   Setups.ico
-|   |   |   Share.ico
-|   |   |   Shared 3.ico
 |   |   |   Shared.ico
 |   |   |   Software Folder Icon.ico
 |   |   |   Spotify.ico
@@ -4537,7 +4547,6 @@
 |   |   |   Ubuntu.ico
 |   |   |   Unsplash.ico
 |   |   |   USB Folder Icon.ico
-|   |   |   User Color.ico
 |   |   |   User.ico
 |   |   |   users.ico
 |   |   |   Videos.ico
@@ -4545,12 +4554,9 @@
 |   |   |   vikings.ico
 |   |   |   Virtual Machines.ico
 |   |   |   Wacom.ico
-|   |   |   Windows 10 Color.ico
 |   |   |   Windows 10.ico
-|   |   |   Windows File Recovery.ico
 |   |   |   Windows11 v2.ico
 |   |   |   Windows11.ico
-|   |   |   Working.ico
 |   |   |   x64.ico
 |   |   |   x86.ico
 |   |   |   Xbox.ico
@@ -4560,34 +4566,61 @@
 |   |   |   YouTube.ico
 |   |   |   _Template.psd
 |   |   |   
-|   |   \---Archive
-|   |           Archive 1.ico
-|   |           Archive 7Z.ico
-|   |           Archive ARJ.ico
-|   |           Archive BZ2.ico
-|   |           Archive CAB.ico
-|   |           Archive CPIO.ico
-|   |           Archive DEB.ico
-|   |           Archive DMG.ico
-|   |           Archive FAT.ico
-|   |           Archive Generic.ico
-|   |           Archive GZ.ico
-|   |           Archive HFS.ico
-|   |           Archive ISO.ico
-|   |           Archive LZH.ico
-|   |           Archive LZMA.ico
-|   |           Archive NTFS.ico
-|   |           Archive RAR.ico
-|   |           Archive RPM.ico
-|   |           Archive SQUASHFS.ico
-|   |           Archive TAR.ico
-|   |           Archive VHD.ico
-|   |           Archive WIM.ico
-|   |           Archive XAR.ico
-|   |           Archive XZ.ico
-|   |           Archive Z.ico
-|   |           Archive ZIP.ico
-|   |           _Template.psd
+|   |   +---Archive
+|   |   |       Archive 1.ico
+|   |   |       Archive 7Z.ico
+|   |   |       Archive ARJ.ico
+|   |   |       Archive BZ2.ico
+|   |   |       Archive CAB.ico
+|   |   |       Archive CPIO.ico
+|   |   |       Archive DEB.ico
+|   |   |       Archive DMG.ico
+|   |   |       Archive FAT.ico
+|   |   |       Archive Generic.ico
+|   |   |       Archive GZ.ico
+|   |   |       Archive HFS.ico
+|   |   |       Archive ISO.ico
+|   |   |       Archive LZH.ico
+|   |   |       Archive LZMA.ico
+|   |   |       Archive NTFS.ico
+|   |   |       Archive RAR.ico
+|   |   |       Archive RPM.ico
+|   |   |       Archive SQUASHFS.ico
+|   |   |       Archive TAR.ico
+|   |   |       Archive VHD.ico
+|   |   |       Archive WIM.ico
+|   |   |       Archive XAR.ico
+|   |   |       Archive XZ.ico
+|   |   |       Archive Z.ico
+|   |   |       Archive ZIP.ico
+|   |   |       _Template.psd
+|   |   |       
+|   |   \---Other
+|   |           Backup 2.ico
+|   |           Check 2.ico
+|   |           Check.ico
+|   |           Compress.ico
+|   |           Custom Default (No Shadow).ico
+|   |           Default with Contents.ico
+|   |           Default.ico
+|   |           Error.ico
+|   |           Grid.ico
+|   |           HP.ico
+|   |           JPG Folder Icon.ico
+|   |           Network 2.ico
+|   |           Network.ico
+|   |           Notice.ico
+|   |           Pi.ico
+|   |           PNG Folder Icon.ico
+|   |           PSD Folder Icon.ico
+|   |           Search 2.ico
+|   |           Send.ico
+|   |           Share.ico
+|   |           Shared 3.ico
+|   |           User Color.ico
+|   |           Windows 10 Color.ico
+|   |           Windows File Recovery.ico
+|   |           Working.ico
 |   |           
 |   \---Win11_adni18
 |           1.ico
