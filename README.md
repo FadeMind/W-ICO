@@ -1,5 +1,5 @@
 # W-ICO
-A collection of all Windows icons
+A collection of all Windows icons (98,XP,Vista,7,10,11)
 
 ![Preview](https://raw.githubusercontent.com/FadeMind/W-ICO/master/Preview.png)
 
