@@ -1,6 +1,5 @@
-# Various icons folder and more for Windows in ICO format
-
-Windows 7 + Windows 10 + Windows 11
+# W-ICO
+A collection of all Windows icons (98, XP, Vista, 7, 10, 11)
 
 ![Preview](https://raw.githubusercontent.com/FadeMind/W-ICO/master/Preview.png)
 
