@@ -27,7 +27,6 @@
 |   |   CrystalDiskInfo.ico
 |   |   DDORes_2001.ico
 |   |   DDORes_2067.ico
-|   |   DDORes_2102.ico
 |   |   DDORes_2305.ico
 |   |   DDORes_2307.ico
 |   |   DDORes_2359.ico
@@ -41,6 +40,7 @@
 |   |   Epic Games.ico
 |   |   Facebook.ico
 |   |   Faceit.ico
+|   |   Family.ico
 |   |   Feedback Hub.ico
 |   |   File Explorer 2.ico
 |   |   FL Studio.ico
@@ -52,15 +52,10 @@
 |   |   Google Sheets.ico
 |   |   Google Slides.ico
 |   |   Groove Music.ico
-|   |   ICON1002_1.ico
 |   |   ICON1003_1.ico
 |   |   ICON1004_1 (2).ico
 |   |   ICON1004_1.ico
-|   |   ICON1006_1.ico
-|   |   ICON1007_1.ico
-|   |   ICON1008_1.ico
 |   |   ICON1010_1 (2).ico
-|   |   ICON1010_1.ico
 |   |   ICON1013_1.ico
 |   |   ICON1023_1.ico
 |   |   ICON1028_1.ico
@@ -70,15 +65,12 @@
 |   |   ICON127_1.ico
 |   |   ICON143_1 (2).ico
 |   |   ICON144_1 (2).ico
-|   |   ICON145_1 (2).ico
 |   |   ICON147_1 (2).ico
 |   |   ICON148_1 (2).ico
-|   |   ICON151_1 (2).ico
 |   |   ICON157_1 (2).ico
 |   |   ICON158_1.ico
 |   |   ICON159_1.ico
 |   |   ICON15_1 (2).ico
-|   |   ICON15_1.ico
 |   |   ICON160_1 (2).ico
 |   |   ICON16742_1.ico
 |   |   ICON16748_1.ico
@@ -100,8 +92,6 @@
 |   |   ICON176_1.ico
 |   |   ICON178_1.ico
 |   |   ICON179_1.ico
-|   |   ICON180_1.ico
-|   |   ICON181_1.ico
 |   |   ICON182_1 (2).ico
 |   |   ICON191_1 (2).ico
 |   |   ICON192_1 (2).ico
@@ -109,7 +99,6 @@
 |   |   ICON194_1 (2).ico
 |   |   ICON194_1.ico
 |   |   ICON195_1.ico
-|   |   ICON196_1 (2).ico
 |   |   ICON19_1 (2).ico
 |   |   ICON19_1.ico
 |   |   ICON21_1 (2).ico
@@ -120,33 +109,26 @@
 |   |   ICON247_1.ico
 |   |   ICON24_1 (2).ico
 |   |   ICON251_1.ico
-|   |   ICON252_1.ico
 |   |   ICON253_1.ico
 |   |   ICON255_1.ico
 |   |   ICON259_1.ico
 |   |   ICON261_1.ico
 |   |   ICON265_1.ico
 |   |   ICON270_1.ico
-|   |   ICON273_1.ico
-|   |   ICON284_1.ico
 |   |   ICON2_1 (2).ico
-|   |   ICON316_1.ico
 |   |   ICON325_1.ico
 |   |   ICON329_1.ico
 |   |   ICON330_1.ico
 |   |   ICON337_1.ico
 |   |   ICON34_1 (2).ico
 |   |   ICON42_1.ico
-|   |   ICON45_1 (2).ico
 |   |   ICON46_1 (2).ico
 |   |   ICON47_1 (2).ico
 |   |   ICON47_1.ico
-|   |   ICON49_1 (2).ico
 |   |   ICON5102_1.ico
 |   |   ICON512_1.ico
 |   |   ICON51380_1.ico
 |   |   ICON51586_1.ico
-|   |   ICON51_1 (2).ico
 |   |   ICON5302_1.ico
 |   |   ICON5306_1.ico
 |   |   ICON5307_1.ico
@@ -170,24 +152,20 @@
 |   |   ICON5343_1.ico
 |   |   ICON5344_1.ico
 |   |   ICON5345_1.ico
-|   |   ICON5346_1.ico
 |   |   ICON5347_1.ico
 |   |   ICON5348_1.ico
 |   |   ICON5349_1.ico
 |   |   ICON5350_1.ico
-|   |   ICON5351_1.ico
 |   |   ICON5354_1.ico
 |   |   ICON5357_1.ico
 |   |   ICON5360_1.ico
 |   |   ICON5366_1.ico
 |   |   ICON5368_1.ico
-|   |   ICON5371_1.ico
 |   |   ICON5372_1.ico
 |   |   ICON5373_1.ico
 |   |   ICON5376_1.ico
 |   |   ICON5377_1.ico
 |   |   ICON5378_1.ico
-|   |   ICON53_1 (2).ico
 |   |   ICON5_1 (2).ico
 |   |   ICON6_1 (2).ico
 |   |   ICON70_1.ico
@@ -221,12 +199,9 @@
 |   |   ICON83_1.ico
 |   |   ICON86_1.ico
 |   |   ICON8_1 (2).ico
-|   |   IconGroup26.ico
 |   |   imageres_100.ico
-|   |   imageres_101.ico
 |   |   imageres_1013.ico
 |   |   imageres_1021.ico
-|   |   imageres_1022.ico
 |   |   imageres_1024.ico
 |   |   imageres_1026.ico
 |   |   imageres_1027.ico
@@ -242,15 +217,12 @@
 |   |   imageres_114.ico
 |   |   imageres_116.ico
 |   |   imageres_117.ico
-|   |   imageres_120.ico
 |   |   imageres_122.ico
 |   |   imageres_130.ico
 |   |   imageres_1305.ico
 |   |   imageres_1306.ico
 |   |   imageres_144.ico
-|   |   imageres_149.ico
 |   |   imageres_150.ico
-|   |   imageres_152.ico
 |   |   imageres_161.ico
 |   |   imageres_163.ico
 |   |   imageres_164.ico
@@ -304,14 +276,12 @@
 |   |   Microsoft To-Do.ico
 |   |   Microsoft Whiteboard.ico
 |   |   Mobile Plans.ico
-|   |   Monitor.ico
 |   |   Movies & TV.ico
 |   |   MSI Afterburner.ico
 |   |   MSI Kombustor.ico
 |   |   msi_203.ico
 |   |   MSN Weather.ico
 |   |   mstscax_13417.ico
-|   |   Music.ico
 |   |   MyHeritage.ico
 |   |   NASA's Eyes.ico
 |   |   Notepad.ico
@@ -322,16 +292,19 @@
 |   |   Paint 3D.ico
 |   |   People.ico
 |   |   Photos.ico
+|   |   Power Automate Troubleshooting Tool.ico
+|   |   Power Automate.ico
 |   |   qb (c).ico
+|   |   Quick Assist.ico
 |   |   Rainmeter.ico
 |   |   Rectify11.ico
 |   |   Remote Desktop 2.ico
 |   |   Remote Desktop.ico
+|   |   Remote Help.ico
 |   |   Remote Tools for Microsoft Edge.ico
 |   |   RivaTuner.ico
 |   |   Run.ico
 |   |   Settings.ico
-|   |   SharePoint.ico
 |   |   shell32_14.ico
 |   |   shell32_16739.ico
 |   |   shell32_16752.ico
@@ -347,9 +320,6 @@
 |   |   shell32_186.ico
 |   |   shell32_187.ico
 |   |   shell32_194.ico
-|   |   shell32_197.ico
-|   |   shell32_198.ico
-|   |   shell32_199.ico
 |   |   shell32_231.ico
 |   |   shell32_232.ico
 |   |   shell32_277.ico
@@ -363,6 +333,7 @@
 |   |   Steam (white).ico
 |   |   Sticky Notes Dark.ico
 |   |   Sticky Notes.ico
+|   |   Streaming.ico
 |   |   Tips.ico
 |   |   TV.ico
 |   |   Twitter 2.ico
@@ -373,6 +344,9 @@
 |   |   Vegas Pro.ico
 |   |   Victoria HDD.ico
 |   |   Voice Recorder.ico
+|   |   Windows 365 Cloud.ico
+|   |   Windows 365.ico
+|   |   Windows Backup.ico
 |   |   Windows Defender.ico
 |   |   Windows Package Feed (Feature Experience Pack).ico
 |   |   Windows Sandbox.ico
@@ -385,7 +359,7 @@
 |   |   Yandex Disk.ico
 |   |   Your Phone.ico
 |   |   YouTube.ico
-|   |   √ÅTorrent.ico
+|   |   µTorrent.ico
 |   |   
 |   +---Accessibility
 |   |       Live captions.ico
@@ -452,10 +426,6 @@
 |           Visual Studio 2022.ico
 |           Visual Studio Code.ico
 |           
-+---Apps (Windows 7)
-|       IconGroup100.ico
-|       IconGroup101.ico
-|       
 +---Apps (Windows XP)
 |       Activate Windows.ico
 |       Camera.ico
@@ -502,6 +472,9 @@
 |       imageres_146.ico
 |       imageres_172.ico
 |       
++---Drive (Windows 10)
+|       Disk Cleanup.ico
+|       
 +---Drive (Windows 11)
 |       DDORes_2511.ico
 |       DDORes_2512.ico
@@ -545,6 +518,11 @@
 |       imageres_91.ico
 |       Locked Drive.ico
 |       Locked Windows 11 Drive.ico
+|       
++---Drive (Windows 7)
+|       Disk Cleanup.ico
+|       Drive Search.ico
+|       Locked Drive.ico
 |       
 +---Filetypes (Windows 10)
 |       00. 7Z.ico
@@ -7498,13 +7476,13 @@
 |           Videos.ico
 |           
 +---Folder (Windows XP)
-|       Folder Closed (Alt).ico
-|       Folder Closed.ico
-|       Folder Open.ico
-|       ICON11_1.ico
-|       ICON19_1.ico
-|       ICON9_1.ico
-|       My Profile Folder.ico
+|       Desktop.ico
+|       Documents.ico
+|       Downloads.ico
+|       Folder.ico
+|       Music.ico
+|       Pictures.ico
+|       Videos.ico
 |       
 +---Library (Windows 11)
 |       Documents.ico
@@ -7515,31 +7493,61 @@
 |       TV.ico
 |       Videos.ico
 |       
++---Monitor (Windows 11)
+|       DDORes_2102.ico
+|       ICON145_1 (2).ico
+|       ICON151_1 (2).ico
+|       ICON15_1.ico
+|       ICON180_1.ico
+|       ICON181_1.ico
+|       ICON273_1.ico
+|       ICON284_1.ico
+|       ICON5346_1.ico
+|       ICON5351_1.ico
+|       imageres_1022.ico
+|       imageres_120.ico
+|       imageres_149.ico
+|       imageres_152.ico
+|       Monitor.ico
+|       Music.ico
+|       Sleep.ico
+|       
++---Monitor (Windows 7)
+|       Screen Saver.ico
+|       Session Agent.ico
+|       Sleep.ico
+|       System Information.ico
+|       
++---Printer (Windows 10)
+|       Printer.ico
+|       
 +---Printer (Windows 11)
+|       ICON1002_1.ico
+|       ICON1006_1.ico
+|       ICON1007_1.ico
+|       ICON1008_1.ico
+|       ICON1010_1.ico
+|       ICON196_1 (2).ico
+|       ICON252_1.ico
+|       ICON316_1.ico
+|       ICON45_1 (2).ico
+|       ICON49_1 (2).ico
+|       ICON51_1 (2).ico
+|       ICON53_1 (2).ico
 |       imageres_26.ico
 |       imageres_45.ico
 |       imageres_48.ico
 |       imageres_50.ico
 |       imageres_52.ico
+|       Printer.ico
+|       shell32_197.ico
+|       shell32_198.ico
+|       shell32_199.ico
 |       
 \---zExtracted From EXE
     +---GoogleDriveFS
-    |       GoogleDriveFS_2.ico
     |       GoogleDriveFS_20.ico
     |       GoogleDriveFS_31.ico
-    |       GoogleDriveFS_32.ico
-    |       GoogleDriveFS_33.ico
-    |       GoogleDriveFS_34.ico
-    |       GoogleDriveFS_35.ico
-    |       GoogleDriveFS_36.ico
-    |       GoogleDriveFS_37.ico
-    |       GoogleDriveFS_38.ico
-    |       GoogleDriveFS_39.ico
-    |       GoogleDriveFS_40.ico
-    |       GoogleDriveFS_41.ico
-    |       GoogleDriveFS_42.ico
-    |       GoogleDriveFS_43.ico
-    |       GoogleDriveFS_44.ico
     |       GoogleDriveFS_45.ico
     |       GoogleDriveFS_46.ico
     |       GoogleDriveFS_47.ico
@@ -7562,7 +7570,6 @@
     |       
     +---MEGAsync
     |       MEGAsync_IDI_ICON2.ico
-    |       MEGAsync_IDI_ICON3.ico
     |       MEGAsync_IDI_ICON4.ico
     |       MEGAupdater_IDI_ICON1.ico
     |       ShellExtX64_105.ico
