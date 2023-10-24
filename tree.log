@@ -1,6 +1,4 @@
-Folder PATH listing for volume STORAGE-HPV16
-Volume serial number is 7816-4DB0
-D:.
+.
 |   .gitignore
 |   checksums.blake3
 |   Preview.png
@@ -367,7 +365,7 @@ D:.
     |   |   Yandex Disk.ico
     |   |   Your Phone.ico
     |   |   YouTube.ico
-    |   |   µTorrent.ico
+    |   |   ÂµTorrent.ico
     |   |   
     |   +---Accessibility
     |   |       Live captions.ico
