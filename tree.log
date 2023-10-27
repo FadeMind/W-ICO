@@ -1,6 +1,6 @@
 .
 |   .gitignore
-|   checksums.blake3
+|   Archive.psd
 |   Preview.png
 |   Preview.psd
 |   README.md
@@ -365,7 +365,7 @@
     |   |   Yandex Disk.ico
     |   |   Your Phone.ico
     |   |   YouTube.ico
-    |   |   ÂµTorrent.ico
+    |   |   µTorrent.ico
     |   |   
     |   +---Accessibility
     |   |       Live captions.ico
@@ -381,6 +381,13 @@
     |   |       Adobe InDesign.ico
     |   |       Adobe Photoshop.ico
     |   |       Adobe Premiere Pro.ico
+    |   |       
+    |   +---Copilot
+    |   |       Copilot Blue.ico
+    |   |       Copilot Green.ico
+    |   |       Copilot Purple.ico
+    |   |       Copilot Red.ico
+    |   |       Copilot.ico
     |   |       
     |   +---Microsoft 365
     |   |       Access.ico
@@ -436,8 +443,18 @@
     |       Windows Explorer.ico
     |       
     +---Apps (Windows 8)
-    |       Microsoft Office.ico
-    |       
+    |   |   Microsoft Office.ico
+    |   |   
+    |   \---Metro
+    |           Calculator.ico
+    |           Camera.ico
+    |           Microsoft Edge.ico
+    |           Package.ico
+    |           Photos.ico
+    |           Settings.ico
+    |           Visual Studio.ico
+    |           Windows Store.ico
+    |           
     +---Apps (Windows 95)
     |       Windows Explorer.ico
     |       
@@ -502,6 +519,41 @@
     |       DDORes_2512.ico
     |       DDORes_2519.ico
     |       DDORes_2525.ico
+    |       drive-arch.ico
+    |       drive-backups.ico
+    |       drive-centos.ico
+    |       drive-coding.ico
+    |       drive-creative_cloud.ico
+    |       drive-deepin.ico
+    |       drive-fedora.ico
+    |       drive-games.ico
+    |       drive-garuda-linux-dragonized.ico
+    |       drive-garuda-linux.ico
+    |       drive-gdrive.ico
+    |       drive-gentoo.ico
+    |       drive-kde-connect.ico
+    |       drive-kubuntu.ico
+    |       drive-linux-mint.ico
+    |       drive-linux.ico
+    |       drive-manjaro.ico
+    |       drive-minecraft.ico
+    |       drive-more.ico
+    |       drive-movies.ico
+    |       drive-open-suse.ico
+    |       drive-personal.ico
+    |       drive-phone.ico
+    |       drive-photos.ico
+    |       drive-retroarch.ico
+    |       drive-setup.ico
+    |       drive-software.ico
+    |       drive-steam.ico
+    |       drive-tv.ico
+    |       drive-ubuntu-studio.ico
+    |       drive-ubuntu.ico
+    |       drive-w10.ico
+    |       drive-w11.ico
+    |       drive-youtube.ico
+    |       drive-zorin.ico
     |       ICON1032_1 (2).ico
     |       ICON1032_1.ico
     |       ICON1033_1 (2).ico
@@ -859,7 +911,6 @@
     |   |   xbox.ico
     |   |   Yandex Browser.ico
     |   |   Youtube.ico
-    |   |   _Template.psd
     |   |   
     |   +---Animals
     |   |       bull.ico
@@ -3513,36 +3564,6 @@
     |           wedding.ico
     |           
     +---Folder (Windows 11)
-    |   |   ICON1025_1.ico
-    |   |   ICON10_1 (2).ico
-    |   |   ICON115_1.ico
-    |   |   ICON123_1.ico
-    |   |   ICON129_1.ico
-    |   |   ICON146_1.ico
-    |   |   ICON166_1 (2).ico
-    |   |   ICON16715_1.ico
-    |   |   ICON16772_1.ico
-    |   |   ICON175_1 (2).ico
-    |   |   ICON181_1 (2).ico
-    |   |   ICON183_1 (2).ico
-    |   |   ICON184_1 (2).ico
-    |   |   ICON185_1 (2).ico
-    |   |   ICON186_1 (2).ico
-    |   |   ICON18_1 (2).ico
-    |   |   ICON190_1.ico
-    |   |   ICON198_1 (2).ico
-    |   |   ICON238_1.ico
-    |   |   ICON267_1.ico
-    |   |   ICON319_1.ico
-    |   |   ICON326_1.ico
-    |   |   ICON37219_1.ico
-    |   |   ICON3_1 (2).ico
-    |   |   ICON46_1.ico
-    |   |   ICON5339_1.ico
-    |   |   ICON5353_1.ico
-    |   |   ICON5355_1.ico
-    |   |   ICON9_1 (2).ico
-    |   |   
     |   +---color
     |   |       Acer Predator.ico
     |   |       Acer.ico
@@ -3611,6 +3632,35 @@
     |   |       Google Drive2.ico
     |   |       humble1.ico
     |   |       humble2.ico
+    |   |       ICON1025_1.ico
+    |   |       ICON10_1 (2).ico
+    |   |       ICON115_1.ico
+    |   |       ICON123_1.ico
+    |   |       ICON129_1.ico
+    |   |       ICON146_1.ico
+    |   |       ICON166_1 (2).ico
+    |   |       ICON16715_1.ico
+    |   |       ICON16772_1.ico
+    |   |       ICON175_1 (2).ico
+    |   |       ICON181_1 (2).ico
+    |   |       ICON183_1 (2).ico
+    |   |       ICON184_1 (2).ico
+    |   |       ICON185_1 (2).ico
+    |   |       ICON186_1 (2).ico
+    |   |       ICON18_1 (2).ico
+    |   |       ICON190_1.ico
+    |   |       ICON198_1 (2).ico
+    |   |       ICON238_1.ico
+    |   |       ICON267_1.ico
+    |   |       ICON319_1.ico
+    |   |       ICON326_1.ico
+    |   |       ICON37219_1.ico
+    |   |       ICON3_1 (2).ico
+    |   |       ICON46_1.ico
+    |   |       ICON5339_1.ico
+    |   |       ICON5353_1.ico
+    |   |       ICON5355_1.ico
+    |   |       ICON9_1 (2).ico
     |   |       Image Settings.ico
     |   |       Jellyfin.ico
     |   |       Kodi Folder 1.ico
@@ -3797,6 +3847,291 @@
     |   |           Yellow Folder videos.ico
     |   |           Yellow Folder zip.ico
     |   |           
+    |   +---folder-icons_sameerasw
+    |   |       8).ico
+    |   |       acer.ico
+    |   |       adb.ico
+    |   |       adobe.ico
+    |   |       ae.ico
+    |   |       ahk.ico
+    |   |       ai.ico
+    |   |       alienware.ico
+    |   |       ancientos.ico
+    |   |       android-11.ico
+    |   |       android-12.ico
+    |   |       android-13.ico
+    |   |       android-14.ico
+    |   |       android-one.ico
+    |   |       android-text.ico
+    |   |       android.ico
+    |   |       aorus.ico
+    |   |       apex-legends.ico
+    |   |       app.ico
+    |   |       apple-alt.ico
+    |   |       apple.ico
+    |   |       arch.ico
+    |   |       arrow.ico
+    |   |       asus.ico
+    |   |       audio.ico
+    |   |       awakenos.ico
+    |   |       backup.ico
+    |   |       backups.ico
+    |   |       bit.ico
+    |   |       bitbucket.ico
+    |   |       brave.ico
+    |   |       bt.ico
+    |   |       cad.ico
+    |   |       canon.ico
+    |   |       centos.ico
+    |   |       cherishos.ico
+    |   |       chrome.ico
+    |   |       chromium.ico
+    |   |       cities-skylines.ico
+    |   |       code.ico
+    |   |       corsair.ico
+    |   |       corvus.ico
+    |   |       crdroid.ico
+    |   |       creative-cloud.ico
+    |   |       csgo.ico
+    |   |       css.ico
+    |   |       cyberpunk.ico
+    |   |       deepin.ico
+    |   |       degree.ico
+    |   |       dell.ico
+    |   |       design.ico
+    |   |       desktop.ico
+    |   |       destiny-2.ico
+    |   |       diablo-4.ico
+    |   |       disabled.ico
+    |   |       discord.ico
+    |   |       docs.ico
+    |   |       dota-2.ico
+    |   |       dotos.ico
+    |   |       downloads.ico
+    |   |       dreamcast.ico
+    |   |       drepfest.ico
+    |   |       elden-ring.ico
+    |   |       epic.ico
+    |   |       escapist-2.ico
+    |   |       Europa-Universalis-4.ico
+    |   |       evga.ico
+    |   |       evox.ico
+    |   |       excel.ico
+    |   |       f1.ico
+    |   |       fedora.ico
+    |   |       figma.ico
+    |   |       firefox.ico
+    |   |       fiveM.ico
+    |   |       fiverr.ico
+    |   |       flamegapps.ico
+    |   |       flight-simulator.ico
+    |   |       folder-icons.ico
+    |   |       font.ico
+    |   |       fonts.ico
+    |   |       fortnight.ico
+    |   |       forza-horizon.ico
+    |   |       games-alt.ico
+    |   |       games.ico
+    |   |       gapps.ico
+    |   |       garuda-linux-dragonized.ico
+    |   |       garuda-linux.ico
+    |   |       gcam.ico
+    |   |       gdrive.ico
+    |   |       gentoo.ico
+    |   |       gigabyte.ico
+    |   |       gimp.ico
+    |   |       github-alt.ico
+    |   |       github.ico
+    |   |       gitlab.ico
+    |   |       gnome-web.ico
+    |   |       google-b.ico
+    |   |       google-w.ico
+    |   |       google.ico
+    |   |       gopro.ico
+    |   |       gphotos.ico
+    |   |       graphics.ico
+    |   |       grounded.ico
+    |   |       GSI.ico
+    |   |       gtav.ico
+    |   |       halo.png
+    |   |       havoc.ico
+    |   |       hearts-of-iron-4.ico
+    |   |       howtomen.ico
+    |   |       hp.ico
+    |   |       html.ico
+    |   |       icons.ico
+    |   |       id.ico
+    |   |       ig.ico
+    |   |       intel.ico
+    |   |       java.ico
+    |   |       js.ico
+    |   |       kde-connect.ico
+    |   |       kubuntu.ico
+    |   |       lawnchair-alt.ico
+    |   |       lawnchair.ico
+    |   |       league-of-legends.ico
+    |   |       legion.ico
+    |   |       lenovo.ico
+    |   |       lg.ico
+    |   |       lineage.ico
+    |   |       linux-mint.ico
+    |   |       linux.ico
+    |   |       logitech.ico
+    |   |       lr.ico
+    |   |       lumion.ico
+    |   |       m02-alt.ico
+    |   |       m02.ico
+    |   |       manjaro.ico
+    |   |       mi a2 lite.ico
+    |   |       mi note 10 pro.ico
+    |   |       mi-x11.ico
+    |   |       mi.ico
+    |   |       microg.ico
+    |   |       miui.ico
+    |   |       mkbhd-b.ico
+    |   |       mkbhd-w.ico
+    |   |       modern-warfare-2.ico
+    |   |       more.ico
+    |   |       movies.ico
+    |   |       ms-edge.ico
+    |   |       ms365.ico
+    |   |       msi.ico
+    |   |       music.ico
+    |   |       MY.ico
+    |   |       n7.ico
+    |   |       n9.ico
+    |   |       nameless.ico
+    |   |       nikgapps.ico
+    |   |       nikon.ico
+    |   |       nintendo-3ds.ico
+    |   |       nintendo-switch.ico
+    |   |       nintendo.ico
+    |   |       numpad-macros.ico
+    |   |       nvidia.ico
+    |   |       nzxt.ico
+    |   |       obs.ico
+    |   |       omen.ico
+    |   |       onedrive.ico
+    |   |       oneui.ico
+    |   |       op6.ico
+    |   |       open-suse.ico
+    |   |       opengapps.ico
+    |   |       opera-gx.ico
+    |   |       opera.ico
+    |   |       orangefox.ico
+    |   |       os.ico
+    |   |       overwatch.ico
+    |   |       oxygenos.ico
+    |   |       p-plus.ico
+    |   |       p1.ico
+    |   |       p2.ico
+    |   |       p3.ico
+    |   |       P3a.ico
+    |   |       P4.ico
+    |   |       p4a5g.ico
+    |   |       P5.ico
+    |   |       p6+.ico
+    |   |       p7.ico
+    |   |       P7P.ico
+    |   |       package.ico
+    |   |       paranoid.ico
+    |   |       pe.ico
+    |   |       personal.ico
+    |   |       pex.ico
+    |   |       phone.ico
+    |   |       pixel-builds.ico
+    |   |       pixelify.ico
+    |   |       play-station.ico
+    |   |       PLM-alt.ico
+    |   |       PLM.ico
+    |   |       png.ico
+    |   |       poco-f3.ico
+    |   |       poco-m2-pro.ico
+    |   |       pocof1.ico
+    |   |       popchat.ico
+    |   |       popmods.ico
+    |   |       popwalls.ico
+    |   |       powerpoint.ico
+    |   |       pr.ico
+    |   |       predator.ico
+    |   |       ps.ico
+    |   |       ps1.ico
+    |   |       ps2.ico
+    |   |       ps3.ico
+    |   |       pubg.ico
+    |   |       python.ico
+    |   |       radeon.ico
+    |   |       rainbow-six.ico
+    |   |       rainmeter.ico
+    |   |       razer.ico
+    |   |       rdr-2.ico
+    |   |       Redbubble.ico
+    |   |       resident-evil.ico
+    |   |       retroarch.ico
+    |   |       revanced.ico
+    |   |       ricedroid.ico
+    |   |       risingos.ico
+    |   |       roblox.ico
+    |   |       rocket-league.ico
+    |   |       rog.ico
+    |   |       root.ico
+    |   |       ropbox.ico
+    |   |       ryzen.ico
+    |   |       s20fe.ico
+    |   |       safari.ico
+    |   |       samsung-budget.ico
+    |   |       samsung.ico
+    |   |       sega-genesis.ico
+    |   |       sega-saturn.ico
+    |   |       settings.ico
+    |   |       setups.ico
+    |   |       sharex.ico
+    |   |       sims.ico
+    |   |       skp.ico
+    |   |       snes.ico
+    |   |       sony-alpha.ico
+    |   |       sony.ico
+    |   |       sparkos.ico
+    |   |       spotify.ico
+    |   |       stardew-valley.ico
+    |   |       statix.ico
+    |   |       steam.ico
+    |   |       stex.ico
+    |   |       supirioros.ico
+    |   |       surface.ico
+    |   |       syberia alt.ico
+    |   |       syberia.ico
+    |   |       syberiaos6.ico
+    |   |       teamfiles.ico
+    |   |       telegram.ico
+    |   |       terminal.ico
+    |   |       thinkpad.ico
+    |   |       tidwib.ico
+    |   |       tools.ico
+    |   |       tv.ico
+    |   |       twrp.ico
+    |   |       ubuntu-studio.ico
+    |   |       ubuntu.ico
+    |   |       user.ico
+    |   |       user2.ico
+    |   |       valorant.ico
+    |   |       videos.ico
+    |   |       voltageos.ico
+    |   |       vsc.ico
+    |   |       w10.ico
+    |   |       w11.ico
+    |   |       wallpapers.ico
+    |   |       warzone.ico
+    |   |       web.ico
+    |   |       wii.ico
+    |   |       word.ico
+    |   |       work.ico
+    |   |       x3.ico
+    |   |       xd.ico
+    |   |       yaap.ico
+    |   |       youtube.ico
+    |   |       zorin.ico
+    |   |       
     |   +---folder11
     |   |       3d_coat.ico
     |   |       4k_downloader.ico
@@ -4656,7 +4991,6 @@
     |   |   |   XP-Pen.ico
     |   |   |   yellowstone.ico
     |   |   |   YouTube.ico
-    |   |   |   _Template.psd
     |   |   |   
     |   |   +---Archive
     |   |   |       Archive 1.ico
@@ -4685,7 +5019,6 @@
     |   |   |       Archive XZ.ico
     |   |   |       Archive Z.ico
     |   |   |       Archive ZIP.ico
-    |   |   |       _Template.psd
     |   |   |       
     |   |   \---Other
     |   |           Custom Default (No Shadow).ico
@@ -4701,6 +5034,21 @@
     |   |           Windows File Recovery.ico
     |   |           Working.ico
     |   |           
+    |   +---movies_shows__sameerasw
+    |   |       B1.ico
+    |   |       breaking bad.ico
+    |   |       Don't Look Up (2021).ico
+    |   |       E3.ico
+    |   |       L1.ico
+    |   |       last-of-us.ico
+    |   |       Luca.ico
+    |   |       modern-family.ico
+    |   |       office.ico
+    |   |       Prey (2022).ico
+    |   |       Senior Year (2022).ico
+    |   |       Spiderhead (2022).ico
+    |   |       wednesday.ico
+    |   |       
     |   \---Win11_adni18
     |           1.ico
     |           10.ico
