@@ -1,8 +1,6 @@
 .
 |   .gitignore
-|   Archive.psd
 |   Preview.png
-|   Preview.psd
 |   README.md
 |   tree.log
 |   
@@ -375,6 +373,67 @@
     |   |       Voice access.ico
     |   |       
     |   +---Adobe
+    |   |   +---App
+    |   |   |       Acrobat Distiller.ico
+    |   |   |       Acrobat Reader.ico
+    |   |   |       Audition.ico
+    |   |   |       Bridge.ico
+    |   |   |       Illustrator.ico
+    |   |   |       InCopy.ico
+    |   |   |       InDesign.ico
+    |   |   |       Photoshop.ico
+    |   |   |       Premiere Elements Beta.ico
+    |   |   |       Premiere Elements.ico
+    |   |   |       Premiere Pro Beta.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       Premiere Rush Beta.ico
+    |   |   |       Premiere Rush.ico
+    |   |   |       
+    |   |   +---Book
+    |   |   |       InDesign INDB.ico
+    |   |   |       
+    |   |   +---Box
+    |   |   |       InDesign IDAP.ico
+    |   |   |       InDesign IDML.ico
+    |   |   |       
+    |   |   +---Disk
+    |   |   |       Premiere Pro.ico
+    |   |   |       
+    |   |   +---File
+    |   |   |       Acrobat Reader.ico
+    |   |   |       After Effects AEP.ico
+    |   |   |       Audition CDLX.ico
+    |   |   |       Audition SESX.ico
+    |   |   |       Illustrator.ico
+    |   |   |       InCopy ICML.ico
+    |   |   |       InCopy INCX.ico
+    |   |   |       InDesign IDJS.ico
+    |   |   |       InDesign INDD.ico
+    |   |   |       Photoshop.ico
+    |   |   |       Premiere Elements.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       Premiere Rush.ico
+    |   |   |       
+    |   |   +---Folder
+    |   |   |       Bridge.ico
+    |   |   |       Photoshop Plugin.ico
+    |   |   |       Photoshop.ico
+    |   |   |       Premiere Pro Beta.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       
+    |   |   +---Package
+    |   |   |       Photoshop.ico
+    |   |   |       Premiere Pro Beta.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       
+    |   |   \---Paper
+    |   |           Dreamweaver.ico
+    |   |           Illustrator.ico
+    |   |           InCopy ICAP.ico
+    |   |           InCopy ICMT.ico
+    |   |           InDesign INDT.ico
+    |   |           
+    |   +---Adobe (Windows Style)
     |   |       Adobe After Effects.ico
     |   |       Adobe Audition.ico
     |   |       Adobe Illustrator.ico
@@ -7913,6 +7972,11 @@
     |       shell32_197.ico
     |       shell32_198.ico
     |       shell32_199.ico
+    |       
+    +---PSD
+    |       Archive Icon.psd
+    |       Preview Adobe.psd
+    |       Preview Windows.psd
     |       
     \---zExtracted From EXE
         +---GoogleDriveFS
