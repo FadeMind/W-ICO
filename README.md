@@ -20,6 +20,7 @@ A collection of all Windows icons (98, XP, Vista, 7, 10, 11)
 - https://www.reddit.com/r/FluentDesign/comments/on8reh/fluent_design_icons/
 - https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797
 - https://www.deviantart.com/adni18/art/New-Windows-11-Icons-937640902
+- https://github.com/sameerasw/folder-icons
 
 **CONTRIBUTORS**
 
