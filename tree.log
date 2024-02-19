@@ -415,7 +415,9 @@
     |   |   |       Premiere Rush.ico
     |   |   |       
     |   |   +---Folder
+    |   |   |       Acrobat.ico
     |   |   |       Bridge.ico
+    |   |   |       Media Encoder.ico
     |   |   |       Photoshop Plugin.ico
     |   |   |       Photoshop.ico
     |   |   |       Premiere Pro Beta.ico
@@ -598,10 +600,12 @@
     |       drive-minecraft.ico
     |       drive-more.ico
     |       drive-movies.ico
+    |       drive-music.ico
     |       drive-open-suse.ico
     |       drive-personal.ico
     |       drive-phone.ico
     |       drive-photos.ico
+    |       drive-pictures.ico
     |       drive-retroarch.ico
     |       drive-setup.ico
     |       drive-software.ico
@@ -609,6 +613,7 @@
     |       drive-tv.ico
     |       drive-ubuntu-studio.ico
     |       drive-ubuntu.ico
+    |       drive-videos.ico
     |       drive-w10.ico
     |       drive-w11.ico
     |       drive-youtube.ico
@@ -3910,6 +3915,20 @@
     |   |       8).ico
     |   |       acer.ico
     |   |       adb.ico
+    |   |       adobe-acrobat.ico
+    |   |       adobe-after-effects.ico
+    |   |       adobe-animate.ico
+    |   |       adobe-audition.ico
+    |   |       adobe-creative-cloud.ico
+    |   |       adobe-dreamweaver.ico
+    |   |       adobe-express.ico
+    |   |       adobe-illustrator.ico
+    |   |       adobe-indesign.ico
+    |   |       adobe-lightroom-classic.ico
+    |   |       adobe-lightroom.ico
+    |   |       adobe-photoshop.ico
+    |   |       adobe-premiere-pro.ico
+    |   |       adobe-substance3d.ico
     |   |       adobe.ico
     |   |       ae.ico
     |   |       ahk.ico
@@ -3932,11 +3951,13 @@
     |   |       arrow.ico
     |   |       asus.ico
     |   |       audio.ico
+    |   |       autoruns.ico
     |   |       awakenos.ico
     |   |       backup.ico
     |   |       backups.ico
     |   |       bit.ico
     |   |       bitbucket.ico
+    |   |       blockbench.ico
     |   |       brave.ico
     |   |       bt.ico
     |   |       cad.ico
@@ -3963,6 +3984,7 @@
     |   |       diablo-4.ico
     |   |       disabled.ico
     |   |       discord.ico
+    |   |       Dism++.ico
     |   |       docs.ico
     |   |       dota-2.ico
     |   |       dotos.ico
@@ -4018,12 +4040,14 @@
     |   |       howtomen.ico
     |   |       hp.ico
     |   |       html.ico
+    |   |       Hwinfo.ico
     |   |       icons.ico
     |   |       id.ico
     |   |       ig.ico
     |   |       intel.ico
     |   |       java.ico
     |   |       js.ico
+    |   |       Kaspersky.ico
     |   |       kde-connect.ico
     |   |       kubuntu.ico
     |   |       lawnchair-alt.ico
@@ -4046,6 +4070,7 @@
     |   |       mi-x11.ico
     |   |       mi.ico
     |   |       microg.ico
+    |   |       minecraft.ico
     |   |       miui.ico
     |   |       mkbhd-b.ico
     |   |       mkbhd-w.ico
@@ -4090,6 +4115,7 @@
     |   |       p4a5g.ico
     |   |       P5.ico
     |   |       p6+.ico
+    |   |       p6-black.ico
     |   |       p7.ico
     |   |       P7P.ico
     |   |       package.ico
@@ -4119,15 +4145,18 @@
     |   |       ps3.ico
     |   |       pubg.ico
     |   |       python.ico
+    |   |       Qbittorent.ico
     |   |       radeon.ico
     |   |       rainbow-six.ico
     |   |       rainmeter.ico
     |   |       razer.ico
     |   |       rdr-2.ico
+    |   |       Readyfor-Motorola.ico
     |   |       Redbubble.ico
     |   |       resident-evil.ico
     |   |       retroarch.ico
     |   |       revanced.ico
+    |   |       Revo-uninstaller.ico
     |   |       ricedroid.ico
     |   |       risingos.ico
     |   |       roblox.ico
@@ -4175,6 +4204,7 @@
     |   |       user2.ico
     |   |       valorant.ico
     |   |       videos.ico
+    |   |       Virtuslbox.ico
     |   |       voltageos.ico
     |   |       vsc.ico
     |   |       w10.ico
@@ -4183,6 +4213,7 @@
     |   |       warzone.ico
     |   |       web.ico
     |   |       wii.ico
+    |   |       Windows-updated-blocker.ico
     |   |       word.ico
     |   |       work.ico
     |   |       x3.ico
