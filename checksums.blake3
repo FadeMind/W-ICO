@@ -1,8 +1,277 @@
 35e3952377ef67528a49760ed9f8c62bcb12335872f20fa32efb34e38c90fec2  .gitignore
 303ed6acc65e9ace6c6585eec544a3adca9c8544c1810a7ccc751df83add25cc  Preview.png
 ccc354f9535c1714cccbaf9fd3df213e4f7141601f961bf6bfd4459770699377  README.md
-d847174181e3a86d3c8cd0f746b15a064e5d0aa3487fbad10d5826347b95ae8c  tree.log
+412b565db5c478a8fde441a846fe0f85250c570fa28418772faebf062b03dc13  tree.log
+d1b1181632228c188c14856874570a8f237cc1023a998b23596bbc030ce7c7e2  ICO\Apps (Windows 7)\accessibilitycpl_1.ico
+5491b8271a7b37c19dfccd1d5568ec3abf9f8ff89a16581edaca07599c6a735b  ICO\Apps (Windows 7)\accessibilitycpl_320.ico
+29fc4bc42f0921e5eff7bd7bb79cbb2dd3a9743d97d50655f47163db51845592  ICO\Apps (Windows 7)\accessibilitycpl_321.ico
+d7de2a754a82955604647bbcc68724a489121ff3031dd89b8806d91554a254d3  ICO\Apps (Windows 7)\accessibilitycpl_322.ico
+57a6d19401ccbc9f8cf9eca0b30ca10a325b62beaa3a7c35962be8e12df106f1  ICO\Apps (Windows 7)\accessibilitycpl_323.ico
+e7958c7f6766d16771af58a9e27cc32f781729bd5d4a4111fb48881cdffa4665  ICO\Apps (Windows 7)\accessibilitycpl_324.ico
+cba2677bae89437af37135b3ca27a8b51eb29ce6a44ace571f5ce8bc6f2bd78b  ICO\Apps (Windows 7)\accessibilitycpl_325.ico
+606ba0802e6c9ee291b15f81042d8d296067a037f218b1ce549c504035e3880c  ICO\Apps (Windows 7)\accessibilitycpl_326.ico
+134b74673e8e1f1ca26231b9d4ec2f12c2f5b5c046d40e3f9286e2d62c9e5cc7  ICO\Apps (Windows 7)\accessibilitycpl_327.ico
+5491b8271a7b37c19dfccd1d5568ec3abf9f8ff89a16581edaca07599c6a735b  ICO\Apps (Windows 7)\accessibilitycpl_328.ico
+4551fef6087dd281dbe11ac2d8302b4a215bc1ef382e46e6c8dcff0b2f8a14f8  ICO\Apps (Windows 7)\accessibilitycpl_329.ico
+ea2b8423825a6d704dfacf7c32420f22c59f467c599881f204952483d06fce04  ICO\Apps (Windows 7)\accessibilitycpl_336.ico
+48c0ac3cf4a4e7d2a16857472f39d917b12ebd8dec464138dcef4d5867d55410  ICO\Apps (Windows 7)\accessibilitycpl_338.ico
+7fe582482b1ecd6dba5424b9c6577daf80e3a53463a41c4a00659b5cf419f7c6  ICO\Apps (Windows 7)\accessibilitycpl_339.ico
+0613fc7103c909a355baecd3289c2c4f93ab181127a7a4120b9b91cfa9f58dcf  ICO\Apps (Windows 7)\accessibilitycpl_340.ico
+70b8523b6ca169117a7dbb8699539f011f2d253bb4d769a5dc8dcb15716311bb  ICO\Apps (Windows 7)\ActionCenter_1.ico
+bfa6fd689af9e6f8160e1c6f3d69ac6f39e37be4e0c684f673aa78917bac7817  ICO\Apps (Windows 7)\ActionCenter_2.ico
+5eaf17203d4f6868282a7ed73baf28923d1778e761b6b517e56d087ae743acad  ICO\Apps (Windows 7)\ActionCenter_3.ico
+29e93388a8d021bd9ac35d12874ae7ccbc963c1dbf04d864dae6ad4852f2cb93  ICO\Apps (Windows 7)\ActionCenter_4.ico
+8b32cb33fb1bbecd335be12a6a33e18c6e384c716dd65e48cc5c78eef5742e92  ICO\Apps (Windows 7)\ActionCenterCPL_5.ico
+ced2c2b0d17d03457e1ab2509e342d89b29d67a2a4256d9e54805406a72166ca  ICO\Apps (Windows 7)\appwiz_251.ico
+805fff6fe5339c34de89118161d85cdcb018de701b9ba7abda6ea00145490243  ICO\Apps (Windows 7)\appwiz_1507.ico
+eec9d4fdff9fbf5aea9eaa4f78793999b768bea993a766321e0b32edd6eb495b  ICO\Apps (Windows 7)\audiosrv_203.ico
+8b32cb33fb1bbecd335be12a6a33e18c6e384c716dd65e48cc5c78eef5742e92  ICO\Apps (Windows 7)\AuthFWGP_100.ico
+bcf71037ab64a50557624d774eda0fd01fd786c891692a5f1ec0964405a9c4a0  ICO\Apps (Windows 7)\baaupdate_1.ico
+d8eda7202a66336330f37be623736e606d93e6a9806d665b53d91cf87c10e322  ICO\Apps (Windows 7)\bckgRes_1009.ico
+3fabaa424df66b075f102ca1d5be69f92cd680c890c5acf033c21c9e306b8646  ICO\Apps (Windows 7)\Chess_128.ico
+cdb37df993d9c747e994e08cdd612712f463c0d42b74c454242de7a0426109b3  ICO\Apps (Windows 7)\ChkrRes_1009.ico
+9bb5b23b361384a5b6f214c53c787a3fc275078bb8d359c2d07382713bd4df8f  ICO\Apps (Windows 7)\cmd_IDI_APPICON.ico
+d8ac8d88159755e34b9adecbba7620c57b016a462f604f424a4baecd8e08e4b3  ICO\Apps (Windows 7)\dsuiext_4137.ico
+eccdf9cd42542c0c6392c2ad0c46207b961654b2cff7d6845cae3d1fb1716e73  ICO\Apps (Windows 7)\DVDMaker_128.ico
+23de193a0b20f52e2edb4108635d8ceb6e599a7f2910be1fbf038ba9981de9ce  ICO\Apps (Windows 7)\DXPTaskRingtone_50.ico
+1ef14486f493bcec4c6a8e8bea35aac9c4c479ca254f0a8e2fa04e27173adbcc  ICO\Apps (Windows 7)\DxpTaskSync_50.ico
+76cdc4bf23e0cd9a38f46bc72a784be1bec18d5cb1cdd1842c8aa2c8c740c8c8  ICO\Apps (Windows 7)\DxpTaskSync_52.ico
+614616fb68a4e058c63bfe1b5983d521d6732f811c2be2d73f69a74367cbe807  ICO\Apps (Windows 7)\DxpTaskSync_53.ico
+e3a9e4d3b00364a9c2e9254a6ef123f07c414a5a1ab42e46368bc1a0abb6692e  ICO\Apps (Windows 7)\DxpTaskSync_60.ico
+360ba221b6593cfc2f8087ea115fe37de1c0733662308155059162ea629214cf  ICO\Apps (Windows 7)\DxpTaskSync_61.ico
+45037f9ee225ae0f482f00d6a88e972c137d103980ad0b102d79d096778af7d0  ICO\Apps (Windows 7)\DxpTaskSync_62.ico
+84f815b3a36ec8a5292bd968d251d5d371278ec02904a7453a13d8579a0d6fed  ICO\Apps (Windows 7)\ehres_1.ico
+84f815b3a36ec8a5292bd968d251d5d371278ec02904a7453a13d8579a0d6fed  ICO\Apps (Windows 7)\ehres_EHTRAY.ICON.SHUTDOWN.ico
+e0d708d482adf8c9fb8b634af44ea5aa6f73c061656e36bf861e37df2e366af2  ICO\Apps (Windows 7)\explorer_259.ico
+84e2f9c349feca0cb5d5c1c5b41c9d1bfe5e967153be5a8c312ac400b6c8fd7e  ICO\Apps (Windows 7)\explorer_ICO_MYCOMPUTER.ico
+94cb2baeb7e6427dfae50b32956da5f1a65958bb65f7660952f0696fc73056e2  ICO\Apps (Windows 7)\Faultrep_5201.ico
+ec67fd217b493ed86d7986a66b80abcea5b995dd938488f69beea0e5917de3be  ICO\Apps (Windows 7)\FreeCell_121.ico
+19b5c391acfbc740788b7f0b7f3e46c54b604e7c551b77871bd101fd543a96ab  ICO\Apps (Windows 7)\Hearts_108.ico
+2673025191f8ce4dc1fd891fa39b316c7a3f99bc118a649d431c24210e8300bd  ICO\Apps (Windows 7)\iexplore_7.ico
+2673025191f8ce4dc1fd891fa39b316c7a3f99bc118a649d431c24210e8300bd  ICO\Apps (Windows 7)\iexplore_32528.ico
+0206713bb54f7d02b4eb8624e5b4d62461832d2e956e8eb30d5da51d67466f11  ICO\Apps (Windows 7)\iexplore_32529.ico
+2c61b665bbb5a429fd9005bab62a836f58465e31f8a5f2d9b790bd1566078d45  ICO\Apps (Windows 7)\imageres_3.ico
+274a6fc2fb5622a830e5769341596a16d012b88fdd29c3c3729c4b74d198131c  ICO\Apps (Windows 7)\imageres_5.ico
+aff006ccb6f72c585f4704d4cf58a23a2bce7fa856397663f500ba2912894d7c  ICO\Apps (Windows 7)\imageres_6.ico
+a713a0d5179a73c2c0953938e225fd7e1f0fff28c502e6107308bb77039e3365  ICO\Apps (Windows 7)\imageres_8.ico
+b2b74d2a96cd7aa479389c4e72618102cefb03f66b97620a7d7e60f8616d63f6  ICO\Apps (Windows 7)\imageres_9.ico
+9c08c7919fedadbefdea7326dc6ad3d0263426ae2ce87c22822addc3c84caeb7  ICO\Apps (Windows 7)\imageres_10.ico
+6c8b4763f654f007c58c31a95214da222c360f7b6494e344841e8eae1d4ddbe5  ICO\Apps (Windows 7)\imageres_14.ico
+f52b69e4c59e1f3c3d370cabf47a71af511f1804afa27dbfd33535fdb2fc18a4  ICO\Apps (Windows 7)\imageres_15.ico
+907dba4e1ca53dca7b8509dfabac44fc87da71253ebcb6a58b59e37a1bc68324  ICO\Apps (Windows 7)\imageres_17.ico
+954f0cffedad2c717ff95becd121133167a6a3ff046afd58c587111759fc03f2  ICO\Apps (Windows 7)\imageres_18.ico
+fa2a6b4d8c3a53c3df22f91fd2ebfdf3b3373387ab7bf46e3d6b4c20bc62bd04  ICO\Apps (Windows 7)\imageres_20.ico
+f898ecdfe970575b531c2db6253f83d43c523d30d3467c718ef7317b59bb54ef  ICO\Apps (Windows 7)\imageres_21.ico
+58dec944d8d1c77d9d564947ea83129cb7f5be0a5cf1ea3ea117cf5fa4d66707  ICO\Apps (Windows 7)\imageres_23.ico
+b4fd6ed16a8fd386133d7800d2ceda1a7e50246b42d8e39e117cb2358736381f  ICO\Apps (Windows 7)\imageres_24.ico
+f1ec7bd910296f6736175295a279b32aa9e8cdd6a91e8357c2c8ea485c78c4b1  ICO\Apps (Windows 7)\imageres_25.ico
+8eff533526a85651803356a83718d0704de320f2b1d5cfe31be518baebc8b8cb  ICO\Apps (Windows 7)\imageres_26.ico
+9863854fee05d197e3b8a28483d62568ea1267b53298da25f722747b2025970d  ICO\Apps (Windows 7)\imageres_27.ico
+b3e4d78458567c7c25105df79a45c2caeaa3d8b94c3d52687d62a768f899f98e  ICO\Apps (Windows 7)\imageres_28.ico
+554496bcd861f201153cfd962b9abc8438c807564e976bc2623570233dd3f141  ICO\Apps (Windows 7)\imageres_29.ico
+9adeba59e32a1594c12f20bf56dc9fe2d223f88fcdf9734f083d171b49792f28  ICO\Apps (Windows 7)\imageres_30.ico
+1a81bac739e7eabc6702b8a0728c2d1895005ba79ead79da25f555dabe54d189  ICO\Apps (Windows 7)\imageres_31.ico
+345c3f41b074319c30c291e68d8bed1c5c54b45b26e847d930bbf23a4330865f  ICO\Apps (Windows 7)\imageres_33.ico
+ce550e8fa56e88050897d2424c02798d9489137296767115be9f15fe7703cfd0  ICO\Apps (Windows 7)\imageres_34.ico
+2742d9e9fbe69f40532c41803962db022af693dded0b3be14dd0a1b42f35b0e6  ICO\Apps (Windows 7)\imageres_37.ico
+315a247f3c7652910bbf5afff2920817ae52bd64bbb213db459f4891318aefac  ICO\Apps (Windows 7)\imageres_45.ico
+b6e8f13b3d863659ee474032f4e71855374d44463a2e641bea018304c67e9a2f  ICO\Apps (Windows 7)\imageres_46.ico
+cc1ec735d095cda8f90cb3adf927f89cc26f504744e633c36434a1d6ecaeaf7c  ICO\Apps (Windows 7)\imageres_47.ico
+4f9d90f3897641d77229882a7b0be375bcc4768affb677a9badc7ed0c52fe8f8  ICO\Apps (Windows 7)\imageres_48.ico
+ea92b8ed350bc18d1f41a9957f43818b750d843b3088d1226f74028627b3989d  ICO\Apps (Windows 7)\imageres_49.ico
+0986aab3fd87463661f071e34e2f54882a217b8ea0c91c7173438e3e8420d065  ICO\Apps (Windows 7)\imageres_50.ico
+e144af4fa1f994670c9d39b8a4b070009ca982fedd6fb75affd93a5ad3b08676  ICO\Apps (Windows 7)\imageres_51.ico
+6d51a0442f70fb708a0703d99ea0fc42a2e9d8130ddae0961318a13c6bb72fa3  ICO\Apps (Windows 7)\imageres_52.ico
+2d12d82112d0bcd9633e1ae8e305f1e86689a39346f9af126733aecdef9976e0  ICO\Apps (Windows 7)\imageres_53.ico
+685cee55df4f79dae0d765fdf9404cc2ff34b3f56b1a0355cc77f778f5958bcd  ICO\Apps (Windows 7)\imageres_54.ico
+e330b20bc9b30e07a657e308ae34bc4a1ecaef5fdca2af7fdc2c9a4b619f2483  ICO\Apps (Windows 7)\imageres_55.ico
+d51373762cc2747f18fbe7e6afe125e829a1251f561d8c18a62a1c170ff15981  ICO\Apps (Windows 7)\imageres_57.ico
+8aa41e6d54178088202c82da2c55445c49c71040ae4b9b04752ea411a2134f0b  ICO\Apps (Windows 7)\imageres_58.ico
+8d50e820ef4d58dd93fbee1f44e6230d12dcbacf2be40abea76d8b18c7f2e94e  ICO\Apps (Windows 7)\imageres_59.ico
+483512d52ae7d0fabc7ddb3def6dceeee2c53efd604cf705eb186f70f3028097  ICO\Apps (Windows 7)\imageres_60.ico
+4818cb4c806842e5076db561ed38264671205626bfbcf7537171f129dd71c114  ICO\Apps (Windows 7)\imageres_61.ico
+40add66e0e52008f11cb8108385eea96f71a843eded36c0725e0b893cd624525  ICO\Apps (Windows 7)\imageres_65.ico
+1311d389a78b4ae82f26c9803b682767f210913025675dd82287a20db951ef2a  ICO\Apps (Windows 7)\imageres_66.ico
+ce9f25be0d24044bf7b4c00886eb443aa4f25d7e999242305dd5764ea631353a  ICO\Apps (Windows 7)\imageres_68.ico
+e01ec540684bd7f11700be92d96f87ca515a2fab43c54f4637ddff0edef626dd  ICO\Apps (Windows 7)\imageres_73.ico
+5e0a83c287507b30c82e725ff26c3b144b4a69ec2f2ac9f116dc48013ff02e9d  ICO\Apps (Windows 7)\imageres_74.ico
+b626467d7786deacf18bde1f7b4c87ecffa184e8497f78f5fc59a9727613ce14  ICO\Apps (Windows 7)\imageres_75.ico
+83d5f7a6da71b5ed982da0979b26465956e81f2a218c5293e71712c63fd2e476  ICO\Apps (Windows 7)\imageres_76.ico
+05d9adf48e0e4d80f047a7b93df61d278e30c9785b5bdb33bd5e64fae0ddf112  ICO\Apps (Windows 7)\imageres_77.ico
+4161effd0c0ca21f90e0cd45f8d45457b27b1aef9cea95df7b05509f129b0bf1  ICO\Apps (Windows 7)\imageres_78.ico
+fa99b1ee546771e5ea4364284e5f13ebc80ee950926ef75300d46523854a4736  ICO\Apps (Windows 7)\imageres_80.ico
+58ed5cf8908937d688c58b95680cf0c6089a069c55e37101ae3e458dd3e66a3e  ICO\Apps (Windows 7)\imageres_81.ico
+9a32acf9b26bf775382ebdc23792314be80540d3cb4f6afddc2c287185508422  ICO\Apps (Windows 7)\imageres_82.ico
+82b2b7b3ecf251ad0314d4a7243d374f5d0ffbf0166391526d740ef65a1710a7  ICO\Apps (Windows 7)\imageres_84.ico
+0430ca009a459223c44ba5336069270b71e298e850dbfb73256e21faeabf464e  ICO\Apps (Windows 7)\imageres_85.ico
+bab4af7a1a3dd2e940ab646af4eedc53d427bcf1028d33acd43abfe3e4f0831d  ICO\Apps (Windows 7)\imageres_86.ico
+51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\imageres_87.ico
+6be9fb8974753f0b7092dd095d2c38c284c7120d88c82823e440b88fd7b2a07c  ICO\Apps (Windows 7)\imageres_88.ico
+a589bd7990a2e0a60b3b5308a7c14e1afec7ef0da997cc14c45093c4f93dd52e  ICO\Apps (Windows 7)\imageres_91.ico
+3976abfb9494af43313186b8b597ca4eeae6d745f74381db08624d0eef91b225  ICO\Apps (Windows 7)\imageres_92.ico
+ecd4f60266cd09c4ee234d85d5073ae93ce26735affa974411fccb7fb4fa8298  ICO\Apps (Windows 7)\imageres_93.ico
+a6691b8685a535cb63f11c534450748f48fe9212b3d1e97ef8087945a5fe584f  ICO\Apps (Windows 7)\imageres_94.ico
+52e83db22913d32dc1914ca46c785bbad20ec7398ed87a2451376aa1a1d1933a  ICO\Apps (Windows 7)\imageres_95.ico
+92c778488a0f05fde3a22480e88a5bd86a3969c8fb601174558dc381b2bba0ad  ICO\Apps (Windows 7)\imageres_96.ico
+7be3d831228f532e8aee20e0a67209a2988fa53b2e23efd023d424f900bb8808  ICO\Apps (Windows 7)\imageres_97.ico
+38fdc8778aec32ccf100967bdd94870174dbbc419b6bc690fa4c5bd73fc092cd  ICO\Apps (Windows 7)\imageres_98.ico
+cd5171dbb6de37f57a349092bca1af6eba900b148e330fd008077ed30b09b237  ICO\Apps (Windows 7)\imageres_99.ico
+b36e69b7c935aaabac740946dc4477c60c9ba145b7d709d1081feefd51f8e9ed  ICO\Apps (Windows 7)\imageres_100.ico
+02dd5f5f69c25b1d98df3eda405a656c45093cf9f24b9f5dd23d874f76d6ee79  ICO\Apps (Windows 7)\imageres_101.ico
+725ae45048ddf9bb9af86419e315fd7850fd42c802e200902f5fc2bfc45b640f  ICO\Apps (Windows 7)\imageres_103.ico
+83a906da70971bbe9584451e77e279f945c16341a28952879b991d9942a80ae7  ICO\Apps (Windows 7)\imageres_104.ico
+8c0d51e3a5c2617ec40d81f5a19aca5adeac510418e4b32d391e1295e007e76e  ICO\Apps (Windows 7)\imageres_105.ico
+15d26adb0ab155bace3f7ec3f343bcebbea1c1540aaa977d11e4b5c1ed5348ce  ICO\Apps (Windows 7)\imageres_106.ico
+37adf41a6fd5b50d92d987c4c62b9dce601cfaf1954446103eaed7571fb33b4f  ICO\Apps (Windows 7)\imageres_107.ico
+a2bfe069e53091a2da119aa408be276a8282554f939bc2f9447adca80817bdb5  ICO\Apps (Windows 7)\imageres_108.ico
+4c7fbd76f9da2f35b119941b53e6526f5bd97fe4588e2989c3fccd65fd7e64f0  ICO\Apps (Windows 7)\imageres_109.ico
+0fba5d5d52cb83c851e4de074d6412d2198531a857474c99db4b9b2d43d9a455  ICO\Apps (Windows 7)\imageres_110.ico
+1d3b64b323cfce425ba52181b547a00c6bedf79dc9c5db9fc9375dbff9d67e87  ICO\Apps (Windows 7)\imageres_111.ico
+f24777b7a3cd3cc1045406eff195fa43faa5ec7a312c3e1a8a2005cdf438776e  ICO\Apps (Windows 7)\imageres_112.ico
+85e3a9dab2769f4ced1ae599d2d922fa312cac8f4d8538f8eceaca14d39bfeed  ICO\Apps (Windows 7)\imageres_113.ico
+2fd2255e4815ba49cdf252f6dceb0ca0f8c28b066a3886a40eda016ea56bd755  ICO\Apps (Windows 7)\imageres_114.ico
+76b204b1a7756abcf9f55b852c9de39c1e2737da6d12fc330e772ae1c7b11371  ICO\Apps (Windows 7)\imageres_115.ico
+6b0b8632ae3e1d34234b86d8faab87f8227ab1b75379a78b80b8aee1a96e4106  ICO\Apps (Windows 7)\imageres_116.ico
+dbec75f27d91f5dbcdc342eb43fadd48adc93b55d5b102ed367d30ee3ff6d8fd  ICO\Apps (Windows 7)\imageres_117.ico
+9ae874f9d5aaee8667371e153fbde4313694ec3108e27aa403056c7da3c243b9  ICO\Apps (Windows 7)\imageres_120.ico
+ad859de29e5b6e521f6130bc34a931a4570858f5794f0dd08c59a53277eca5fa  ICO\Apps (Windows 7)\imageres_122.ico
+7a894506a1bbe01af3165e77c3b675c535d96ceaeec1141f299b506869b3c017  ICO\Apps (Windows 7)\imageres_123.ico
+05d9adf48e0e4d80f047a7b93df61d278e30c9785b5bdb33bd5e64fae0ddf112  ICO\Apps (Windows 7)\imageres_129.ico
+9d50bd8c484edef7cd2eda401c6074e8b19b9979d95430dfd784ef4fdb0fc42c  ICO\Apps (Windows 7)\imageres_130.ico
+94a150d5baa54166ba5f1248db83cc53cfe4cca5771ed654404352607e416e6c  ICO\Apps (Windows 7)\imageres_143.ico
+34bc5beb6dd3fa0ba2d51d4f08cf7a863cb5c76d5ace7779772ad9afd6254c2f  ICO\Apps (Windows 7)\imageres_144.ico
+2b5176bfc6d088b4d5ad30ea51fa84c4471290b8c51edba62f1a118e1eea25e7  ICO\Apps (Windows 7)\imageres_145.ico
+8f63ae821a8f7e19d4747d542d1c4f562256e14e3e87ca6df433662d3ee9324e  ICO\Apps (Windows 7)\imageres_146.ico
+b2ee1a0efba100c473661a814048b3f456987c1ec4f1f53f601850c7cf74e277  ICO\Apps (Windows 7)\imageres_147.ico
+53e6c52ab1bb235e243eb8c51e0eea03f3d1bc0b16b44c06e9c33df506f30202  ICO\Apps (Windows 7)\imageres_148.ico
+7b0f62300224d7880a1cbe54dc9ea0a9fc1d51b33e7874d7c2119b41ce44114d  ICO\Apps (Windows 7)\imageres_149.ico
+ebb577f9da19c17ba630f75cf7dc9b0b1a1d0a1f59123a658dd34f65feb94bcd  ICO\Apps (Windows 7)\imageres_150.ico
+59bae6fe49ebcb9a814f8343eb5239d5aeab27154d0c00e19840adea92257a74  ICO\Apps (Windows 7)\imageres_151.ico
+0680d0ec7851491462fbcf741fc5b7960c88913c245c236f7b9adb73e0dd4bd7  ICO\Apps (Windows 7)\imageres_152.ico
+528e19f4cb47708edff4b40cdb3ac390b1846aae93b3fb64b55515f553d244ca  ICO\Apps (Windows 7)\imageres_157.ico
+51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\imageres_161.ico
+fe1964e176b60497f522013c17c02b0274e52fb59934f1cf050a7756ce1099bf  ICO\Apps (Windows 7)\imageres_162.ico
+ea6a22c3496e6946a365c3fbe341f0e703db8dfeb06cb9d1a89050b42a7952aa  ICO\Apps (Windows 7)\imageres_163.ico
+65cc991fd89e463a85da2d6e8764b1b3973cea912e2b0fb99406aa24793341b5  ICO\Apps (Windows 7)\imageres_164.ico
+60cfff6bd674c725222dac9c7db61a67abf3aa6ac56e8930f462e3fcf88de3f3  ICO\Apps (Windows 7)\imageres_165.ico
+d234c514bc639afe67c8fdb64392cadee2f661c2e1d0ba99f71a4bcc812a86ab  ICO\Apps (Windows 7)\imageres_166.ico
+e679b33d066e0bccf209210772508ba0fe96450e6e3b0a0965f6bd286115a9d8  ICO\Apps (Windows 7)\imageres_167.ico
+0353307569e4f1b50743880bc179c7a33622fe8dc6b5ebf0f92f8299e2823757  ICO\Apps (Windows 7)\imageres_168.ico
+1eba9f101874cd288e5a282555eabba29c1fc2bb3d4064ebeed3a4ca294f8866  ICO\Apps (Windows 7)\imageres_169.ico
+4a38967ffc7b2a32f2a252708ea0ce79155da71d6ccac2d3f778149ef85e9872  ICO\Apps (Windows 7)\imageres_171.ico
+9773d8b8a483ff50fba27a77c4003e63bd741b4b2f134e3636f77098eb0e7f29  ICO\Apps (Windows 7)\imageres_174.ico
+e42e6a6edb844dc9632f8412f7c40de92f8fc29698cd19844e122f8631f8568c  ICO\Apps (Windows 7)\imageres_175.ico
+f0de423c88c59c86b717c6996dced370b6d2c9811e4470d57aff12cc05f2064b  ICO\Apps (Windows 7)\imageres_176.ico
+2ad095df85442a5d2af6b2196ed63d2fb2d44ac099f6c3d2d69a01ae142bbadc  ICO\Apps (Windows 7)\imageres_177.ico
+72a6ab5816efc656daee6051badcf8bf72310418560eb6bda1eeedb14903ee21  ICO\Apps (Windows 7)\imageres_178.ico
+23339bd627650e602f56606fae7261f9c15dde91c0e976214a3d15e35b76c363  ICO\Apps (Windows 7)\imageres_179.ico
+30a27e015c258be508c73a6a470ebf8be04e121d61f01284a68b4974972bb273  ICO\Apps (Windows 7)\imageres_180.ico
+dbde05b8b789284aabe39b3625841f961828a4a5306844799eb147c49171e4ed  ICO\Apps (Windows 7)\imageres_181.ico
+412b7ef163c3cc91eab15527711b02c64936554de46699c3bbf2919c5a25b97b  ICO\Apps (Windows 7)\imageres_182.ico
+d860fa826a5412264292f028716d0cc935dd9372d2b7e6d9716a5adf94c7fef5  ICO\Apps (Windows 7)\imageres_183.ico
+952497457840be09398eba7f6ce7ecd65338f0143e84dc02c398717ba1dd4035  ICO\Apps (Windows 7)\imageres_184.ico
+a05c67624db2def6b9a606d5b548235ead7e0c07009d7245d3764c1982d2dee0  ICO\Apps (Windows 7)\imageres_185.ico
+e5b4a9c5d79a9d50e9c24f5ca1386689d346bb5cbcb246c24296659fbd2e860a  ICO\Apps (Windows 7)\imageres_186.ico
+597924da1ffb9af092721335e223cfff5386c22e0f1a1c950a3cad78d2398706  ICO\Apps (Windows 7)\imageres_189.ico
+f734e96469dcb09c8c4a5d7d1404e7a259fd031558d7b8f8776f6d0efa010c57  ICO\Apps (Windows 7)\imageres_190.ico
+8754ad3f1798fda98f836eae7ac3082275689bdc16f512ebed2aa86db0c72435  ICO\Apps (Windows 7)\imageres_191.ico
+18cb1dccedcd0dbe17fa9965775980c6b2ebb310c3ca1ba6f8c8c3fb8050cd4d  ICO\Apps (Windows 7)\imageres_192.ico
+17977b5fd4661199b2887e145fe0d32d670320f1722ac062d3ba9ff3f8efeae9  ICO\Apps (Windows 7)\imageres_193.ico
+24527684b2a38df0085713a1508fa572acc35360e82968239ad0ee9288c6f7ff  ICO\Apps (Windows 7)\imageres_194.ico
+610555720813b1eb3fcaafa8007981670360ceac3710032383df744df567149a  ICO\Apps (Windows 7)\imageres_195.ico
+375d4f10304380184283ca3e7194500a917fd269c81f2681f3c611e5e5e0b1d4  ICO\Apps (Windows 7)\imageres_196.ico
+fd58295940114ab0a8554e5623ca351d32526803a60ba3cd669f70c9979a648b  ICO\Apps (Windows 7)\imageres_197.ico
+666945267000e114f6ad13ab5b9793662fe31b2ceaaec034879fa68adf261b63  ICO\Apps (Windows 7)\imageres_1001.ico
+03a1ceb1798c3d9b61346d436896636cdc53b545652be1a8ff16336909bb8545  ICO\Apps (Windows 7)\imageres_1002.ico
+ea4946abd9a2d61ff1960ccdad2160742254b515162818a251dd96bcbfb44111  ICO\Apps (Windows 7)\imageres_1003.ico
+776246b2f6f90cd29010e88e44e80e04b5bb31cd2be178fce2cc960d1328e4c9  ICO\Apps (Windows 7)\imageres_1004.ico
+3d6252e88c559bf8f0e4294a5e6aadb7ac39aff88d8174f152a5bd7d5f9fa68c  ICO\Apps (Windows 7)\imageres_1005.ico
+0e8c05fac6b000cad8eca7aeef4e316e06af036f0f2d406232fae437510e2997  ICO\Apps (Windows 7)\imageres_1008.ico
+187440279d6c763a57107cf3c613b19791a89920bfdf36dc13a34ebaad77ac72  ICO\Apps (Windows 7)\imageres_1013.ico
+666945267000e114f6ad13ab5b9793662fe31b2ceaaec034879fa68adf261b63  ICO\Apps (Windows 7)\imageres_1014.ico
+09c19ae58c7f49b9fdd68175c4252596fd15015c8f7d39c09bcfaad5143bae4a  ICO\Apps (Windows 7)\imageres_1015.ico
+f30dce83570fcae9391cf23104a5181be358010284339916fbd67d80a8416366  ICO\Apps (Windows 7)\imageres_1017.ico
+6906a5be7b4fbbc956bdc873bf0e04c26ba30092c8f115a4fdb67190add8b022  ICO\Apps (Windows 7)\imageres_1018.ico
+76b204b1a7756abcf9f55b852c9de39c1e2737da6d12fc330e772ae1c7b11371  ICO\Apps (Windows 7)\imageres_1020.ico
+d89647d96239019ac389ac336223dfc26cbc3885f38968f1318100dccfa9bd3c  ICO\Apps (Windows 7)\imageres_1021.ico
+316166f2ec6e4353c065d87d7e2354bb0f187a4a560563bde88e2a8bddd6d06f  ICO\Apps (Windows 7)\imageres_1022.ico
+f182023ba3a5e4b826314d827d2964a55b07fb580ad751f23211e2361e4f54e2  ICO\Apps (Windows 7)\imageres_1024.ico
+3e694cceee418889767d4c3ea4ab9a25a2b4c66a5967ca8d1b6e808d3c49e879  ICO\Apps (Windows 7)\imageres_1025.ico
+41812352e75d0c4dc582e9bf0f784c4d36f983c44d4738eaa29e0e734734b4e8  ICO\Apps (Windows 7)\imageres_1026.ico
+cbd0b35fb70918c70083d2f0d32f645e5ac985388f6664a4338b5ac1815c028a  ICO\Apps (Windows 7)\imageres_1027.ico
+ef1b3f6c1dd8c42fa2aabdcc8520c45363a9b888cadf92bbbdc2cad73042bf26  ICO\Apps (Windows 7)\imageres_1029.ico
+511b268e7c282aa66f4bedcb0f1f425874900132f024358035c48b56f1ea7f9b  ICO\Apps (Windows 7)\imageres_1030.ico
+f9bdebac3b4c453b66a33121a994fe7292d224b75c96985da9e250de6243379b  ICO\Apps (Windows 7)\imageres_1031.ico
+9a240ad720ad4e2b2cb06d8b9d2b797713ec1e0a44aeccbfd740fbee2c912f0c  ICO\Apps (Windows 7)\imageres_1032.ico
+f4791509f6c6a8e57e8cbbfcf1ff03cd27f6386ee8044f4095392491b1db3d9a  ICO\Apps (Windows 7)\imageres_1033.ico
+76431daaccb551ad5fb875e5eb4dcfdb7ef0d8aa2f1ba2f22edbfdafbf7402e4  ICO\Apps (Windows 7)\imageres_1034.ico
+60db72ee919ca38b0807361b1b0f0581a2cd24246a55df92aba90d458f3e7499  ICO\Apps (Windows 7)\imageres_1035.ico
+e32faaf6e7ce359a6d950d126baed5c18f3f2845abdcd8a6d1d31b61c16a5486  ICO\Apps (Windows 7)\imageres_1036.ico
+a1d6fa04d22a205b40b4f5374ee8a41368142ea5318fbc99f6a93800f853ada3  ICO\Apps (Windows 7)\imageres_1037.ico
+e0c4bad9e1a0c0712532b95a785b667a29d35fe0580a9314fdeb93a6b424f08a  ICO\Apps (Windows 7)\imageres_SHIDI_SHIELD_INTERNAL.ico
+27f709def0a966c8098d5b629415ecd1054793000be1c6f26a93373c5dfbf70c  ICO\Apps (Windows 7)\imagesp1_200.ico
+aa103178daa8dcc57e4148d4bd2dac2481d669937d5cd06eefee153beb33618e  ICO\Apps (Windows 7)\imagesp1_201.ico
+7d2de8d0bcf4bdcb0a38956fd2bb2a0bd5c93b699bc7bdd3ded0d82a7cff2fd4  ICO\Apps (Windows 7)\imagesp1_208.ico
+df3bb0c251d73023c1e5323751ffb281ebe75a0f3ff2b6e897cb836ca0fc3779  ICO\Apps (Windows 7)\Journal_104.ico
+1fe7a04e04a7f9bc2ba81973f6bebe60e4bbb6e5009393de345a96aa80853293  ICO\Apps (Windows 7)\Mahjong_102.ico
+0b6c9a5b8a09805a5783698fdb1a991157362646b892083921efc70633fe74dc  ICO\Apps (Windows 7)\MineSweeper_110.ico
+02892f0b66a313d2af2491724651dd14ee23af8e3db97000d8d03ed97a6691f7  ICO\Apps (Windows 7)\MineSweeper_111.ico
+48057817711487e13c2d3a22ec50c50f2e2c380b94b10f796e671aba2e37d252  ICO\Apps (Windows 7)\MoreGames_IDI_MOREGAMES.ico
+ddeb2d412b5e1442c4641fcdc6cbe8237622fcc5080b2a77cddc53031ae0de88  ICO\Apps (Windows 7)\msgsres_1.ico
+cf76899560e5c9027b1bd4dc272824ca398b737e838d567f910ec2c97c577220  ICO\Apps (Windows 7)\MsMpRes_103.ico
+26d6965b4c6966536acb8f405edff9ec7643dc300dfc1fa0b2c0ffe54552e384  ICO\Apps (Windows 7)\MSOERES_2.ico
+4d32655a47cb103d228f08a43e5a8fc4e56dff2372a3c18f6716b86a43ce0b9a  ICO\Apps (Windows 7)\MSOERES_15.ico
+9e824b8d86fcb281bbd25ea4a50392b77769dec1bd7224accfb0c6220cdd9fed  ICO\Apps (Windows 7)\mspaint_2.ico
+7077b083fb4b65b44b6d4f8918632b8d9910e309e1f3127e10badeb961348946  ICO\Apps (Windows 7)\netcenter_1.ico
+5c725785775e2919bcc7fbe4fa940076dc50d5ad5c47e49b68cec2ee60f1472e  ICO\Apps (Windows 7)\netcenter_6.ico
+6eab9e3903e723f89268db7f1e525bb2e9d0650862debbd650c68218416020a7  ICO\Apps (Windows 7)\netcenter_7.ico
+5c7744d330ce3fbd276b9d74eeb09338787e21263bb230043a5b6992fd21fbff  ICO\Apps (Windows 7)\netcenter_8.ico
+14a54f074600f346d072612929f0ea3e6f9b0475f557cf03763f304ae9585a33  ICO\Apps (Windows 7)\netcenter_11.ico
+67099696fa1f7296b2d0485de1a3cad29399a792d1414a661cb6758078205f5d  ICO\Apps (Windows 7)\netcenter_12.ico
+664c80a4088b783f34c8c592f39758b3eb52d66f645d81dcaecac0deca2d1c9d  ICO\Apps (Windows 7)\netcenter_14.ico
+98732c302854774af6209534897c421ce47f390f7457c199a11756a5b0a8b23e  ICO\Apps (Windows 7)\netcenter_15.ico
+01ea91c9c6e66815bf50e4d420d163ad4068929ed392698931a754e281ea2097  ICO\Apps (Windows 7)\netcenter_16.ico
+07a5863deba56cd3108b1cb75a721c8a408d917b33b047bd16d108f1c40f5359  ICO\Apps (Windows 7)\netcenter_17.ico
+ae65b2331b741ee40f29cf5609bb19229d84bc0241858cbfdbb74d699a6c6d0a  ICO\Apps (Windows 7)\netcenter_18.ico
+c6a3e899872ad3fcf0fd9e5c1cb6853b4fcb8eac672a52bdec02561c1c7b18c7  ICO\Apps (Windows 7)\netcenter_19.ico
+bb463a1c81eb0087cca24976b88efdeb3cb673d1c53dd7730267426c73a256f2  ICO\Apps (Windows 7)\netcenter_22.ico
+5d7916fb6eb58c88f033c30dc9b6525bc95751659677d1fc07ad56602cab231a  ICO\Apps (Windows 7)\netcenter_23.ico
+e113c4c87d33280e7d96a3b22afa2349f5a0ed15f7fa3bd5dc9d525d5b365bcb  ICO\Apps (Windows 7)\netcenter_28.ico
+bb42d3fd42927e77410f5d40361f389486beb54719f8b8e79d1838a987590b7d  ICO\Apps (Windows 7)\netcenter_504.ico
+360ba221b6593cfc2f8087ea115fe37de1c0733662308155059162ea629214cf  ICO\Apps (Windows 7)\netcenter_506.ico
+6a262882712e1ca6820b41af9de0c0a7493708ce5eb578d9a4fecf15b323e86e  ICO\Apps (Windows 7)\notepad_2.ico
+ad859de29e5b6e521f6130bc34a931a4570858f5794f0dd08c59a53277eca5fa  ICO\Apps (Windows 7)\Picture_ BMP.ico
+f87727be649a1a4578d8ab9d5227c0b9588e74941f871e9412eea60f80a6152d  ICO\Apps (Windows 7)\Picture_ GIF.ico
+555c83ea9e4ce6d890ad440134b1c0eae9db2924e7fc35bc4f19fa1bb00112ea  ICO\Apps (Windows 7)\Picture_ JPG.ico
+0efd36f35ed28c09aa3a2f9792a3519d2025f46ac96b783e7b4fa6b4691c37ab  ICO\Apps (Windows 7)\Picture_ PNG.ico
+f3fb522111cdd4360f71b57a615324b0cbe4f8a7f4b401de7355188df0c29d51  ICO\Apps (Windows 7)\powercfg_202.ico
+995b338888259ff83157b88b2ed3835b7652f0bd771786f5554961ae33290bbd  ICO\Apps (Windows 7)\powershell_ise_0.ico
+1bc2d84376f64f005a90d6fd499fdf0330c064553d844153b6e4e4b8628f9ddf  ICO\Apps (Windows 7)\powershell_ise_1.ico
+0b37312bd9d04a64f39decc71d59dc35df85e0a21fc2660c620fa9e7f88e48d7  ICO\Apps (Windows 7)\powershell_MSH_MAIN.ico
+b8625aa47214b157aabc0d9ae02de96950ce204ac11f77289716ccab21f4bce0  ICO\Apps (Windows 7)\powershell_MSH_SECURITY.ico
+8501458ff4ee0547c08a095f3ab8005a5484eec1a306087b9919a10c64416ed2  ICO\Apps (Windows 7)\PurblePlace_102.ico
+f129e55b922bc9c19980905423361b1e98ccc48908a93af18625e9e882f2e9e2  ICO\Apps (Windows 7)\shell32_16.ico
+c9680091cefcf82983d090f254d607c2ff3a484f5c93c645ce1e2da0c7ef24da  ICO\Apps (Windows 7)\shell32_157.ico
+51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\shell32_271.ico
+30a27e015c258be508c73a6a470ebf8be04e121d61f01284a68b4974972bb273  ICO\Apps (Windows 7)\shell32_292.ico
+53f0f3c97640868ee92d44691400da2b094429c562e4fa9535d26e187c7a777a  ICO\Apps (Windows 7)\shell32_16715.ico
+adff3c5fbd159d9bb37ec2c853d86663a010bf0f3eb771b9b71b27ae7b7c8542  ICO\Apps (Windows 7)\shell32_16784.ico
+5fc841b98c9608c6a75a4532cf07efac832844746b7943db3c87bef003d49a48  ICO\Apps (Windows 7)\shell32_16785.ico
+15f6ecf854ea18e1e5e92c1dd53f06a5874fa6737bb759976f621174412536c1  ICO\Apps (Windows 7)\shell32_16786.ico
+ea14b7fdb5dd796eb90d6fdcaec5b973fc77373354065ff8b897777fe0027dda  ICO\Apps (Windows 7)\ShvlRes_1009.ico
+87f33a1280f17245f591a571d268e7951b8f74053a6b5f39c69438ddf95e4ecc  ICO\Apps (Windows 7)\sidebar_100.ico
+26d2a869ffbe06d1f5242bb32baffab833d693d05691a317d1fb650ce0cd2b35  ICO\Apps (Windows 7)\sidebar_103.ico
+b499befb7b67be670a9b1668c36e81f79ca746c1ca892d7a64ffa60cce91fb88  ICO\Apps (Windows 7)\Solitaire_108.ico
+0f2169d5c6696590e6da187842f283f1bd992457306255ea1274590ee4dc83cb  ICO\Apps (Windows 7)\SpiderSolitaire_108.ico
 84e2f9c349feca0cb5d5c1c5b41c9d1bfe5e967153be5a8c312ac400b6c8fd7e  ICO\Apps (Windows 7)\Windows Explorer.ico
+cc0cd62ed5b8e892ff57219fa48185ec1f73ddde6bba3006c1c597d00c1d52de  ICO\Apps (Windows 7)\WLXPhotoAcq_1075.ico
+efe7a4702097bf019b662c6a8cf15a128b6df53ce93bd92fd2bee1df04b22844  ICO\Apps (Windows 7)\WLXPhotoAcq_1076.ico
+52e83db22913d32dc1914ca46c785bbad20ec7398ed87a2451376aa1a1d1933a  ICO\Apps (Windows 7)\WLXPhotoAcq_1077.ico
+b6e8f13b3d863659ee474032f4e71855374d44463a2e641bea018304c67e9a2f  ICO\Apps (Windows 7)\WLXPhotoAcq_1081.ico
+8244533c1f6e016f82322e11070e268992427d6033663aa9be191743814a3920  ICO\Apps (Windows 7)\WLXPhotoLibraryResources_238.ico
+dac1882b7e876247a3c35b813b1d5912f53ac52881cadcc5da70aeab223c4a53  ICO\Apps (Windows 7)\WMPDMC_107.ico
+44a7d9f61faad68004d8dbf1277bc4c3198ceb7885ede02c96fcb6823ba0a279  ICO\Apps (Windows 7)\wmplayer_IDR_MAINFRAME.ico
+3d312d667cc8a230407961b865a4c72df4a19132c43e441f09feb82d1f562158  ICO\Apps (Windows 7)\wordpad_128.ico
 118e686154014334395b16b666c7cdfd0280c6eca14b99b16df7a38ac4e026d0  ICO\Apps (Windows 8)\Calculator.ico
 f7680575eb14229216b04ead2b2e3b8d84e2b52f169c6107117781b86b5f3dac  ICO\Apps (Windows 8)\Camera.ico
 447f09f685da03eefe473c9f7e95c1d73591b81980a90340d89120e52921c9b6  ICO\Apps (Windows 8)\DotNet.ico
@@ -547,6 +816,31 @@ f341d4546af9a6186337f3b4462b493eb3a8e5366c196cb1d416c8dd257825bc  ICO\Apps (Wind
 37d0bce788659cf8512504d0ed2f4719e67a60daa4c8c1c6ea517e5f0c2ca8d1  ICO\Apps (Windows XP)\User's Computer.ico
 a4cf2fc72c9b0f7504dffba73bd7c8c7925142b04ed99ac66b72536c43d987c4  ICO\Apps (Windows XP)\Video.ico
 8b762fb2d37fc37570509fa7f2fe2aa679525cf89a161cfe66353cd5128881d1  ICO\Apps (Windows XP)\Windows Explorer.ico
+88e4f2c13f2f6d052b7d8492f8f8efe74b88a3268ad766482c2354670ac0c43f  ICO\Disk (Windows 7)\imageres_38.ico
+c1ca07e2c9266ce86e359ade59dd04ac44782c076078736d9a660d58d94abfc8  ICO\Disk (Windows 7)\imageres_39.ico
+f98b3bdfd01fe317b6504378c8170e80101a9717c24882463a54936cd3203d56  ICO\Disk (Windows 7)\imageres_40.ico
+eb267fd1065bd0b6fba0fc47b5a251e9bca684250e876f6ed8b045a1f4a67d66  ICO\Disk (Windows 7)\imageres_41.ico
+cbd4089d6d4105a19919044f0ac74270e15ae4aea9706f746187ef44b6f9a081  ICO\Disk (Windows 7)\imageres_56.ico
+af5b6fb41382fb6368b0f6cbb9582eee73ef3f6fe0ecb9bd43024752e26f1b2b  ICO\Disk (Windows 7)\imageres_62.ico
+401b6c9befce222a6c52cf3023ff7025527dc7d92f88a94827bad493b29d2657  ICO\Disk (Windows 7)\imageres_63.ico
+11f5d5773ac230639e55b5f5b3a5f3e5415e67f8c6b14e99474f301fca776bf5  ICO\Disk (Windows 7)\imageres_64.ico
+c3116520aa03b429da9120beb63e7e8f8e10dd4bfa3b09796c8e0ea7f84b16a9  ICO\Disk (Windows 7)\imageres_135.ico
+2c95431c088286628828690c158dd4c7b4ce093b5f99e727762e21cd07d29d65  ICO\Disk (Windows 7)\imageres_136.ico
+0430ca009a459223c44ba5336069270b71e298e850dbfb73256e21faeabf464e  ICO\Disk (Windows 7)\imageres_137.ico
+2c95431c088286628828690c158dd4c7b4ce093b5f99e727762e21cd07d29d65  ICO\Disk (Windows 7)\imageres_138.ico
+fa3c6399886186caa61e8f51e272b5382bc642bec6c2f25c1fbd814163b02298  ICO\Disk (Windows 7)\imageres_139.ico
+5dd68249a3324d6a1236c3c2c468133a8cf597495ae14827b2b8ee73455dea09  ICO\Disk (Windows 7)\imageres_140.ico
+ec7b579d4ee2060fbb3a2a5cb00e7c8d2a6d7da42e5769a26ab9c9d7ca347a35  ICO\Disk (Windows 7)\imageres_141.ico
+2ed383f968a95446fd3428064fb7d49bb253d468ce175420c364df0950c525df  ICO\Disk (Windows 7)\imageres_142.ico
+00e971829ce577d3de8a66e6b5c7e039ea67bbb58f06e6b99493245105f7713c  ICO\Disk (Windows 7)\imageres_155.ico
+25a410356a8854a430af032799a61d0f275ca6ba81dc390b29f92e744c304efa  ICO\Disk (Windows 7)\imageres_172.ico
+e2b78ac2a69113d82ee338d5af04933d96d0f5d2e6e99f960ef3cac1ff134211  ICO\Disk (Windows 7)\imageres_173.ico
+c14b7881f2b90694f7fd797115bdf42c76df9e44ddcd0425cc0ce2b9c7334a13  ICO\Disk (Windows 7)\imagesp1_202.ico
+d76df9fc9499b9655c8bc1f44c9a4d61aa498846ce6aa052fee4bf0d7a3dc764  ICO\Disk (Windows 7)\imagesp1_203.ico
+93665244ac6331eaea9ad039d046546c5bdd10d8d3456ca465bcb2ecae242a5d  ICO\Disk (Windows 7)\imagesp1_204.ico
+6684dd127dbc94bc45d9c077d3bb302c0516ac7623017402e3276cd74648a76f  ICO\Disk (Windows 7)\imagesp1_205.ico
+bbb4ea14145d25138dc3259f1d05d327ec606cf571b57ae5ce51e909770f07d2  ICO\Disk (Windows 7)\imagesp1_206.ico
+04dee2c4317930bce53c64543694fc7992212369d3667d2acbb464760f0439fc  ICO\Disk (Windows 7)\imagesp1_207.ico
 29df9d72f21da86b44e196d7015a4e314fc90ff6f968facb2bb8232367cb5156  ICO\Disk (Windows 11)\Audio.ico
 d6e7b5a8e3364c1e60e6b6e3bf8e0a04bfd9273274b41c856dcf25dd13d4b6c5  ICO\Disk (Windows 11)\CD-R.ico
 fddd4a44525888053bd48e2151b6bc79bace5691e4e52b24bf84f3640c674423  ICO\Disk (Windows 11)\CD-ROM.ico
@@ -565,6 +859,12 @@ cbd64da45a2ef04fcc4e59009f35e5eb815e0a91b6be8befc360b6f0ee04d088  ICO\Disk (Wind
 3c2c1203b924476ecc60be68b91d431d699036156dfc5c6bdb0bb7db94df189d  ICO\Disk (Windows 11)\Unknown.ico
 60d1b3fb623f14db3c1932412f1e31d03b7cc740994fbf946db468035e06777a  ICO\Drive (Windows 7)\Disk Cleanup.ico
 4910c5907695579e9785f2269e634d709ea44fcb9ae28a2235607ec768b867b9  ICO\Drive (Windows 7)\Drive Search.ico
+0a22212b49a8556eee9bbf2ec5c6a5635efab894e809e15e3115528e3ba1cbcc  ICO\Drive (Windows 7)\imageres_32.ico
+049f76b6819a282452dee68ece2f5adda4308b4b3838938d1c7373c86fc818a0  ICO\Drive (Windows 7)\imageres_35.ico
+18a1f4d510e17bc01d08cffb6266b0c1a567d3453ecb1bbed2b6fd0d49f4669b  ICO\Drive (Windows 7)\imageres_36.ico
+8af5c3935d2e1151c490dbd4ba3b80db84d2f3d46e9aebb6ead11665d77a61b3  ICO\Drive (Windows 7)\imageres_42.ico
+5cf266eae0ac34fc1742eb8c99a03f40b19f4dacabfae1689850e493e242c125  ICO\Drive (Windows 7)\imageres_43.ico
+747e4b9e5f66aa457f6ab0c2255ebc7f393c9c24c15a106951ba7c0a3fff0137  ICO\Drive (Windows 7)\imageres_44.ico
 bcf71037ab64a50557624d774eda0fd01fd786c891692a5f1ec0964405a9c4a0  ICO\Drive (Windows 7)\Locked Drive.ico
 697ab44007fee730c48d0535b771b6b4bd11166ab51f74bd73a8d97561894df0  ICO\Drive (Windows 10)\Disk Cleanup.ico
 c3daab24c27033b5a250d799def50115dc7473b5a04fe95ac964bfa8a0b30f6a  ICO\Drive (Windows 11)\CD Disk.ico
@@ -649,6 +949,8 @@ bb943a779146ceb2f48fd6d4c706993a904b3d87f9a183572d2967bc66f9bb24  ICO\Drive (Win
 dbbab7db83164970bfa132ceb7fef41d8eea99861dc28ee5d7dfdfc71f10987a  ICO\Drive (Windows 11)\Windows 10 Drive Unlocked.ico
 b2a8f78f767944a1c6c55197bacc99ba8a6d78675ebce00eb40fb2109eb51428  ICO\Drive (Windows 11)\Windows 11 Drive Locked.ico
 91e664feebd9aa1d6c4f97a6ea6f8ab8c48b469263dcbf2612fd840d25e66d10  ICO\Drive (Windows 11)\Windows 11 Drive Unlocked.ico
+b0a364c1bf93692cfd98fb5e3fec3d2e943bdfb90fe702f1dd6c62f5d813dfd6  ICO\Filetypes (Windows 7)\DVDMaker_440.ico
+7aeeb7a73a06c15dbecc1d324bcb84e96ab301fde723072a048d259610a16284  ICO\Filetypes (Windows 7)\ehres_2.ico
 2a7a7dcc674c5efcce6e62530025f33531e17a20ca72d5c77134e38acf7acd80  ICO\Filetypes (Windows 7)\Google Drive_ (1).ico
 9c9fe0ab0d58d9d1007a5b28b714c7098ee5d40fab2d7ec60bdd3d314ae5295c  ICO\Filetypes (Windows 7)\Google Drive_ (2).ico
 cce944fe9ea0132c242c9a04c9256a95de99aa73a1badef6152afc86256ed9fe  ICO\Filetypes (Windows 7)\Google Drive_ (3).ico
@@ -672,6 +974,34 @@ b48ef2a7272ecdd09d6470cece152770d0d84ac5c9486c7ade68ca9484d20152  ICO\Filetypes 
 f0743e0649d1af8c27cba7157de5a84351e6058c3b874c71afc8492fd3bba165  ICO\Filetypes (Windows 7)\Google Drive_ (21).ico
 da0fc2ed0eb0fc3a589c9ab3c3075fa9dd7abd15997e157b7f303c914bb9d664  ICO\Filetypes (Windows 7)\Google Drive_ (22).ico
 cbbc52d4646bc69cdb7afd8dabf8b88ddeb48e432cf92111cd42c803f9a8d72d  ICO\Filetypes (Windows 7)\Google Drive_ (23).ico
+6a8670b7fe89b16c7acdd962c738d303d276220f258bf4dc2320904c51535616  ICO\Filetypes (Windows 7)\iexplore_32554.ico
+ed1b12eee21ba9bea11faa3030a82cbc894475ac51841732167fb94965b2411c  ICO\Filetypes (Windows 7)\imageres_2.ico
+2e4d42b71e775557ed04864e02b2a15dd86358f6b660d70531834fcf3b301209  ICO\Filetypes (Windows 7)\imageres_19.ico
+f65f4f04799ae2bf0a2f924baa1901bda9b406feeb767d7cb871e80fd4855f1f  ICO\Filetypes (Windows 7)\imageres_22.ico
+8275f9a6157ffff13de982460f150e3ee170bb19a28118fa4debf66101bb85ce  ICO\Filetypes (Windows 7)\imageres_67.ico
+872f2458a3f054de78d8d16c156fbc3905fabafcf8a675513a0b3376e4ce95c8  ICO\Filetypes (Windows 7)\imageres_69.ico
+92d84078ebda4160e8cc83e81f8f22d1931f28e0f8e28bce1d97587236683635  ICO\Filetypes (Windows 7)\imageres_90.ico
+aa16ba5b8d9662c6a68b082be201d5dfa392ab984b5623f07aa6f47d9e5485bc  ICO\Filetypes (Windows 7)\imageres_102.ico
+4529c69b3ba79de9139b322717cc59afb66ecaa749979e57f6112a93644ad9bb  ICO\Filetypes (Windows 7)\imageres_124.ico
+c5329559d9e906f8e3c1d0bae7283b877b803bd0a14a288ec7cd451392d50232  ICO\Filetypes (Windows 7)\imageres_125.ico
+fa02f44b4bde2121e143985d05d438e8f851d912fc5dd362e8de37ac34863f3d  ICO\Filetypes (Windows 7)\imageres_126.ico
+d005f19223c4f1495db1f839eacd62ace02352fc29f57a489ea5d318d0764865  ICO\Filetypes (Windows 7)\imageres_127.ico
+7290166c1ab549fd062cc604162a10a8db60452b08a03a6e7f42766861d04002  ICO\Filetypes (Windows 7)\imageres_128.ico
+2177ba159d2d27ae7ee8afff589a0936c9094b268da97b8c695eceae2458b823  ICO\Filetypes (Windows 7)\imageres_131.ico
+3d4d2e2586719c0502ae58d0176b9e576a9c55144911909ff8a468d2f0ddc01c  ICO\Filetypes (Windows 7)\imageres_132.ico
+83e99cff2880e7dabc4e7e2754a05c8216118c05b81d2f6d48de7b941752f9f3  ICO\Filetypes (Windows 7)\imageres_133.ico
+86ac086ee11f644b13e6fc8c98dd09b4d61e8f5069f85c7fe4b8004d21b3280b  ICO\Filetypes (Windows 7)\imageres_134.ico
+3ccfbb0c07eb17a3773fecda93e3149d5dfa5e8f1dab7dabaaf686b7b6032290  ICO\Filetypes (Windows 7)\imageres_158.ico
+fd5de40a19a2f1e172391c2c18ee5b9c3181b915d15a7a55aa2e39c60971e1ba  ICO\Filetypes (Windows 7)\imageres_159.ico
+ab70e275ba22729d28baafc1027d31864918123c245a980c365a77a15a59fc9d  ICO\Filetypes (Windows 7)\imageres_160.ico
+3808fa485bd9d7664d7122010ab15018764498d063f8d950b16b623a3ccdce28  ICO\Filetypes (Windows 7)\Journal_105.ico
+6ab0d0159d6f296cf30296a3a707b0279acc4ed856594bf04ae10ae402136728  ICO\Filetypes (Windows 7)\Journal_127.ico
+bc4965c27a42a22a35a66a964fda8fe32e8260d21e773cdc8e753404e9e9a4c8  ICO\Filetypes (Windows 7)\MSOERES_19.ico
+79763637ea77e68e392d67ee5deb4fe57eafa9b23a4ca703c407a6875de81793  ICO\Filetypes (Windows 7)\MSOERES_20.ico
+332b00ddae7b36406c8df94995894105ec668672e5426e654c08278da1b7a667  ICO\Filetypes (Windows 7)\wmplayer_120.ico
+92d84078ebda4160e8cc83e81f8f22d1931f28e0f8e28bce1d97587236683635  ICO\Filetypes (Windows 7)\wordpad_154.ico
+281b75af96cc74a501b2e0daf1bbb2f950289540ef45e5b30115f82813095fd8  ICO\Filetypes (Windows 7)\wordpad_156.ico
+13b5bba76c996dd984cf653cf29a600ffcc26720fbd669f0e966c9a1ac91101e  ICO\Filetypes (Windows 7)\wordpad_157.ico
 67f5f162337124b498aada9ff2591bc28cb5f1babad2aa8b8a3694de08bef4a6  ICO\Filetypes (Windows 10)\00. 7Z.ico
 85279cee8b1ab6d2497bcd93964be65a542d40a77d9cdf2d62f69d8772684180  ICO\Filetypes (Windows 10)\01. ZIP.ico
 a42b99e961b41e3df958a21b689fd7fad668de3074dc708b7015950c15163a5c  ICO\Filetypes (Windows 10)\02. BZ2+BZIP2+TBZ2+TBZ.ico
@@ -730,11 +1060,33 @@ fa0ba2c6d5dc7907a6dbc02983eafcde854a61ec9505a0d8c34c1adfdaef94c8  ICO\Filetypes 
 bbc41ba3db8c9cb1dd6731e85a56dd2acc5cdbbec8e0836232283bd18ecae446  ICO\Filetypes (Windows 11)\shell32_148.ico
 1a66b6161bf5ea4cef5d310126741bb66ef351758973910a969146c156909761  ICO\Filetypes (Windows 11)\shell32_16777.ico
 476d234bd6e19d02b648235c7d0933d2cfb81f414d416b0dc270fcc9a153c6fb  ICO\Filetypes (Windows 11)\Winamp.ico
-ed1ce86ebac89acfb65a59d2702d11c6bd80816e291df5fcf0717bf890aa8e81  ICO\Filetypes (Windows XP)\Disk Image File.ico
-7c00a20e50b8ffa1a7687a43aa34acb8d595d492daa90ecc0a348926bf1e369d  ICO\Filetypes (Windows XP)\File.ico
-3aa9c46b62d5d55c1f0c7c741ae2565dffd1bf3dc7069f2871e6acc2d99dbd8e  ICO\Filetypes (Windows XP)\List File.ico
-293fae5bf69db3c65880d9186e6eeb31d7f320cb6b5967305fbd9676ad8bd7c8  ICO\Filetypes (Windows XP)\Music File.ico
-9e331ca6b6ec09db2d9a76272433ff06bb887baa38b2cad50e6f86eda701934f  ICO\Filetypes (Windows XP)\Video File.ico
+91255dc8a236daadaf72b92e972b9d15129515e6a3a8e864c318fc230bff7fc6  ICO\Filetypes (Windows XP)\CSS.ico
+de9999ff37de8dd3a31a2cfc3b9ca844d9bd9d67fb01eb8712697825a6e2cc5a  ICO\Filetypes (Windows XP)\Defaut.ico
+09047d3fd0574c68ea192c592d73da4f2b571f4baf960e5c94c4b071afb846e7  ICO\Filetypes (Windows XP)\Disk Image File.ico
+f234dc032cbc878d2f5af67e601acbd68b26f0a9aff111af867633ca07733c9f  ICO\Filetypes (Windows XP)\DLL.ico
+b26b548e9c55b30d011e6f4cd205c332968427e2965fffcdc00695f57d99f092  ICO\Filetypes (Windows XP)\File.ico
+b0366d00b227541d2424123b2d0cf27513e7ba89a298990ee794ffb20fc33208  ICO\Filetypes (Windows XP)\Font_ FON (2).ico
+7ff5d75d54d47542d57fb985166993879a94a4af7d0c10292402b0d60695b3b0  ICO\Filetypes (Windows XP)\Font_ FON (3).ico
+c5422092915bdbfe9dabbbef5ed8009c3ba8efc0658add71365df9e3dada0188  ICO\Filetypes (Windows XP)\Font_ FON.ico
+b48a6c0dc320e6ed2bc81ce03820412bb2297dd780110d808761d368bab095f4  ICO\Filetypes (Windows XP)\Font_ TTC.ico
+204aa1ccb21c5cf2a364063b26b90471b6261e4be3b670847a2378e524b4a2ca  ICO\Filetypes (Windows XP)\Font_ TTF.ico
+6550bc0e3652f3d00df34a4be908a4877bb3b34b09f4ff57d997bdc677266492  ICO\Filetypes (Windows XP)\HLP.ico
+c30639b806b55283aad8a10a0131c323fc79383206e1a9b873e171b36ba804d9  ICO\Filetypes (Windows XP)\HTML.ico
+30995eefb525f0da6000a385759bdb058adad352c987709bcedb206ed61c780c  ICO\Filetypes (Windows XP)\JS.ico
+d7d33365523b9a85963f12b2742d52068095ec35e6d6dc63e6e191923c45bf5f  ICO\Filetypes (Windows XP)\Music.ico
+c455847eb16ea50dea8c3f04921a0788ca86fa0bf6764cd626b6c4c08f3fccc4  ICO\Filetypes (Windows XP)\Picture_ BMP.ico
+317bb17795715bec8ef8b02724f97ccb60c50fec0093f1b25fdd5616579cf71e  ICO\Filetypes (Windows XP)\Picture_ GIF.ico
+59d86152c97e5ecda1e537d51e5048ea9aa5bcfa9539ccd1818b90221bbdeadf  ICO\Filetypes (Windows XP)\Picture_ JPG.ico
+bc9a889a97e22ef64a109a49a94c7e7dd946e1e125291631b5bd42aaca0ea367  ICO\Filetypes (Windows XP)\Picture_ TIFF.ico
+a6cd4788c0f6fc80264eb66bca673aba6c963b107e075865862385451e26204a  ICO\Filetypes (Windows XP)\Regedit.ico
+7f2ae9e0372ebcca8f5323ddd72af9af33884f804ac6bfa9f915b6d1477d53d4  ICO\Filetypes (Windows XP)\Search.ico
+32c883205ca06b9c7013554211692ca460619f2a2d08f10e87bb7282d9e2770c  ICO\Filetypes (Windows XP)\THEME.ico
+28204385f6857953cbf72e45621b8f210956600400b06554509fcfd977650ce9  ICO\Filetypes (Windows XP)\TMP.ico
+64e97a14338226312d6d401a05585855edf8bb9842e02a7bb348e2cc91aa54be  ICO\Filetypes (Windows XP)\TXT.ico
+d53173374a8a54869920b2a1327ff49bf9886c60f369d44742a8203c09d7fb9f  ICO\Filetypes (Windows XP)\Video.ico
+0e286c9cca5a4fe3b6735448487b718df9c94e1c2ab67298fe57d4fa800af90d  ICO\Filetypes (Windows XP)\WRI.ico
+148a96bb70b13b3b5972c2fcebf32c7e0f7a74250d24fa5b36245aa4f583d98c  ICO\Filetypes (Windows XP)\XML.ico
+74aa86cb513cb05ae4183e2f4b128848b45343210480415702f84d4c89b3dbba  ICO\Filetypes (Windows XP)\XSL.ico
 dbde05b8b789284aabe39b3625841f961828a4a5306844799eb147c49171e4ed  ICO\Folder (Windows 7)\Contacts.ico
 d860fa826a5412264292f028716d0cc935dd9372d2b7e6d9716a5adf94c7fef5  ICO\Folder (Windows 7)\Desktop.ico
 f24777b7a3cd3cc1045406eff195fa43faa5ec7a312c3e1a8a2005cdf438776e  ICO\Folder (Windows 7)\Documents.ico
@@ -7706,9 +8058,15 @@ fedb98f896d72c7fb40e06c9cc01596bf979364f6d25eb1e0c061b8029c9c6ac  ICO\Folder (Wi
 4f9102757d83b2aa8d080c74546b2c076dc8c558e4cc72030dc14f06fd45e456  ICO\Folder (Windows Vista)\Other\Videos.ico
 bd39747443c77607f55ab02fe5d7ee50cc4690d452bec61aee7529f499fd4a3f  ICO\Folder (Windows XP)\Desktop.ico
 90b28f94f97956a645407b061fb38b7a3405735f6a3e507d9d5eb4accdbd097a  ICO\Folder (Windows XP)\Documents.ico
+c4bdcd952eea85d5995f3796545700a792cf041afb3cc4b2ad60c9dcb6376522  ICO\Folder (Windows XP)\Downloaded Program Files 2.ico
 0350b85b3f1776de25b0bc2ef93406680421d01a77279be99ec25cafc410fb17  ICO\Folder (Windows XP)\Downloads.ico
 119f19c409eac8f73629b2fd1f0bf495055ce92a16386bb94de3a54dcc46d30b  ICO\Folder (Windows XP)\Folder.ico
+fc394e586f5fc6a2ad86bc83627d05ab1cdb6176e40b35ea2a51ab32d5e82a34  ICO\Folder (Windows XP)\Fonts.ico
 bc3603f1b3c6e7396cd45d75c2f36b8b8674b30059bd8c8310862bf01284900d  ICO\Folder (Windows XP)\Music.ico
+0035ba3226f01023516397e3541e06368169c42894ac1c02f2ccc95c78befa08  ICO\Folder (Windows XP)\My Pictures 2.ico
+1a4beee19f1a4ac4f4e5ef0a223b0c4079b9e47e46600cac61994d780bd6f1ed  ICO\Folder (Windows XP)\My Tasks.ico
+6080166030916102a20ed65d2f83bb9a58205c5cf878bcca25510840f0aea701  ICO\Folder (Windows XP)\My Uploads.ico
+98b1775a87484a207ec90bcb612fa1d82a120b548f4b4773407d2299348324c8  ICO\Folder (Windows XP)\New Folder.ico
 2e835dd8aeca06c6542bb75422cb1c6d8e20ae9b3785c42187a201ed4a2e4dfc  ICO\Folder (Windows XP)\Pictures.ico
 3b470ab9d06542205c4a58549641d55d9ff8a4220a13f826044f826bec80e27b  ICO\Folder (Windows XP)\Videos.ico
 612b54ea67760e5ee3a2192c3baf02a760d7dada9017a0e0ba7ea4ac8f571ef1  ICO\Library (Windows 11)\Documents.ico

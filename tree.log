@@ -549,7 +549,276 @@
     |           Visual Studio Code.ico
     |           
     +---Apps (Windows 7)
+    |       accessibilitycpl_1.ico
+    |       accessibilitycpl_320.ico
+    |       accessibilitycpl_321.ico
+    |       accessibilitycpl_322.ico
+    |       accessibilitycpl_323.ico
+    |       accessibilitycpl_324.ico
+    |       accessibilitycpl_325.ico
+    |       accessibilitycpl_326.ico
+    |       accessibilitycpl_327.ico
+    |       accessibilitycpl_328.ico
+    |       accessibilitycpl_329.ico
+    |       accessibilitycpl_336.ico
+    |       accessibilitycpl_338.ico
+    |       accessibilitycpl_339.ico
+    |       accessibilitycpl_340.ico
+    |       ActionCenterCPL_5.ico
+    |       ActionCenter_1.ico
+    |       ActionCenter_2.ico
+    |       ActionCenter_3.ico
+    |       ActionCenter_4.ico
+    |       appwiz_1507.ico
+    |       appwiz_251.ico
+    |       audiosrv_203.ico
+    |       AuthFWGP_100.ico
+    |       baaupdate_1.ico
+    |       bckgRes_1009.ico
+    |       Chess_128.ico
+    |       ChkrRes_1009.ico
+    |       cmd_IDI_APPICON.ico
+    |       dsuiext_4137.ico
+    |       DVDMaker_128.ico
+    |       DXPTaskRingtone_50.ico
+    |       DxpTaskSync_50.ico
+    |       DxpTaskSync_52.ico
+    |       DxpTaskSync_53.ico
+    |       DxpTaskSync_60.ico
+    |       DxpTaskSync_61.ico
+    |       DxpTaskSync_62.ico
+    |       ehres_1.ico
+    |       ehres_EHTRAY.ICON.SHUTDOWN.ico
+    |       explorer_259.ico
+    |       explorer_ICO_MYCOMPUTER.ico
+    |       Faultrep_5201.ico
+    |       FreeCell_121.ico
+    |       Hearts_108.ico
+    |       iexplore_32528.ico
+    |       iexplore_32529.ico
+    |       iexplore_7.ico
+    |       imageres_10.ico
+    |       imageres_100.ico
+    |       imageres_1001.ico
+    |       imageres_1002.ico
+    |       imageres_1003.ico
+    |       imageres_1004.ico
+    |       imageres_1005.ico
+    |       imageres_1008.ico
+    |       imageres_101.ico
+    |       imageres_1013.ico
+    |       imageres_1014.ico
+    |       imageres_1015.ico
+    |       imageres_1017.ico
+    |       imageres_1018.ico
+    |       imageres_1020.ico
+    |       imageres_1021.ico
+    |       imageres_1022.ico
+    |       imageres_1024.ico
+    |       imageres_1025.ico
+    |       imageres_1026.ico
+    |       imageres_1027.ico
+    |       imageres_1029.ico
+    |       imageres_103.ico
+    |       imageres_1030.ico
+    |       imageres_1031.ico
+    |       imageres_1032.ico
+    |       imageres_1033.ico
+    |       imageres_1034.ico
+    |       imageres_1035.ico
+    |       imageres_1036.ico
+    |       imageres_1037.ico
+    |       imageres_104.ico
+    |       imageres_105.ico
+    |       imageres_106.ico
+    |       imageres_107.ico
+    |       imageres_108.ico
+    |       imageres_109.ico
+    |       imageres_110.ico
+    |       imageres_111.ico
+    |       imageres_112.ico
+    |       imageres_113.ico
+    |       imageres_114.ico
+    |       imageres_115.ico
+    |       imageres_116.ico
+    |       imageres_117.ico
+    |       imageres_120.ico
+    |       imageres_122.ico
+    |       imageres_123.ico
+    |       imageres_129.ico
+    |       imageres_130.ico
+    |       imageres_14.ico
+    |       imageres_143.ico
+    |       imageres_144.ico
+    |       imageres_145.ico
+    |       imageres_146.ico
+    |       imageres_147.ico
+    |       imageres_148.ico
+    |       imageres_149.ico
+    |       imageres_15.ico
+    |       imageres_150.ico
+    |       imageres_151.ico
+    |       imageres_152.ico
+    |       imageres_157.ico
+    |       imageres_161.ico
+    |       imageres_162.ico
+    |       imageres_163.ico
+    |       imageres_164.ico
+    |       imageres_165.ico
+    |       imageres_166.ico
+    |       imageres_167.ico
+    |       imageres_168.ico
+    |       imageres_169.ico
+    |       imageres_17.ico
+    |       imageres_171.ico
+    |       imageres_174.ico
+    |       imageres_175.ico
+    |       imageres_176.ico
+    |       imageres_177.ico
+    |       imageres_178.ico
+    |       imageres_179.ico
+    |       imageres_18.ico
+    |       imageres_180.ico
+    |       imageres_181.ico
+    |       imageres_182.ico
+    |       imageres_183.ico
+    |       imageres_184.ico
+    |       imageres_185.ico
+    |       imageres_186.ico
+    |       imageres_189.ico
+    |       imageres_190.ico
+    |       imageres_191.ico
+    |       imageres_192.ico
+    |       imageres_193.ico
+    |       imageres_194.ico
+    |       imageres_195.ico
+    |       imageres_196.ico
+    |       imageres_197.ico
+    |       imageres_20.ico
+    |       imageres_21.ico
+    |       imageres_23.ico
+    |       imageres_24.ico
+    |       imageres_25.ico
+    |       imageres_26.ico
+    |       imageres_27.ico
+    |       imageres_28.ico
+    |       imageres_29.ico
+    |       imageres_3.ico
+    |       imageres_30.ico
+    |       imageres_31.ico
+    |       imageres_33.ico
+    |       imageres_34.ico
+    |       imageres_37.ico
+    |       imageres_45.ico
+    |       imageres_46.ico
+    |       imageres_47.ico
+    |       imageres_48.ico
+    |       imageres_49.ico
+    |       imageres_5.ico
+    |       imageres_50.ico
+    |       imageres_51.ico
+    |       imageres_52.ico
+    |       imageres_53.ico
+    |       imageres_54.ico
+    |       imageres_55.ico
+    |       imageres_57.ico
+    |       imageres_58.ico
+    |       imageres_59.ico
+    |       imageres_6.ico
+    |       imageres_60.ico
+    |       imageres_61.ico
+    |       imageres_65.ico
+    |       imageres_66.ico
+    |       imageres_68.ico
+    |       imageres_73.ico
+    |       imageres_74.ico
+    |       imageres_75.ico
+    |       imageres_76.ico
+    |       imageres_77.ico
+    |       imageres_78.ico
+    |       imageres_8.ico
+    |       imageres_80.ico
+    |       imageres_81.ico
+    |       imageres_82.ico
+    |       imageres_84.ico
+    |       imageres_85.ico
+    |       imageres_86.ico
+    |       imageres_87.ico
+    |       imageres_88.ico
+    |       imageres_9.ico
+    |       imageres_91.ico
+    |       imageres_92.ico
+    |       imageres_93.ico
+    |       imageres_94.ico
+    |       imageres_95.ico
+    |       imageres_96.ico
+    |       imageres_97.ico
+    |       imageres_98.ico
+    |       imageres_99.ico
+    |       imageres_SHIDI_SHIELD_INTERNAL.ico
+    |       imagesp1_200.ico
+    |       imagesp1_201.ico
+    |       imagesp1_208.ico
+    |       Journal_104.ico
+    |       Mahjong_102.ico
+    |       MineSweeper_110.ico
+    |       MineSweeper_111.ico
+    |       MoreGames_IDI_MOREGAMES.ico
+    |       msgsres_1.ico
+    |       MsMpRes_103.ico
+    |       MSOERES_15.ico
+    |       MSOERES_2.ico
+    |       mspaint_2.ico
+    |       netcenter_1.ico
+    |       netcenter_11.ico
+    |       netcenter_12.ico
+    |       netcenter_14.ico
+    |       netcenter_15.ico
+    |       netcenter_16.ico
+    |       netcenter_17.ico
+    |       netcenter_18.ico
+    |       netcenter_19.ico
+    |       netcenter_22.ico
+    |       netcenter_23.ico
+    |       netcenter_28.ico
+    |       netcenter_504.ico
+    |       netcenter_506.ico
+    |       netcenter_6.ico
+    |       netcenter_7.ico
+    |       netcenter_8.ico
+    |       notepad_2.ico
+    |       Picture_ BMP.ico
+    |       Picture_ GIF.ico
+    |       Picture_ JPG.ico
+    |       Picture_ PNG.ico
+    |       powercfg_202.ico
+    |       powershell_ise_0.ico
+    |       powershell_ise_1.ico
+    |       powershell_MSH_MAIN.ico
+    |       powershell_MSH_SECURITY.ico
+    |       PurblePlace_102.ico
+    |       shell32_157.ico
+    |       shell32_16.ico
+    |       shell32_16715.ico
+    |       shell32_16784.ico
+    |       shell32_16785.ico
+    |       shell32_16786.ico
+    |       shell32_271.ico
+    |       shell32_292.ico
+    |       ShvlRes_1009.ico
+    |       sidebar_100.ico
+    |       sidebar_103.ico
+    |       Solitaire_108.ico
+    |       SpiderSolitaire_108.ico
     |       Windows Explorer.ico
+    |       WLXPhotoAcq_1075.ico
+    |       WLXPhotoAcq_1076.ico
+    |       WLXPhotoAcq_1077.ico
+    |       WLXPhotoAcq_1081.ico
+    |       WLXPhotoLibraryResources_238.ico
+    |       WMPDMC_107.ico
+    |       wmplayer_IDR_MAINFRAME.ico
+    |       wordpad_128.ico
     |       
     +---Apps (Windows 8)
     |   |   Calculator.ico
@@ -622,6 +891,33 @@
     |       ICON16768_1.ico
     |       ICON5329_1.ico
     |       Unknown.ico
+    |       
+    +---Disk (Windows 7)
+    |       imageres_135.ico
+    |       imageres_136.ico
+    |       imageres_137.ico
+    |       imageres_138.ico
+    |       imageres_139.ico
+    |       imageres_140.ico
+    |       imageres_141.ico
+    |       imageres_142.ico
+    |       imageres_155.ico
+    |       imageres_172.ico
+    |       imageres_173.ico
+    |       imageres_38.ico
+    |       imageres_39.ico
+    |       imageres_40.ico
+    |       imageres_41.ico
+    |       imageres_56.ico
+    |       imageres_62.ico
+    |       imageres_63.ico
+    |       imageres_64.ico
+    |       imagesp1_202.ico
+    |       imagesp1_203.ico
+    |       imagesp1_204.ico
+    |       imagesp1_205.ico
+    |       imagesp1_206.ico
+    |       imagesp1_207.ico
     |       
     +---Drive (Windows 10)
     |       Disk Cleanup.ico
@@ -713,6 +1009,12 @@
     +---Drive (Windows 7)
     |       Disk Cleanup.ico
     |       Drive Search.ico
+    |       imageres_32.ico
+    |       imageres_35.ico
+    |       imageres_36.ico
+    |       imageres_42.ico
+    |       imageres_43.ico
+    |       imageres_44.ico
     |       Locked Drive.ico
     |       
     +---Filetypes (Windows 10)
@@ -778,6 +1080,8 @@
     |       Winamp.ico
     |       
     +---Filetypes (Windows 7)
+    |       DVDMaker_440.ico
+    |       ehres_2.ico
     |       Google Drive_ (1).ico
     |       Google Drive_ (10).ico
     |       Google Drive_ (11).ico
@@ -801,13 +1105,63 @@
     |       Google Drive_ (7).ico
     |       Google Drive_ (8).ico
     |       Google Drive_ (9).ico
+    |       iexplore_32554.ico
+    |       imageres_102.ico
+    |       imageres_124.ico
+    |       imageres_125.ico
+    |       imageres_126.ico
+    |       imageres_127.ico
+    |       imageres_128.ico
+    |       imageres_131.ico
+    |       imageres_132.ico
+    |       imageres_133.ico
+    |       imageres_134.ico
+    |       imageres_158.ico
+    |       imageres_159.ico
+    |       imageres_160.ico
+    |       imageres_19.ico
+    |       imageres_2.ico
+    |       imageres_22.ico
+    |       imageres_67.ico
+    |       imageres_69.ico
+    |       imageres_90.ico
+    |       Journal_105.ico
+    |       Journal_127.ico
+    |       MSOERES_19.ico
+    |       MSOERES_20.ico
+    |       wmplayer_120.ico
+    |       wordpad_154.ico
+    |       wordpad_156.ico
+    |       wordpad_157.ico
     |       
     +---Filetypes (Windows XP)
+    |       CSS.ico
+    |       Defaut.ico
     |       Disk Image File.ico
+    |       DLL.ico
     |       File.ico
-    |       List File.ico
-    |       Music File.ico
-    |       Video File.ico
+    |       Font_ FON (2).ico
+    |       Font_ FON (3).ico
+    |       Font_ FON.ico
+    |       Font_ TTC.ico
+    |       Font_ TTF.ico
+    |       HLP.ico
+    |       HTML.ico
+    |       JS.ico
+    |       Music.ico
+    |       Picture_ BMP.ico
+    |       Picture_ GIF.ico
+    |       Picture_ JPG.ico
+    |       Picture_ TIFF.ico
+    |       Regedit.ico
+    |       Search.ico
+    |       THEME.ico
+    |       TMP.ico
+    |       TXT.ico
+    |       Video.ico
+    |       WRI.ico
+    |       XML.ico
+    |       XSL.ico
     |       
     +---Folder (Windows 10)
     |   |   3D Objects.ico
@@ -7991,9 +8345,15 @@
     +---Folder (Windows XP)
     |       Desktop.ico
     |       Documents.ico
+    |       Downloaded Program Files 2.ico
     |       Downloads.ico
     |       Folder.ico
+    |       Fonts.ico
     |       Music.ico
+    |       My Pictures 2.ico
+    |       My Tasks.ico
+    |       My Uploads.ico
+    |       New Folder.ico
     |       Pictures.ico
     |       Videos.ico
     |       
