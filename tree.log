@@ -1,5 +1,6 @@
 .
 |   .gitignore
+|   checksums.blake3
 |   Preview.png
 |   README.md
 |   tree.log
@@ -378,20 +379,35 @@
     |   |       
     |   +---Adobe
     |   |   +---App
-    |   |   |       Acrobat Distiller.ico
-    |   |   |       Acrobat Reader.ico
-    |   |   |       Audition.ico
+    |   |   |   |   Adobe.ico
+    |   |   |   |   Audition.ico
+    |   |   |   |   Bridge.ico
+    |   |   |   |   Illustrator.ico
+    |   |   |   |   Photoshop.ico
+    |   |   |   |   
+    |   |   |   +---Acrobat
+    |   |   |   |       Acrobat Distiller.ico
+    |   |   |   |       Acrobat Reader.ico
+    |   |   |   |       
+    |   |   |   +---Creative Cloud
+    |   |   |   |       Creative Cloud 1.ico
+    |   |   |   |       Creative Cloud 2.ico
+    |   |   |   |       
+    |   |   |   +---In
+    |   |   |   |       InCopy.ico
+    |   |   |   |       InDesign.ico
+    |   |   |   |       
+    |   |   |   +---Premiere
+    |   |   |   |       Premiere Pro.ico
+    |   |   |   |       Premiere Rush.ico
+    |   |   |   |       
+    |   |   |   \---z Old
+    |   |   |           Media Encoder.ico
+    |   |   |           
+    |   |   +---App (Beta)
     |   |   |       Beta Premiere Elements.ico
     |   |   |       Beta Premiere Pro.ico
     |   |   |       Beta Premiere Rush.ico
-    |   |   |       Bridge.ico
-    |   |   |       Illustrator.ico
-    |   |   |       InCopy.ico
-    |   |   |       InDesign.ico
-    |   |   |       Photoshop.ico
-    |   |   |       Premiere Elements.ico
-    |   |   |       Premiere Pro.ico
-    |   |   |       Premiere Rush.ico
     |   |   |       
     |   |   +---Book
     |   |   |       InDesign INDB.ico
@@ -432,9 +448,6 @@
     |   |   |       Acrobat.ico
     |   |   |       After Effects.ico
     |   |   |       Audition.ico
-    |   |   |       Beta Character Animator.ico
-    |   |   |       Beta Media Encoder.ico
-    |   |   |       Beta Premiere Pro.ico
     |   |   |       Bridge.ico
     |   |   |       Character Animator.ico
     |   |   |       InDesign.ico
@@ -444,17 +457,55 @@
     |   |   |       Plugin Photoshop.ico
     |   |   |       Premiere Pro.ico
     |   |   |       
-    |   |   +---Package
-    |   |   |       After Effects.ico
-    |   |   |       Audition.ico
+    |   |   +---Folder (Beta)
     |   |   |       Beta Character Animator.ico
     |   |   |       Beta Media Encoder.ico
     |   |   |       Beta Premiere Pro.ico
-    |   |   |       Character Animator.ico
-    |   |   |       InDesign.ico
-    |   |   |       Media Encoder.ico
-    |   |   |       Photoshop.ico
-    |   |   |       Premiere Pro.ico
+    |   |   |       
+    |   |   +---Package
+    |   |   |   |   Acrobat.ico
+    |   |   |   |   After Effects.ico
+    |   |   |   |   Animate.ico
+    |   |   |   |   Audition.ico
+    |   |   |   |   Bridge.ico
+    |   |   |   |   Character Animator.ico
+    |   |   |   |   Creative Cloud.ico
+    |   |   |   |   Dimension.ico
+    |   |   |   |   Dreamweaver.ico
+    |   |   |   |   Fresco.ico
+    |   |   |   |   Media Encoder.ico
+    |   |   |   |   
+    |   |   |   +---In
+    |   |   |   |       InCopy.ico
+    |   |   |   |       InDesign.ico
+    |   |   |   |       
+    |   |   |   +---Lightroom
+    |   |   |   |       Lightroom Classic.ico
+    |   |   |   |       Lightroom.ico
+    |   |   |   |       
+    |   |   |   +---Photoshop
+    |   |   |   |       Photoshop Express.ico
+    |   |   |   |       Photoshop.ico
+    |   |   |   |       
+    |   |   |   +---Premiere
+    |   |   |   |       Premiere Pro.ico
+    |   |   |   |       Premiere Rush.ico
+    |   |   |   |       
+    |   |   |   +---Substance 3D
+    |   |   |   |       Substance 3D Designer.ico
+    |   |   |   |       Substance 3D Modeler.ico
+    |   |   |   |       Substance 3D Painter.ico
+    |   |   |   |       Substance 3D Sampler.ico
+    |   |   |   |       Substance 3D Stager.ico
+    |   |   |   |       
+    |   |   |   \---z Old
+    |   |   |           Package Adobe.ico
+    |   |   |           
+    |   |   +---Package (Beta)
+    |   |   |       Beta Aero.ico
+    |   |   |       Beta Character Animator.ico
+    |   |   |       Beta Media Encoder.ico
+    |   |   |       Beta Premiere Pro.ico
     |   |   |       
     |   |   +---Paper
     |   |   |       Dreamweaver.ico
@@ -463,18 +514,9 @@
     |   |   |       InCopy ICMT.ico
     |   |   |       InDesign INDT.ico
     |   |   |       
-    |   |   +---Store
-    |   |   |       ADDR.ico
-    |   |   |       LOC.ico
-    |   |   |       
-    |   |   \---z Other
-    |   |           Adobe2.ico
-    |   |           CC.ico
-    |   |           CC2.ico
-    |   |           IconGroup202.ico
-    |   |           ME.ico
-    |   |           Package Adobe.ico
-    |   |           PS.ico
+    |   |   \---Store
+    |   |           ADDR.ico
+    |   |           LOC.ico
     |   |           
     |   +---Adobe (Windows Style)
     |   |       Adobe After Effects.ico

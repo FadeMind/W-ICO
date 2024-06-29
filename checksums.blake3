@@ -1,7 +1,7 @@
 35e3952377ef67528a49760ed9f8c62bcb12335872f20fa32efb34e38c90fec2  .gitignore
 303ed6acc65e9ace6c6585eec544a3adca9c8544c1810a7ccc751df83add25cc  Preview.png
 ccc354f9535c1714cccbaf9fd3df213e4f7141601f961bf6bfd4459770699377  README.md
-412b565db5c478a8fde441a846fe0f85250c570fa28418772faebf062b03dc13  tree.log
+9aaee3d5540b75d58f90476f1d8bbb338c3d8e46c066c6ebf7f6bb1924ac807d  tree.log
 d1b1181632228c188c14856874570a8f237cc1023a998b23596bbc030ce7c7e2  ICO\Apps (Windows 7)\accessibilitycpl_1.ico
 5491b8271a7b37c19dfccd1d5568ec3abf9f8ff89a16581edaca07599c6a735b  ICO\Apps (Windows 7)\accessibilitycpl_320.ico
 29fc4bc42f0921e5eff7bd7bb79cbb2dd3a9743d97d50655f47163db51845592  ICO\Apps (Windows 7)\accessibilitycpl_321.ico
@@ -655,20 +655,23 @@ b42a01d4feab768dda27f6b8169a81537f5b5e35966b145ef984ef208388a3a4  ICO\Apps (Wind
 6f2f528cbbf7264575417f9eee89dee1616cd60acb818e3a8f798cfc0cff3397  ICO\Apps (Windows 11)\Adobe (Windows Style)\Adobe InDesign.ico
 08e677e5610d1dfeb2c66484f339bff69a745a848d3fc3f3c8741e593c4d6c1a  ICO\Apps (Windows 11)\Adobe (Windows Style)\Adobe Photoshop.ico
 9ed7af2be960eb40f878eb27d7fc1d66fd7ba861084bd8e9fd276ef638f4d36f  ICO\Apps (Windows 11)\Adobe (Windows Style)\Adobe Premiere Pro.ico
-ea157d00166314a8974ad073332aee3a98994b35175e7a4eb75a47b5c565a869  ICO\Apps (Windows 11)\Adobe\App\Acrobat Distiller.ico
-a7146cd10b7763ff5948de63ed313009dce9bad460e4679f8e3b6435db2f2275  ICO\Apps (Windows 11)\Adobe\App\Acrobat Reader.ico
+66eb1b4db23fa590e92a7e448244051fd62722eb709dae93b10075064ee88959  ICO\Apps (Windows 11)\Adobe\App (Beta)\Beta Premiere Elements.ico
+b1e85fdc36d98fd20f3f7d5052b57f33e3cf529b5e58211c2ef011d1efedad02  ICO\Apps (Windows 11)\Adobe\App (Beta)\Beta Premiere Pro.ico
+d4d10c971305b02bb365f037d21ee8bc9f1a1a3191ed659a96ef0480e29f78ac  ICO\Apps (Windows 11)\Adobe\App (Beta)\Beta Premiere Rush.ico
+d5208a5b7b23c723f950b0bd1058b89489243fb86d9f443ddc64a5df5644b9bb  ICO\Apps (Windows 11)\Adobe\App\Adobe.ico
 4d5db84726e65593963281e02e65ebc712a6f747a6231829b267e2b2e9b1b287  ICO\Apps (Windows 11)\Adobe\App\Audition.ico
-66eb1b4db23fa590e92a7e448244051fd62722eb709dae93b10075064ee88959  ICO\Apps (Windows 11)\Adobe\App\Beta Premiere Elements.ico
-b1e85fdc36d98fd20f3f7d5052b57f33e3cf529b5e58211c2ef011d1efedad02  ICO\Apps (Windows 11)\Adobe\App\Beta Premiere Pro.ico
-d4d10c971305b02bb365f037d21ee8bc9f1a1a3191ed659a96ef0480e29f78ac  ICO\Apps (Windows 11)\Adobe\App\Beta Premiere Rush.ico
 3fd947627e58a5efcd88c815828460bc18e5a342451095444affca6e554db284  ICO\Apps (Windows 11)\Adobe\App\Bridge.ico
 8d5b17c8fe58bdd7b7e7d7f48ebab21d4aaf4b9708cd5c272acad6fcff59a492  ICO\Apps (Windows 11)\Adobe\App\Illustrator.ico
-889db6c3abc3c6266c2e2392fe5484c04685c8cb00e5bc904de2f846c92d701c  ICO\Apps (Windows 11)\Adobe\App\InCopy.ico
-da8625295d96a4256248cc9c08619f5187c3c50ef7e665e0ba24310226c536bc  ICO\Apps (Windows 11)\Adobe\App\InDesign.ico
 48786cfb72df5368526587e1e8f1c65f1424a4d6f1638233e9f3e3a81e1df14b  ICO\Apps (Windows 11)\Adobe\App\Photoshop.ico
-e595118efd97349a167ca945ad0b4fe083ba08199a9c076539db0f966596c67c  ICO\Apps (Windows 11)\Adobe\App\Premiere Elements.ico
-03ab03c77cd502a453543932179dbf982019f7180effc0ebb8874bfb1dda2f17  ICO\Apps (Windows 11)\Adobe\App\Premiere Pro.ico
-e595118efd97349a167ca945ad0b4fe083ba08199a9c076539db0f966596c67c  ICO\Apps (Windows 11)\Adobe\App\Premiere Rush.ico
+ea157d00166314a8974ad073332aee3a98994b35175e7a4eb75a47b5c565a869  ICO\Apps (Windows 11)\Adobe\App\Acrobat\Acrobat Distiller.ico
+a7146cd10b7763ff5948de63ed313009dce9bad460e4679f8e3b6435db2f2275  ICO\Apps (Windows 11)\Adobe\App\Acrobat\Acrobat Reader.ico
+570523f811132d857bed54d1ec65ea4e8f00a58c4d8823df2b45fda003efa747  ICO\Apps (Windows 11)\Adobe\App\Creative Cloud\Creative Cloud 1.ico
+aa9f8cff3305bae9671b73089f5bec32a6e0f7ea53502796e9f70b4473b315d1  ICO\Apps (Windows 11)\Adobe\App\Creative Cloud\Creative Cloud 2.ico
+889db6c3abc3c6266c2e2392fe5484c04685c8cb00e5bc904de2f846c92d701c  ICO\Apps (Windows 11)\Adobe\App\In\InCopy.ico
+da8625295d96a4256248cc9c08619f5187c3c50ef7e665e0ba24310226c536bc  ICO\Apps (Windows 11)\Adobe\App\In\InDesign.ico
+03ab03c77cd502a453543932179dbf982019f7180effc0ebb8874bfb1dda2f17  ICO\Apps (Windows 11)\Adobe\App\Premiere\Premiere Pro.ico
+e595118efd97349a167ca945ad0b4fe083ba08199a9c076539db0f966596c67c  ICO\Apps (Windows 11)\Adobe\App\Premiere\Premiere Rush.ico
+f32da41ace60ad557d12812bfa2e659b683397738c4749fcc10c864b202fb270  ICO\Apps (Windows 11)\Adobe\App\z Old\Media Encoder.ico
 b1c4bebc26ebe790e0fded5635ed268b9cb712f4e371ff22491d219af50ec387  ICO\Apps (Windows 11)\Adobe\Book\InDesign INDB.ico
 91d357c5e5572e542febf1c4e09a4198ef8c800a873b0afd3e06fd72c8d8abe8  ICO\Apps (Windows 11)\Adobe\Box\InDesign IDAP.ico
 f8df88ea7563c5e7d9e52017a7ca0db4fac9f67170a76febc376f1eb212160bf  ICO\Apps (Windows 11)\Adobe\Box\InDesign IDML.ico
@@ -696,12 +699,12 @@ d5812f68448e2f991d472e2fcb3f61f42cdfe54d5a510d695fc8b71cb93d31c7  ICO\Apps (Wind
 ed376056ce6a171995719e78c150651694910f1ca5ccfcfb813d71d1f6f075f6  ICO\Apps (Windows 11)\Adobe\File\z XDP.ico
 945862840be62e250d384cab7d92a2c9e1a6add60caff623ef979e767d2db464  ICO\Apps (Windows 11)\Adobe\File\z XFD.ico
 1e351845f292bdf1068b2fa80c6dced97db337849917771a9a4f601e3cd67b62  ICO\Apps (Windows 11)\Adobe\File\z XFDF.ico
+d2865fd40515aa97eeede811728860f9ead9ea5acc9f405938c4936f02cd2156  ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Beta Character Animator.ico
+1992416d4448f506029123014af9f8c51230f7f6bcedd1c471869b2efd47e31e  ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Beta Media Encoder.ico
+d7b793f3bb6995f8191ad5d7608433e02c0d9705384fc55b04e8c9a1dd4d5e87  ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Beta Premiere Pro.ico
 a537236aa7775ef90d034e700fdf7ba0a85defa7d5f058eb37d7f34411061134  ICO\Apps (Windows 11)\Adobe\Folder\Acrobat.ico
 01a4b0d95a3f540f4e9091ea0244bd7a520aa226dc512fc6ab614b96438ec335  ICO\Apps (Windows 11)\Adobe\Folder\After Effects.ico
 99f7f2f544b9ca1518b053167e312c8431781edc34cb6cc5579034b1ffbd91ea  ICO\Apps (Windows 11)\Adobe\Folder\Audition.ico
-d2865fd40515aa97eeede811728860f9ead9ea5acc9f405938c4936f02cd2156  ICO\Apps (Windows 11)\Adobe\Folder\Beta Character Animator.ico
-1992416d4448f506029123014af9f8c51230f7f6bcedd1c471869b2efd47e31e  ICO\Apps (Windows 11)\Adobe\Folder\Beta Media Encoder.ico
-d7b793f3bb6995f8191ad5d7608433e02c0d9705384fc55b04e8c9a1dd4d5e87  ICO\Apps (Windows 11)\Adobe\Folder\Beta Premiere Pro.ico
 78acc34b797489e2849ac1bae42fcbb1cf7dfb832cf97ea6d800a44c5ef9717c  ICO\Apps (Windows 11)\Adobe\Folder\Bridge.ico
 79d4b61bebf0c448870c6c18f8bb98bc6ed3be37f418886dc934635ffcb5bf68  ICO\Apps (Windows 11)\Adobe\Folder\Character Animator.ico
 c2d6fe0e5c10cfb9f6dd31215122508a40f1f846edbcc4f83d71aafed7bdc1bc  ICO\Apps (Windows 11)\Adobe\Folder\InDesign.ico
@@ -710,16 +713,35 @@ cd94c68755ada3fc5f04b4295387030c5bee9738df69d1179661bd9abcec0316  ICO\Apps (Wind
 b46828995a829728f1d744847cf7dd4515d580c654ac865ba734f4fea422ff99  ICO\Apps (Windows 11)\Adobe\Folder\Plugin InDesign.ico
 1a46cd99c34793be817e50c4ad8d423c137065610a479f5e21c1eb9bd81c224f  ICO\Apps (Windows 11)\Adobe\Folder\Plugin Photoshop.ico
 5447e9fd728450c33504459a41ab78d15ae5584911fe736f246f431c6ef14347  ICO\Apps (Windows 11)\Adobe\Folder\Premiere Pro.ico
+4235cd5b146a9b55f0fdc5b0280d0705894633f4e278a990282ea291ccb04fd0  ICO\Apps (Windows 11)\Adobe\Package (Beta)\Beta Aero.ico
+4b8629a167716b2632564a7a453a8a14c9ec15129d8ed12f39d555a79da36a90  ICO\Apps (Windows 11)\Adobe\Package (Beta)\Beta Character Animator.ico
+cdd9be6a2339f5ff788d4988ecf7439dd50942864e643c0f567b932b5f0f8fb0  ICO\Apps (Windows 11)\Adobe\Package (Beta)\Beta Media Encoder.ico
+12a1b2b8f92590352980f967d5e3c383e27c76d71e4c43ea4794757c89f28c81  ICO\Apps (Windows 11)\Adobe\Package (Beta)\Beta Premiere Pro.ico
+70b1db5822cfb7e820b4f4442d803f516fec2f07c5f5cc839aafb25431ec60a6  ICO\Apps (Windows 11)\Adobe\Package\Acrobat.ico
 716a47e057ce29d1dfa7cc349381ddd7097e7300c2d7092c9a280c869a7759a3  ICO\Apps (Windows 11)\Adobe\Package\After Effects.ico
+dc7d8fd37e1a3711889c1d9301843b4ebdf0da6d5083bda9443c246333d912eb  ICO\Apps (Windows 11)\Adobe\Package\Animate.ico
 e666610191ea67fb55bbd2d34f441bed70cd458eeb1685a73a7ad21f4eed2892  ICO\Apps (Windows 11)\Adobe\Package\Audition.ico
-4b8629a167716b2632564a7a453a8a14c9ec15129d8ed12f39d555a79da36a90  ICO\Apps (Windows 11)\Adobe\Package\Beta Character Animator.ico
-cdd9be6a2339f5ff788d4988ecf7439dd50942864e643c0f567b932b5f0f8fb0  ICO\Apps (Windows 11)\Adobe\Package\Beta Media Encoder.ico
-12a1b2b8f92590352980f967d5e3c383e27c76d71e4c43ea4794757c89f28c81  ICO\Apps (Windows 11)\Adobe\Package\Beta Premiere Pro.ico
+942d61ca73c9d17cfc311e1e908f199a47b8bb297fb821a8ffc159ec10197623  ICO\Apps (Windows 11)\Adobe\Package\Bridge.ico
 d052657a92933ab4b0a113ad2adf213f276a170f66c921bd898fc82c4750ac28  ICO\Apps (Windows 11)\Adobe\Package\Character Animator.ico
-447d4dd753deae1547c6573ff62ae0d6ed92648af08c648a74b5d356c036524d  ICO\Apps (Windows 11)\Adobe\Package\InDesign.ico
+e655d98b3055983eac1db65e18399b6ad15714280828ed79126d733ecfd96842  ICO\Apps (Windows 11)\Adobe\Package\Creative Cloud.ico
+5e26c8f386f92abb59f0e41b3349ada97127fcbb6054c9017c38f4b7ca659cc5  ICO\Apps (Windows 11)\Adobe\Package\Dimension.ico
+7a763ad4c58a8ff19bf1324a34098bd74a2b9862ae5cb5ba98f434adb1ee40f2  ICO\Apps (Windows 11)\Adobe\Package\Dreamweaver.ico
+211fc147c3f7e0f549f2eb98faa168adf52a98a0de20ba140b205db9405b03fe  ICO\Apps (Windows 11)\Adobe\Package\Fresco.ico
 70aeb661565f28fe2f12e29afc5d4cd4e2761b82494ccf4904d5a04e5a74cc85  ICO\Apps (Windows 11)\Adobe\Package\Media Encoder.ico
-fced72799ac70d6ed6b986bbbfae538cda72087300ba2e45829922e5bb91310d  ICO\Apps (Windows 11)\Adobe\Package\Photoshop.ico
-c2b310f0af55e0f19a0493bd99c6492351c56998fa390ee060a90bb44273cf25  ICO\Apps (Windows 11)\Adobe\Package\Premiere Pro.ico
+db70a80e60092353fb26a3b6e8898d0afa054e476c48ecb2caba38ca8f6edb07  ICO\Apps (Windows 11)\Adobe\Package\In\InCopy.ico
+447d4dd753deae1547c6573ff62ae0d6ed92648af08c648a74b5d356c036524d  ICO\Apps (Windows 11)\Adobe\Package\In\InDesign.ico
+36fddc60a3be8711ccca47331958156d293958afb658b709ee7d5fa13b829e20  ICO\Apps (Windows 11)\Adobe\Package\Lightroom\Lightroom Classic.ico
+05fa3da462b42076f98c8deb48df3b706873abcd6fd7339b28ab5b9231c9e874  ICO\Apps (Windows 11)\Adobe\Package\Lightroom\Lightroom.ico
+97b9d326ac2218825233234357e1441540e8964e9c69c0a9baf646348356c596  ICO\Apps (Windows 11)\Adobe\Package\Photoshop\Photoshop Express.ico
+fced72799ac70d6ed6b986bbbfae538cda72087300ba2e45829922e5bb91310d  ICO\Apps (Windows 11)\Adobe\Package\Photoshop\Photoshop.ico
+c2b310f0af55e0f19a0493bd99c6492351c56998fa390ee060a90bb44273cf25  ICO\Apps (Windows 11)\Adobe\Package\Premiere\Premiere Pro.ico
+e01e0875ffee5803868a65a753dcb4ad78359f3e06be7893cc359e0a7546efa3  ICO\Apps (Windows 11)\Adobe\Package\Premiere\Premiere Rush.ico
+dc6a624ded90f38d6d36a7c9b020a524ea01dba11c9cff158d9d19ec9ce38e7b  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Designer.ico
+7a3cd4d068e824973c29cae6fa8736cbf0dd106e754b8592c82ec998d7531753  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Modeler.ico
+777270a527669419554355227bb0c73065da16e37316fbd1e2cf8dc9dce520f7  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Painter.ico
+1f8038818bfbb7d49fa184c4daeccebf4fd42a9a5bdc77748f4374b9f5b06248  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Sampler.ico
+e4648f70643cd6e4eba1e60e36578f1c26bf284ebee81f35c343020f1396ffab  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Stager.ico
+04b387d82919aae1193412dfaaecf1822c845082dc99d3a3e9a17a732185379d  ICO\Apps (Windows 11)\Adobe\Package\z Old\Package Adobe.ico
 7ed9c08593f78742ab657439a103d1ca7092fd6bf37336cab1beededb9279cfe  ICO\Apps (Windows 11)\Adobe\Paper\Dreamweaver.ico
 f9a55537124acc4e3154a257694233bc5d731141bb986c5a7a6c2f3287c0beb1  ICO\Apps (Windows 11)\Adobe\Paper\Illustrator.ico
 85a44cc07f704d8b1f1473e8ab13fbee95e14fee0eeb6c4a40c26af26ea0a900  ICO\Apps (Windows 11)\Adobe\Paper\InCopy ICAP.ico
@@ -727,13 +749,6 @@ f9a55537124acc4e3154a257694233bc5d731141bb986c5a7a6c2f3287c0beb1  ICO\Apps (Wind
 7788609f9b547c94bdbc901ec2327a667a72d05e7ce449abafcecb88d361d6b5  ICO\Apps (Windows 11)\Adobe\Paper\InDesign INDT.ico
 de8c8c1b67befa7d59031fe3b270da44eda97dfd363c6e88bfce72bcb30dadfb  ICO\Apps (Windows 11)\Adobe\Store\ADDR.ico
 27165a84b474f5d4443a64907c1770270c736f9ef5aab79605ca1451014a1f6a  ICO\Apps (Windows 11)\Adobe\Store\LOC.ico
-d5208a5b7b23c723f950b0bd1058b89489243fb86d9f443ddc64a5df5644b9bb  ICO\Apps (Windows 11)\Adobe\z Other\Adobe2.ico
-570523f811132d857bed54d1ec65ea4e8f00a58c4d8823df2b45fda003efa747  ICO\Apps (Windows 11)\Adobe\z Other\CC.ico
-aa9f8cff3305bae9671b73089f5bec32a6e0f7ea53502796e9f70b4473b315d1  ICO\Apps (Windows 11)\Adobe\z Other\CC2.ico
-d73d6fb90cf338ea7a74871a1e34fee2473e2dd679c1a53d162a8a9e27e97fe4  ICO\Apps (Windows 11)\Adobe\z Other\IconGroup202.ico
-f32da41ace60ad557d12812bfa2e659b683397738c4749fcc10c864b202fb270  ICO\Apps (Windows 11)\Adobe\z Other\ME.ico
-04b387d82919aae1193412dfaaecf1822c845082dc99d3a3e9a17a732185379d  ICO\Apps (Windows 11)\Adobe\z Other\Package Adobe.ico
-9807a7a21950508a707ee695c3bef03b28304dd457c0b8aa9d1e7abc0e898b25  ICO\Apps (Windows 11)\Adobe\z Other\PS.ico
 223b455b800ed25d59e360ff32a2d9d2355a86b801636115453d86c1c95e0545  ICO\Apps (Windows 11)\Copilot\Copilot Blue.ico
 9ccecf4e0913b473c8b827b7724150ef0a5067ce4851fb65a3a5b15a135fb7e8  ICO\Apps (Windows 11)\Copilot\Copilot Green.ico
 95429fdb1779ef5648846ec17259fc141a17af4c0c12c4165639a0785ce05541  ICO\Apps (Windows 11)\Copilot\Copilot Purple.ico
