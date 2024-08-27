@@ -4499,6 +4499,7 @@
     |   |       discord.ico
     |   |       Dism++.ico
     |   |       docs.ico
+    |   |       documents.ico
     |   |       dolphin-emu.ico
     |   |       dota-2.ico
     |   |       dotos.ico
@@ -4668,6 +4669,7 @@
     |   |       pex.ico
     |   |       phone.ico
     |   |       php.ico
+    |   |       pictures.ico
     |   |       pixel-builds.ico
     |   |       pixel-camera.ico
     |   |       pixel-experience.ico
@@ -4732,7 +4734,6 @@
     |   |       sharex.ico
     |   |       sims.ico
     |   |       sketchup.ico
-    |   |       skp.ico
     |   |       snes.ico
     |   |       sony-alpha.ico
     |   |       sony.ico
@@ -4743,6 +4744,7 @@
     |   |       statix.ico
     |   |       steam.ico
     |   |       stex.ico
+    |   |       study.ico
     |   |       supirioros.ico
     |   |       surface.ico
     |   |       syberia alt.ico
@@ -4796,7 +4798,10 @@
     |   |       4k_youtube_to_mp3.ico
     |   |       7zip.ico
     |   |       9gag.ico
+    |   |       ableton.ico
     |   |       acer_predator.ico
+    |   |       activitypub.ico
+    |   |       actix.ico
     |   |       adobe.ico
     |   |       adobesmile.ico
     |   |       adobe_acrobat.ico
@@ -4854,19 +4859,28 @@
     |   |       adobe_spark-1.ico
     |   |       adobe_spark.ico
     |   |       adobe_stocks.ico
+    |   |       adobe_substance_painter.ico
+    |   |       adobe_substance_sampler.ico
+    |   |       adonis.ico
     |   |       affinity.ico
     |   |       affinity_designer.ico
     |   |       affinity_photo.ico
     |   |       affinity_publisher.ico
+    |   |       ai_script.ico
     |   |       alienware.ico
+    |   |       alpinejs.ico
     |   |       amazon.ico
     |   |       amazon_music.ico
+    |   |       amazon_thinkbox.ico
     |   |       amd.ico
     |   |       amd_storemi.ico
     |   |       android-1.ico
     |   |       android.ico
     |   |       android_10.ico
     |   |       android_11.ico
+    |   |       android_12.ico
+    |   |       android_13.ico
+    |   |       android_14.ico
     |   |       android_developer.ico
     |   |       android_ice_cream_sandwich-1.ico
     |   |       android_ice_cream_sandwich.ico
@@ -4879,19 +4893,31 @@
     |   |       android_oreo-1.ico
     |   |       android_oreo.ico
     |   |       android_pie.ico
+    |   |       android_studio-1.ico
     |   |       android_studio.ico
     |   |       anghami.ico
+    |   |       angular-1.ico
     |   |       angular.ico
+    |   |       anki.ico
+    |   |       ansible.ico
     |   |       aorus.ico
+    |   |       apache_httpd.ico
+    |   |       apollo.ico
     |   |       apple_music-1.ico
     |   |       apple_music.ico
     |   |       apple_podcasts.ico
+    |   |       apps.ico
+    |   |       appwrite.ico
+    |   |       archive.ico
     |   |       arch_linux.ico
+    |   |       arduino.ico
     |   |       artstation.ico
     |   |       aseprite.ico
+    |   |       astro.ico
     |   |       asus_republic_of_gamer.ico
     |   |       asus_tuf-1.ico
     |   |       asus_tuf.ico
+    |   |       atom.ico
     |   |       audacity-1.ico
     |   |       audacity.ico
     |   |       autodesk.ico
@@ -4900,12 +4926,21 @@
     |   |       autodesk_maya.ico
     |   |       autodesk_ravit.ico
     |   |       avermedia.ico
+    |   |       azul.ico
+    |   |       azur.ico
+    |   |       babel.ico
+    |   |       baidu_netdisk.ico
+    |   |       bard.ico
+    |   |       bash.ico
     |   |       bat.ico
     |   |       battle.net.ico
     |   |       benq_zowie.ico
     |   |       bethesda.net.ico
+    |   |       bevy.ico
     |   |       bitdefender.ico
     |   |       bittorrent.ico
+    |   |       bitwig.ico
+    |   |       blackmagic_fusion.ico
     |   |       blender-1.ico
     |   |       blender.ico
     |   |       blizzard.ico
@@ -4916,6 +4951,8 @@
     |   |       blue_screen_of_death_insider-1.ico
     |   |       blue_screen_of_death_insider.ico
     |   |       bookmark.ico
+    |   |       books.ico
+    |   |       bootstrap-1.ico
     |   |       bootstrap.ico
     |   |       brave.ico
     |   |       brawl_stars-1.ico
@@ -4923,17 +4960,27 @@
     |   |       brawl_stars-3.ico
     |   |       brawl_stars.ico
     |   |       briefcase.ico
+    |   |       bsd.ico
     |   |       bullguard.ico
+    |   |       c-1.ico
     |   |       c.ico
     |   |       calibre-1.ico
     |   |       calibre.ico
     |   |       canva.ico
+    |   |       cassandra.ico
+    |   |       castbox.ico
+    |   |       chatgpt.ico
     |   |       chocolatey-1.ico
     |   |       chocolatey-2.ico
     |   |       chocolatey.ico
     |   |       cinema_4d.ico
     |   |       clash_royale.ico
+    |   |       clojure.ico
+    |   |       cloudflare.ico
+    |   |       cmake.ico
     |   |       codeigniter.ico
+    |   |       codepen.ico
+    |   |       coffeescript.ico
     |   |       coin.ico
     |   |       control_panel.ico
     |   |       cordova.ico
@@ -4941,53 +4988,86 @@
     |   |       corel_draw.ico
     |   |       corona_sdk.ico
     |   |       corsair.ico
+    |   |       cplusplus-1.ico
     |   |       cplusplus.ico
+    |   |       crystal.ico
+    |   |       csharp-1.ico
     |   |       csharp.ico
+    |   |       css-1.ico
     |   |       css.ico
+    |   |       d3.ico
+    |   |       dart.ico
+    |   |       davinci_resolve.ico
     |   |       daz3d.ico
     |   |       death_note.ico
+    |   |       debian.ico
     |   |       deemix.ico
     |   |       deepin_os.ico
     |   |       deezer.ico
+    |   |       deno.ico
     |   |       devianart.ico
+    |   |       devto.ico
     |   |       dictionary.ico
     |   |       discord.ico
+    |   |       discord_bots.ico
+    |   |       disney+-1.ico
     |   |       disney+.ico
+    |   |       django-1.ico
     |   |       django.ico
+    |   |       docker.ico
     |   |       dotnet.ico
+    |   |       downloads.ico
     |   |       drawing.ico
     |   |       dribble.ico
     |   |       dropbox.ico
     |   |       duckduckgo.ico
+    |   |       dynamodb.ico
     |   |       ea.ico
     |   |       eatbiscuit.ico
+    |   |       eclipse.ico
     |   |       education.ico
     |   |       education_biology.ico
     |   |       education_chemistry.ico
     |   |       education_language.ico
     |   |       education_mathematics.ico
     |   |       education_physics.ico
+    |   |       electron.ico
     |   |       elementary_os.ico
     |   |       eleven_forum.ico
+    |   |       elixir.ico
+    |   |       emacs.ico
     |   |       ember-1.ico
+    |   |       ember-2.ico
     |   |       ember.ico
+    |   |       emby.ico
+    |   |       emotion.ico
     |   |       emule.ico
     |   |       epic_game_store.ico
     |   |       eset.ico
     |   |       evernote.ico
+    |   |       expressjs.ico
     |   |       facebook.ico
+    |   |       fastapi.ico
+    |   |       fediverse.ico
     |   |       fedora.ico
     |   |       figma-1.ico
     |   |       figma.ico
+    |   |       files-2.ico
     |   |       files.ico
     |   |       finder.ico
+    |   |       firebase.ico
     |   |       firefox.ico
     |   |       flashdisk.ico
+    |   |       flask.ico
     |   |       flickr.ico
     |   |       flutter-1.ico
     |   |       flutter.ico
+    |   |       folder11.ico
     |   |       foliate.ico
     |   |       font.ico
+    |   |       fontforge.ico
+    |   |       forth.ico
+    |   |       fortran.ico
     |   |       framework7.ico
     |   |       free_download_manager.ico
     |   |       gamejolt.ico
@@ -5013,45 +5093,79 @@
     |   |       gamejolt_category-8.ico
     |   |       gamejolt_category-9.ico
     |   |       gamejolt_category.ico
+    |   |       game_maker_studio.ico
+    |   |       garuda_linux-1.ico
+    |   |       garuda_linux-2.ico
+    |   |       garuda_linux.ico
+    |   |       gatsby.ico
     |   |       gdevelop.ico
     |   |       genflix.ico
     |   |       genshin_impact.ico
+    |   |       gerkin.ico
     |   |       getgo_download_manager.ico
     |   |       gigabyte.ico
     |   |       gimp.ico
+    |   |       git-1.ico
     |   |       git.ico
     |   |       github-1.ico
     |   |       github-2.ico
+    |   |       github-3.ico
+    |   |       github-4.ico
     |   |       github.ico
+    |   |       github_actions.ico
     |   |       gitkraken.ico
+    |   |       gitlab.ico
     |   |       gnome.ico
+    |   |       godot-1.ico
+    |   |       godot.ico
+    |   |       godot_engine.ico
     |   |       gog_galaxy.ico
     |   |       gog_games.ico
+    |   |       golang-1.ico
+    |   |       golang.ico
     |   |       google_calendar.ico
     |   |       google_chrome-2.ico
     |   |       google_chrome.ico
     |   |       google_classroom.ico
+    |   |       google_cloud_platform.ico
     |   |       google_contacts.ico
     |   |       google_docs-1.ico
     |   |       google_docs.ico
     |   |       google_drive.ico
     |   |       google_mail.ico
     |   |       google_meet.ico
+    |   |       google_palm.ico
     |   |       google_playstore.ico
     |   |       google_play_games_pc.ico
     |   |       google_sheets.ico
     |   |       google_slide.ico
     |   |       goplay.ico
+    |   |       gradle.ico
+    |   |       grafana.ico
     |   |       graphics.ico
+    |   |       graphql.ico
+    |   |       gtk.ico
+    |   |       gulp.ico
+    |   |       haskell.ico
+    |   |       haxe.ico
+    |   |       haxe_flixel.ico
     |   |       hbo.ico
+    |   |       heroku.ico
+    |   |       hibernate.ico
+    |   |       houdini.ico
     |   |       hp_omen-1.ico
     |   |       hp_omen.ico
+    |   |       html-1.ico
     |   |       html.ico
     |   |       hulu.ico
     |   |       humble.ico
     |   |       hyper.ico
     |   |       hystorical_shogun.ico
     |   |       hystorical_spartan.ico
+    |   |       hyver-v.ico
+    |   |       icloud_drive.ico
+    |   |       icloud_photos.ico
+    |   |       idea.ico
     |   |       inkscape.ico
     |   |       instagram-1.ico
     |   |       instagram.ico
@@ -5061,11 +5175,16 @@
     |   |       iobit-1.ico
     |   |       iobit.ico
     |   |       ionic.ico
+    |   |       ipsf.ico
     |   |       itch.io.ico
+    |   |       java-1.ico
     |   |       java.ico
+    |   |       javascript-1.ico
     |   |       javascript.ico
     |   |       jdownloader.ico
     |   |       jellyfin.ico
+    |   |       jenkins.ico
+    |   |       jest.ico
     |   |       jetbrains.ico
     |   |       jetbrains_academy.ico
     |   |       jetbrains_appcode.ico
@@ -5098,17 +5217,30 @@
     |   |       jetbrains_upsource.ico
     |   |       jetbrains_webstorm.ico
     |   |       jetbrains_youtrack.ico
+    |   |       jquery.ico
     |   |       jquery_mobile.ico
     |   |       json.ico
+    |   |       julia.ico
+    |   |       kafka.ico
     |   |       kali_linux-1.ico
     |   |       kali_linux.ico
     |   |       kaspersky.ico
     |   |       kde.ico
     |   |       keyshot.ico
+    |   |       kicad.ico
+    |   |       kit.ico
+    |   |       knime.ico
+    |   |       kotlin-2.ico
     |   |       kotlin.ico
     |   |       kotlin_android.ico
+    |   |       ktor.ico
+    |   |       kubernetes.ico
     |   |       laravel.ico
+    |   |       latex-1.ico
+    |   |       latex.ico
     |   |       leetcode.ico
+    |   |       lenovo.ico
+    |   |       leonardo.ai.ico
     |   |       libre_office_base_database.ico
     |   |       libre_office_calc_spreedsheet.ico
     |   |       libre_office_draw_drawing.ico
@@ -5116,19 +5248,32 @@
     |   |       libre_office_math_formula.ico
     |   |       libre_office_writer_document.ico
     |   |       lineage_os.ico
+    |   |       linkedin.ico
+    |   |       linux.ico
     |   |       linux_mint.ico
+    |   |       lit.ico
+    |   |       lock.ico
     |   |       locker.ico
     |   |       log.ico
     |   |       logitech.ico
+    |   |       lua.ico
+    |   |       lumion.ico
     |   |       mac_desktop.ico
     |   |       mac_os_bigsur.ico
     |   |       mac_os_monterey.ico
+    |   |       mac_os_ventura.ico
     |   |       manjaro.ico
     |   |       mariadb.ico
+    |   |       markdown-1.ico
     |   |       markdown.ico
+    |   |       mastodon.ico
+    |   |       materialui.ico
+    |   |       matlab.ico
     |   |       maui.ico
+    |   |       maven-1.ico
     |   |       maven.ico
     |   |       mcafee.ico
+    |   |       mcreator.ico
     |   |       media_player_classic.ico
     |   |       mega.ico
     |   |       melonds-1.ico
@@ -5138,12 +5283,21 @@
     |   |       menu_settings.ico
     |   |       messenger-1.ico
     |   |       messenger.ico
+    |   |       microsoft_365-1.ico
+    |   |       microsoft_365-2.ico
+    |   |       microsoft_365.ico
     |   |       microsoft_access-1.ico
     |   |       microsoft_access.ico
     |   |       microsoft_advertising.ico
     |   |       microsoft_authenticator.ico
-    |   |       microsoft_contacs-1.ico
-    |   |       microsoft_contacs.ico
+    |   |       microsoft_azure-1.ico
+    |   |       microsoft_azure.ico
+    |   |       microsoft_contacts-1.ico
+    |   |       microsoft_contacts.ico
+    |   |       microsoft_copilot-1.ico
+    |   |       microsoft_copilot.ico
+    |   |       microsoft_copilot_365-1.ico
+    |   |       microsoft_copilot_365.ico
     |   |       microsoft_cortana.ico
     |   |       microsoft_defender.ico
     |   |       microsoft_dynamics_365_business_central.ico
@@ -5185,6 +5339,7 @@
     |   |       microsoft_project.ico
     |   |       microsoft_publisher-1.ico
     |   |       microsoft_publisher.ico
+    |   |       microsoft_remote_desktop.ico
     |   |       microsoft_sharepoint-1.ico
     |   |       microsoft_sharepoint.ico
     |   |       microsoft_skype.ico
@@ -5202,6 +5357,7 @@
     |   |       microsoft_warehouse_management.ico
     |   |       microsoft_whiteboard.ico
     |   |       microsoft_windows_10.ico
+    |   |       microsoft_windows_11-1.ico
     |   |       microsoft_windows_11.ico
     |   |       microsoft_windows_7.ico
     |   |       microsoft_windows_8.ico
@@ -5210,13 +5366,17 @@
     |   |       microsoft_word.ico
     |   |       microsoft_yammer-1.ico
     |   |       microsoft_yammer.ico
+    |   |       midjourney.ico
     |   |       mindmap.ico
     |   |       mindnode.ico
     |   |       minecraft-1.ico
     |   |       minecraft.ico
+    |   |       minecraft_studio.ico
+    |   |       misskey.ico
     |   |       moddb.ico
     |   |       modo.ico
     |   |       money.ico
+    |   |       mongodb-1.ico
     |   |       mongodb.ico
     |   |       motrix_download_manager.ico
     |   |       mountains.ico
@@ -5229,32 +5389,54 @@
     |   |       music-1.ico
     |   |       music.ico
     |   |       music_indie.ico
+    |   |       mysql-1.ico
     |   |       mysql.ico
+    |   |       nanazip-1.ico
     |   |       nanazip.ico
+    |   |       neovim.ico
+    |   |       nestjs.ico
     |   |       netflix-1.ico
     |   |       netflix.ico
+    |   |       netlify.ico
     |   |       network_server.ico
+    |   |       nextjs.ico
+    |   |       nginx.ico
+    |   |       nim.ico
     |   |       ninja_download_manager.ico
     |   |       nintendo.ico
+    |   |       nintendo_switch-1.ico
     |   |       nintendo_switch.ico
     |   |       nintendo_wii.ico
     |   |       nodejs-1.ico
+    |   |       nodejs-2.ico
     |   |       nodejs.ico
+    |   |       nolimits_central.ico
+    |   |       nolimits_central_modding.ico
     |   |       norton.ico
     |   |       notepad++.ico
     |   |       notepad.ico
     |   |       nuget.ico
+    |   |       nuke.ico
     |   |       nusantara_project.ico
+    |   |       nuxtjs.ico
     |   |       nvidia-1.ico
     |   |       nvidia.ico
     |   |       nyk_nemesis.ico
     |   |       obs.ico
+    |   |       obsidian-1.ico
+    |   |       obsidian-2.ico
+    |   |       obsidian.ico
+    |   |       ocami.ico
+    |   |       octave.ico
     |   |       onedrive-1.ico
     |   |       onedrive.ico
+    |   |       openshift.ico
+    |   |       openstack.ico
     |   |       open_suse.ico
     |   |       opera.ico
     |   |       opera_gx.ico
     |   |       option.ico
+    |   |       options.ico
     |   |       origin.ico
     |   |       osu!.ico
     |   |       paint.ico
@@ -5263,22 +5445,37 @@
     |   |       parrot_os.ico
     |   |       pcloud.ico
     |   |       peazip.ico
+    |   |       perl.ico
     |   |       pewdiepie.ico
     |   |       photoscape.ico
+    |   |       php-1.ico
     |   |       php.ico
     |   |       pictures-1.ico
     |   |       pictures-2.ico
     |   |       pictures.ico
+    |   |       pictures_folder-3.ico
     |   |       pinterest.ico
     |   |       pixelated.ico
+    |   |       plan9.ico
+    |   |       planet_scale.ico
     |   |       playstation.ico
+    |   |       plex.ico
+    |   |       pokemon_beast_ball.ico
+    |   |       pokemon_captain's_ball.ico
+    |   |       pokemon_catch_race_ball.ico
     |   |       pokemon_cherish_ball.ico
+    |   |       pokemon_clone_ball.ico
     |   |       pokemon_dive_ball.ico
     |   |       pokemon_dream_ball.ico
     |   |       pokemon_dusk_ball.ico
     |   |       pokemon_fast_ball.ico
     |   |       pokemon_friend_ball.ico
+    |   |       pokemon_giant_stone_ball.ico
+    |   |       pokemon_glacia's_ball.ico
+    |   |       pokemon_gold_ball.ico
+    |   |       pokemon_great_ball-1.ico
     |   |       pokemon_great_ball.ico
+    |   |       pokemon_green_ball.ico
     |   |       pokemon_gs_ball.ico
     |   |       pokemon_heal_ball.ico
     |   |       pokemon_heavy_ball.ico
@@ -5288,72 +5485,121 @@
     |   |       pokemon_lure_ball-1.ico
     |   |       pokemon_lure_ball.ico
     |   |       pokemon_luxury_ball.ico
+    |   |       pokemon_master_ball-1.ico
+    |   |       pokemon_master_ball-2.ico
     |   |       pokemon_master_ball.ico
     |   |       pokemon_moon_ball.ico
     |   |       pokemon_nest_ball.ico
     |   |       pokemon_net_ball.ico
     |   |       pokemon_park_ball-1.ico
     |   |       pokemon_park_ball.ico
+    |   |       pokemon_pia_chansey_ball.ico
+    |   |       pokemon_pokelantis_ball.ico
     |   |       pokemon_poke_ball.ico
     |   |       pokemon_premier_ball.ico
     |   |       pokemon_quick_ball.ico
     |   |       pokemon_repeat_ball.ico
+    |   |       pokemon_ritchie's_ball.ico
     |   |       pokemon_safari_ball-1.ico
+    |   |       pokemon_safari_ball-2.ico
     |   |       pokemon_safari_ball.ico
     |   |       pokemon_sport_ball.ico
+    |   |       pokemon_strange_ball.ico
+    |   |       pokemon_team_rocket's_ball.ico
     |   |       pokemon_timer_ball.ico
+    |   |       pokemon_transfer_ball.ico
+    |   |       pokemon_typing_ball-1.ico
+    |   |       pokemon_ultra_ball-1.ico
+    |   |       pokemon_ultra_ball-2.ico
     |   |       pokemon_ultra_ball.ico
     |   |       pop_os.ico
     |   |       portableapps.ico
     |   |       portableapps_package-1.ico
     |   |       portableapps_package.ico
     |   |       postgresql.ico
+    |   |       postman.ico
+    |   |       power_shell.ico
     |   |       power_toys.ico
     |   |       prime_gaming.ico
     |   |       prime_video.ico
+    |   |       prisma.ico
+    |   |       processing.ico
     |   |       programmer-1.ico
     |   |       programmer-2.ico
     |   |       programmer-3.ico
+    |   |       programmer-4.ico
     |   |       programmer.ico
     |   |       program_exe.ico
     |   |       program_install.ico
+    |   |       program_manager.ico
+    |   |       prometheus.ico
+    |   |       pug.ico
     |   |       python.ico
+    |   |       pytorch.ico
+    |   |       qbittorent-1.ico
+    |   |       qbittorent-2.ico
     |   |       qbittorent.ico
+    |   |       qt.ico
     |   |       quixel.ico
     |   |       quixel_bridge.ico
     |   |       quixel_megascans.ico
     |   |       quixel_mixer.ico
+    |   |       r.ico
+    |   |       rabbitmq.ico
+    |   |       rails.ico
+    |   |       rasberrypi.ico
     |   |       raspberry.ico
-    |   |       rayzen.ico
     |   |       razer-1.ico
     |   |       razer.ico
     |   |       react.ico
+    |   |       reactivex.ico
     |   |       realtek.ico
     |   |       reddit.ico
+    |   |       redis.ico
+    |   |       redux.ico
+    |   |       regex.ico
+    |   |       remix.ico
+    |   |       replit.ico
     |   |       resource_hacker.ico
     |   |       resurrection_remix.ico
     |   |       rexus.ico
     |   |       riot_games.ico
+    |   |       roblox_studio.ico
+    |   |       rocket.ico
     |   |       rockstar.ico
+    |   |       rollupjs.ico
+    |   |       ros.ico
     |   |       rpcs3.ico
+    |   |       ruby.ico
     |   |       rust-1.ico
+    |   |       rust-2.ico
     |   |       rust.ico
+    |   |       ryzen.ico
     |   |       safari.ico
+    |   |       sass-1.ico
     |   |       sass.ico
+    |   |       scala.ico
+    |   |       schedule.ico
     |   |       Scoop.ico
     |   |       screen_recorder.ico
     |   |       screen_shot.ico
     |   |       sdcard.ico
     |   |       search.ico
     |   |       sega.ico
+    |   |       selenium.ico
+    |   |       sentry.ico
+    |   |       sequelize.ico
     |   |       simplenote.ico
     |   |       sketch-1.ico
     |   |       sketch.ico
     |   |       sketchup.ico
+    |   |       solidity.ico
+    |   |       solidjs.ico
     |   |       souncloud.ico
     |   |       spotify-1.ico
     |   |       spotify.ico
     |   |       spring-1.ico
+    |   |       spring-2.ico
     |   |       spring.ico
     |   |       sqlite.ico
     |   |       ssd_nvme.ico
@@ -5362,57 +5608,100 @@
     |   |       steam.ico
     |   |       sticky_notes.ico
     |   |       streamlabs.ico
+    |   |       styled-components.ico
     |   |       sublime_text.ico
+    |   |       supabase.ico
     |   |       supercell.ico
+    |   |       svelte.ico
+    |   |       svg.ico
+    |   |       swift-1.ico
     |   |       swift.ico
     |   |       symfony-1.ico
+    |   |       symfony-2.ico
     |   |       symfony.ico
+    |   |       syncthing.ico
     |   |       system_monitor.ico
+    |   |       taaghche.ico
+    |   |       tailwind_css.ico
     |   |       tar.gz.ico
     |   |       task_manager.ico
+    |   |       tauri.ico
     |   |       telegram-1.ico
     |   |       telegram.ico
+    |   |       telegram_premium.ico
+    |   |       tensor_flow.ico
     |   |       terminal.ico
+    |   |       threejs.ico
     |   |       thunderbird.ico
     |   |       ticktick.ico
     |   |       tidal.ico
+    |   |       tiktok-2.ico
+    |   |       tiktok.ico
+    |   |       tim.ico
     |   |       tor.ico
     |   |       total_av.ico
     |   |       twich.ico
     |   |       twitter.ico
+    |   |       typescript-1.ico
     |   |       typescript.ico
     |   |       ubisoft_connect.ico
     |   |       ubuntu-1.ico
     |   |       ubuntu.ico
     |   |       uget_download_manager.ico
+    |   |       uipath-1.ico
+    |   |       uipath-2.ico
+    |   |       uipath-3.ico
+    |   |       uipath.ico
+    |   |       unity-1.ico
+    |   |       unity-2.ico
     |   |       unity.ico
+    |   |       unlock.ico
+    |   |       unreal-1.ico
     |   |       unreal.ico
     |   |       uplay.ico
     |   |       usb_killer.ico
     |   |       utorrent.ico
+    |   |       v.ico
+    |   |       vala.ico
     |   |       valve.ico
     |   |       vault_closed.ico
     |   |       vault_open.ico
+    |   |       vercel.ico
     |   |       video_camera.ico
     |   |       video_download.ico
     |   |       video_to_picture_converter.ico
     |   |       video_tutorial.ico
+    |   |       vim.ico
     |   |       visual_studio.ico
     |   |       visual_studio_code.ico
+    |   |       visual_studio_code_insider.ico
+    |   |       vite.ico
     |   |       vivaldi.ico
     |   |       vlc.ico
+    |   |       vrchat.ico
+    |   |       vrchat_avatar.ico
+    |   |       vrchat_words.ico
+    |   |       vscodium.ico
     |   |       vue.ico
+    |   |       vuejs.ico
     |   |       wacom.ico
     |   |       watch_dogs_2_marcus_laptop.ico
     |   |       waterfox.ico
+    |   |       webflow.ico
+    |   |       webpack.ico
+    |   |       web_assembly.ico
     |   |       web_camera.ico
     |   |       wechat.ico
     |   |       whatsapp.ico
+    |   |       whatsapp_business.ico
+    |   |       wikipedia.ico
+    |   |       windicss.ico
     |   |       windows_powershell.ico
     |   |       windows_powershell_core.ico
     |   |       windows_subsystem_for_android.ico
     |   |       windows_subsystem_for_linux.ico
     |   |       windows_terminal.ico
+    |   |       windows_update.ico
     |   |       winrar.ico
     |   |       winzip-1.ico
     |   |       winzip.ico
@@ -5449,6 +5738,8 @@
     |   |       wondershare_vidair.ico
     |   |       wondershare_videap.ico
     |   |       wondershare_wutsapper.ico
+    |   |       wordpress.ico
+    |   |       workers.ico
     |   |       wps.ico
     |   |       wps_pdf.ico
     |   |       wps_presentation.ico
@@ -5458,14 +5749,25 @@
     |   |       xampp.ico
     |   |       xbox.ico
     |   |       xcode.ico
+    |   |       xiaomi-1.ico
+    |   |       xiaomi.ico
+    |   |       Xmind.ico
     |   |       yii2.ico
     |   |       youtube-1.ico
+    |   |       youtube-2.ico
     |   |       youtube.ico
+    |   |       youtube_music-1.ico
+    |   |       youtube_music-2.ico
+    |   |       youtube_music-3.ico
     |   |       youtube_music.ico
     |   |       youtube_music_vanced.ico
     |   |       youtube_pewdiepie.ico
+    |   |       youtube_shorts-1.ico
+    |   |       youtube_shorts-2.ico
+    |   |       youtube_shorts.ico
     |   |       youtube_vanced.ico
     |   |       zbrush.ico
+    |   |       zig.ico
     |   |       zorin_os.ico
     |   |       
     |   +---generic
