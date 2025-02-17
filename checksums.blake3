@@ -23,9 +23,6 @@ ced2c2b0d17d03457e1ab2509e342d89b29d67a2a4256d9e54805406a72166ca  ICO\Apps (Wind
 eec9d4fdff9fbf5aea9eaa4f78793999b768bea993a766321e0b32edd6eb495b  ICO\Apps (Windows 7)\audiosrv_203.ico
 8b32cb33fb1bbecd335be12a6a33e18c6e384c716dd65e48cc5c78eef5742e92  ICO\Apps (Windows 7)\AuthFWGP_100.ico
 bcf71037ab64a50557624d774eda0fd01fd786c891692a5f1ec0964405a9c4a0  ICO\Apps (Windows 7)\baaupdate_1.ico
-d8eda7202a66336330f37be623736e606d93e6a9806d665b53d91cf87c10e322  ICO\Apps (Windows 7)\bckgRes_1009.ico
-3fabaa424df66b075f102ca1d5be69f92cd680c890c5acf033c21c9e306b8646  ICO\Apps (Windows 7)\Chess_128.ico
-cdb37df993d9c747e994e08cdd612712f463c0d42b74c454242de7a0426109b3  ICO\Apps (Windows 7)\ChkrRes_1009.ico
 9bb5b23b361384a5b6f214c53c787a3fc275078bb8d359c2d07382713bd4df8f  ICO\Apps (Windows 7)\cmd_IDI_APPICON.ico
 d8ac8d88159755e34b9adecbba7620c57b016a462f604f424a4baecd8e08e4b3  ICO\Apps (Windows 7)\dsuiext_4137.ico
 eccdf9cd42542c0c6392c2ad0c46207b961654b2cff7d6845cae3d1fb1716e73  ICO\Apps (Windows 7)\DVDMaker_128.ico
@@ -41,8 +38,6 @@ e3a9e4d3b00364a9c2e9254a6ef123f07c414a5a1ab42e46368bc1a0abb6692e  ICO\Apps (Wind
 e0d708d482adf8c9fb8b634af44ea5aa6f73c061656e36bf861e37df2e366af2  ICO\Apps (Windows 7)\explorer_259.ico
 84e2f9c349feca0cb5d5c1c5b41c9d1bfe5e967153be5a8c312ac400b6c8fd7e  ICO\Apps (Windows 7)\explorer_ICO_MYCOMPUTER.ico
 94cb2baeb7e6427dfae50b32956da5f1a65958bb65f7660952f0696fc73056e2  ICO\Apps (Windows 7)\Faultrep_5201.ico
-ec67fd217b493ed86d7986a66b80abcea5b995dd938488f69beea0e5917de3be  ICO\Apps (Windows 7)\FreeCell_121.ico
-19b5c391acfbc740788b7f0b7f3e46c54b604e7c551b77871bd101fd543a96ab  ICO\Apps (Windows 7)\Hearts_108.ico
 2673025191f8ce4dc1fd891fa39b316c7a3f99bc118a649d431c24210e8300bd  ICO\Apps (Windows 7)\iexplore_7.ico
 2673025191f8ce4dc1fd891fa39b316c7a3f99bc118a649d431c24210e8300bd  ICO\Apps (Windows 7)\iexplore_32528.ico
 0206713bb54f7d02b4eb8624e5b4d62461832d2e956e8eb30d5da51d67466f11  ICO\Apps (Windows 7)\iexplore_32529.ico
@@ -52,7 +47,6 @@ aff006ccb6f72c585f4704d4cf58a23a2bce7fa856397663f500ba2912894d7c  ICO\Apps (Wind
 a713a0d5179a73c2c0953938e225fd7e1f0fff28c502e6107308bb77039e3365  ICO\Apps (Windows 7)\imageres_8.ico
 b2b74d2a96cd7aa479389c4e72618102cefb03f66b97620a7d7e60f8616d63f6  ICO\Apps (Windows 7)\imageres_9.ico
 9c08c7919fedadbefdea7326dc6ad3d0263426ae2ce87c22822addc3c84caeb7  ICO\Apps (Windows 7)\imageres_10.ico
-6c8b4763f654f007c58c31a95214da222c360f7b6494e344841e8eae1d4ddbe5  ICO\Apps (Windows 7)\imageres_14.ico
 f52b69e4c59e1f3c3d370cabf47a71af511f1804afa27dbfd33535fdb2fc18a4  ICO\Apps (Windows 7)\imageres_15.ico
 907dba4e1ca53dca7b8509dfabac44fc87da71253ebcb6a58b59e37a1bc68324  ICO\Apps (Windows 7)\imageres_17.ico
 954f0cffedad2c717ff95becd121133167a6a3ff046afd58c587111759fc03f2  ICO\Apps (Windows 7)\imageres_18.ico
@@ -98,7 +92,6 @@ b626467d7786deacf18bde1f7b4c87ecffa184e8497f78f5fc59a9727613ce14  ICO\Apps (Wind
 fa99b1ee546771e5ea4364284e5f13ebc80ee950926ef75300d46523854a4736  ICO\Apps (Windows 7)\imageres_80.ico
 58ed5cf8908937d688c58b95680cf0c6089a069c55e37101ae3e458dd3e66a3e  ICO\Apps (Windows 7)\imageres_81.ico
 9a32acf9b26bf775382ebdc23792314be80540d3cb4f6afddc2c287185508422  ICO\Apps (Windows 7)\imageres_82.ico
-82b2b7b3ecf251ad0314d4a7243d374f5d0ffbf0166391526d740ef65a1710a7  ICO\Apps (Windows 7)\imageres_84.ico
 0430ca009a459223c44ba5336069270b71e298e850dbfb73256e21faeabf464e  ICO\Apps (Windows 7)\imageres_85.ico
 bab4af7a1a3dd2e940ab646af4eedc53d427bcf1028d33acd43abfe3e4f0831d  ICO\Apps (Windows 7)\imageres_86.ico
 51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\imageres_87.ico
@@ -110,15 +103,9 @@ a6691b8685a535cb63f11c534450748f48fe9212b3d1e97ef8087945a5fe584f  ICO\Apps (Wind
 52e83db22913d32dc1914ca46c785bbad20ec7398ed87a2451376aa1a1d1933a  ICO\Apps (Windows 7)\imageres_95.ico
 92c778488a0f05fde3a22480e88a5bd86a3969c8fb601174558dc381b2bba0ad  ICO\Apps (Windows 7)\imageres_96.ico
 7be3d831228f532e8aee20e0a67209a2988fa53b2e23efd023d424f900bb8808  ICO\Apps (Windows 7)\imageres_97.ico
-38fdc8778aec32ccf100967bdd94870174dbbc419b6bc690fa4c5bd73fc092cd  ICO\Apps (Windows 7)\imageres_98.ico
-cd5171dbb6de37f57a349092bca1af6eba900b148e330fd008077ed30b09b237  ICO\Apps (Windows 7)\imageres_99.ico
 b36e69b7c935aaabac740946dc4477c60c9ba145b7d709d1081feefd51f8e9ed  ICO\Apps (Windows 7)\imageres_100.ico
 02dd5f5f69c25b1d98df3eda405a656c45093cf9f24b9f5dd23d874f76d6ee79  ICO\Apps (Windows 7)\imageres_101.ico
 725ae45048ddf9bb9af86419e315fd7850fd42c802e200902f5fc2bfc45b640f  ICO\Apps (Windows 7)\imageres_103.ico
-83a906da70971bbe9584451e77e279f945c16341a28952879b991d9942a80ae7  ICO\Apps (Windows 7)\imageres_104.ico
-8c0d51e3a5c2617ec40d81f5a19aca5adeac510418e4b32d391e1295e007e76e  ICO\Apps (Windows 7)\imageres_105.ico
-15d26adb0ab155bace3f7ec3f343bcebbea1c1540aaa977d11e4b5c1ed5348ce  ICO\Apps (Windows 7)\imageres_106.ico
-37adf41a6fd5b50d92d987c4c62b9dce601cfaf1954446103eaed7571fb33b4f  ICO\Apps (Windows 7)\imageres_107.ico
 a2bfe069e53091a2da119aa408be276a8282554f939bc2f9447adca80817bdb5  ICO\Apps (Windows 7)\imageres_108.ico
 4c7fbd76f9da2f35b119941b53e6526f5bd97fe4588e2989c3fccd65fd7e64f0  ICO\Apps (Windows 7)\imageres_109.ico
 0fba5d5d52cb83c851e4de074d6412d2198531a857474c99db4b9b2d43d9a455  ICO\Apps (Windows 7)\imageres_110.ico
@@ -209,10 +196,6 @@ e0c4bad9e1a0c0712532b95a785b667a29d35fe0580a9314fdeb93a6b424f08a  ICO\Apps (Wind
 aa103178daa8dcc57e4148d4bd2dac2481d669937d5cd06eefee153beb33618e  ICO\Apps (Windows 7)\imagesp1_201.ico
 7d2de8d0bcf4bdcb0a38956fd2bb2a0bd5c93b699bc7bdd3ded0d82a7cff2fd4  ICO\Apps (Windows 7)\imagesp1_208.ico
 df3bb0c251d73023c1e5323751ffb281ebe75a0f3ff2b6e897cb836ca0fc3779  ICO\Apps (Windows 7)\Journal_104.ico
-1fe7a04e04a7f9bc2ba81973f6bebe60e4bbb6e5009393de345a96aa80853293  ICO\Apps (Windows 7)\Mahjong_102.ico
-0b6c9a5b8a09805a5783698fdb1a991157362646b892083921efc70633fe74dc  ICO\Apps (Windows 7)\MineSweeper_110.ico
-02892f0b66a313d2af2491724651dd14ee23af8e3db97000d8d03ed97a6691f7  ICO\Apps (Windows 7)\MineSweeper_111.ico
-48057817711487e13c2d3a22ec50c50f2e2c380b94b10f796e671aba2e37d252  ICO\Apps (Windows 7)\MoreGames_IDI_MOREGAMES.ico
 ddeb2d412b5e1442c4641fcdc6cbe8237622fcc5080b2a77cddc53031ae0de88  ICO\Apps (Windows 7)\msgsres_1.ico
 cf76899560e5c9027b1bd4dc272824ca398b737e838d567f910ec2c97c577220  ICO\Apps (Windows 7)\MsMpRes_103.ico
 26d6965b4c6966536acb8f405edff9ec7643dc300dfc1fa0b2c0ffe54552e384  ICO\Apps (Windows 7)\MSOERES_2.ico
@@ -245,7 +228,6 @@ f3fb522111cdd4360f71b57a615324b0cbe4f8a7f4b401de7355188df0c29d51  ICO\Apps (Wind
 1bc2d84376f64f005a90d6fd499fdf0330c064553d844153b6e4e4b8628f9ddf  ICO\Apps (Windows 7)\powershell_ise_1.ico
 0b37312bd9d04a64f39decc71d59dc35df85e0a21fc2660c620fa9e7f88e48d7  ICO\Apps (Windows 7)\powershell_MSH_MAIN.ico
 b8625aa47214b157aabc0d9ae02de96950ce204ac11f77289716ccab21f4bce0  ICO\Apps (Windows 7)\powershell_MSH_SECURITY.ico
-8501458ff4ee0547c08a095f3ab8005a5484eec1a306087b9919a10c64416ed2  ICO\Apps (Windows 7)\PurblePlace_102.ico
 f129e55b922bc9c19980905423361b1e98ccc48908a93af18625e9e882f2e9e2  ICO\Apps (Windows 7)\shell32_16.ico
 c9680091cefcf82983d090f254d607c2ff3a484f5c93c645ce1e2da0c7ef24da  ICO\Apps (Windows 7)\shell32_157.ico
 51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\shell32_271.ico
@@ -257,8 +239,6 @@ adff3c5fbd159d9bb37ec2c853d86663a010bf0f3eb771b9b71b27ae7b7c8542  ICO\Apps (Wind
 ea14b7fdb5dd796eb90d6fdcaec5b973fc77373354065ff8b897777fe0027dda  ICO\Apps (Windows 7)\ShvlRes_1009.ico
 87f33a1280f17245f591a571d268e7951b8f74053a6b5f39c69438ddf95e4ecc  ICO\Apps (Windows 7)\sidebar_100.ico
 26d2a869ffbe06d1f5242bb32baffab833d693d05691a317d1fb650ce0cd2b35  ICO\Apps (Windows 7)\sidebar_103.ico
-b499befb7b67be670a9b1668c36e81f79ca746c1ca892d7a64ffa60cce91fb88  ICO\Apps (Windows 7)\Solitaire_108.ico
-0f2169d5c6696590e6da187842f283f1bd992457306255ea1274590ee4dc83cb  ICO\Apps (Windows 7)\SpiderSolitaire_108.ico
 84e2f9c349feca0cb5d5c1c5b41c9d1bfe5e967153be5a8c312ac400b6c8fd7e  ICO\Apps (Windows 7)\Windows Explorer.ico
 cc0cd62ed5b8e892ff57219fa48185ec1f73ddde6bba3006c1c597d00c1d52de  ICO\Apps (Windows 7)\WLXPhotoAcq_1075.ico
 efe7a4702097bf019b662c6a8cf15a128b6df53ce93bd92fd2bee1df04b22844  ICO\Apps (Windows 7)\WLXPhotoAcq_1076.ico
@@ -269,19 +249,53 @@ dac1882b7e876247a3c35b813b1d5912f53ac52881cadcc5da70aeab223c4a53  ICO\Apps (Wind
 44a7d9f61faad68004d8dbf1277bc4c3198ceb7885ede02c96fcb6823ba0a279  ICO\Apps (Windows 7)\wmplayer_IDR_MAINFRAME.ico
 3d312d667cc8a230407961b865a4c72df4a19132c43e441f09feb82d1f562158  ICO\Apps (Windows 7)\wordpad_128.ico
 51f878caf83e7057bacba651673c489109f813caa8779a1d28e8892d11e89901  ICO\Apps (Windows 7)\Deploy\Installer.ico
+d8eda7202a66336330f37be623736e606d93e6a9806d665b53d91cf87c10e322  ICO\Apps (Windows 7)\Games\bckgRes_1009.ico
+3fabaa424df66b075f102ca1d5be69f92cd680c890c5acf033c21c9e306b8646  ICO\Apps (Windows 7)\Games\Chess_128.ico
+cdb37df993d9c747e994e08cdd612712f463c0d42b74c454242de7a0426109b3  ICO\Apps (Windows 7)\Games\ChkrRes_1009.ico
+ec67fd217b493ed86d7986a66b80abcea5b995dd938488f69beea0e5917de3be  ICO\Apps (Windows 7)\Games\FreeCell_121.ico
+19b5c391acfbc740788b7f0b7f3e46c54b604e7c551b77871bd101fd543a96ab  ICO\Apps (Windows 7)\Games\Hearts_108.ico
+6c8b4763f654f007c58c31a95214da222c360f7b6494e344841e8eae1d4ddbe5  ICO\Apps (Windows 7)\Games\imageres_14.ico
+1fe7a04e04a7f9bc2ba81973f6bebe60e4bbb6e5009393de345a96aa80853293  ICO\Apps (Windows 7)\Games\Mahjong_102.ico
+0b6c9a5b8a09805a5783698fdb1a991157362646b892083921efc70633fe74dc  ICO\Apps (Windows 7)\Games\MineSweeper_110.ico
+02892f0b66a313d2af2491724651dd14ee23af8e3db97000d8d03ed97a6691f7  ICO\Apps (Windows 7)\Games\MineSweeper_111.ico
+48057817711487e13c2d3a22ec50c50f2e2c380b94b10f796e671aba2e37d252  ICO\Apps (Windows 7)\Games\MoreGames_IDI_MOREGAMES.ico
+8501458ff4ee0547c08a095f3ab8005a5484eec1a306087b9919a10c64416ed2  ICO\Apps (Windows 7)\Games\PurblePlace_102.ico
+b499befb7b67be670a9b1668c36e81f79ca746c1ca892d7a64ffa60cce91fb88  ICO\Apps (Windows 7)\Games\Solitaire_108.ico
+0f2169d5c6696590e6da187842f283f1bd992457306255ea1274590ee4dc83cb  ICO\Apps (Windows 7)\Games\SpiderSolitaire_108.ico
+82b2b7b3ecf251ad0314d4a7243d374f5d0ffbf0166391526d740ef65a1710a7  ICO\Apps (Windows 7)\Message Icon\imageres_84.ico
+38fdc8778aec32ccf100967bdd94870174dbbc419b6bc690fa4c5bd73fc092cd  ICO\Apps (Windows 7)\Message Icon\imageres_98.ico
+cd5171dbb6de37f57a349092bca1af6eba900b148e330fd008077ed30b09b237  ICO\Apps (Windows 7)\Message Icon\imageres_99.ico
+83a906da70971bbe9584451e77e279f945c16341a28952879b991d9942a80ae7  ICO\Apps (Windows 7)\Message Icon\imageres_104.ico
+8c0d51e3a5c2617ec40d81f5a19aca5adeac510418e4b32d391e1295e007e76e  ICO\Apps (Windows 7)\Message Icon\imageres_105.ico
+15d26adb0ab155bace3f7ec3f343bcebbea1c1540aaa977d11e4b5c1ed5348ce  ICO\Apps (Windows 7)\Message Icon\imageres_106.ico
+37adf41a6fd5b50d92d987c4c62b9dce601cfaf1954446103eaed7571fb33b4f  ICO\Apps (Windows 7)\Message Icon\imageres_107.ico
+a13d8944ade31005bc3b1c1a9fd7b064a2bc9a09b978e43630cf1a20f8cd6b14  ICO\Apps (Windows 8)\Bluetooth.ico
 118e686154014334395b16b666c7cdfd0280c6eca14b99b16df7a38ac4e026d0  ICO\Apps (Windows 8)\Calculator.ico
 f7680575eb14229216b04ead2b2e3b8d84e2b52f169c6107117781b86b5f3dac  ICO\Apps (Windows 8)\Camera.ico
 447f09f685da03eefe473c9f7e95c1d73591b81980a90340d89120e52921c9b6  ICO\Apps (Windows 8)\DotNet.ico
+c7b5c5f4eb4ce991aecb637046a303ba4984839934372f11dcd58507f716f93d  ICO\Apps (Windows 8)\Help R2L.ico
+54df3508d0eb157b5c2d68d4845eae64665dce58750ba78ffaaeaecc76e2fa34  ICO\Apps (Windows 8)\Help.ico
+1806240345ae899aa4436aa9120e8cccc9f14edafac817c6823c3c30f425a17a  ICO\Apps (Windows 8)\Live Mesh.ico
 a676859f6c188639c0a7750efa924c3ba54fd942b99ee91f22ebc32615fe93b4  ICO\Apps (Windows 8)\Lync (Skype for Business).ico
+7aceceacbcc697e898367b132935b018b74e76e62d2ae8bc207a800395434287  ICO\Apps (Windows 8)\Media Player.ico
 98eb9c770e4ca7db3f7bc04847ac0c36c752507a3a2f8e8babd1978e474f6418  ICO\Apps (Windows 8)\Microsoft Edge.ico
 c17afa1723f87245e1754f27ddbc135b4ea62c7a7dcd696f7fb8480810480afb  ICO\Apps (Windows 8)\Package.ico
 879027066051be7d76c5a425d03d12242dd0be4d61c3799c3932caffd7f1ee6b  ICO\Apps (Windows 8)\Photos.ico
 084e17d184cc652d671fe2f16e257d35dd45d0eb4d56ad30b4f272dcfc229cb1  ICO\Apps (Windows 8)\Settings.ico
 984c405918eb28109b4b9fdbfb48d88083141c9bb432ede49293e1c41f80a32a  ICO\Apps (Windows 8)\Unified Write Filter UX.ico
 3f20055c57e2fa3c1b343b1db8349f1fe45ce3bf04a5d1892bcf5f128fda12d9  ICO\Apps (Windows 8)\Visual Studio.ico
+7c4cd462fd42c3e40a018088d9456fa3b8177cc62d5189815592c6920c0995a6  ICO\Apps (Windows 8)\Windows 7 Alt.ico
+66828e2d8221055f9d9eef2683cad295f93d365f547455a6b2c280b08b9b2be3  ICO\Apps (Windows 8)\Windows 7 Store.ico
+5dfb8e489f16579d07b1f8a6c393da8be2525c6eae3d5739ec97668f1fd10d4d  ICO\Apps (Windows 8)\Windows 7 Update.ico
+03127183b138d3544957068455c4af003ebb5c782555fc825817487895955a07  ICO\Apps (Windows 8)\Windows 7.ico
+f87259249b4ce76b9241342d2084e7f5bf6be6e74f12e39d03ec3576e30899f2  ICO\Apps (Windows 8)\Windows Phone.ico
 5860145aa88a53b1e993a4de28d622de78c445cbecdbb665788002f7a52ed346  ICO\Apps (Windows 8)\Windows Store.ico
+da377cb62275894977d5ae7c29c44052a971273a3de1a50cf4b8e043ec7376f8  ICO\Apps (Windows 8)\Windows Update.ico
+024b389e30a8bcb66953480566b6e29ded654753d861b95d68ab695f61e38d51  ICO\Apps (Windows 8)\Windows.ico
 c82658bb77919340a05370b80cc39aa6ef5e9265c8843ecee80981df9efe34e3  ICO\Apps (Windows 8)\Transparent\Lync.ico
 04661a17d89d41da140a5609f25368bd088c65e91206e8f5d889803e3f26bcbf  ICO\Apps (Windows 8)\Transparent\Microsoft Office.ico
+1a00099f89caa66d31efef2255f782baa93666d781f371a666d45098547a5dc1  ICO\Apps (Windows 10)\Create Virtual Machine.ico
+f979f1060ae2ff72a21bae93e1923dc38f8d14787862548737ca84fe0067d357  ICO\Apps (Windows 10)\Virtual Machine Connection.ico
 8c280b818ef964e8e055428c94b423f8ec0b59f299cbdfe444dbeae5ce41ab1f  ICO\Apps (Windows 10)\Windows Explorer.ico
 cee58f4bd8d3a109b4a6ea22518dbde1a0c0e284d3792c5e31b5087f7fbdeb41  ICO\Apps (Windows 11)\µTorrent.ico
 301c2172afd90d339cda4a6f472b0a347d3a0970b36011e6a72350a6f506137f  ICO\Apps (Windows 11)\AIDA64.ico
@@ -293,10 +307,12 @@ d3511927eed94708e2dd0599f9fcff1facb693546e0ebe88f54dd45cc109897e  ICO\Apps (Wind
 7d0e30c631c0653651987f49802227751d9c07a3564d16bc4887df1746b213f3  ICO\Apps (Windows 11)\Autodesk 3ds Max.ico
 82d3a90e7a34db95e6ae6b1f46fccb25709616657c9bbeeb541992bab3f06164  ICO\Apps (Windows 11)\Bing.ico
 cf3e17d6ac0c2749d7933d85a7fdb4da70b6205c83c1c149212fc5c4e25d92c6  ICO\Apps (Windows 11)\Blender.ico
+2e265934aff8076208686c9085023e0380d1cd7cf0ab337cf41699bd06854a35  ICO\Apps (Windows 11)\Bluetooth.ico
 0a3d3b47f2caf6f5799f5a492771656e8d54ffbfd3a3dfe732991d711003a38e  ICO\Apps (Windows 11)\Brackets.ico
 faa84c3156abb0285a382c4a377d98237e60ee72000cd0dccb1e6595425e77a4  ICO\Apps (Windows 11)\Calculator.ico
 f38901fb3a3e9ebd6f8987559d1eeec5f16fffead4f4f4ed971fc94ba4836bed  ICO\Apps (Windows 11)\Calendar.ico
 12c480da7e3dabbcccb207b2a613b222a7462abaefb07e9b2845c5ba3d3bbaed  ICO\Apps (Windows 11)\Camera.ico
+78d467b0d59c33e577f631f7dcf111e8fd7d29682974a205cee2f9a1656aa8b2  ICO\Apps (Windows 11)\Chrome PWA Launcher.ico
 443da7199483f9ffead63c6bdba7898c2c853aebd345005286d1c4a458a505d7  ICO\Apps (Windows 11)\Cinema 4D.ico
 4fcbdfdf3f948d9c1acb9d9ee925e81ffc9304fbb65ddc050dfa7bdb47cac54b  ICO\Apps (Windows 11)\ClipGrab.ico
 6e8bbb7fe40ab79349c79589ca662a95e48f0d3de764b22c087437afff363387  ICO\Apps (Windows 11)\Control Panel (win 11).ico
@@ -309,14 +325,12 @@ bc56f70f26ff87b5b01f18e533f8dd3937c30a9183aac1d42106592f829e71cc  ICO\Apps (Wind
 2757fd16fd731f50ad372b9d997d901821051a9af7f8c11b77b8ded5d217de96  ICO\Apps (Windows 11)\DDORes_2413.ico
 26a0643f60ae4d32334db5012a13a0e16c70dc30b225d695a372e04b7330682b  ICO\Apps (Windows 11)\DDORes_2553.ico
 4434e1f7d9cc2ea7dab136e69ca8c7d53174ab174594c92ce21aa85d58d63edd  ICO\Apps (Windows 11)\DDORes_2554.ico
-2e8b3f9f788947a83f0ac2e5ca327151d3abaa46289f35b3f88d0977c62be5ff  ICO\Apps (Windows 11)\DevHome.ico
-d0136a623bbeb8f24eee6b2ceba996e7780ffe28179187e1a30542807c6e56c5  ICO\Apps (Windows 11)\DevHomeGitHubExt.ico
-290a9272dfb45a3bded625048c8568a00841885480bc2915370f4d0f7e8c37b1  ICO\Apps (Windows 11)\DevHomePRE.ico
+f54603c2416ac8bb574fa3617014bf123bd3aec9328942957a19e13fb43fe217  ICO\Apps (Windows 11)\DevToys PRE.ico
 20823187677299406bce8f092824a9511611e25b80840e3f5a752827e99f5b3b  ICO\Apps (Windows 11)\Discord.ico
 30950e31aae4f9e62f8c39cf8fd8c181d73c8a02274e35a76e8d9eb7ab5f7643  ICO\Apps (Windows 11)\Epic Games.ico
 2a17d78a7d86e4b6f5959e3c6f99b51bc5ef7ac18a9831b5b3f7fb52e1feffd6  ICO\Apps (Windows 11)\Facebook.ico
 e87ee4460f7dd8a19a5248f8ebf57b2406deb643b18f6f6c91beaa0ab531d269  ICO\Apps (Windows 11)\Faceit.ico
-56ac7ae85874463d5e2d8468969bfcac8db5e84b001ce6f16a628ab01f7f7f4e  ICO\Apps (Windows 11)\Family.ico
+56ac7ae85874463d5e2d8468969bfcac8db5e84b001ce6f16a628ab01f7f7f4e  ICO\Apps (Windows 11)\Family Safety Monitor.ico
 dc1e0c2e3fb0839d73c49a9c694c9219f4abf4a76df5aa743c10c72cc76d74a3  ICO\Apps (Windows 11)\Feedback Hub.ico
 173f0f16f241077cdca183dfdbee5bba91f36bacac55c2c9b94ce4422a0c98cd  ICO\Apps (Windows 11)\File Explorer 2.ico
 8d796c6d56655b2bb02272b2a80a0338035fae92115c31c14c89c088200a3081  ICO\Apps (Windows 11)\FL Studio.ico
@@ -328,15 +342,13 @@ c5cc59f5af3836676b2c5f76bd33ba12bd04ee60b98aff9409d5798573e22cf0  ICO\Apps (Wind
 ff6a4d5f03470950bfb5c016d1e42b3c7bf3d12c02c5740fcc07f43cb8400742  ICO\Apps (Windows 11)\Google Sheets.ico
 012afaf71a845c16938c253cfb2e01a4db67e5355b0f9a5bf84b14f96b548be7  ICO\Apps (Windows 11)\Google Slides.ico
 70938eb497e93be53b3eb755bcd2448ec03abadcf7628186ad793127fb1c3e84  ICO\Apps (Windows 11)\Groove Music.ico
-8e30ae6801fed41c871004ffd5cc93ab7aac3d1d6d91ffb5eed63714d4395630  ICO\Apps (Windows 11)\ICON2_1 (2).ico
+26cc9c45be8509c38c93550277187e5b85d1d610b3a2a8599b513572a46ea868  ICO\Apps (Windows 11)\Home.ico
 213ed582ee46e082431f095086befee147c0351074042855a87d942bf8494bda  ICO\Apps (Windows 11)\ICON5_1 (2).ico
 4ec2947808f0dc2359e949ab109510ac7469c2f7442e151b652b6b0d08f6439b  ICO\Apps (Windows 11)\ICON6_1 (2).ico
 16964a123fee385fc10928d166040a81cf21868ae0359b85b6947799fd81a45b  ICO\Apps (Windows 11)\ICON8_1 (2).ico
 8cdab421818c1f2661379b47844115b4a06d9b10408ee783e3b4a4271b47d6ec  ICO\Apps (Windows 11)\ICON15_1 (2).ico
-13338c7aee4c48eae24c2081e30d34041dcde1f134f9b0b6159c15b9904bf0cc  ICO\Apps (Windows 11)\ICON19_1 (2).ico
 1bf9b39625e6835aef01dc061d7466d5f94756bba1ea78c86a48ec210c2619b2  ICO\Apps (Windows 11)\ICON19_1.ico
 ea8ddd551ce8c7b83456f55bb84cbaf2d5dc595cdadca8280a12dd0c43440396  ICO\Apps (Windows 11)\ICON21_1 (2).ico
-36fee48708dae10549ce87da200ea1b0fe420035dc850ab6faebfb78b223889f  ICO\Apps (Windows 11)\ICON22_1 (2).ico
 691e117d7b65bd165471d273a953a4925737e60844f3ed4648f0da28733df6f8  ICO\Apps (Windows 11)\ICON24_1 (2).ico
 e44c3e4ad2041d9375943fcdb6bbb30e03473ac9c56ff5907678f6634d1ebba8  ICO\Apps (Windows 11)\ICON34_1 (2).ico
 64d4e5586144e8fde4e117c53155cac628be3684184228a0ed9a62fa1e7860f3  ICO\Apps (Windows 11)\ICON42_1.ico
@@ -349,23 +361,16 @@ a610d829c6221906d903fd17c51d1db654ba53dba1a7d5fa531e45280ac57100  ICO\Apps (Wind
 20a5ef7d2e3cd089ce6cd2ec86b01be40923740e121ff7155a40c8eba0f1a752  ICO\Apps (Windows 11)\ICON83_1.ico
 272a9ce844ce5ddc7b582688aab7096ad161726f61b1daeda549f804547f8206  ICO\Apps (Windows 11)\ICON86_1.ico
 db99ac04a17de6c03396c71643b660a70a045ee3269a995d59c1850376749918  ICO\Apps (Windows 11)\ICON120_1.ico
-b2ef4e27531bd7de8c5d855216a10181a4cb98fbd8cb0b23f701e84095f8051c  ICO\Apps (Windows 11)\ICON125_1.ico
-f1e1161f2bb44d4a8e1a00840d123990d54ac56f278a18bb817ad6c04ce160c0  ICO\Apps (Windows 11)\ICON126_1.ico
-3569880faf1c4950d15f4b0ab1769f5251e776c8a270cff3c4400d5e821b0143  ICO\Apps (Windows 11)\ICON127_1.ico
 aac8e5a5a85f6e8986861cd3718e4034fb2437fd194181ca4ec4e34d56ab0561  ICO\Apps (Windows 11)\ICON143_1 (2).ico
 44f744c6395fce9b6d7c00cd285d29edb7d460e81e743ec657e1d5c81062bebd  ICO\Apps (Windows 11)\ICON144_1 (2).ico
 6e7a05723026d3e779d6d2f50196f2276789b2606fb26ec2904fafa44406d19f  ICO\Apps (Windows 11)\ICON147_1 (2).ico
 57f93bdceb0301507745f073741b5f1dd3ac6849e2c7a551a5fe8f7a0d1747d1  ICO\Apps (Windows 11)\ICON148_1 (2).ico
 cc09fc0284397ecf6c8f935907c73935e3dc4680b033c540d58088741e51dc2d  ICO\Apps (Windows 11)\ICON157_1 (2).ico
-1b75a5d03b71de3d675bf8496b82524409b92e9ad09c9082f494882e23fed92a  ICO\Apps (Windows 11)\ICON158_1.ico
-8adde3a3e1264e08ce985fc2901de2c4b54abda5a5a937b8b8a7f598dfd25549  ICO\Apps (Windows 11)\ICON159_1.ico
-54c7e5059cff7f473e70ff7bfc0015a81de94b0543916743c554fad09d4ebac6  ICO\Apps (Windows 11)\ICON160_1 (2).ico
 b55f6f1778a1e741f4d3f69d3ffeae3cfbc87e045a63b71f457134cb420ac997  ICO\Apps (Windows 11)\ICON167_1.ico
 8124d57e31fb87b744104a65a70ae1f97b34036364b1899f8f4c20e3535ec47e  ICO\Apps (Windows 11)\ICON168_1 (2).ico
 dd1c13d5c63fb31f6497dad6f19614b923ba49f4ea4fff79da6fa3fae3eab1b8  ICO\Apps (Windows 11)\ICON171_1 (2).ico
 3d4142072ad8154464b4123474a0603d44c6b443c5056e8d0eb8277831428d0a  ICO\Apps (Windows 11)\ICON176_1 (2).ico
 2a2ba5f47d04880793ac6d416e1aaec5b5984d2ab45a948f7192284a7b9bf8e1  ICO\Apps (Windows 11)\ICON176_1.ico
-ba6e332a2b715a969b3267d854b4935c893db17b8b2df0a7e344608b211ed483  ICO\Apps (Windows 11)\ICON178_1.ico
 1fb660a2f57d923c7752bfd77d0cb036e9ca595e2079f938711fe79b7d3c47c3  ICO\Apps (Windows 11)\ICON179_1.ico
 5b1d15b4d6196420ef697600811ac690ea1764db9c799ad82ad1623b8a5e6d53  ICO\Apps (Windows 11)\ICON182_1 (2).ico
 ff9c9c5945e0ff3e9ee2bb5d220740b0e14d1f4d9a4d7ca990f038598bbe69b2  ICO\Apps (Windows 11)\ICON191_1 (2).ico
@@ -374,7 +379,6 @@ ff9c9c5945e0ff3e9ee2bb5d220740b0e14d1f4d9a4d7ca990f038598bbe69b2  ICO\Apps (Wind
 bdcb25d87f48dbd71c856e50bfc1efab8e5e2ead13814800dfbbd0ede403d7e7  ICO\Apps (Windows 11)\ICON194_1 (2).ico
 2a7d8c78480c81e57b0fb726fe10bde4b13bdb731c828b0e0111b08f2e1052b0  ICO\Apps (Windows 11)\ICON194_1.ico
 3f0a1c8b8310d1834bf3e39f17f8a6ee332d07f51324faa7017149485f4cecc4  ICO\Apps (Windows 11)\ICON195_1.ico
-d1f5e248b1f2ba6fc8efb7555fc22a5d4b7ab6a856a9df50ac6668fad7074afa  ICO\Apps (Windows 11)\ICON241_1.ico
 1dc15cb9a0a0f7afd285f297b8f243f6f6a2b3d7fb17c5c0d02574705472aee8  ICO\Apps (Windows 11)\ICON242_1.ico
 06e350bd4503407b02c0fb377e18c7f994739e739287382aaf3f490e425291fe  ICO\Apps (Windows 11)\ICON244_1.ico
 d62d927cbdd2a8873112eac922f5e3d1c30aa868fbdd7add7104e1f3bc002ff7  ICO\Apps (Windows 11)\ICON247_1.ico
@@ -391,7 +395,6 @@ ef0f3b25ec52995c2798609ac792011cd8eea4ad52aafce2eeef454458314acc  ICO\Apps (Wind
 83709fe792e57a478167b8812e7a02f60a202d353a16f90b225b7aad9bf9400d  ICO\Apps (Windows 11)\ICON337_1.ico
 6cfc9a8bac60bb89e5518381fc96c71f11877d16f0b4c762e094ecacb11188f6  ICO\Apps (Windows 11)\ICON1003_1.ico
 6f3f0cfc339270b41e7c4f7d6f0588f68ba0b053e03ac62e2a04551f0840dc5b  ICO\Apps (Windows 11)\ICON1004_1 (2).ico
-5bfce89116532c5c5c89949cb132bfa52c290c7c0dab46ee79047dcca2573c19  ICO\Apps (Windows 11)\ICON1004_1.ico
 2262f7b7a94ec83f8cc04d11922b5b404ddd22e39455c264e74d5576d9566a5c  ICO\Apps (Windows 11)\ICON1010_1 (2).ico
 e0063716d690fefb02ed446cbc441b4aa0290fee0e8eb85ea821a4a32571a7e5  ICO\Apps (Windows 11)\ICON1013_1.ico
 7d30f1c9ba22a314a64ef9aa5f8f76429d4e508a9c2ec12bba4eb050bcc940e5  ICO\Apps (Windows 11)\ICON1023_1.ico
@@ -417,13 +420,11 @@ d74ab057911b8a8459a38a4f8eb3737bcbc3d453044a146cd4760236db1d5171  ICO\Apps (Wind
 1aadd2c0a0fea7a7d37739c6af4fd055e48a0652b01904bf9e5500531de83ac0  ICO\Apps (Windows 11)\ICON5335_1.ico
 82c95d72205f56311ce1d8742ec3e9cdb4a2256c473fc0a1a20129e03b83c857  ICO\Apps (Windows 11)\ICON5341_1.ico
 0e745c918941377ad71fb8cae49d527591a55dcd814f72309417c0129f7f811a  ICO\Apps (Windows 11)\ICON5342_1.ico
-0ba7e1cd699a91a75244bb26c179fbc3de1749fd03d1f9d2b73c333b1ef59add  ICO\Apps (Windows 11)\ICON5343_1.ico
 f0c6fd8c488ca31ad096979cd995c862f484ecba5a77fee9ed7f871334638051  ICO\Apps (Windows 11)\ICON5344_1.ico
 a4b0e320960f9c6d623632866e3b5f0ab75f069452f08e7c1477d107dac29429  ICO\Apps (Windows 11)\ICON5345_1.ico
 d9a137e3bd9c16dcf2a536268c972fdc982adf6e5464e39cab32fcf6cf516235  ICO\Apps (Windows 11)\ICON5347_1.ico
 178f29ccc5234006053e5d46768719675cec7b31fc8a43f47c06692b9f714faf  ICO\Apps (Windows 11)\ICON5348_1.ico
 9710b23dca6fbd8975e682d314eff2c797f6f911cfad0d485a463fb3082d370f  ICO\Apps (Windows 11)\ICON5349_1.ico
-2233249d65703746cf6ef089083d095f42da4bca787e18fbc4f7775c1fa5774b  ICO\Apps (Windows 11)\ICON5350_1.ico
 7e4a6524cb490d589a451a6159ff9a2efb2d31abd68e11183ae22a3cafda8931  ICO\Apps (Windows 11)\ICON5354_1.ico
 6e6d9a9a435125732be8a4c1fa33d1740efc1150074034104527a2da3dc35cf6  ICO\Apps (Windows 11)\ICON5357_1.ico
 7349505c6e90f031ac79c08729bc93a0aa9809d6660b6517a1c5e7bb26f8d259  ICO\Apps (Windows 11)\ICON5360_1.ico
@@ -447,8 +448,6 @@ c26985244169657cacb6df2379616b9752e4386ab8712f1fcbf3eb2128f31998  ICO\Apps (Wind
 f3e6f0717e6cb0347e1ffb1d6c0591555c35b2ec084a2683e14938ad1c114400  ICO\Apps (Windows 11)\ICON16784_1.ico
 3f4cc475911ec332d5f122bb9081edc315f14446c3291b9b4d32fe5fed7ce796  ICO\Apps (Windows 11)\ICON16806_1.ico
 1dc69ba2bcb96d3d65728536fd18a52b805fc824309c1142d95821a02cdb8e11  ICO\Apps (Windows 11)\ICON16811_1.ico
-9f967658e80cd3657892dd10e9043f83577ce692135ee19c63b5c8131af74e6d  ICO\Apps (Windows 11)\ICON16822_1.ico
-26cc9c45be8509c38c93550277187e5b85d1d610b3a2a8599b513572a46ea868  ICO\Apps (Windows 11)\ICON51380_1.ico
 82f8b381c4c5b7d2ded1ae207a0b2414352ed4e27ab624f8204f58accee979d4  ICO\Apps (Windows 11)\ICON51586_1.ico
 b470c65ff8e9fae567cebe27de274aaa33184c4d699255d702471669309da1a4  ICO\Apps (Windows 11)\imageres_23.ico
 6ff634268893731841f8a7bab1975bfb16b2ae04a1a9bd98d8e16aa7883c1942  ICO\Apps (Windows 11)\imageres_25.ico
@@ -462,21 +461,13 @@ a5fdf5db16e3091b6dc21fa5242afaeb730d339c45adcc41acb917d673320c2b  ICO\Apps (Wind
 7641042cd05db178b49b7dc118bc85105ca23577042b2605fa29745c8e5858ff  ICO\Apps (Windows 11)\imageres_78.ico
 282e4961973103aa6dcc5127ca9c9dd4fdd6958586e26f70d2d518027160f6f4  ICO\Apps (Windows 11)\imageres_79.ico
 9ce4c49b4ee2362e4f72e6e4995b471bb00b5ed044080d5b990c097711c22b99  ICO\Apps (Windows 11)\imageres_80.ico
-fac349112de7771466f4934d8e491a7bb5c79f2886ffdbae62b3ebbae1dd212b  ICO\Apps (Windows 11)\imageres_81.ico
 d9ffc4d410f76d002d617dfa8f5caee77c3e9acde625ab986069717f924f8863  ICO\Apps (Windows 11)\imageres_82.ico
-6b29d4c015c2fa58d86d337f748972288fd547af7abda54ffca02b742d26243f  ICO\Apps (Windows 11)\imageres_84.ico
 d1b420e582454c44eeeda695e375c8bbe0f5bcac5115f34b17f8d28eca3f1995  ICO\Apps (Windows 11)\imageres_86.ico
 9a540b0a07de749537ba0f161fe58b733155c2f1cdb16d29bcc78915a1c2fdd6  ICO\Apps (Windows 11)\imageres_87.ico
 412be2fbb638217479d696fe4ca598f49450566185f2d542dcbcdfede78d8cc6  ICO\Apps (Windows 11)\imageres_88.ico
 17d8441730ad7306f7d3058b45c9a1ab5b794e56b461131596ee3213a31e3a37  ICO\Apps (Windows 11)\imageres_92.ico
 968b2a951fdaaf444cf74698c4add9a109e9bf7414bc4220aceb14f6128c0042  ICO\Apps (Windows 11)\imageres_97.ico
-21346659cfdd2f18bf48968f3ad1b20f9f7d2ae0caf949bb530db642dd044a27  ICO\Apps (Windows 11)\imageres_98.ico
-6338ed425956507787fff9f3589e1dcf8f44ddc7af14938ad7a8376cae11c6a7  ICO\Apps (Windows 11)\imageres_99.ico
 3874e1db954b7a9c22ae2512827f4e711b4c44bc3237f4d40ebd0071962371ac  ICO\Apps (Windows 11)\imageres_100.ico
-4fc9bfe66725b6e09245d9a6a1f1939b2396041556b2bec2ca4be8d34c66d2d5  ICO\Apps (Windows 11)\imageres_104.ico
-dd858a273fb5b194775328fea06a51b8052ae42d3c46f126a03cfe077b14e20a  ICO\Apps (Windows 11)\imageres_105.ico
-585f4fe6199903e979287ce955d6a3f06e917c7c3ff65fc9cfac84ccc9d510d2  ICO\Apps (Windows 11)\imageres_106.ico
-5c84ac9ffe142b96dbf24e9922f3e538a1e80769bb2bb2822081194c3cea7399  ICO\Apps (Windows 11)\imageres_107.ico
 1f5356bc45b4f3ad187433db1afc9ccb9cd906f3f8cb9c10d1d1b7645b1dfb24  ICO\Apps (Windows 11)\imageres_110.ico
 a2aac1f42b5eea6a33240d0c9e5ef85089f684275ddd7147d523426a3e669c9d  ICO\Apps (Windows 11)\imageres_114.ico
 0c97049844fb3237fb3fa14e0a19ef32ea4a43ba786476c62e744c6abd1971bc  ICO\Apps (Windows 11)\imageres_116.ico
@@ -484,7 +475,6 @@ a2aac1f42b5eea6a33240d0c9e5ef85089f684275ddd7147d523426a3e669c9d  ICO\Apps (Wind
 bef5763c1d1204c8c9f5e3549c8585bfcbef3b6e2d023b43d0b14a2fc3085d56  ICO\Apps (Windows 11)\imageres_122.ico
 2729e6dcfb9259390075c6a21126e3e8f7ef9a532c56e020726abeb1ec2a7bec  ICO\Apps (Windows 11)\imageres_130.ico
 71dd326058e201bd11ef6c725c88f18891d91a19cdb650f6be197e3e4bf2cc3e  ICO\Apps (Windows 11)\imageres_144.ico
-ec2cd0df8c1dcecc8d250c6cd70136967bdc2fa7c22d5f4d0a3b69b2e271d352  ICO\Apps (Windows 11)\imageres_150.ico
 0cbf99ef6427cd81322b7089d80c49c3666202c886718071f1c30e7346fe6b97  ICO\Apps (Windows 11)\imageres_161.ico
 d68bdefe585a58633cb5c75c6e044e99254986608ba1bc43821b2410826e55b9  ICO\Apps (Windows 11)\imageres_163.ico
 9aff310e463d389997a2a9e082ce381200b25694b665b8c0ca49925114f6f0b8  ICO\Apps (Windows 11)\imageres_164.ico
@@ -500,7 +490,6 @@ fd387d51826edc4bd3af2976a0866a8f00ba79704ff48e67e38e8488a909f87f  ICO\Apps (Wind
 c8e2726a6be07529292d5c66ef3fcc8ce8af21428f3dda5f019a91916d7b1923  ICO\Apps (Windows 11)\imageres_1028.ico
 220428c491e6d5d9b6ed14bce24f2b2c0ff5dc66e0a45b7b876228090ffcce24  ICO\Apps (Windows 11)\imageres_1041.ico
 46e7a3f5eff1721e82384699c26e4c58db74957d961a0467a493f62aca88db77  ICO\Apps (Windows 11)\imageres_1042.ico
-29830b89f76ef2cccb1a17af754dbd31b0a26df0155b61d757b6a8cdc91f06a7  ICO\Apps (Windows 11)\imageres_1043.ico
 fc897092dba78f777cf8f4c9f372bc97fb97d95b7d69b502d0f5a3c648136aa3  ICO\Apps (Windows 11)\imageres_1305.ico
 2d56a71dc34ebe0811c0a0729c4ba6eb9f7ea6101c8768013130da308edde060  ICO\Apps (Windows 11)\imageres_1306.ico
 8adcc0bd706280e5f48f5ee8fd0b8b6b932737766ecd9f75f9b7c31fb644640c  ICO\Apps (Windows 11)\imageres_5100.ico
@@ -511,6 +500,7 @@ f38c704b64f4bb1eb7a010f9ea2b0b13932705c6c312a46c144d4d7f76007240  ICO\Apps (Wind
 aff2b4b66ead709e8c4b1b4e7fbadd509397e392c36b87986e8b6c912fb2b287  ICO\Apps (Windows 11)\imageres_8201.ico
 7878289bdc1a0070578357c7d4761f1324ab9f2272cb761d477e4d986f4715bb  ICO\Apps (Windows 11)\Instagram.ico
 d02b1107c829c2b6b7ff507fef4ff6ee0b26d48293aa24d32f99a7169850fffa  ICO\Apps (Windows 11)\Intel Driver & Support Assistant.ico
+415e137a770af1628aa3cfd26b42541adfbb54a1cf9e56953a9f53bd4208e3fc  ICO\Apps (Windows 11)\MachineRuntime.ico
 dd434c9a18560a214b8f5c0013967ca41941c2efeb7b0e1e0cc138f944f4825a  ICO\Apps (Windows 11)\Mail.ico
 35338eb871c4e80cf136caf1dd708a4ec2b6a7df8c03f68eb6fda0539964610c  ICO\Apps (Windows 11)\Maps.ico
 a2170a252517f59fc0beedb6122ca96a9da3dfb1735b6fe9dd410abe119a2cf9  ICO\Apps (Windows 11)\Messenger.ico
@@ -524,6 +514,7 @@ ad849658d479c14cd4217e7bb8e1054b55b9db9cec3b064d984195e0fdb07f9b  ICO\Apps (Wind
 5454e231119534b0a054fd77907a2bae193b3a5cfbcb2969d4fc9ccf51b46f3d  ICO\Apps (Windows 11)\Microsoft To-Do.ico
 b70572a972f3ec4dc0a74a0553ff508d6c9b1e4abf08c8799cb222f722e332ae  ICO\Apps (Windows 11)\Microsoft Whiteboard.ico
 09fe56fb2bde7ebdfc47b3528f3a023d5ff647c5112a5168c77b266b3197895b  ICO\Apps (Windows 11)\Mobile Plans.ico
+7390cf60c0e01f8c65815b04fb91000f76ba86f31fdd658660e3a8255fb3c043  ICO\Apps (Windows 11)\mods_supported_unlocked.ico
 b764e1f86086bbfc8f2c896ef3eef6349ad5fd85b68a66987642451a27a9d1b0  ICO\Apps (Windows 11)\Movies & TV.ico
 39aa5bdae9e8112b6da2522631122e4b916c01bfdc2d2fcbbe64a514439cd857  ICO\Apps (Windows 11)\MSI Afterburner.ico
 a688e208fdd916eda27a40efbde13d50dd3cf04110db51bbccb923be864511d1  ICO\Apps (Windows 11)\MSI Kombustor.ico
@@ -533,9 +524,8 @@ a688e208fdd916eda27a40efbde13d50dd3cf04110db51bbccb923be864511d1  ICO\Apps (Wind
 865b5c5235826c6788e613e7c60e09d6fdc49dc1502fbe108204859cea21b6d3  ICO\Apps (Windows 11)\NASA's Eyes.ico
 fd160028277e78c7aee9faa811458f4ac30721f07c7621c9c7ac379c5bcdb527  ICO\Apps (Windows 11)\Notepad.ico
 626ba0936645f9ecea555ea73017bb151ff5d1163c3c128d3e9d4717a7d0604c  ICO\Apps (Windows 11)\OBS Studio.ico
-4dafd8ad0e5d9b80b419d1b610dcbba253a8e1d0bc4ee03e7f7bae309c343ae0  ICO\Apps (Windows 11)\OneDrive.ico
+29830b89f76ef2cccb1a17af754dbd31b0a26df0155b61d757b6a8cdc91f06a7  ICO\Apps (Windows 11)\OneDrive.ico
 ee869335c76f0efc8f0161c651b22c40c2ca6895843a5827bc113a3a4f5ea7b6  ICO\Apps (Windows 11)\Origin.ico
-f1e354ba3ebe50f95995ec21807093e704cd3e371c2843a3d589cdb7af799126  ICO\Apps (Windows 11)\Outlook NEW.ico
 40c89c61279fea3ad7ce090f525f2a497dc536370bc872fc609c1f244b204ee2  ICO\Apps (Windows 11)\Package.ico
 f807ff1a0d6bb12527819037f327b06f188a96e9e298cf0ccb2ba544d799075b  ICO\Apps (Windows 11)\Paint 3D.ico
 88b1e7ac261bdbd3f1f947a9566dea4f8edde353f6941d06b3262be60bd57738  ICO\Apps (Windows 11)\Paint.ico
@@ -543,6 +533,7 @@ f807ff1a0d6bb12527819037f327b06f188a96e9e298cf0ccb2ba544d799075b  ICO\Apps (Wind
 6505bc6140d82d04ae6f7a3ee046fd9da5a9dc5395a48c693fd06d4b2bb52615  ICO\Apps (Windows 11)\Photos.ico
 415e137a770af1628aa3cfd26b42541adfbb54a1cf9e56953a9f53bd4208e3fc  ICO\Apps (Windows 11)\Power Automate Troubleshooting Tool.ico
 b6a5d9bd7b330e65a16cdafd90194a79a600de1463628cd2960c07ad70da2978  ICO\Apps (Windows 11)\Power Automate.ico
+360f995c667dc3e4f884d51075f860760a8c9d4045e325445ff31fc53209dc66  ICO\Apps (Windows 11)\Print Queue Action Center.ico
 d484f605ad56a7485d2132231fd598654453e3e3983dc212df6bb3638917a447  ICO\Apps (Windows 11)\qb (c).ico
 0cba277608bfe2b6cb76f79842d13c936265cd69da6e733b561c29a16622714d  ICO\Apps (Windows 11)\Quick Assist.ico
 f93cf1b7689e7bc829528c83e0f7448416603ed6db347029c995c8cca5fe782f  ICO\Apps (Windows 11)\Rainmeter.ico
@@ -583,6 +574,9 @@ d38a5814190706d355710a7de61fd413af0a553040da3d61c3d5c09668854d9f  ICO\Apps (Wind
 cfd1ce5dd196370db7385276a26b6ba0f08c1cb06421f3134fa4fc77b38a84d2  ICO\Apps (Windows 11)\Sticky Notes Dark.ico
 f48485c4d65e3a811679da2b49e5ac0248cec6ae8816b905c0143a7ab6008b83  ICO\Apps (Windows 11)\Sticky Notes.ico
 a5bb4f603e6c239f9689b8b827afd9ea1b9a27280f1365dbe8b5bae75ce62406  ICO\Apps (Windows 11)\Streaming.ico
+ec2cd0df8c1dcecc8d250c6cd70136967bdc2fa7c22d5f4d0a3b69b2e271d352  ICO\Apps (Windows 11)\Task Manager Legacy Dark.ico
+cfb9e8dbb150455e951d08608f4e35c7c25144692a8fbde029bfa4d211410549  ICO\Apps (Windows 11)\Task Manager Legacy Light.ico
+63b1635177294d4c9a4e00e488cfc369e4ac0d42552a5f6edb2bc619c6ce5e1b  ICO\Apps (Windows 11)\Task Manager.ico
 ef6dc7899cf8b7e81aa4a15b463536c546130490c297e2a7cab4c9b5cc1bb2a4  ICO\Apps (Windows 11)\Tips.ico
 80521b7996093a2a530b349d41f4cd137df20708e24d7672213cfb2608e62e5b  ICO\Apps (Windows 11)\TV.ico
 83bac3a2581fad2241c178eaf262972f720754b50c15a92d6737050de7cea556  ICO\Apps (Windows 11)\Twitter 2.ico
@@ -630,6 +624,7 @@ d5208a5b7b23c723f950b0bd1058b89489243fb86d9f443ddc64a5df5644b9bb  ICO\Apps (Wind
 48786cfb72df5368526587e1e8f1c65f1424a4d6f1638233e9f3e3a81e1df14b  ICO\Apps (Windows 11)\Adobe\App\Photoshop.ico
 ea157d00166314a8974ad073332aee3a98994b35175e7a4eb75a47b5c565a869  ICO\Apps (Windows 11)\Adobe\App\Acrobat\Acrobat Distiller.ico
 a7146cd10b7763ff5948de63ed313009dce9bad460e4679f8e3b6435db2f2275  ICO\Apps (Windows 11)\Adobe\App\Acrobat\Acrobat Reader.ico
+3ade2050eb4f8dacb56c293bf9247e160fe2c725c12bc3cc244531d2b9122d1c  ICO\Apps (Windows 11)\Adobe\App\Acrobat\Acrobat Update.ico
 570523f811132d857bed54d1ec65ea4e8f00a58c4d8823df2b45fda003efa747  ICO\Apps (Windows 11)\Adobe\App\Creative Cloud\Creative Cloud 1.ico
 aa9f8cff3305bae9671b73089f5bec32a6e0f7ea53502796e9f70b4473b315d1  ICO\Apps (Windows 11)\Adobe\App\Creative Cloud\Creative Cloud 2.ico
 889db6c3abc3c6266c2e2392fe5484c04685c8cb00e5bc904de2f846c92d701c  ICO\Apps (Windows 11)\Adobe\App\In\InCopy.ico
@@ -698,6 +693,8 @@ db70a80e60092353fb26a3b6e8898d0afa054e476c48ecb2caba38ca8f6edb07  ICO\Apps (Wind
 447d4dd753deae1547c6573ff62ae0d6ed92648af08c648a74b5d356c036524d  ICO\Apps (Windows 11)\Adobe\Package\In\InDesign.ico
 36fddc60a3be8711ccca47331958156d293958afb658b709ee7d5fa13b829e20  ICO\Apps (Windows 11)\Adobe\Package\Lightroom\Lightroom Classic.ico
 05fa3da462b42076f98c8deb48df3b706873abcd6fd7339b28ab5b9231c9e874  ICO\Apps (Windows 11)\Adobe\Package\Lightroom\Lightroom.ico
+f597c7d19fe65b8854ef383883c024bc889821600cb171a8b70383aea870f552  ICO\Apps (Windows 11)\Adobe\Package\Other\Adobe Update Helper.ico
+04b387d82919aae1193412dfaaecf1822c845082dc99d3a3e9a17a732185379d  ICO\Apps (Windows 11)\Adobe\Package\Other\Package Adobe.ico
 97b9d326ac2218825233234357e1441540e8964e9c69c0a9baf646348356c596  ICO\Apps (Windows 11)\Adobe\Package\Photoshop\Photoshop Express.ico
 fced72799ac70d6ed6b986bbbfae538cda72087300ba2e45829922e5bb91310d  ICO\Apps (Windows 11)\Adobe\Package\Photoshop\Photoshop.ico
 c2b310f0af55e0f19a0493bd99c6492351c56998fa390ee060a90bb44273cf25  ICO\Apps (Windows 11)\Adobe\Package\Premiere\Premiere Pro.ico
@@ -707,7 +704,6 @@ dc6a624ded90f38d6d36a7c9b020a524ea01dba11c9cff158d9d19ec9ce38e7b  ICO\Apps (Wind
 777270a527669419554355227bb0c73065da16e37316fbd1e2cf8dc9dce520f7  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Painter.ico
 1f8038818bfbb7d49fa184c4daeccebf4fd42a9a5bdc77748f4374b9f5b06248  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Sampler.ico
 e4648f70643cd6e4eba1e60e36578f1c26bf284ebee81f35c343020f1396ffab  ICO\Apps (Windows 11)\Adobe\Package\Substance 3D\Substance 3D Stager.ico
-04b387d82919aae1193412dfaaecf1822c845082dc99d3a3e9a17a732185379d  ICO\Apps (Windows 11)\Adobe\Package\z Old\Package Adobe.ico
 7ed9c08593f78742ab657439a103d1ca7092fd6bf37336cab1beededb9279cfe  ICO\Apps (Windows 11)\Adobe\Paper\Dreamweaver.ico
 f9a55537124acc4e3154a257694233bc5d731141bb986c5a7a6c2f3287c0beb1  ICO\Apps (Windows 11)\Adobe\Paper\Illustrator.ico
 85a44cc07f704d8b1f1473e8ab13fbee95e14fee0eeb6c4a40c26af26ea0a900  ICO\Apps (Windows 11)\Adobe\Paper\InCopy ICAP.ico
@@ -726,21 +722,46 @@ cc901a094c9eaeb108fad401ad6c869a4777a02a9ab71d70771b0d0fbed9178a  ICO\Apps (Wind
 440324016aa2480f39c3245b54621c48950cc5f5ea81af8065ffc33e72ac9809  ICO\Apps (Windows 11)\Deploy\MSI.ico
 e342926f0d4e1e998ac397c1dce2df97afbf42aa7a47af72c7d324a5eafd350a  ICO\Apps (Windows 11)\Deploy\Store Installer.ico
 56e7e2312f4ca345adb1477cafe63088dfaa3f8c695034fcb99b023ccbb56e6b  ICO\Apps (Windows 11)\Deploy\Windows Package Feed (Feature Experience Pack).ico
+683dc48c705dfa5d797125a1d049a670b2e386ebf154ed682c081a01a0d79902  ICO\Apps (Windows 11)\Development\Blend for Visual Studio 2022 Preview.ico
+6f77be680e7cc240b22ef0b0569c4ed1199d802a2d1e493d374c5ab9f4b588c1  ICO\Apps (Windows 11)\Development\Blend for Visual Studio 2022.ico
+9ea80ef5dac77eb52563a0fccb009e33dbb2b77762132150ac23e97273ea8348  ICO\Apps (Windows 11)\Development\DevHome.ico
+d0136a623bbeb8f24eee6b2ceba996e7780ffe28179187e1a30542807c6e56c5  ICO\Apps (Windows 11)\Development\DevHomeGitHubExt.ico
+290a9272dfb45a3bded625048c8568a00841885480bc2915370f4d0f7e8c37b1  ICO\Apps (Windows 11)\Development\DevHomePRE.ico
+9f1e5941ebf0cd277d56b9356021cd6551c7e80cf44043b1d565790a28d5aba6  ICO\Apps (Windows 11)\Development\MSBuild.ico
+20fbc22d250e8b9b11e7719fe1bf8b681b0f9de4ab4ff54c881e2bcaf2bbc089  ICO\Apps (Windows 11)\Development\SSMS PRE.ico
+ad494590bd53592810237a48469fc703d9a74e4eef2ccde7b8a9df4572c865d8  ICO\Apps (Windows 11)\Development\SUDO.ico
+4c1b63a1cd2080d3892d3397f011639842862edb9ca826de224f3ee014c0e108  ICO\Apps (Windows 11)\Development\Visual Studio 2019 Installer.ico
+839a11761b1b2dd257bad83049d482cafdb7ca0c29dcbcf5d87b388d2d295d50  ICO\Apps (Windows 11)\Development\Visual Studio 2019.ico
+3ac77c8714292176cbeff565927d7c2d97b0c6d09b99532c7e9fc246f364a542  ICO\Apps (Windows 11)\Development\Visual Studio 2022 Installer.ico
+3a74572879a63859cc0978987687cadcf0a1a9777b69ab48d5f25fbc4d5da5fe  ICO\Apps (Windows 11)\Development\Visual Studio 2022 Preview.ico
+824bc412e1d32240ea03a885d78fc944ade9b927a78a1b9623b3713ef0a879e5  ICO\Apps (Windows 11)\Development\Visual Studio 2022.ico
+125e1872d59a4ac7d9d98d31c26e559f360f9ba9858d78eb19eab2e741ca86ef  ICO\Apps (Windows 11)\Development\Visual Studio Code.ico
+21346659cfdd2f18bf48968f3ad1b20f9f7d2ae0caf949bb530db642dd044a27  ICO\Apps (Windows 11)\Message Icon\Error.ico
+fac349112de7771466f4934d8e491a7bb5c79f2886ffdbae62b3ebbae1dd212b  ICO\Apps (Windows 11)\Message Icon\imageres_81.ico
+6338ed425956507787fff9f3589e1dcf8f44ddc7af14938ad7a8376cae11c6a7  ICO\Apps (Windows 11)\Message Icon\imageres_99.ico
+4fc9bfe66725b6e09245d9a6a1f1939b2396041556b2bec2ca4be8d34c66d2d5  ICO\Apps (Windows 11)\Message Icon\imageres_104.ico
+dd858a273fb5b194775328fea06a51b8052ae42d3c46f126a03cfe077b14e20a  ICO\Apps (Windows 11)\Message Icon\imageres_105.ico
+585f4fe6199903e979287ce955d6a3f06e917c7c3ff65fc9cfac84ccc9d510d2  ICO\Apps (Windows 11)\Message Icon\imageres_106.ico
+5c84ac9ffe142b96dbf24e9922f3e538a1e80769bb2bb2822081194c3cea7399  ICO\Apps (Windows 11)\Message Icon\shield_warning.ico
+6b29d4c015c2fa58d86d337f748972288fd547af7abda54ffca02b742d26243f  ICO\Apps (Windows 11)\Message Icon\Warning.ico
 8f4d17ac21bf2aa94e0cd640b7d8700fb11c8290540578611109cb46815668d4  ICO\Apps (Windows 11)\Microsoft 365\_Microsoft 365.ico
 00963d102455f4ea9c58b17b66d37581138682ef779793fd52c84ef37f9fb126  ICO\Apps (Windows 11)\Microsoft 365\_Office.ico
+6de07cc0d2b6fe13b17f1e565989c16d216aff07cd0aa6487b7e738dbb6f0d40  ICO\Apps (Windows 11)\Microsoft 365\_Sticky Notes (new).ico
 becbe6e496c7b38cc12c4915bff2a5790f725e21dd070ac2d84fec0f1cdbadaa  ICO\Apps (Windows 11)\Microsoft 365\Access.ico
 6905c886510307edb8c444e8c1aeb847fcbd82f9c05270279cb4a2e6079e18f6  ICO\Apps (Windows 11)\Microsoft 365\Excel.ico
 f58b44cf937307dbe9ed605bf279dc2dd887ab759ef009cf11aa49c8d1f49ca0  ICO\Apps (Windows 11)\Microsoft 365\Exchange.ico
 d216de13d14bbe90dfa55173a7cb00a49c67a679038bfbee31c1471e39eed9bb  ICO\Apps (Windows 11)\Microsoft 365\Forms.ico
 0343c9a3125d6ec8d27c7d39cb9d27d281e0d60b314145eed0694a60cbf3283d  ICO\Apps (Windows 11)\Microsoft 365\OneNote.ico
-3560820fa2e2c4733c4592600426f62ab8d38cee07a7c12a420c9ed48b576dd9  ICO\Apps (Windows 11)\Microsoft 365\Outlook [PRE].ico
-a22e41bf84b56159dfaee38dce0394611e2c833fd7511f8a379382d493350df5  ICO\Apps (Windows 11)\Microsoft 365\Outlook.ico
+3560820fa2e2c4733c4592600426f62ab8d38cee07a7c12a420c9ed48b576dd9  ICO\Apps (Windows 11)\Microsoft 365\Outlook Legacy PRE.ico
+a22e41bf84b56159dfaee38dce0394611e2c833fd7511f8a379382d493350df5  ICO\Apps (Windows 11)\Microsoft 365\Outlook Legacy.ico
+f1e354ba3ebe50f95995ec21807093e704cd3e371c2843a3d589cdb7af799126  ICO\Apps (Windows 11)\Microsoft 365\Outlook NEW.ico
+6ecbdccfb030b4a2154e97b364cb14a163b2b1cd164fa6237461d1d096f9537b  ICO\Apps (Windows 11)\Microsoft 365\Outlook.ico
 cfefc8474f150c52897ff3b93a0b64f23b744ab4b82993b2298ebd8b46936720  ICO\Apps (Windows 11)\Microsoft 365\PowerPoint.ico
 4975f4d627d182e21659e5b9067f689e5ffc42b8e35a1499532188b1b9ea8f62  ICO\Apps (Windows 11)\Microsoft 365\Project.ico
 ad9910e80b7859b7fa59af2e434c36b38f4f562afd9f568159dcb0afd268daaf  ICO\Apps (Windows 11)\Microsoft 365\Publisher.ico
 281875095a208412e5380e1e9cd5651d90bc015c83fec6848d4d7b8c5eacfe49  ICO\Apps (Windows 11)\Microsoft 365\SharePoint.ico
 d001f16ea643f30fba8d35d05d389674a7a243e13c0d5725a9f13e940d2ffe44  ICO\Apps (Windows 11)\Microsoft 365\Sway.ico
-dc34df7de83d189d726c4a8ff64994de1e9e0277a8822045023385972b19c750  ICO\Apps (Windows 11)\Microsoft 365\Teams Legacy [NEW].ico
+dc34df7de83d189d726c4a8ff64994de1e9e0277a8822045023385972b19c750  ICO\Apps (Windows 11)\Microsoft 365\Teams Legacy NEW.ico
 70d48a7d18d806dcb824416ebda91fbc1c41b6c9d203f15b983a1268018f4a16  ICO\Apps (Windows 11)\Microsoft 365\Teams Legacy.ico
 4f418186c8691678f75912057da729c30b425706303828558486dd9c45f31020  ICO\Apps (Windows 11)\Microsoft 365\Teams.ico
 5f30a3dc806313318af300a578b72ad2299d11208be12c1071fa45bf7b581066  ICO\Apps (Windows 11)\Microsoft 365\Visio.ico
@@ -751,28 +772,32 @@ dba280ed3f83ae2344efef980a1ca75ceeba6780df27bc0a51b928eee095dbcc  ICO\Apps (Wind
 35ded078e28fbe34506641ba4d298d66a38e2f30826f9a2befc6046e0843a7a6  ICO\Apps (Windows 11)\Microsoft Edge\Edge DEV.ico
 d7b970a29527da354119d34eeec864c3755b4b6c5422055ab449856a3a900141  ICO\Apps (Windows 11)\Microsoft Edge\Edge WebView.ico
 433adbc4aff17eb291eb07a9d876c783a40e0ba59eab99e005b9a6bf7c94e454  ICO\Apps (Windows 11)\Microsoft Edge\Edge.ico
+c9321052b233161c601882ded4e304aa3deb2d61509ce0a2ad414e35695d1a71  ICO\Apps (Windows 11)\PowerToys\Advanced Paste.ico
 efdb34ede7d59ec4d6348bd32f6d4057b7367e8c8ea5f08258770f192abff314  ICO\Apps (Windows 11)\PowerToys\Color Picker.ico
+7e5bf23524831660adb2ef70837d2b00cbbea0f02e72f777361698a399441124  ICO\Apps (Windows 11)\PowerToys\DefaultIcon.ico
+e6483a4d320dd107d771789ac3c2032ffd4e1c486ffdd34c7c535b1ead408ae5  ICO\Apps (Windows 11)\PowerToys\Environment Variables.ico
 22eb8cdb072defc3dc9e33745403743ba19ccea6c9b0a30b5a2e54d37f320de1  ICO\Apps (Windows 11)\PowerToys\Fancy Zones.ico
 dbde84a4cd5307af98c2a08f8df020c990eb02aa8ae469deb0c618ef67b13b26  ICO\Apps (Windows 11)\PowerToys\File Locksmith.ico
 49d8be9add4d9f20fa3647f294f812daaa8921d220b16d95ed2046cef28de0bf  ICO\Apps (Windows 11)\PowerToys\Hosts.ico
 412829ca4745c9f47e0e112c59b86ceb2f9303dbd1c9934dd4c4fa4eae00f789  ICO\Apps (Windows 11)\PowerToys\Image Resizer.ico
 67f565290fe2405a030ebe5c5bf35773088ca6816bb7300a6446391ce08d3ae0  ICO\Apps (Windows 11)\PowerToys\Keyboard Manager Editor.ico
 d3b431f3d9a71c4341b9002927a1c63b344cca97688249ab43c6a27a56ae42e6  ICO\Apps (Windows 11)\PowerToys\Mouse Without Borders.ico
+e02e24598c5019881460d6357221b05ad28996088fc87cc04a6952184983d2e9  ICO\Apps (Windows 11)\PowerToys\Peek.ico
 10a18f29a3624cd089f7bd78a3b4d68692df686ec2872ebbbe049d1a914a4efd  ICO\Apps (Windows 11)\PowerToys\Power OCR.ico
 ef4f4cd8cbb2a931499837b6a06a74ff67ffe9b10044229acd449a007a153611  ICO\Apps (Windows 11)\PowerToys\Power Rename.ico
 15330d83078ab5e337ab86fcde8a4f660ac63fdb133556e3ef229b2803b2507f  ICO\Apps (Windows 11)\PowerToys\PowerToys.ico
 83fc9c75fb746e15587395935070289d29e58e7872fe067c9d55f92d3574d42f  ICO\Apps (Windows 11)\PowerToys\Registry Preview.ico
+72286088ab531d3c023d8e0a82ed1c9cc042e0f2ef1d4d69469e02b2618e9bf6  ICO\Apps (Windows 11)\PowerToys\Workspaces.ico
+505b03afd82dbd22357c489bdad74d223acca016ee086213ae36ea99b92db5e6  ICO\Apps (Windows 11)\PowerToys\Awake\_Awake.ico
+a7930e066bb365bd67e8edae1b684b67d06cf2a926c22aca6c2fd355c29eb158  ICO\Apps (Windows 11)\PowerToys\Awake\disabled.ico
+0c4585063e30469df45ab16ef5e69b02b120e393fff3041a65fe68f38cb820ed  ICO\Apps (Windows 11)\PowerToys\Awake\expirable.ico
+8aad4baac37eeb181b368dfdc116abc1f404b096be2edebadec601e63e778900  ICO\Apps (Windows 11)\PowerToys\Awake\indefinite.ico
+41ebdc83ffcd9a30fd791d591f5fef080b3ac2ee76b55c9c0fb77bde735376a5  ICO\Apps (Windows 11)\PowerToys\Awake\normal.ico
+9a0da04598ebb6ba66cc7de205e8352c2ac94a61ae96692642b55772eabdfb64  ICO\Apps (Windows 11)\PowerToys\Awake\scheduled.ico
+a6fba9c8edcc5ab36c0511f5e6fd30253bdb862914f20741758ac35141ba58d7  ICO\Apps (Windows 11)\PowerToys\Awake\timed.ico
 85930794a327cb78b35c6d044d693238ca77987990762d5af729acd27d832bc9  ICO\Apps (Windows 11)\Sysinternals\Process Monitor.ico
 79f6f723e8fc39c8ce15ba2d23192a7efb556d903081279fa4a1ba74f4e69859  ICO\Apps (Windows 11)\Sysinternals\TCPView.ico
 65f788ac502d7419d4fab2e6d5a600fa8bdd46fa0f1b61e279532c58b5bbf1e0  ICO\Apps (Windows 11)\Sysinternals\WinObj.ico
-683dc48c705dfa5d797125a1d049a670b2e386ebf154ed682c081a01a0d79902  ICO\Apps (Windows 11)\Visual Studio\Blend for Visual Studio 2022 Preview.ico
-6f77be680e7cc240b22ef0b0569c4ed1199d802a2d1e493d374c5ab9f4b588c1  ICO\Apps (Windows 11)\Visual Studio\Blend for Visual Studio 2022.ico
-4c1b63a1cd2080d3892d3397f011639842862edb9ca826de224f3ee014c0e108  ICO\Apps (Windows 11)\Visual Studio\Visual Studio 2019 Installer.ico
-839a11761b1b2dd257bad83049d482cafdb7ca0c29dcbcf5d87b388d2d295d50  ICO\Apps (Windows 11)\Visual Studio\Visual Studio 2019.ico
-3ac77c8714292176cbeff565927d7c2d97b0c6d09b99532c7e9fc246f364a542  ICO\Apps (Windows 11)\Visual Studio\Visual Studio 2022 Installer.ico
-3a74572879a63859cc0978987687cadcf0a1a9777b69ab48d5f25fbc4d5da5fe  ICO\Apps (Windows 11)\Visual Studio\Visual Studio 2022 Preview.ico
-824bc412e1d32240ea03a885d78fc944ade9b927a78a1b9623b3713ef0a879e5  ICO\Apps (Windows 11)\Visual Studio\Visual Studio 2022.ico
-125e1872d59a4ac7d9d98d31c26e559f360f9ba9858d78eb19eab2e741ca86ef  ICO\Apps (Windows 11)\Visual Studio\Visual Studio Code.ico
 4ea1d2bc8ecdd1a880741e4cb03acc7fb8868e39edc2ee17eb90daf8ce0c4c92  ICO\Apps (Windows 95)\Windows Explorer.ico
 a066929aa1beed9251aa2fc1b31dd47ce18a9621f914bccca268e1bad24f76e4  ICO\Apps (Windows Me)\Windows Explorer.ico
 f129e55b922bc9c19980905423361b1e98ccc48908a93af18625e9e882f2e9e2  ICO\Apps (Windows Vista)\Windows Explorer.ico
@@ -792,8 +817,9 @@ ac2ec87acadef261558e444c7b0a142c105dc37fc7c35203cbc187545d4260ff  ICO\Apps (Wind
 498261bbbbe02fd525e86c6a6b5395b19ddcdab7f3fb4278f91b60bca9493fb2  ICO\Apps (Windows XP)\My Network Places.ico
 f9ffd7a8c9602cd3992bb44b2f459215ac36fd3e73a274116efd7b6fcce28f14  ICO\Apps (Windows XP)\Network Computers.ico
 df1db8c99cee35a90b9a78c4ff5376dabdca5e50e04aef3db7846b016e73399e  ICO\Apps (Windows XP)\Phone.ico
-1bb04d8bef40cf53a97448f23fd5d4f39a390aaa5b742428651144bc9d400c3f  ICO\Apps (Windows XP)\Pinball.ico
 dccd962e2a26b87d42cedd133716c713274c9ca94ff5e5be68d72e9268d716d1  ICO\Apps (Windows XP)\Sounds, Speech, and Audio Devices.ico
+1a225fd70fc5ca6d4bdf6b147c44a66c094b619b93fbb6faf1c98b63a004f1e4  ICO\Apps (Windows XP)\Space Cadet Pinball 1.ico
+1bb04d8bef40cf53a97448f23fd5d4f39a390aaa5b742428651144bc9d400c3f  ICO\Apps (Windows XP)\Space Cadet Pinball 2.ico
 f341d4546af9a6186337f3b4462b493eb3a8e5366c196cb1d416c8dd257825bc  ICO\Apps (Windows XP)\System Properties.ico
 0ad26708f4143a7fd11d6fe2b31cea69f0fb15c014ecb9edde5083a6eca44a78  ICO\Apps (Windows XP)\User 1.ico
 428a1d6105c5de13673c07fca95ea70b5a0cfe96f6016185974c434b65e01a2c  ICO\Apps (Windows XP)\User 2.ico
@@ -802,7 +828,6 @@ f341d4546af9a6186337f3b4462b493eb3a8e5366c196cb1d416c8dd257825bc  ICO\Apps (Wind
 2d2e8466a5644236580c87a16a0d6f38be416cd079b4ce026c719825518e8980  ICO\Apps (Windows XP)\User Support.ico
 37d0bce788659cf8512504d0ed2f4719e67a60daa4c8c1c6ea517e5f0c2ca8d1  ICO\Apps (Windows XP)\User's Computer.ico
 a4cf2fc72c9b0f7504dffba73bd7c8c7925142b04ed99ac66b72536c43d987c4  ICO\Apps (Windows XP)\Video.ico
-8b762fb2d37fc37570509fa7f2fe2aa679525cf89a161cfe66353cd5128881d1  ICO\Apps (Windows XP)\Windows Explorer.ico
 c6deb25fd16a7bc77acf04640b4004c2d301727a1183c2a9d3e2ee9c30e76be9  ICO\Apps (Windows XP)\Deploy\Installer.ico
 0225cc12e337b63ef5bde997f02f21fb9fa3b0a2d627b67beb0e54ec7c86a847  ICO\Devices (Windows 7)\audio.ico
 802e6f7c660aaad24d622bfbe83325098f6480de59819b152f9a0746d0720b8c  ICO\Devices (Windows 7)\biometric.ico
@@ -1038,11 +1063,16 @@ c143fd1db50dfb55be00810e29a87851913bdd268b6ada775bbfab5117e2c9fa  ICO\Filetypes 
 45467c6e5055cf4ae2200ee73e3f8723629c20823818385e250a98ef6a27694a  ICO\Filetypes (Windows 11)\Audio.ico
 75897b21cde2deeba653965712d0f56e3f11335247d37c0a7d4ba2b3240ce1ae  ICO\Filetypes (Windows 11)\AutoHotkey.ico
 15914f4f0ad414262da08cf9901fad56c4c2f981ae66439555c7bd2d3c8e21e9  ICO\Filetypes (Windows 11)\Disk.ico
-ae87cf0d3af471da85e0081735c08c8b4b969a95584a01667c32e2b244dca75b  ICO\Filetypes (Windows 11)\ICON2_1.ico
+8e30ae6801fed41c871004ffd5cc93ab7aac3d1d6d91ffb5eed63714d4395630  ICO\Filetypes (Windows 11)\ICON2_1 (2).ico
+13338c7aee4c48eae24c2081e30d34041dcde1f134f9b0b6159c15b9904bf0cc  ICO\Filetypes (Windows 11)\ICON19_1 (2).ico
 f70feb46910a167f86269708f894a0212452c3d558a47afc414d57a3d8bfcad4  ICO\Filetypes (Windows 11)\ICON67_1.ico
 15f870debe88273870766f1ee974144a23d14eeaabc2380b633d865e667643dc  ICO\Filetypes (Windows 11)\ICON69_1.ico
 fde72bfc7c93ec7fc028734c2f428974d85ab3b75d90d10186bae8266b44bd21  ICO\Filetypes (Windows 11)\ICON124_1.ico
 edbdb63bc489a965bc99eb8257b682283e1b0b2dd6563d9efe2a591a20c0d065  ICO\Filetypes (Windows 11)\ICON127_1.ico
+ba6e332a2b715a969b3267d854b4935c893db17b8b2df0a7e344608b211ed483  ICO\Filetypes (Windows 11)\ICON178_1.ico
+5bfce89116532c5c5c89949cb132bfa52c290c7c0dab46ee79047dcca2573c19  ICO\Filetypes (Windows 11)\ICON1004_1.ico
+0ba7e1cd699a91a75244bb26c179fbc3de1749fd03d1f9d2b73c333b1ef59add  ICO\Filetypes (Windows 11)\ICON5343_1.ico
+2233249d65703746cf6ef089083d095f42da4bca787e18fbc4f7775c1fa5774b  ICO\Filetypes (Windows 11)\ICON5350_1.ico
 eeb8a5071ee0bd269d3592a9d25998da7aa3777033ae52b6beab9412b312a7a4  ICO\Filetypes (Windows 11)\Linwood Butterfly.ico
 fb9cd23fbd6602014c17ca8a1a867b6806ca9ae7617568f9513a74b91da57b42  ICO\Filetypes (Windows 11)\Music Video.ico
 acb7717d97213289d839da8df0319a7c5ac29f6f2c4e2d58f4e595b6eff43df3  ICO\Filetypes (Windows 11)\Music.ico
@@ -1056,6 +1086,13 @@ bbc41ba3db8c9cb1dd6731e85a56dd2acc5cdbbec8e0836232283bd18ecae446  ICO\Filetypes 
 c3904021ec531a07b8dfcd0b75dbc9d4496270cfd5afecf45b282623198d5764  ICO\Filetypes (Windows 11)\Text.ico
 faf5491e5dc298895c81bdc33262f5e0c073ed850fbc454ad3581d1168e9e468  ICO\Filetypes (Windows 11)\Video.ico
 476d234bd6e19d02b648235c7d0933d2cfb81f414d416b0dc270fcc9a153c6fb  ICO\Filetypes (Windows 11)\Winamp.ico
+b2ef4e27531bd7de8c5d855216a10181a4cb98fbd8cb0b23f701e84095f8051c  ICO\Filetypes (Windows 11)\Font\ICON125_1.ico
+f1e1161f2bb44d4a8e1a00840d123990d54ac56f278a18bb817ad6c04ce160c0  ICO\Filetypes (Windows 11)\Font\ICON126_1.ico
+3569880faf1c4950d15f4b0ab1769f5251e776c8a270cff3c4400d5e821b0143  ICO\Filetypes (Windows 11)\Font\ICON127_1.ico
+1b75a5d03b71de3d675bf8496b82524409b92e9ad09c9082f494882e23fed92a  ICO\Filetypes (Windows 11)\Font\ICON158_1.ico
+8adde3a3e1264e08ce985fc2901de2c4b54abda5a5a937b8b8a7f598dfd25549  ICO\Filetypes (Windows 11)\Font\ICON159_1.ico
+54c7e5059cff7f473e70ff7bfc0015a81de94b0543916743c554fad09d4ebac6  ICO\Filetypes (Windows 11)\Font\ICON160_1 (2).ico
+d1f5e248b1f2ba6fc8efb7555fc22a5d4b7ab6a856a9df50ac6668fad7074afa  ICO\Filetypes (Windows 11)\Font\ICON241_1.ico
 40552395d6284270b9c5f4672343ea680be7eb8fd8175656d600e85806db8c96  ICO\Filetypes (Windows 11)\Office\Access.ico
 9045fc774c1617088b5ac55d2b5dbae6814fc0fb3228bf59f1f843a933bb0eee  ICO\Filetypes (Windows 11)\Office\CSV.ico
 3fea4cfea79cf410ea8bec0db35845f43b7b9c4b622854b2adac57e9f2beda9a  ICO\Filetypes (Windows 11)\Office\Excel.ico

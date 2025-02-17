@@ -7,6 +7,8 @@
 |   
 \---ICO
     +---Apps (Windows 10)
+    |       Create Virtual Machine.ico
+    |       Virtual Machine Connection.ico
     |       Windows Explorer.ico
     |       
     +---Apps (Windows 11)
@@ -19,10 +21,12 @@
     |   |   Autodesk 3ds Max.ico
     |   |   Bing.ico
     |   |   Blender.ico
+    |   |   Bluetooth.ico
     |   |   Brackets.ico
     |   |   Calculator.ico
     |   |   Calendar.ico
     |   |   Camera.ico
+    |   |   Chrome PWA Launcher.ico
     |   |   Cinema 4D.ico
     |   |   ClipGrab.ico
     |   |   Control Panel (win 11).ico
@@ -35,14 +39,12 @@
     |   |   DDORes_2413.ico
     |   |   DDORes_2553.ico
     |   |   DDORes_2554.ico
-    |   |   DevHome.ico
-    |   |   DevHomeGitHubExt.ico
-    |   |   DevHomePRE.ico
+    |   |   DevToys PRE.ico
     |   |   Discord.ico
     |   |   Epic Games.ico
     |   |   Facebook.ico
     |   |   Faceit.ico
-    |   |   Family.ico
+    |   |   Family Safety Monitor.ico
     |   |   Feedback Hub.ico
     |   |   File Explorer 2.ico
     |   |   FL Studio.ico
@@ -54,26 +56,20 @@
     |   |   Google Sheets.ico
     |   |   Google Slides.ico
     |   |   Groove Music.ico
+    |   |   Home.ico
     |   |   ICON1003_1.ico
     |   |   ICON1004_1 (2).ico
-    |   |   ICON1004_1.ico
     |   |   ICON1010_1 (2).ico
     |   |   ICON1013_1.ico
     |   |   ICON1023_1.ico
     |   |   ICON1028_1.ico
     |   |   ICON120_1.ico
-    |   |   ICON125_1.ico
-    |   |   ICON126_1.ico
-    |   |   ICON127_1.ico
     |   |   ICON143_1 (2).ico
     |   |   ICON144_1 (2).ico
     |   |   ICON147_1 (2).ico
     |   |   ICON148_1 (2).ico
     |   |   ICON157_1 (2).ico
-    |   |   ICON158_1.ico
-    |   |   ICON159_1.ico
     |   |   ICON15_1 (2).ico
-    |   |   ICON160_1 (2).ico
     |   |   ICON16742_1.ico
     |   |   ICON16748_1.ico
     |   |   ICON16755_1.ico
@@ -87,12 +83,10 @@
     |   |   ICON167_1.ico
     |   |   ICON16806_1.ico
     |   |   ICON16811_1.ico
-    |   |   ICON16822_1.ico
     |   |   ICON168_1 (2).ico
     |   |   ICON171_1 (2).ico
     |   |   ICON176_1 (2).ico
     |   |   ICON176_1.ico
-    |   |   ICON178_1.ico
     |   |   ICON179_1.ico
     |   |   ICON182_1 (2).ico
     |   |   ICON191_1 (2).ico
@@ -101,11 +95,8 @@
     |   |   ICON194_1 (2).ico
     |   |   ICON194_1.ico
     |   |   ICON195_1.ico
-    |   |   ICON19_1 (2).ico
     |   |   ICON19_1.ico
     |   |   ICON21_1 (2).ico
-    |   |   ICON22_1 (2).ico
-    |   |   ICON241_1.ico
     |   |   ICON242_1.ico
     |   |   ICON244_1.ico
     |   |   ICON247_1.ico
@@ -117,7 +108,6 @@
     |   |   ICON261_1.ico
     |   |   ICON265_1.ico
     |   |   ICON270_1.ico
-    |   |   ICON2_1 (2).ico
     |   |   ICON325_1.ico
     |   |   ICON329_1.ico
     |   |   ICON330_1.ico
@@ -127,7 +117,6 @@
     |   |   ICON46_1 (2).ico
     |   |   ICON47_1.ico
     |   |   ICON5102_1.ico
-    |   |   ICON51380_1.ico
     |   |   ICON51586_1.ico
     |   |   ICON5302_1.ico
     |   |   ICON5306_1.ico
@@ -149,13 +138,11 @@
     |   |   ICON5335_1.ico
     |   |   ICON5341_1.ico
     |   |   ICON5342_1.ico
-    |   |   ICON5343_1.ico
     |   |   ICON5344_1.ico
     |   |   ICON5345_1.ico
     |   |   ICON5347_1.ico
     |   |   ICON5348_1.ico
     |   |   ICON5349_1.ico
-    |   |   ICON5350_1.ico
     |   |   ICON5354_1.ico
     |   |   ICON5357_1.ico
     |   |   ICON5360_1.ico
@@ -183,13 +170,8 @@
     |   |   imageres_1026.ico
     |   |   imageres_1027.ico
     |   |   imageres_1028.ico
-    |   |   imageres_104.ico
     |   |   imageres_1041.ico
     |   |   imageres_1042.ico
-    |   |   imageres_1043.ico
-    |   |   imageres_105.ico
-    |   |   imageres_106.ico
-    |   |   imageres_107.ico
     |   |   imageres_110.ico
     |   |   imageres_114.ico
     |   |   imageres_116.ico
@@ -199,7 +181,6 @@
     |   |   imageres_1305.ico
     |   |   imageres_1306.ico
     |   |   imageres_144.ico
-    |   |   imageres_150.ico
     |   |   imageres_161.ico
     |   |   imageres_163.ico
     |   |   imageres_164.ico
@@ -224,19 +205,16 @@
     |   |   imageres_78.ico
     |   |   imageres_79.ico
     |   |   imageres_80.ico
-    |   |   imageres_81.ico
     |   |   imageres_82.ico
     |   |   imageres_8201.ico
-    |   |   imageres_84.ico
     |   |   imageres_86.ico
     |   |   imageres_87.ico
     |   |   imageres_88.ico
     |   |   imageres_92.ico
     |   |   imageres_97.ico
-    |   |   imageres_98.ico
-    |   |   imageres_99.ico
     |   |   Instagram.ico
     |   |   Intel Driver & Support Assistant.ico
+    |   |   MachineRuntime.ico
     |   |   Mail.ico
     |   |   Maps.ico
     |   |   Messenger.ico
@@ -250,6 +228,7 @@
     |   |   Microsoft To-Do.ico
     |   |   Microsoft Whiteboard.ico
     |   |   Mobile Plans.ico
+    |   |   mods_supported_unlocked.ico
     |   |   Movies & TV.ico
     |   |   MSI Afterburner.ico
     |   |   MSI Kombustor.ico
@@ -261,7 +240,6 @@
     |   |   OBS Studio.ico
     |   |   OneDrive.ico
     |   |   Origin.ico
-    |   |   Outlook NEW.ico
     |   |   Package.ico
     |   |   Paint 3D.ico
     |   |   Paint.ico
@@ -269,6 +247,7 @@
     |   |   Photos.ico
     |   |   Power Automate Troubleshooting Tool.ico
     |   |   Power Automate.ico
+    |   |   Print Queue Action Center.ico
     |   |   qb (c).ico
     |   |   Quick Assist.ico
     |   |   Rainmeter.ico
@@ -309,6 +288,9 @@
     |   |   Sticky Notes Dark.ico
     |   |   Sticky Notes.ico
     |   |   Streaming.ico
+    |   |   Task Manager Legacy Dark.ico
+    |   |   Task Manager Legacy Light.ico
+    |   |   Task Manager.ico
     |   |   Tips.ico
     |   |   TV.ico
     |   |   Twitter 2.ico
@@ -355,6 +337,7 @@
     |   |   |   +---Acrobat
     |   |   |   |       Acrobat Distiller.ico
     |   |   |   |       Acrobat Reader.ico
+    |   |   |   |       Acrobat Update.ico
     |   |   |   |       
     |   |   |   +---Creative Cloud
     |   |   |   |       Creative Cloud 1.ico
@@ -451,6 +434,10 @@
     |   |   |   |       Lightroom Classic.ico
     |   |   |   |       Lightroom.ico
     |   |   |   |       
+    |   |   |   +---Other
+    |   |   |   |       Adobe Update Helper.ico
+    |   |   |   |       Package Adobe.ico
+    |   |   |   |       
     |   |   |   +---Photoshop
     |   |   |   |       Photoshop Express.ico
     |   |   |   |       Photoshop.ico
@@ -459,15 +446,12 @@
     |   |   |   |       Premiere Pro.ico
     |   |   |   |       Premiere Rush.ico
     |   |   |   |       
-    |   |   |   +---Substance 3D
-    |   |   |   |       Substance 3D Designer.ico
-    |   |   |   |       Substance 3D Modeler.ico
-    |   |   |   |       Substance 3D Painter.ico
-    |   |   |   |       Substance 3D Sampler.ico
-    |   |   |   |       Substance 3D Stager.ico
-    |   |   |   |       
-    |   |   |   \---z Old
-    |   |   |           Package Adobe.ico
+    |   |   |   \---Substance 3D
+    |   |   |           Substance 3D Designer.ico
+    |   |   |           Substance 3D Modeler.ico
+    |   |   |           Substance 3D Painter.ico
+    |   |   |           Substance 3D Sampler.ico
+    |   |   |           Substance 3D Stager.ico
     |   |   |           
     |   |   +---Package (Beta)
     |   |   |       Beta Aero.ico
@@ -509,20 +493,48 @@
     |   |       Store Installer.ico
     |   |       Windows Package Feed (Feature Experience Pack).ico
     |   |       
+    |   +---Development
+    |   |       Blend for Visual Studio 2022 Preview.ico
+    |   |       Blend for Visual Studio 2022.ico
+    |   |       DevHome.ico
+    |   |       DevHomeGitHubExt.ico
+    |   |       DevHomePRE.ico
+    |   |       MSBuild.ico
+    |   |       SSMS PRE.ico
+    |   |       SUDO.ico
+    |   |       Visual Studio 2019 Installer.ico
+    |   |       Visual Studio 2019.ico
+    |   |       Visual Studio 2022 Installer.ico
+    |   |       Visual Studio 2022 Preview.ico
+    |   |       Visual Studio 2022.ico
+    |   |       Visual Studio Code.ico
+    |   |       
+    |   +---Message Icon
+    |   |       Error.ico
+    |   |       imageres_104.ico
+    |   |       imageres_105.ico
+    |   |       imageres_106.ico
+    |   |       imageres_81.ico
+    |   |       imageres_99.ico
+    |   |       shield_warning.ico
+    |   |       Warning.ico
+    |   |       
     |   +---Microsoft 365
     |   |       Access.ico
     |   |       Excel.ico
     |   |       Exchange.ico
     |   |       Forms.ico
     |   |       OneNote.ico
-    |   |       Outlook [PRE].ico
+    |   |       Outlook Legacy PRE.ico
+    |   |       Outlook Legacy.ico
+    |   |       Outlook NEW.ico
     |   |       Outlook.ico
     |   |       PowerPoint.ico
     |   |       Project.ico
     |   |       Publisher.ico
     |   |       SharePoint.ico
     |   |       Sway.ico
-    |   |       Teams Legacy [NEW].ico
+    |   |       Teams Legacy NEW.ico
     |   |       Teams Legacy.ico
     |   |       Teams.ico
     |   |       Visio.ico
@@ -530,6 +542,7 @@
     |   |       Yammer.ico
     |   |       _Microsoft 365.ico
     |   |       _Office.ico
+    |   |       _Sticky Notes (new).ico
     |   |       
     |   +---Microsoft Edge
     |   |       Edge BETA.ico
@@ -539,32 +552,36 @@
     |   |       Edge.ico
     |   |       
     |   +---PowerToys
-    |   |       Color Picker.ico
-    |   |       Fancy Zones.ico
-    |   |       File Locksmith.ico
-    |   |       Hosts.ico
-    |   |       Image Resizer.ico
-    |   |       Keyboard Manager Editor.ico
-    |   |       Mouse Without Borders.ico
-    |   |       Power OCR.ico
-    |   |       Power Rename.ico
-    |   |       PowerToys.ico
-    |   |       Registry Preview.ico
-    |   |       
-    |   +---Sysinternals
-    |   |       Process Monitor.ico
-    |   |       TCPView.ico
-    |   |       WinObj.ico
-    |   |       
-    |   \---Visual Studio
-    |           Blend for Visual Studio 2022 Preview.ico
-    |           Blend for Visual Studio 2022.ico
-    |           Visual Studio 2019 Installer.ico
-    |           Visual Studio 2019.ico
-    |           Visual Studio 2022 Installer.ico
-    |           Visual Studio 2022 Preview.ico
-    |           Visual Studio 2022.ico
-    |           Visual Studio Code.ico
+    |   |   |   Advanced Paste.ico
+    |   |   |   Color Picker.ico
+    |   |   |   DefaultIcon.ico
+    |   |   |   Environment Variables.ico
+    |   |   |   Fancy Zones.ico
+    |   |   |   File Locksmith.ico
+    |   |   |   Hosts.ico
+    |   |   |   Image Resizer.ico
+    |   |   |   Keyboard Manager Editor.ico
+    |   |   |   Mouse Without Borders.ico
+    |   |   |   Peek.ico
+    |   |   |   Power OCR.ico
+    |   |   |   Power Rename.ico
+    |   |   |   PowerToys.ico
+    |   |   |   Registry Preview.ico
+    |   |   |   Workspaces.ico
+    |   |   |   
+    |   |   \---Awake
+    |   |           disabled.ico
+    |   |           expirable.ico
+    |   |           indefinite.ico
+    |   |           normal.ico
+    |   |           scheduled.ico
+    |   |           timed.ico
+    |   |           _Awake.ico
+    |   |           
+    |   \---Sysinternals
+    |           Process Monitor.ico
+    |           TCPView.ico
+    |           WinObj.ico
     |           
     +---Apps (Windows 7)
     |   |   accessibilitycpl_1.ico
@@ -592,9 +609,6 @@
     |   |   audiosrv_203.ico
     |   |   AuthFWGP_100.ico
     |   |   baaupdate_1.ico
-    |   |   bckgRes_1009.ico
-    |   |   Chess_128.ico
-    |   |   ChkrRes_1009.ico
     |   |   cmd_IDI_APPICON.ico
     |   |   dsuiext_4137.ico
     |   |   DVDMaker_128.ico
@@ -610,8 +624,6 @@
     |   |   explorer_259.ico
     |   |   explorer_ICO_MYCOMPUTER.ico
     |   |   Faultrep_5201.ico
-    |   |   FreeCell_121.ico
-    |   |   Hearts_108.ico
     |   |   iexplore_32528.ico
     |   |   iexplore_32529.ico
     |   |   iexplore_7.ico
@@ -646,10 +658,6 @@
     |   |   imageres_1035.ico
     |   |   imageres_1036.ico
     |   |   imageres_1037.ico
-    |   |   imageres_104.ico
-    |   |   imageres_105.ico
-    |   |   imageres_106.ico
-    |   |   imageres_107.ico
     |   |   imageres_108.ico
     |   |   imageres_109.ico
     |   |   imageres_110.ico
@@ -665,7 +673,6 @@
     |   |   imageres_123.ico
     |   |   imageres_129.ico
     |   |   imageres_130.ico
-    |   |   imageres_14.ico
     |   |   imageres_143.ico
     |   |   imageres_144.ico
     |   |   imageres_145.ico
@@ -758,7 +765,6 @@
     |   |   imageres_80.ico
     |   |   imageres_81.ico
     |   |   imageres_82.ico
-    |   |   imageres_84.ico
     |   |   imageres_85.ico
     |   |   imageres_86.ico
     |   |   imageres_87.ico
@@ -771,17 +777,11 @@
     |   |   imageres_95.ico
     |   |   imageres_96.ico
     |   |   imageres_97.ico
-    |   |   imageres_98.ico
-    |   |   imageres_99.ico
     |   |   imageres_SHIDI_SHIELD_INTERNAL.ico
     |   |   imagesp1_200.ico
     |   |   imagesp1_201.ico
     |   |   imagesp1_208.ico
     |   |   Journal_104.ico
-    |   |   Mahjong_102.ico
-    |   |   MineSweeper_110.ico
-    |   |   MineSweeper_111.ico
-    |   |   MoreGames_IDI_MOREGAMES.ico
     |   |   msgsres_1.ico
     |   |   MsMpRes_103.ico
     |   |   MSOERES_15.ico
@@ -814,7 +814,6 @@
     |   |   powershell_ise_1.ico
     |   |   powershell_MSH_MAIN.ico
     |   |   powershell_MSH_SECURITY.ico
-    |   |   PurblePlace_102.ico
     |   |   shell32_157.ico
     |   |   shell32_16.ico
     |   |   shell32_16715.ico
@@ -826,8 +825,6 @@
     |   |   ShvlRes_1009.ico
     |   |   sidebar_100.ico
     |   |   sidebar_103.ico
-    |   |   Solitaire_108.ico
-    |   |   SpiderSolitaire_108.ico
     |   |   Windows Explorer.ico
     |   |   WLXPhotoAcq_1075.ico
     |   |   WLXPhotoAcq_1076.ico
@@ -838,21 +835,57 @@
     |   |   wmplayer_IDR_MAINFRAME.ico
     |   |   wordpad_128.ico
     |   |   
-    |   \---Deploy
-    |           Installer.ico
+    |   +---Deploy
+    |   |       Installer.ico
+    |   |       
+    |   +---Games
+    |   |       bckgRes_1009.ico
+    |   |       Chess_128.ico
+    |   |       ChkrRes_1009.ico
+    |   |       FreeCell_121.ico
+    |   |       Hearts_108.ico
+    |   |       imageres_14.ico
+    |   |       Mahjong_102.ico
+    |   |       MineSweeper_110.ico
+    |   |       MineSweeper_111.ico
+    |   |       MoreGames_IDI_MOREGAMES.ico
+    |   |       PurblePlace_102.ico
+    |   |       Solitaire_108.ico
+    |   |       SpiderSolitaire_108.ico
+    |   |       
+    |   \---Message Icon
+    |           imageres_104.ico
+    |           imageres_105.ico
+    |           imageres_106.ico
+    |           imageres_107.ico
+    |           imageres_84.ico
+    |           imageres_98.ico
+    |           imageres_99.ico
     |           
     +---Apps (Windows 8)
+    |   |   Bluetooth.ico
     |   |   Calculator.ico
     |   |   Camera.ico
     |   |   DotNet.ico
+    |   |   Help R2L.ico
+    |   |   Help.ico
+    |   |   Live Mesh.ico
     |   |   Lync (Skype for Business).ico
+    |   |   Media Player.ico
     |   |   Microsoft Edge.ico
     |   |   Package.ico
     |   |   Photos.ico
     |   |   Settings.ico
     |   |   Unified Write Filter UX.ico
     |   |   Visual Studio.ico
+    |   |   Windows 7 Alt.ico
+    |   |   Windows 7 Store.ico
+    |   |   Windows 7 Update.ico
+    |   |   Windows 7.ico
+    |   |   Windows Phone.ico
     |   |   Windows Store.ico
+    |   |   Windows Update.ico
+    |   |   Windows.ico
     |   |   
     |   \---Transparent
     |           Lync.ico
@@ -884,8 +917,9 @@
     |   |   My Network Places.ico
     |   |   Network Computers.ico
     |   |   Phone.ico
-    |   |   Pinball.ico
     |   |   Sounds, Speech, and Audio Devices.ico
+    |   |   Space Cadet Pinball 1.ico
+    |   |   Space Cadet Pinball 2.ico
     |   |   System Properties.ico
     |   |   User 1.ico
     |   |   User 2.ico
@@ -894,7 +928,6 @@
     |   |   User Support.ico
     |   |   User's Computer.ico
     |   |   Video.ico
-    |   |   Windows Explorer.ico
     |   |   
     |   \---Deploy
     |           Installer.ico
@@ -1099,9 +1132,14 @@
     |   |   Audio.ico
     |   |   AutoHotkey.ico
     |   |   Disk.ico
+    |   |   ICON1004_1.ico
     |   |   ICON124_1.ico
     |   |   ICON127_1.ico
-    |   |   ICON2_1.ico
+    |   |   ICON178_1.ico
+    |   |   ICON19_1 (2).ico
+    |   |   ICON2_1 (2).ico
+    |   |   ICON5343_1.ico
+    |   |   ICON5350_1.ico
     |   |   ICON67_1.ico
     |   |   ICON69_1.ico
     |   |   Linwood Butterfly.ico
@@ -1118,6 +1156,15 @@
     |   |   Video.ico
     |   |   Winamp.ico
     |   |   
+    |   +---Font
+    |   |       ICON125_1.ico
+    |   |       ICON126_1.ico
+    |   |       ICON127_1.ico
+    |   |       ICON158_1.ico
+    |   |       ICON159_1.ico
+    |   |       ICON160_1 (2).ico
+    |   |       ICON241_1.ico
+    |   |       
     |   +---Office
     |   |   |   Access.ico
     |   |   |   CSV.ico
