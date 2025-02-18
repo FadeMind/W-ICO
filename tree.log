@@ -4505,6 +4505,7 @@
     |   |       arch.ico
     |   |       arrow.ico
     |   |       asus.ico
+    |   |       audacity.ico
     |   |       audio.ico
     |   |       auto-cad.ico
     |   |       autoruns.ico
@@ -4525,7 +4526,9 @@
     |   |       chromium.ico
     |   |       cities-skylines.ico
     |   |       citra-emu.ico
+    |   |       civitai.ico
     |   |       clone-hero-emu.ico
+    |   |       cobalt.tools.ico
     |   |       code.ico
     |   |       corsair.ico
     |   |       corvus.ico
@@ -4535,6 +4538,7 @@
     |   |       csgo.ico
     |   |       css.ico
     |   |       cyberpunk.ico
+    |   |       davinci.ico
     |   |       deepin.ico
     |   |       degree.ico
     |   |       dell.ico
@@ -4553,6 +4557,7 @@
     |   |       downloads.ico
     |   |       dreamcast.ico
     |   |       drepfest.ico
+    |   |       ea.ico
     |   |       elden-ring.ico
     |   |       epic-games.ico
     |   |       escapist-2.ico
@@ -4564,6 +4569,7 @@
     |   |       fedora.ico
     |   |       figma.ico
     |   |       firefox.ico
+    |   |       fitgirl-repacks.ico
     |   |       fiveM.ico
     |   |       fiverr.ico
     |   |       flamegapps.ico
@@ -4587,6 +4593,8 @@
     |   |       github.ico
     |   |       gitlab.ico
     |   |       gnome-web.ico
+    |   |       gog.ico
+    |   |       golang.ico
     |   |       google-b.ico
     |   |       google-drive.ico
     |   |       google-photos.ico
@@ -4608,6 +4616,7 @@
     |   |       google-pixel8pro.ico
     |   |       google-w.ico
     |   |       google.ico
+    |   |       gopher.ico
     |   |       gopro.ico
     |   |       gphotos.ico
     |   |       graphics.ico
@@ -4616,6 +4625,8 @@
     |   |       gtav.ico
     |   |       halo.ico
     |   |       havoc.ico
+    |   |       heart-pulse.ico
+    |   |       heart.ico
     |   |       hearts-of-iron-4.ico
     |   |       howtomen.ico
     |   |       hp.ico
@@ -4752,6 +4763,7 @@
     |   |       rdr-2.ico
     |   |       Readyfor-Motorola.ico
     |   |       Redbubble.ico
+    |   |       reddit.ico
     |   |       resident-evil.ico
     |   |       retroarch.ico
     |   |       revanced.ico
@@ -4769,6 +4781,7 @@
     |   |       ryujinx-emu.ico
     |   |       ryzen.ico
     |   |       s20fe.ico
+    |   |       s23u.ico
     |   |       safari.ico
     |   |       samsung-budget.ico
     |   |       samsung-galaxy-m02.ico
@@ -4779,11 +4792,13 @@
     |   |       settings.ico
     |   |       setups.ico
     |   |       sharex.ico
+    |   |       shonen-jump.ico
     |   |       sims.ico
     |   |       sketchup.ico
     |   |       snes.ico
     |   |       sony-alpha.ico
     |   |       sony.ico
+    |   |       sound.ico
     |   |       sparkos.ico
     |   |       spotify.ico
     |   |       sql.ico
@@ -4804,17 +4819,20 @@
     |   |       tidwib.ico
     |   |       tools.ico
     |   |       tv-shows.ico
+    |   |       twitter.ico
     |   |       twrp.ico
     |   |       ubuntu-studio.ico
     |   |       ubuntu.ico
     |   |       user.ico
     |   |       user2.ico
+    |   |       Vagrant.ico
     |   |       valorant.ico
     |   |       vhd.ico
     |   |       videos.ico
     |   |       vim.ico
     |   |       Virtualbox.ico
     |   |       Vita3K-emu.ico
+    |   |       viz.ico
     |   |       voltageos.ico
     |   |       vscode.ico
     |   |       vue.ico
@@ -4822,15 +4840,26 @@
     |   |       warzone.ico
     |   |       web.ico
     |   |       wii.ico
+    |   |       windows-1.ico
     |   |       windows-10.ico
     |   |       windows-11.ico
+    |   |       windows-3.1.ico
+    |   |       windows-8.1.ico
+    |   |       windows-95.ico
+    |   |       windows-alt01.ico
+    |   |       windows-alt02.ico
     |   |       Windows-updated-blocker.ico
+    |   |       windows-vista.ico
+    |   |       windows-xp.ico
     |   |       word.ico
     |   |       work.ico
+    |   |       x.ico
     |   |       x3.ico
+    |   |       Xbox-one.ico
     |   |       xd.ico
     |   |       yaap.ico
-    |   |       youtube.ico
+    |   |       youtube-black.ico
+    |   |       youtube-white.ico
     |   |       yuzu-emu.ico
     |   |       zorin.ico
     |   |       
