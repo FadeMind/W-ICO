@@ -1,0 +1,66 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4214_422)">
+<path d="M0 3.0004C0 2.44811 0.447715 2.0004 1 2.0004H14C14.5523 2.0004 15 2.44811 15 3.0004V12.0004C15 13.6573 13.6569 15.0004 12 15.0004H3C1.34315 15.0004 0 13.6573 0 12.0004V3.0004Z" fill="url(#paint0_linear_4214_422)"/>
+<rect x="3" y="4.0004" width="9" height="9" rx="0.666667" fill="#243A5F" fill-opacity="0.5"/>
+<g filter="url(#filter0_d_4214_422)">
+<path d="M7.00024 5.0004H4.00024V8.0004H7.00024V5.0004Z" fill="#F25022"/>
+<path d="M11 5.0004H8V8.0004H11V5.0004Z" fill="#7FBA00"/>
+<path d="M11 9.0004H8V12.0004H11V9.0004Z" fill="#FFB900"/>
+<path d="M7 9.0004H4V12.0004H7V9.0004Z" fill="#00A4EF"/>
+</g>
+<path d="M3.5 2.5004V1.0004C3.5 0.724254 3.72386 0.500397 4 0.500397H11C11.2761 0.500397 11.5 0.724254 11.5 1.0004V2.5004" stroke="url(#paint1_linear_4214_422)" stroke-linecap="round"/>
+<rect x="4" y="0.000396729" width="7" height="1" fill="url(#paint2_linear_4214_422)"/>
+<mask id="mask0_4214_422" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="0" width="8" height="2">
+<rect x="3.99976" y="0.000396729" width="7" height="1" fill="url(#paint3_linear_4214_422)"/>
+</mask>
+<g mask="url(#mask0_4214_422)">
+<g filter="url(#filter1_dd_4214_422)">
+<rect x="3" y="0.000396729" width="1" height="3" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_4214_422" x="3.33333" y="4.5004" width="8.33333" height="8.33333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="0.166667"/>
+<feGaussianBlur stdDeviation="0.333333"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4214_422"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4214_422" result="shape"/>
+</filter>
+<filter id="filter1_dd_4214_422" x="2" y="-1.66627" width="11" height="5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-0.666667"/>
+<feGaussianBlur stdDeviation="0.166667"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4214_422"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-0.666667"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_4214_422" result="effect2_dropShadow_4214_422"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_4214_422" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_4214_422" x1="7.5" y1="2.0004" x2="10.3558" y2="15.4555" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0669BC"/>
+<stop offset="1" stop-color="#243A5F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4214_422" x1="7.5" y1="0.500397" x2="7.63195" y2="2.65558" gradientUnits="userSpaceOnUse">
+<stop stop-color="#30DAFF"/>
+<stop offset="1" stop-color="#0094D4"/>
+</linearGradient>
+<linearGradient id="paint2_linear_4214_422" x1="7.11111" y1="0.000396755" x2="7.11111" y2="1.0004" gradientUnits="userSpaceOnUse">
+<stop stop-color="#22BCFF"/>
+<stop offset="1" stop-color="#0088F0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_4214_422" x1="7.11087" y1="0.000396755" x2="7.11087" y2="1.0004" gradientUnits="userSpaceOnUse">
+<stop stop-color="#28AFEA"/>
+<stop offset="1" stop-color="#3CCBF4"/>
+</linearGradient>
+<clipPath id="clip0_4214_422">
+<rect width="16" height="16" fill="white" transform="translate(0 0.000396729)"/>
+</clipPath>
+</defs>
+</svg>
