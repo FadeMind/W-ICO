@@ -983,11 +983,49 @@
 |   |   |   DDORes_2359.ico
 |   |   |   DDORes_2413.ico
 |   |   |   DDORes_2554.ico
-|   |   |   Digitizer.ico
 |   |   |   Display.ico
 |   |   |   DMPMultimedia.ico
 |   |   |   DVRMultimedia.ico
 |   |   |   ICON16761_1.ico
+|   |   |   ICON2061_1.ico
+|   |   |   ICON2068_1.ico
+|   |   |   ICON2076_1.ico
+|   |   |   ICON2102_1.ico
+|   |   |   ICON2106_1.ico
+|   |   |   ICON2107_1.ico
+|   |   |   ICON2109_1.ico
+|   |   |   ICON2114_1.ico
+|   |   |   ICON2115_1.ico
+|   |   |   ICON2143_1.ico
+|   |   |   ICON2169_1.ico
+|   |   |   ICON2174_1.ico
+|   |   |   ICON2214_1.ico
+|   |   |   ICON2302_1.ico
+|   |   |   ICON2305_1.ico
+|   |   |   ICON2307_1.ico
+|   |   |   ICON2308_1.ico
+|   |   |   ICON2354_1.ico
+|   |   |   ICON2355_1.ico
+|   |   |   ICON2356_1.ico
+|   |   |   ICON2357_1.ico
+|   |   |   ICON2371_1.ico
+|   |   |   ICON2372_1.ico
+|   |   |   ICON2374_1.ico
+|   |   |   ICON2376_1.ico
+|   |   |   ICON2378_1.ico
+|   |   |   ICON2381_1.ico
+|   |   |   ICON2383_1.ico
+|   |   |   ICON2389_1.ico
+|   |   |   ICON2412_1.ico
+|   |   |   ICON2413_1.ico
+|   |   |   ICON2414_1.ico
+|   |   |   ICON2419_1.ico
+|   |   |   ICON2434_1.ico
+|   |   |   ICON2440_1.ico
+|   |   |   ICON2441_1.ico
+|   |   |   ICON2526_1.ico
+|   |   |   ICON2551_1.ico
+|   |   |   ICON2554_1.ico
 |   |   |   Intel Driver & Support Assistant.ico
 |   |   |   Laptop.ico
 |   |   |   MediaSmartCard.ico
@@ -1003,6 +1041,10 @@
 |   |   |       Earbuds.ico
 |   |   |       HeadPhone.ico
 |   |   |       HearingAid.ico
+|   |   |       ICON2011_1.ico
+|   |   |       ICON2014_1.ico
+|   |   |       ICON2018_1.ico
+|   |   |       ICON2033_1.ico
 |   |   |       Microphone.ico
 |   |   |       shell32_277.ico
 |   |   |       Speakers.ico
@@ -1013,34 +1055,68 @@
 |   |   |       Camcorder.ico
 |   |   |       Camera.ico
 |   |   |       DDORes_2553.ico
-|   |   |       ICON46_1 (2).ico
+|   |   |       ICON2552_1.ico
+|   |   |       ICON2555_1.ico
 |   |   |       Imaging.ico
 |   |   |       
 |   |   +---Game
 |   |   |       GameConsoleMultimedia.ico
 |   |   |       GamingDevices.ico
 |   |   |       GamingInput.ico
+|   |   |       ICON2207_1.ico
+|   |   |       ICON2358_1.ico
 |   |   |       
 |   |   +---Input
+|   |   |       ICON2201_1.ico
+|   |   |       ICON2210_1.ico
+|   |   |       ICON2212_1.ico
 |   |   |       Input.ico
 |   |   |       Keyboard.ico
 |   |   |       
 |   |   +---Phone & Tablet
 |   |   |       CellPhone.ico
+|   |   |       Digitizer.ico
 |   |   |       HandheldComputer.ico
+|   |   |       ICON2066_1.ico
+|   |   |       ICON2078_1.ico
+|   |   |       ICON2108_1.ico
+|   |   |       ICON2202_1.ico
+|   |   |       ICON2359_1.ico
 |   |   |       imageres_6400.ico
 |   |   |       Phone.ico
 |   |   |       Tablet and Phone.ico
 |   |   |       TabletComputer.ico
 |   |   |       Your Phone.ico
 |   |   |       
-|   |   \---POS
-|   |           POS Bar Code Scanner.ico
-|   |           POS Cash Drawer.ico
-|   |           POS Line Display.ico
-|   |           POS Magnetic Strip Reader.ico
-|   |           POS Payment Device.ico
-|   |           POS Printer.ico
+|   |   +---POS
+|   |   |       ICON3157_1.ico
+|   |   |       ICON3161_1.ico
+|   |   |       ICON3165_1.ico
+|   |   |       ICON3169_1.ico
+|   |   |       ICON3173_1.ico
+|   |   |       ICON3186_1.ico
+|   |   |       POS Bar Code Scanner.ico
+|   |   |       POS Cash Drawer.ico
+|   |   |       POS Line Display.ico
+|   |   |       POS Magnetic Strip Reader.ico
+|   |   |       POS Payment Device.ico
+|   |   |       POS Printer.ico
+|   |   |       
+|   |   \---Sensors
+|   |           ICON2241_1.ico
+|   |           ICON2431_1.ico
+|   |           ICON2433_1.ico
+|   |           ICON2435_1.ico
+|   |           ICON2436_1.ico
+|   |           ICON2437_1.ico
+|   |           ICON2438_1.ico
+|   |           ICON2439_1.ico
+|   |           ICON2442_1.ico
+|   |           ICON2443_1.ico
+|   |           ICON2444_1.ico
+|   |           ICON2445_1.ico
+|   |           ICON2446_1.ico
+|   |           ICON2447_1.ico
 |   |           
 |   +---Devices (Windows 7)
 |   |       audio.ico
@@ -1170,6 +1246,14 @@
 |   |       ICON1034_1.ico
 |   |       ICON165_1.ico
 |   |       ICON167_1 (2).ico
+|   |       ICON2511_1.ico
+|   |       ICON2512_1.ico
+|   |       ICON2516_1.ico
+|   |       ICON2519_1.ico
+|   |       ICON2521_1.ico
+|   |       ICON2522_1.ico
+|   |       ICON2524_1.ico
+|   |       ICON2525_1.ico
 |   |       ICON29_1.ico
 |   |       ICON31_1 (2).ico
 |   |       ICON31_1.ico
@@ -9256,12 +9340,6 @@
 |   |       shell32_198.ico
 |   |       shell32_199.ico
 |   |       
-|   +---PSD
-|   |       Archive Icon.psd
-|   |       Drive.psd
-|   |       Preview Adobe.psd
-|   |       Preview Windows.psd
-|   |       
 |   \---zExtracted From EXE
 |       +---GoogleDriveFS
 |       |       GoogleDriveFS_20.ico
@@ -9305,11 +9383,28 @@
 |               OneDrive_589.ico
 |               OneDrive_590.ico
 |               
++---PSD
+|       Archive Icon.psd
+|       Drive.psd
+|       Preview Adobe.psd
+|       Preview Windows.psd
+|       
 \---SVG
         Copilot.svg
         CopilotPRE.svg
+        FindMoreWidgets.svg
+        generic-console.svg
+        generic-desktop.svg
+        generic-laptop.svg
+        generic-phone.svg
+        m365.svg
+        office.svg
         OneDrive.svg
         Paint.svg
         PhoneLink.svg
         Photos.svg
+        security.svg
+        WindowsBackupAppImage.svg
+        WindowsMigrationAppImage.svg
+        WindowsUpdate_Logo.svg
         
