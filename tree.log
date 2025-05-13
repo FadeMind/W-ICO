@@ -4372,174 +4372,161 @@
 |   |           
 |   +---Folder (Windows 11)
 |   |   +---color
-|   |   |       Acer Predator.ico
-|   |   |       Acer.ico
-|   |   |       Acronis.ico
-|   |   |       Adguard.ico
-|   |   |       Adobe After Effects.ico
-|   |   |       Adobe CC.ico
-|   |   |       Adobe Illustrator.ico
-|   |   |       Adobe InDesign.ico
-|   |   |       Adobe Photoshop.ico
-|   |   |       Adobe Premire Pro.ico
-|   |   |       Adobe.ico
-|   |   |       Affinity Designer.ico
-|   |   |       Affinity Photo.ico
-|   |   |       Affinity Publisher.ico
-|   |   |       AIMP.ico
-|   |   |       Alienware.ico
-|   |   |       Amazon.ico
-|   |   |       amazongames-1.ico
-|   |   |       AMD.ico
-|   |   |       Android 2.ico
-|   |   |       Android.ico
-|   |   |       Aorus Logo.ico
-|   |   |       Aorus Name.ico
-|   |   |       Apple.ico
-|   |   |       Apps Folder.ico
-|   |   |       Artstation.ico
-|   |   |       Asus.ico
-|   |   |       Atention Folder.ico
-|   |   |       Battle.net.ico
-|   |   |       Battlestate.ico
-|   |   |       Bethesda.ico
-|   |   |       Bitwarden.ico
-|   |   |       Blizzard.ico
-|   |   |       Bookmark Folder.ico
-|   |   |       Calibre.ico
-|   |   |       Castle 01.ico
-|   |   |       Castle 02.ico
-|   |   |       Checked Folder.ico
-|   |   |       Chess 01.ico
-|   |   |       Chess 02.ico
-|   |   |       Chrome.ico
-|   |   |       Circle Folder 02.ico
-|   |   |       Circle.ico
-|   |   |       Close Folder.ico
-|   |   |       Colorful.ico
-|   |   |       Contact Folder.ico
-|   |   |       Cryptomator.ico
-|   |   |       Custom Podcasts.ico
-|   |   |       Dell.ico
-|   |   |       DeviantArt.ico
-|   |   |       Discord.ico
-|   |   |       Documents Generic.ico
-|   |   |       documents.ico
-|   |   |       Drawing.ico
-|   |   |       drivers.ico
-|   |   |       Dropbox.ico
-|   |   |       EA.ico
-|   |   |       epic-1.ico
-|   |   |       Epic.ico
-|   |   |       Game Folder.ico
-|   |   |       games.ico
-|   |   |       games2.ico
-|   |   |       Gigabyte Logo.ico
-|   |   |       Gigabyte Name.ico
-|   |   |       git.ico
-|   |   |       gog-1.ico
-|   |   |       gog.ico
-|   |   |       Google Drive.ico
-|   |   |       Google Drive2.ico
-|   |   |       humble1.ico
-|   |   |       humble2.ico
-|   |   |       ICON1025_1.ico
-|   |   |       ICON10_1 (2).ico
-|   |   |       ICON115_1.ico
-|   |   |       ICON123_1.ico
-|   |   |       ICON129_1.ico
-|   |   |       ICON146_1.ico
-|   |   |       ICON166_1 (2).ico
-|   |   |       ICON16715_1.ico
-|   |   |       ICON16772_1.ico
-|   |   |       ICON175_1 (2).ico
-|   |   |       ICON181_1 (2).ico
-|   |   |       ICON183_1 (2).ico
-|   |   |       ICON184_1 (2).ico
-|   |   |       ICON185_1 (2).ico
-|   |   |       ICON186_1 (2).ico
-|   |   |       ICON18_1 (2).ico
-|   |   |       ICON190_1.ico
-|   |   |       ICON198_1 (2).ico
-|   |   |       ICON238_1.ico
-|   |   |       ICON267_1.ico
-|   |   |       ICON319_1.ico
-|   |   |       ICON326_1.ico
-|   |   |       ICON37219_1.ico
-|   |   |       ICON3_1 (2).ico
-|   |   |       ICON46_1.ico
-|   |   |       ICON5339_1.ico
-|   |   |       ICON5353_1.ico
-|   |   |       ICON5355_1.ico
-|   |   |       ICON9_1 (2).ico
-|   |   |       Image Settings.ico
-|   |   |       Jellyfin.ico
-|   |   |       Kodi Folder 1.ico
-|   |   |       Kodi Folder 2.ico
-|   |   |       Lenovo.ico
-|   |   |       Link Folder.ico
-|   |   |       Mega.ico
-|   |   |       Minecraft.ico
-|   |   |       Music Generic.ico
-|   |   |       music.ico
-|   |   |       Nexus.ico
-|   |   |       NVIDIA.ico
-|   |   |       Office.ico
-|   |   |       oosoftware.ico
-|   |   |       Origin-1.ico
-|   |   |       Origin.ico
-|   |   |       Pen Settings Folder.ico
-|   |   |       Photos Generic.ico
-|   |   |       photos.ico
-|   |   |       Pictures Generic.ico
-|   |   |       pictures.ico
-|   |   |       pictures2.ico
-|   |   |       Pirate Bay Folder.ico
-|   |   |       Playnite.ico
-|   |   |       Playstation.ico
-|   |   |       Plex.ico
-|   |   |       qbittorent.ico
-|   |   |       qBittorrent 2.ico
-|   |   |       Riot.ico
-|   |   |       Rockstar.ico
-|   |   |       ROG.ico
-|   |   |       Roku.ico
-|   |   |       Samsung.ico
-|   |   |       Search Folder.ico
-|   |   |       Spotify Dark.ico
-|   |   |       Spotify.ico
-|   |   |       Steam 2.ico
-|   |   |       Steam 3.ico
-|   |   |       Steam.ico
-|   |   |       Sword.ico
-|   |   |       Teamspeak.ico
-|   |   |       temp.ico
-|   |   |       Timer 2.ico
-|   |   |       Timer.ico
-|   |   |       totalcmd.ico
-|   |   |       TUF 1.ico
-|   |   |       TUF 2.ico
-|   |   |       Ubisoft.ico
-|   |   |       Unsplash.ico
-|   |   |       Users Folder.ico
-|   |   |       VBS Folder.ico
-|   |   |       Virtualbox.ico
-|   |   |       vlc.ico
-|   |   |       vmware-workstation.ico
-|   |   |       Wacom.ico
-|   |   |       Windows 11.ico
-|   |   |       Windows.ico
-|   |   |       x64 2.ico
-|   |   |       x64.ico
-|   |   |       x86 2.ico
-|   |   |       x86.ico
-|   |   |       xbox-1.ico
-|   |   |       Xbox.ico
-|   |   |       Xiaomi.ico
-|   |   |       XP-Pen.ico
-|   |   |       Youtube.ico
-|   |   |       
-|   |   +---Extra Folder Icons
+|   |   |   |   Acer Predator.ico
+|   |   |   |   Acer.ico
+|   |   |   |   Acronis.ico
+|   |   |   |   Adguard.ico
+|   |   |   |   Adobe After Effects.ico
+|   |   |   |   Adobe CC.ico
+|   |   |   |   Adobe Illustrator.ico
+|   |   |   |   Adobe InDesign.ico
+|   |   |   |   Adobe Photoshop.ico
+|   |   |   |   Adobe Premire Pro.ico
+|   |   |   |   Adobe.ico
+|   |   |   |   Affinity Designer.ico
+|   |   |   |   Affinity Photo.ico
+|   |   |   |   Affinity Publisher.ico
+|   |   |   |   AIMP.ico
+|   |   |   |   Alienware.ico
+|   |   |   |   Amazon.ico
+|   |   |   |   amazongames-1.ico
+|   |   |   |   AMD.ico
+|   |   |   |   Android 2.ico
+|   |   |   |   Android.ico
+|   |   |   |   Aorus Logo.ico
+|   |   |   |   Aorus Name.ico
+|   |   |   |   Apple.ico
+|   |   |   |   Apps Folder.ico
+|   |   |   |   Artstation.ico
+|   |   |   |   Asus.ico
+|   |   |   |   Atention Folder.ico
+|   |   |   |   Battle.net.ico
+|   |   |   |   Battlestate.ico
+|   |   |   |   Bethesda.ico
+|   |   |   |   Bitwarden.ico
+|   |   |   |   Blizzard.ico
+|   |   |   |   Bookmark Folder.ico
+|   |   |   |   Calibre.ico
+|   |   |   |   Castle 01.ico
+|   |   |   |   Castle 02.ico
+|   |   |   |   Checked Folder.ico
+|   |   |   |   Chess 01.ico
+|   |   |   |   Chess 02.ico
+|   |   |   |   Chrome.ico
+|   |   |   |   Circle Folder 02.ico
+|   |   |   |   Circle.ico
+|   |   |   |   Close Folder.ico
+|   |   |   |   Colorful.ico
+|   |   |   |   Contact Folder.ico
+|   |   |   |   creative.ico
+|   |   |   |   Cryptomator.ico
+|   |   |   |   Custom Podcasts.ico
+|   |   |   |   Dell.ico
+|   |   |   |   DeviantArt.ico
+|   |   |   |   Discord.ico
+|   |   |   |   Documents Generic.ico
+|   |   |   |   documents.ico
+|   |   |   |   Drawing.ico
+|   |   |   |   drivers.ico
+|   |   |   |   Dropbox.ico
+|   |   |   |   EA.ico
+|   |   |   |   epic-1.ico
+|   |   |   |   Epic.ico
+|   |   |   |   Game Folder.ico
+|   |   |   |   games.ico
+|   |   |   |   games2.ico
+|   |   |   |   Gigabyte Logo.ico
+|   |   |   |   Gigabyte Name.ico
+|   |   |   |   git.ico
+|   |   |   |   gog-1.ico
+|   |   |   |   gog.ico
+|   |   |   |   Google Drive.ico
+|   |   |   |   Google Drive2.ico
+|   |   |   |   humble1.ico
+|   |   |   |   humble2.ico
+|   |   |   |   Image Settings.ico
+|   |   |   |   Jellyfin.ico
+|   |   |   |   Kodi Folder 1.ico
+|   |   |   |   Kodi Folder 2.ico
+|   |   |   |   Lenovo.ico
+|   |   |   |   Link Folder.ico
+|   |   |   |   Mega.ico
+|   |   |   |   Minecraft.ico
+|   |   |   |   Music Generic.ico
+|   |   |   |   music.ico
+|   |   |   |   Nexus.ico
+|   |   |   |   NVIDIA.ico
+|   |   |   |   Office.ico
+|   |   |   |   oosoftware.ico
+|   |   |   |   Origin-1.ico
+|   |   |   |   Origin.ico
+|   |   |   |   Pen Settings Folder.ico
+|   |   |   |   Photos Generic.ico
+|   |   |   |   photos.ico
+|   |   |   |   Pictures Generic.ico
+|   |   |   |   pictures.ico
+|   |   |   |   pictures2.ico
+|   |   |   |   Pirate Bay Folder.ico
+|   |   |   |   Playnite.ico
+|   |   |   |   Playstation.ico
+|   |   |   |   Plex.ico
+|   |   |   |   qbittorent.ico
+|   |   |   |   qBittorrent 2.ico
+|   |   |   |   Riot.ico
+|   |   |   |   Rockstar.ico
+|   |   |   |   ROG.ico
+|   |   |   |   Roku.ico
+|   |   |   |   Samsung.ico
+|   |   |   |   Search Folder.ico
+|   |   |   |   Spotify Dark.ico
+|   |   |   |   Spotify.ico
+|   |   |   |   Steam 2.ico
+|   |   |   |   Steam 3.ico
+|   |   |   |   Steam.ico
+|   |   |   |   Sword.ico
+|   |   |   |   Teamspeak.ico
+|   |   |   |   temp.ico
+|   |   |   |   Timer 2.ico
+|   |   |   |   Timer.ico
+|   |   |   |   tmobile.ico
+|   |   |   |   totalcmd.ico
+|   |   |   |   Ubisoft.ico
+|   |   |   |   Unsplash.ico
+|   |   |   |   Users Folder.ico
+|   |   |   |   VBS Folder.ico
+|   |   |   |   vectra.ico
+|   |   |   |   Virtualbox.ico
+|   |   |   |   vlc.ico
+|   |   |   |   vmware-workstation.ico
+|   |   |   |   Wacom.ico
+|   |   |   |   Windows 11.ico
+|   |   |   |   Windows.ico
+|   |   |   |   x64 2.ico
+|   |   |   |   x64.ico
+|   |   |   |   x86 2.ico
+|   |   |   |   x86.ico
+|   |   |   |   xbox-1.ico
+|   |   |   |   Xbox.ico
+|   |   |   |   Xiaomi.ico
+|   |   |   |   XP-Pen.ico
+|   |   |   |   Youtube.ico
+|   |   |   |   
+|   |   |   \---movies_shows__sameerasw
+|   |   |           B1.ico
+|   |   |           breaking bad.ico
+|   |   |           Don't Look Up (2021).ico
+|   |   |           E3.ico
+|   |   |           L1.ico
+|   |   |           last-of-us.ico
+|   |   |           Luca.ico
+|   |   |           modern-family.ico
+|   |   |           office.ico
+|   |   |           Prey (2022).ico
+|   |   |           Senior Year (2022).ico
+|   |   |           Spiderhead (2022).ico
+|   |   |           wednesday.ico
+|   |   |           
+|   |   +---Extra Color Folder Icons
 |   |   |   +---Blue
 |   |   |   |       Blue Folder 3d Objects.ico
 |   |   |   |       Blue Folder cloud.ico
@@ -6314,6 +6301,7 @@
 |   |   |   |   Home.ico
 |   |   |   |   howtowithjohnwilson.ico
 |   |   |   |   HTML Folder Icon.ico
+|   |   |   |   ICON129.ico
 |   |   |   |   inventinganna.ico
 |   |   |   |   Jellyfin.ico
 |   |   |   |   Lenovo.ico
@@ -6434,40 +6422,55 @@
 |   |   |   |       _Template.ico
 |   |   |   |       _Template.psd
 |   |   |   |       
-|   |   |   \---Other
-|   |   |           Custom Default (No Shadow).ico
-|   |   |           HP.ico
-|   |   |           JPG Folder Icon.ico
-|   |   |           Network.ico
-|   |   |           Pi.ico
-|   |   |           PNG Folder Icon.ico
-|   |   |           PSD Folder Icon.ico
-|   |   |           Shared 3.ico
-|   |   |           User Color.ico
-|   |   |           Windows 10 Color.ico
-|   |   |           Windows File Recovery.ico
-|   |   |           Working.ico
+|   |   |   +---generic_color
+|   |   |   |       ICON10.ico
+|   |   |   |       ICON18.ico
+|   |   |   |       ICON181.ico
+|   |   |   |       ICON183.ico
+|   |   |   |       ICON184.ico
+|   |   |   |       ICON185.ico
+|   |   |   |       ICON186.ico
+|   |   |   |       ICON190.ico
+|   |   |   |       ICON198.ico
+|   |   |   |       ICON238.ico
+|   |   |   |       ICON9.ico
+|   |   |   |       
+|   |   |   +---Other
+|   |   |   |       Custom Default (No Shadow).ico
+|   |   |   |       HP.ico
+|   |   |   |       ICON1025.ico
+|   |   |   |       ICON115.ico
+|   |   |   |       ICON123.ico
+|   |   |   |       ICON146.ico
+|   |   |   |       ICON166.ico
+|   |   |   |       ICON16715.ico
+|   |   |   |       ICON16772.ico
+|   |   |   |       ICON175.ico
+|   |   |   |       ICON267.ico
+|   |   |   |       ICON3.ico
+|   |   |   |       ICON319.ico
+|   |   |   |       ICON326.ico
+|   |   |   |       ICON37219.ico
+|   |   |   |       ICON46.ico
+|   |   |   |       ICON5339.ico
+|   |   |   |       ICON5353.ico
+|   |   |   |       ICON5355.ico
+|   |   |   |       JPG Folder Icon.ico
+|   |   |   |       Network.ico
+|   |   |   |       Pi.ico
+|   |   |   |       PNG Folder Icon.ico
+|   |   |   |       PSD Folder Icon.ico
+|   |   |   |       Shared 3.ico
+|   |   |   |       User Color.ico
+|   |   |   |       Windows 10 Color.ico
+|   |   |   |       Windows File Recovery.ico
+|   |   |   |       Working.ico
+|   |   |   |       
+|   |   |   \---UnplatedFolder
+|   |   |           UnplatedFolder.ico
+|   |   |           UnplatedFolder_HCBlack.ico
+|   |   |           UnplatedFolder_HCWhite.ico
 |   |   |           
-|   |   +---movies_shows__sameerasw
-|   |   |       B1.ico
-|   |   |       breaking bad.ico
-|   |   |       Don't Look Up (2021).ico
-|   |   |       E3.ico
-|   |   |       L1.ico
-|   |   |       last-of-us.ico
-|   |   |       Luca.ico
-|   |   |       modern-family.ico
-|   |   |       office.ico
-|   |   |       Prey (2022).ico
-|   |   |       Senior Year (2022).ico
-|   |   |       Spiderhead (2022).ico
-|   |   |       wednesday.ico
-|   |   |       
-|   |   +---New
-|   |   |       UnplatedFolder.ico
-|   |   |       UnplatedFolder_HCBlack.ico
-|   |   |       UnplatedFolder_HCWhite.ico
-|   |   |       
 |   |   \---Win11_adni18
 |   |           1.ico
 |   |           10.ico
