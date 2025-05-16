@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" x="2741" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#brclip0_35749_112517)">
+        <path
+            d="M14.7459 21.9861C18.5884 19.7676 19.8531 14.7644 17.5706 10.8111C15.2882 6.85787 10.323 5.45153 6.48047 7.67C2.63797 9.88846 1.37328 14.8917 3.6557 18.8449C5.93813 22.7982 10.9034 24.2046 14.7459 21.9861Z"
+            fill="url(#brpaint0_linear_35749_112517)" />
+        <path
+            d="M19.7617 10.9035C21.7567 8.9079 21.709 5.62584 19.6553 3.57286C17.6016 1.51987 14.3196 1.47339 12.3246 3.46903C10.3297 5.46467 10.3773 8.74673 12.431 10.7997C14.4847 12.8527 17.7668 12.8992 19.7617 10.9035Z"
+            fill="url(#brpaint1_linear_35749_112517)" />
+        <path
+            d="M17.609 29.4642C24.2529 29.4642 29.6389 24.0783 29.6389 17.4343C29.6389 10.7903 24.2529 5.40436 17.609 5.40436C10.965 5.40436 5.57904 10.7903 5.57904 17.4343C5.57904 24.0783 10.965 29.4642 17.609 29.4642Z"
+            fill="url(#brpaint2_radial_35749_112517)" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M12.8958 2.97058C5.83344 7.33316 3.36523 16.5216 7.4236 23.8709C7.6967 24.3687 7.99399 24.8457 8.31548 25.2986L8.63005 25.347L15.6095 27.6769L22.2398 23.2348C21.1301 23.2694 16.5117 20.6491 13.4939 14.921C9.71206 7.74453 11.2711 4.42938 12.9028 2.97058H12.8958Z"
+            fill="url(#brpaint3_radial_35749_112517)" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M12.8958 2.97058C5.83344 7.33316 3.36523 16.5216 7.4236 23.8709C7.6967 24.3687 7.99399 24.8457 8.31548 25.2986L8.63005 25.347L15.6095 27.6769L22.2398 23.2348C21.1301 23.2694 16.5117 20.6491 13.4939 14.921C9.71206 7.74453 11.2711 4.42938 12.9028 2.97058H12.8958Z"
+            fill="url(#brpaint4_radial_35749_112517)" fill-opacity="0.2" />
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M26.759 25.2465C27.9793 23.8188 28.8573 22.1111 29.3067 20.2686C28.1107 16.8532 23.2987 15.8922 20.6645 18.5643C18.6423 20.6143 16.5405 22.3358 14.9607 22.6434C5.82414 24.4376 1.94648 16.8601 2.60579 13.4412C2.27047 15.18 2.26356 17.0122 2.64036 18.8547C4.17867 26.3907 11.5315 31.2511 19.0675 29.7128C21.3974 29.2357 23.4715 28.2056 25.1792 26.7848C25.1792 26.7848 25.2069 26.764 25.2172 26.7537C25.7703 26.2904 26.2854 25.7857 26.759 25.243V25.2465Z"
+            fill="url(#brpaint5_radial_35749_112517)" />
+    </g>
+    <defs>
+        <linearGradient id="brpaint0_linear_35749_112517" x1="26.8609" y1="11.0836" x2="2.30771"
+            y2="16.7452" gradientUnits="userSpaceOnUse">
+            <stop offset="0.2" stop-color="#028FDC" />
+            <stop offset="0.51" stop-color="#0078D4" />
+            <stop offset="1" stop-color="#0B315B" />
+        </linearGradient>
+        <linearGradient id="brpaint1_linear_35749_112517" x1="28.602" y1="18.6947" x2="12.3809"
+            y2="3.82834" gradientUnits="userSpaceOnUse">
+            <stop offset="0.04" stop-color="#028FDC" />
+            <stop offset="0.46" stop-color="#0078D4" />
+            <stop offset="1" stop-color="#0B315B" />
+        </linearGradient>
+        <radialGradient id="brpaint2_radial_35749_112517" cx="0" cy="0" r="1"
+            gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(24.9382 -0.244725) rotate(134.83) scale(18.1322 23.3919)">
+            <stop offset="0.39" stop-color="#028FDC" />
+            <stop offset="0.59" stop-color="#0078D4" />
+            <stop offset="1" stop-color="#1A508B" />
+        </radialGradient>
+        <radialGradient id="brpaint3_radial_35749_112517" cx="0" cy="0" r="1"
+            gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(21.0857 10.5693) rotate(139.44) scale(16.3171 20.1329)">
+            <stop offset="0.46" stop-color="#40D9FA" />
+            <stop offset="0.9" stop-color="#0095E6" />
+        </radialGradient>
+        <radialGradient id="brpaint4_radial_35749_112517" cx="0" cy="0" r="1"
+            gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(12.0832 7.08634) rotate(96.16) scale(17.3143 12.2968)">
+            <stop offset="0.77" stop-opacity="0" />
+            <stop offset="1" />
+        </radialGradient>
+        <radialGradient id="brpaint5_radial_35749_112517" cx="0" cy="0" r="1"
+            gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(20.3358 19.8735) rotate(85.97) scale(26.9434 49.1305)">
+            <stop offset="0.1" stop-color="#BDF5FF" />
+            <stop offset="0.47" stop-color="#40D9FA" />
+        </radialGradient>
+        <clipPath id="brclip0_35749_112517">
+            <rect width="32" height="32" fill="white" />
+        </clipPath>
+    </defs>
+</svg>

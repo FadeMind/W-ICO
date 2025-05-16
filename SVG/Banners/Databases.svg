@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1725" height="240" viewBox="0 0 1725 240" fill="none" y="1200"
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#bcclip0_12474_62040)">
+        <rect width="1725" height="240" fill="#B596F2" />
+        <g opacity="0.5" clip-path="url(#bcclip1_12474_62040)">
+            <path
+                d="M1041.91 131.295C1039.79 129.469 1037.86 127.336 1036.2 124.901C1026.04 110.014 1029.88 89.7191 1044.76 79.5653L1323.27 -110.397C1392.74 -157.778 1471 -164.006 1498.07 -124.314L1507.25 -110.856L1616.94 110.539L1315.8 315.937C1303.85 324.087 1288.43 323.222 1277.55 314.867C1197.81 252.761 1058.65 144.366 1043.28 132.406C1040.6 130.35 1038.2 127.839 1036.2 124.901C1026.04 110.014 1029.88 89.7191 1044.76 79.5653"
+                fill="url(#bcpaint0_linear_12474_62040)" />
+            <path
+                d="M1463.42 320.556L1621.11 213.001L1571.43 137.615L1451.23 -38.6164C1437.41 -58.8755 1397.47 -55.6955 1362.02 -31.5151L1192.38 84.1905C1177.49 94.3443 1173.66 114.64 1183.81 129.526C1185.75 132.365 1188.06 134.805 1190.63 136.817C1204.56 147.661 1344.74 256.851 1424.99 319.365C1435.88 327.84 1451.4 328.755 1463.42 320.556Z"
+                fill="url(#bcpaint1_linear_12474_62040)" />
+            <path
+                d="M1599.24 179.833L1571.42 137.621L1451.22 -38.6103C1437.4 -58.8694 1397.46 -55.6894 1362.01 -31.509L1192.38 84.1905C1177.49 94.3443 1173.66 114.64 1183.81 129.526C1185.75 132.365 1188.06 134.805 1190.63 136.817C1203.78 147.051 1329.3 244.822 1410.83 308.339L1599.24 179.833Z"
+                fill="url(#bcpaint2_linear_12474_62040)" />
+            <path
+                d="M1572.39 323.872C1583.29 332.474 1598.92 333.449 1610.99 325.213L1617.41 320.837C1686.87 273.457 1721.23 202.867 1694.16 163.175L1498.07 -124.315C1525.14 -84.6232 1490.78 -14.033 1421.32 33.3473L1339.96 88.8409C1325.07 98.9947 1321.23 119.29 1331.39 134.177C1333.36 137.06 1335.71 139.533 1338.33 141.568C1352.97 152.969 1492.35 261.522 1572.38 323.869L1572.39 323.872Z"
+                fill="url(#bcpaint3_linear_12474_62040)" />
+            <path
+                d="M1260.1 301.277L1597.44 71.183L1507.25 -110.856L1498.07 -124.314C1471 -164.006 1392.74 -157.778 1323.27 -110.397L1044.76 79.5653C1029.88 89.7191 1026.04 110.014 1036.2 124.901C1037.69 127.093 1039.47 128.962 1041.35 130.665C1041.56 130.853 1041.71 131.107 1041.91 131.295L1041.93 131.181C1042.38 131.58 1042.8 132.034 1043.29 132.4C1057.59 143.532 1179.04 238.141 1260.1 301.277Z"
+                fill="url(#bcpaint4_linear_12474_62040)" />
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="bcpaint0_linear_12474_62040" x1="1057.92" y1="190.306" x2="1580.77"
+            y2="7.23245" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D594F0" />
+            <stop offset="0.585" stop-color="#524BB5" />
+            <stop offset="0.826" stop-color="#0B3B7F" />
+            <stop offset="1" stop-color="#002561" />
+        </linearGradient>
+        <linearGradient id="bcpaint1_linear_12474_62040" x1="1211.87" y1="213.065" x2="1576.44"
+            y2="85.4157" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CFB6FB" />
+            <stop offset="0.257" stop-color="#B897F2" />
+            <stop offset="0.811" stop-color="#2F65DA" />
+        </linearGradient>
+        <linearGradient id="bcpaint2_linear_12474_62040" x1="1295.81" y1="13.6408" x2="1469.52"
+            y2="268.312" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CFB6FB" stop-opacity="0.25" />
+            <stop offset="0.15" stop-color="#CFB6FB" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="bcpaint3_linear_12474_62040" x1="1335.26" y1="157.352" x2="1673.88"
+            y2="71.0575" gradientUnits="userSpaceOnUse">
+            <stop offset="0.059" stop-color="#EFCEFD" />
+            <stop offset="0.462" stop-color="#CFB6FB" />
+            <stop offset="0.673" stop-color="#B5A5F4" />
+            <stop offset="1" stop-color="#8787E8" />
+        </linearGradient>
+        <linearGradient id="bcpaint4_linear_12474_62040" x1="1233.43" y1="-49.1191" x2="1405.01"
+            y2="202.435" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D594F0" stop-opacity="0.2" />
+            <stop offset="0.457" stop-color="#D594F0" stop-opacity="0" />
+        </linearGradient>
+        <clipPath id="bcclip0_12474_62040">
+            <rect width="1725" height="240" fill="white" />
+        </clipPath>
+        <clipPath id="bcclip1_12474_62040">
+            <rect width="596.568" height="596.568" fill="white"
+                transform="translate(966 88.1558) rotate(-34.297)" />
+        </clipPath>
+    </defs>
+</svg>

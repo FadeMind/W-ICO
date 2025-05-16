@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" x="1826" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="bpfilter0_f_84_430">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur_84_430" />
+        </filter>
+        <filter id="bpfilter1_f_84_430">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur_84_430" />
+        </filter>
+        <filter id="bpfilter2_f_84_430">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur_84_430" />
+        </filter>
+        <filter id="bpfilter3_f_84_430">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur_84_430" />
+        </filter>
+        <linearGradient id="bppaint0_linear_84_430" x1="7.99951" y1="61.5001" x2="40.9995"
+            y2="66.0001" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#05512D" />
+            <stop offset="1" stop-color="#257A2E" />
+        </linearGradient>
+        <linearGradient id="bppaint1_linear_84_430" x1="88" y1="11.9999" x2="46" y2="11.9999"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#087A47" />
+            <stop offset="0.469922" stop-color="#378F3D" />
+            <stop offset="1" stop-color="#4AA44E" />
+        </linearGradient>
+        <linearGradient id="bppaint2_linear_84_430" x1="8" y1="9.49993" x2="62.5" y2="9.49994"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ABE184" />
+            <stop offset="0.218549" stop-color="#8BCD5B" />
+            <stop offset="1" stop-color="#5EBA60" />
+        </linearGradient>
+        <linearGradient id="bppaint3_linear_84_430" x1="94.6829" y1="53.1641" x2="32.0316"
+            y2="90.3291" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8BCD5B" />
+            <stop offset="0.25257" stop-color="#5EBA60" />
+            <stop offset="0.710264" stop-color="#378F3D" />
+            <stop offset="1" stop-color="#087A47" />
+        </linearGradient>
+        <clipPath id="bpclip0_84_430">
+            <rect width="96" height="96" fill="white" />
+        </clipPath>
+        <clipPath id="bpclip1_84_430">
+            <rect width="96" height="96" fill="white" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#bpclip0_84_430)">
+        <g clip-path="url(#bpclip1_84_430)">
+            <mask id="bpmask0_84_430" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="3"
+                width="80" height="91">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M82.661 17.7426L62.2006 4.08883C60.8559 3.19149 59.1033 3.19177 57.7589 4.08951L47.9478 10.6411L38.1829 4.13668C36.8493 3.24837 35.1143 3.24163 33.7738 4.11956L13.4253 17.4467C10.0398 19.664 8 23.4384 8 27.4853V65.0907C8 65.0596 8.00012 65.0285 8.00036 64.9973C8.02939 68.9772 10.0304 72.6862 13.3455 74.8954L14.0845 75.3878C13.9204 75.2898 13.7582 75.1875 13.5978 75.081L10.4369 72.9813L34.6066 89.0793C42.7091 94.476 53.269 94.4433 61.3381 88.9967L82.7137 74.5682C85.9567 72.3791 87.9249 68.7496 87.9979 64.8469C87.9993 64.9218 88 64.9968 88 65.0719V27.7241C88 23.7138 85.9967 19.9686 82.661 17.7426ZM69.759 46.4901L48.0093 31.9919L26.2541 46.4977C26.387 46.5793 26.5192 46.6639 26.6507 46.7514L48.0236 60.9821L69.759 46.4901Z"
+                    fill="white" />
+            </mask>
+            <g mask="url(#bpmask0_84_430)">
+                <path
+                    d="M33.151 88.0943L13.345 74.8956C10.0055 72.6702 7.99953 68.9227 7.99955 64.9097L7.99961 56.74C7.99967 47.1589 18.6751 41.4416 26.6502 46.7516L69.2329 75.1044C71.6073 76.6853 71.6111 80.1724 69.2401 81.7585L59.805 88.0705C51.7417 93.4647 41.2239 93.4741 33.151 88.0943Z"
+                    fill="url(#bppaint0_linear_84_430)" />
+                <path
+                    d="M62.2006 4.0888L82.661 17.7425C85.9967 19.9686 88 23.7138 88 27.7241V65.0719C88 61.0594 85.9946 57.3125 82.6559 55.0869L36.9664 24.6308C34.5924 23.0483 34.5909 19.5604 36.9636 17.976L57.7589 4.08949C59.1033 3.19174 60.8559 3.19147 62.2006 4.0888Z"
+                    fill="url(#bppaint1_linear_84_430)" />
+                <g filter="url(#bpfilter0_f_84_430)">
+                    <path
+                        d="M33.7738 4.51955L13.4253 17.8467C10.0398 20.064 8 23.8384 8 27.8853V65.4907C8 61.4788 10.0049 57.7323 13.3429 55.5066L59.0035 25.0613C61.3787 23.4776 61.3779 19.9869 59.0019 18.4042L38.1829 4.53668C36.8493 3.64837 35.1143 3.64163 33.7738 4.51955Z"
+                        fill="black" fill-opacity="0.24" />
+                </g>
+                <g filter="url(#bpfilter1_f_84_430)">
+                    <path
+                        d="M33.7738 6.11953L13.4253 19.4467C10.0398 21.664 8 25.4384 8 29.4853V67.0907C8 63.0788 10.0049 59.3323 13.3429 57.1066L59.0035 26.6613C61.3787 25.0775 61.3779 21.5868 59.0019 20.0042L38.1829 6.13666C36.8493 5.24834 35.1143 5.24161 33.7738 6.11953Z"
+                        fill="black" fill-opacity="0.32" />
+                </g>
+                <path
+                    d="M33.7738 4.11953L13.4253 17.4467C10.0398 19.664 8 23.4384 8 27.4853V65.0907C8 61.0788 10.0049 57.3323 13.3429 55.1066L59.0035 24.6613C61.3787 23.0775 61.3779 19.5868 59.0019 18.0042L38.1829 4.13666C36.8493 3.24834 35.1143 3.24161 33.7738 4.11953Z"
+                    fill="url(#bppaint2_linear_84_430)" />
+                <g filter="url(#bpfilter2_f_84_430)">
+                    <path
+                        d="M61.3381 89.3968L82.7137 74.9683C86.019 72.7372 88 69.0099 88 65.0221V28.3064C88 32.3184 85.995 36.065 82.6569 38.2906L26.8946 75.4698C22.8698 78.1533 17.6272 78.1578 13.5978 75.4811L10.4369 73.3814L34.6066 89.4794C42.7091 94.8761 53.269 94.8435 61.3381 89.3968Z"
+                        fill="black" fill-opacity="0.24" />
+                </g>
+                <g filter="url(#bpfilter3_f_84_430)">
+                    <path
+                        d="M61.3381 90.9968L82.7137 76.5683C86.019 74.3372 88 70.6099 88 66.6221V29.9063C88 33.9183 85.995 37.6649 82.6569 39.8906L26.8946 77.0698C22.8698 79.7533 17.6272 79.7578 13.5978 77.0811L10.4369 74.9814L34.6066 91.0794C42.7091 96.476 53.269 96.4434 61.3381 90.9968Z"
+                        fill="black" fill-opacity="0.32" />
+                </g>
+                <path
+                    d="M61.3381 88.9968L82.7137 74.5683C86.019 72.3372 88 68.6099 88 64.6221V27.9063C88 31.9183 85.995 35.6649 82.6569 37.8906L26.8946 75.0698C22.8698 77.7533 17.6272 77.7578 13.5978 75.0811L10.4369 72.9814L34.6066 89.0794C42.7091 94.476 53.269 94.4434 61.3381 88.9968Z"
+                    fill="url(#bppaint3_linear_84_430)" />
+            </g>
+        </g>
+    </g>
+</svg>

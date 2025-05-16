@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1725" height="240" viewBox="0 0 1725 240" fill="none" x="1725"
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#bnclip0_12474_62098)">
+        <rect width="1725" height="240" fill="#4781EC" />
+        <g opacity="0.5" clip-path="url(#bnclip1_12474_62098)">
+            <path
+                d="M1537.7 74.9085C1562.09 61.8325 1595.79 69.0473 1615.33 86.3414C1620.84 91.2232 1625.59 97.1354 1629.26 103.99C1645.98 135.167 1634.19 174.035 1602.92 190.798L1573.69 206.471C1523.8 233.216 1489.56 270.934 1488.08 330.695C1488.1 334.535 1486.04 338.257 1482.42 340.2C1477.21 342.991 1470.72 341.049 1467.93 335.855L1372 156.908L1537.7 74.9085Z"
+                fill="url(#bnpaint0_linear_12474_62098)" />
+            <path
+                d="M1537.7 74.9085C1562.09 61.8325 1595.79 69.0473 1615.33 86.3414C1620.84 91.2232 1625.59 97.1354 1629.26 103.99C1645.98 135.167 1634.19 174.035 1602.92 190.798L1573.69 206.471C1523.8 233.216 1489.56 270.934 1488.08 330.695C1488.1 334.535 1486.04 338.257 1482.42 340.2C1477.21 342.991 1470.72 341.049 1467.93 335.855L1372 156.908L1537.7 74.9085Z"
+                fill="url(#bnpaint1_linear_12474_62098)" />
+            <path
+                d="M1615.31 86.3485C1595.79 69.0483 1566.75 64.8133 1542.36 77.8893L1240.46 239.741C1203.98 259.295 1158.6 245.654 1139.1 209.282C1119.6 172.91 1133.65 123.001 1170.12 103.447L1288.18 35.0828L1448.65 -52.282L1456.3 -46.6127L1615.32 86.3312"
+                fill="url(#bnpaint2_linear_12474_62098)" />
+            <path
+                d="M1615.31 86.3485C1595.79 69.0483 1566.75 64.8133 1542.36 77.8893L1240.46 239.741C1203.98 259.295 1158.6 245.654 1139.1 209.282C1119.6 172.91 1133.65 123.001 1170.12 103.447L1288.18 35.0828L1448.65 -52.282L1456.3 -46.6127L1615.32 86.3312"
+                fill="url(#bnpaint3_linear_12474_62098)" />
+            <path
+                d="M1540.66 -123.5L1452.99 -196.785C1440.06 -206.775 1421.92 -208.855 1406.55 -200.616L1107.59 -40.3442C1090.3 -31.076 1081.94 -11.6636 1085.96 6.5479L1132.83 193.22C1125.64 161.255 1138.29 124.92 1168.64 108.647L1536.6 -88.6188C1547.03 -94.2064 1550.96 -107.159 1545.38 -117.559C1544.14 -119.873 1542.53 -121.874 1540.66 -123.5Z"
+                fill="url(#bnpaint4_linear_12474_62098)" />
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="bnpaint0_linear_12474_62098" x1="1405.15" y1="269.526" x2="1608.45"
+            y2="78.6439" gradientUnits="userSpaceOnUse">
+            <stop offset="0.536" stop-color="#0A5BAB" />
+            <stop offset="0.726" stop-color="#0A4B95" />
+            <stop offset="0.889" stop-color="#0B3B7F" />
+        </linearGradient>
+        <linearGradient id="bnpaint1_linear_12474_62098" x1="1535.99" y1="196.412" x2="1435.02"
+            y2="8.05868" gradientUnits="userSpaceOnUse">
+            <stop offset="0.309" stop-opacity="0" />
+            <stop offset="0.563" stop-opacity="0.4" />
+        </linearGradient>
+        <linearGradient id="bnpaint2_linear_12474_62098" x1="1603.16" y1="34.4221" x2="1122.01"
+            y2="147.235" gradientUnits="userSpaceOnUse">
+            <stop offset="0.1" stop-color="#A0A4F3" />
+            <stop offset="0.6" stop-color="#3D7DEB" />
+            <stop offset="0.95" stop-color="#2C57C2" />
+        </linearGradient>
+        <linearGradient id="bnpaint3_linear_12474_62098" x1="1368.39" y1="131.337" x2="1273.46"
+            y2="-45.747" gradientUnits="userSpaceOnUse">
+            <stop offset="0.28" stop-color="#2C57C2" stop-opacity="0" />
+            <stop offset="0.564" stop-color="#2849AB" stop-opacity="0.5" />
+        </linearGradient>
+        <linearGradient id="bnpaint4_linear_12474_62098" x1="1321.29" y1="-209.063" x2="1308.45"
+            y2="198.756" gradientUnits="userSpaceOnUse">
+            <stop offset="0.24" stop-color="#BBC2FB" />
+            <stop offset="0.8" stop-color="#79B6FB" />
+        </linearGradient>
+        <clipPath id="bnclip0_12474_62098">
+            <rect width="1725" height="240" fill="white" />
+        </clipPath>
+        <clipPath id="bnclip1_12474_62098">
+            <rect width="615" height="615" fill="white"
+                transform="translate(958.731 -18.6909) rotate(-28.1957)" />
+        </clipPath>
+    </defs>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" x="3070" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M17 4V13.74L13 17.02L6.8 14.76V17L3.29 12.41L13.52 13.21V4.44L17 4ZM13.59 4.49L7.85 1V3.29L2.58 4.84L1 6.87V11.48L3.26 12.48V6.57L13.59 4.49Z"
+        fill="url(#ajpaint0_linear_8382_29503)" />
+    <defs>
+        <linearGradient id="ajpaint0_linear_8382_29503" x1="9" y1="16.97" x2="9" y2="1.03"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4" />
+            <stop offset="0.16" stop-color="#1380DA" />
+            <stop offset="0.53" stop-color="#3C91E5" />
+            <stop offset="0.82" stop-color="#559CEC" />
+            <stop offset="1" stop-color="#5EA0EF" />
+        </linearGradient>
+    </defs>
+</svg>

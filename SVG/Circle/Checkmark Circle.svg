@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" x="3386" y="960"
+    xmlns="http://www.w3.org/2000/svg">  <!-- Background circle -->
+    <path
+        d="M16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8Z"
+        fill="url(#aopaint0_linear_378218_1562)" />  <!-- Checkmark -->
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M7.35355 0.646447C7.54882 0.841709 7.54882 1.15829 7.35355 1.35355L3.35355 5.35355C3.15829 5.54882 2.84171 5.54882 2.64645 5.35355L0.646447 3.35355C0.451184 3.15829 0.451184 2.84171 0.646447 2.64645C0.841709 2.45118 1.15829 2.45118 1.35355 2.64645L3 4.29289L6.64645 0.646447C6.84171 0.451184 7.15829 0.451184 7.35355 0.646447Z"
+        transform="translate(4 5)" fill="url(#aopaint0_linear_378218_1563)" />
+    <defs>
+        <linearGradient id="aopaint0_linear_378218_1562" x1="0.571429" y1="3" x2="11.6134"
+            y2="14.4721" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#52D17C" />
+            <stop offset="1" stop-color="#22918B" />
+        </linearGradient>
+        <linearGradient id="aopaint0_linear_378218_1563" x1="1.8125" y1="1.01003" x2="2.9497"
+            y2="6.63026" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white" />
+            <stop offset="1" stop-color="#E3FFD9" />
+        </linearGradient>
+    </defs>
+</svg>

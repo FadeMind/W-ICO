@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" x="3230" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#buclip0_2135_196676)">
+        <mask id="bumask0_2135_196676" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2"
+            y="0" width="16" height="20">
+            <path
+                d="M10.8333 0.833333C10.8333 0.61232 10.9211 0.400358 11.0774 0.244078C11.2337 0.0877974 11.4457 0 11.6667 0L16.6667 0C16.8877 0 17.0996 0.0877974 17.2559 0.244078C17.4122 0.400358 17.5 0.61232 17.5 0.833333V19.1667C17.5 19.3877 17.4122 19.5996 17.2559 19.7559C17.0996 19.9122 16.8877 20 16.6667 20H3.33333C3.11232 20 2.90036 19.9122 2.74408 19.7559C2.5878 19.5996 2.5 19.3877 2.5 19.1667V10.8333C2.5 10.6123 2.5878 10.4004 2.74408 10.2441C2.90036 10.0878 3.11232 10 3.33333 10H6.66667V5.83333C6.66667 5.61232 6.75446 5.40036 6.91074 5.24408C7.06702 5.0878 7.27899 5 7.5 5H10.8333V0.833333Z"
+                fill="white" />
+        </mask>
+        <g mask="url(#bumask0_2135_196676)">
+            <path d="M17.5 0V20H10.8333V0H17.5Z" fill="url(#bupaint0_linear_2135_196676)" />
+            <g filter="url(#bufilter0_f_2135_196676)">
+                <path
+                    d="M13.3334 5.91671V20.0834H6.66669V5.08337H12.5C12.721 5.08337 12.933 5.17117 13.0893 5.32745C13.2456 5.48373 13.3334 5.69569 13.3334 5.91671Z"
+                    fill="black" fill-opacity="0.2" />
+            </g>
+            <g filter="url(#bufilter1_f_2135_196676)">
+                <path
+                    d="M13.3334 6.24996V20.4166H6.66669V5.41663H12.5C12.721 5.41663 12.933 5.50442 13.0893 5.6607C13.2456 5.81698 13.3334 6.02895 13.3334 6.24996Z"
+                    fill="black" fill-opacity="0.18" />
+            </g>
+            <path
+                d="M13.3334 5.83333V20H6.66669V5H12.5C12.721 5 12.933 5.0878 13.0893 5.24408C13.2456 5.40036 13.3334 5.61232 13.3334 5.83333Z"
+                fill="url(#bupaint1_linear_2135_196676)" />
+            <path
+                d="M2.5 10V20H9.16667V10.8333C9.16667 10.6123 9.07887 10.4004 8.92259 10.2441C8.76631 10.0878 8.55435 10 8.33333 10H2.5Z"
+                fill="url(#bupaint2_linear_2135_196676)" />
+        </g>
+    </g>
+    <defs>
+        <filter id="bufilter0_f_2135_196676" x="6.26669" y="4.68337" width="7.46669" height="15.8"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="0.2" result="effect1_foregroundBlur_2135_196676" />
+        </filter>
+        <filter id="bufilter1_f_2135_196676" x="2.66669" y="1.41663" width="14.6667" height="23"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_2135_196676" />
+        </filter>
+        <linearGradient id="bupaint0_linear_2135_196676" x1="9.72206" y1="-1.22525e-07" x2="18.5135"
+            y2="18.6348" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E6AD10" />
+            <stop offset="1" stop-color="#C87E0E" />
+        </linearGradient>
+        <linearGradient id="bupaint1_linear_2135_196676" x1="6.66606" y1="5" x2="14.0596"
+            y2="19.3387" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F6D751" />
+            <stop offset="1" stop-color="#E6AD10" />
+        </linearGradient>
+        <linearGradient id="bupaint2_linear_2135_196676" x1="2.49937" y1="10" x2="6.585"
+            y2="19.6829" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F9E589" />
+            <stop offset="1" stop-color="#F6D751" />
+        </linearGradient>
+        <clipPath id="buclip0_2135_196676">
+            <rect width="20" height="20" fill="white" />
+        </clipPath>
+    </defs>
+</svg>

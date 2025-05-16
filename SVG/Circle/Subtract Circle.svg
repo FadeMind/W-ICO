@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" fill="none" viewBox="0 0 32 32" x="2805" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="13.5"
+        fill="url(#cficon-556d1a22050e71c9__icon-56a552a426686984__icon-381df5b2__a)" />
+    <path
+        d="M9 16C9 15.4477 9.44772 15 10 15H22C22.5523 15 23 15.4477 23 16C23 16.5523 22.5523 17 22 17H10C9.44772 17 9 16.5523 9 16Z"
+        fill="url(#cficon-ed40e9d5f0261b29__icon-811120c58c5a2d04__icon-381df5b2__b)" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M16 30C23.732 30 30 23.732 30 16C30 8.26801 23.732 2 16 2C8.26801 2 2 8.26801 2 16C2 23.732 8.26801 30 16 30ZM28 16C28 22.6274 22.6274 28 16 28C9.37258 28 4 22.6274 4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16Z"
+        fill="url(#cficon-0f513b5498897f45__icon-44c5472fc047069c__icon-381df5b2__c)" />
+    <defs>
+        <linearGradient id="cficon-556d1a22050e71c9__icon-56a552a426686984__icon-381df5b2__a"
+            x1="29.5" y1="2.5" x2="3.06298" y2="29.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD1DA" />
+            <stop offset="1" stop-color="#FFC7A3" />
+        </linearGradient>
+        <linearGradient id="cficon-ed40e9d5f0261b29__icon-811120c58c5a2d04__icon-381df5b2__b"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FB5B6C" />
+            <stop offset="0.835164" stop-color="#8B1321" />
+        </linearGradient>
+        <linearGradient id="cficon-0f513b5498897f45__icon-44c5472fc047069c__icon-381df5b2__c"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FB5B6C" />
+            <stop offset="0.835164" stop-color="#8B1321" />
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1725" height="240" viewBox="0 0 1725 240" fill="none" x="1725" y="240"
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#bvclip0_12474_62027)">
+        <rect width="1725" height="240" fill="#EAB61D" />
+        <g opacity="0.5" clip-path="url(#bvclip1_12474_62027)">
+            <path
+                d="M1404.09 -239.85L1695.74 187.74C1696.42 188.747 1696.16 190.12 1695.16 190.807L1542.97 294.612L1250.08 -134.801C1249.39 -135.808 1249.65 -137.181 1250.65 -137.868L1401.02 -240.43C1402.03 -241.116 1403.4 -240.857 1404.09 -239.85Z"
+                fill="url(#bvpaint0_linear_12474_62027)" />
+            <path opacity="0.5"
+                d="M1612.27 247.34L1409.18 -50.4183C1399.51 -64.5948 1380.18 -68.2484 1366 -58.579L1322.37 -28.8152L1332.87 -13.4139L1376.51 -43.1777C1382.18 -47.0455 1389.91 -45.584 1393.78 -39.9134L1596.87 257.845L1612.27 247.34Z"
+                fill="black" fill-opacity="0.25" />
+            <path
+                d="M1385.2 -69.0276L1604.57 252.592L1450.56 357.641L1231.19 36.0262C1230.51 35.0253 1230.77 33.6605 1231.77 32.9778L1382.16 -69.6021C1383.16 -70.2829 1384.52 -70.0256 1385.2 -69.0276Z"
+                fill="url(#bvpaint1_linear_12474_62027)" />
+            <path
+                d="M1212.32 206.864L1356.92 418.858C1357.6 419.859 1358.96 420.117 1359.96 419.434L1512.17 315.621L1366.33 101.811C1365.65 100.812 1364.29 100.555 1363.29 101.236L1212.9 203.816C1211.9 204.499 1211.64 205.863 1212.32 206.864Z"
+                fill="url(#bvpaint2_linear_12474_62027)" />
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="bvpaint0_linear_12474_62027" x1="1223.16" y1="-119.116" x2="1684.98"
+            y2="168.763" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E6AD10" />
+            <stop offset="1" stop-color="#C87E0E" />
+        </linearGradient>
+        <linearGradient id="bvpaint1_linear_12474_62027" x1="1229.95" y1="34.2225" x2="1599.62"
+            y2="247.686" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F6D751" />
+            <stop offset="1" stop-color="#E6AD10" />
+        </linearGradient>
+        <linearGradient id="bvpaint2_linear_12474_62027" x1="1211.07" y1="205.061" x2="1440.16"
+            y2="360.793" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F9E589" />
+            <stop offset="1" stop-color="#F6D751" />
+        </linearGradient>
+        <clipPath id="bvclip0_12474_62027">
+            <rect width="1725" height="240" fill="white" />
+        </clipPath>
+        <clipPath id="bvclip1_12474_62027">
+            <rect width="596.568" height="596.568" fill="white"
+                transform="translate(966 11.1558) rotate(-34.297)" />
+        </clipPath>
+    </defs>
+</svg>
