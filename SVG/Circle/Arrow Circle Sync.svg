@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" fill="none" viewBox="0 0 32 32" x="2421" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="13.5"
+        fill="url(#aeicon-ced639158c9b140b__icon-69985532e4c90d81__icon-8ee1e860__a)" />
+    <path
+        d="M24 15V11C24 10.4477 23.5523 10 23 10C22.4477 10 22 10.4477 22 11V12.3924C20.7751 10.3596 18.5463 9 16 9C13.9267 9 12.063 9.9026 10.7827 11.3331C10.4143 11.7446 10.4494 12.3768 10.8609 12.7451C11.2724 13.1135 11.9046 13.0784 12.2729 12.6669C13.1899 11.6424 14.5193 11 16 11C18.0503 11 19.8124 12.2341 20.584 14H19C18.4477 14 18 14.4477 18 15C18 15.5523 18.4477 16 19 16H23C23.5523 16 24 15.5523 24 15Z"
+        fill="url(#aeicon-6f4edadc6328d50e__icon-a8766b5bcbe5f440__icon-8ee1e860__b)" />
+    <path
+        d="M8 21C8 21.5523 8.44772 22 9 22C9.55228 22 10 21.5523 10 21V19.6076C11.2249 21.6404 13.4537 23 16 23C18.0733 23 19.937 22.0974 21.2174 20.6669C21.5857 20.2554 21.5507 19.6232 21.1391 19.2549C20.7276 18.8865 20.0954 18.9216 19.7271 19.3331C18.8101 20.3576 17.4807 21 16 21C13.9497 21 12.1876 19.7659 11.416 18H13C13.5523 18 14 17.5523 14 17C14 16.4477 13.5523 16 13 16H9C8.44772 16 8 16.4477 8 17V21Z"
+        fill="url(#aeicon-73c021c6d6d0bea0__icon-b20ccda00b6cb74e__icon-8ee1e860__c)" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2C23.732 2 30 8.26801 30 16ZM28 16C28 22.6274 22.6274 28 16 28C9.37258 28 4 22.6274 4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16Z"
+        fill="url(#aeicon-cd174c677272ea44__icon-d9cb1f6422c0d9de__icon-8ee1e860__d)" />
+    <defs>
+        <linearGradient id="aeicon-ced639158c9b140b__icon-69985532e4c90d81__icon-8ee1e860__a"
+            x1="30.5423" y1="1.25625" x2="3.06298" y2="29.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFE4BE" />
+            <stop offset="1" stop-color="#96EB76" />
+        </linearGradient>
+        <linearGradient id="aeicon-6f4edadc6328d50e__icon-a8766b5bcbe5f440__icon-8ee1e860__b"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#62BE55" />
+            <stop offset="0.857733" stop-color="#0A5C19" />
+        </linearGradient>
+        <linearGradient id="aeicon-73c021c6d6d0bea0__icon-b20ccda00b6cb74e__icon-8ee1e860__c"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#62BE55" />
+            <stop offset="0.857733" stop-color="#0A5C19" />
+        </linearGradient>
+        <linearGradient id="aeicon-cd174c677272ea44__icon-d9cb1f6422c0d9de__icon-8ee1e860__d"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#62BE55" />
+            <stop offset="0.857733" stop-color="#0A5C19" />
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" fill="none" viewBox="0 0 32 32" x="2453" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="13.5"
+        fill="url(#aficon-4d079422eec925fb__icon-32255cfbe3ccddb6__icon-dae227d9__a)" />
+    <path
+        d="M16.5 13.25C15.9477 13.25 15.5 12.8023 15.5 12.25C15.5 11.6977 15.9477 11.25 16.5 11.25H21.5C22.0523 11.25 22.5 11.6977 22.5 12.25V17C22.5 17.5523 22.0523 18 21.5 18C20.9477 18 20.5 17.5523 20.5 17V14.7102L16.2234 19.1905C16.0374 19.3852 15.7809 19.4968 15.5116 19.4999C15.2424 19.5031 14.9833 19.3975 14.7929 19.2071L12.9776 17.3918L9.68394 20.4795C9.28103 20.8573 8.6482 20.8369 8.27047 20.4339C7.89274 20.031 7.91315 19.3982 8.31606 19.0205L12.3161 15.2705C12.7098 14.9013 13.3255 14.9112 13.7071 15.2929L15.4834 17.0692L19.1289 13.25H16.5Z"
+        fill="url(#aficon-4c43fbe58e86472a__icon-ad2ecd9e8de404a4__icon-dae227d9__b)" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M16 2C8.26801 2 2 8.26801 2 16C2 23.732 8.26801 30 16 30C23.732 30 30 23.732 30 16C30 8.26801 23.732 2 16 2ZM4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16C28 22.6274 22.6274 28 16 28C9.37258 28 4 22.6274 4 16Z"
+        fill="url(#aficon-4e7021056715b09a__icon-bdc2f410290a2685__icon-dae227d9__c)" />
+    <defs>
+        <linearGradient id="aficon-4d079422eec925fb__icon-32255cfbe3ccddb6__icon-dae227d9__a"
+            x1="33.6176" y1="-3.1313" x2="3.06298" y2="29.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9DEAFF" />
+            <stop offset="0.895245" stop-color="#EBC7FA" />
+        </linearGradient>
+        <linearGradient id="aficon-4c43fbe58e86472a__icon-ad2ecd9e8de404a4__icon-dae227d9__b"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#BB45EA" />
+            <stop offset="0.854257" stop-color="#55107A" />
+        </linearGradient>
+        <linearGradient id="aficon-4e7021056715b09a__icon-bdc2f410290a2685__icon-dae227d9__c"
+            x1="30" y1="2" x2="2" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#BB45EA" />
+            <stop offset="0.854257" stop-color="#55107A" />
+        </linearGradient>
+    </defs>
+</svg>

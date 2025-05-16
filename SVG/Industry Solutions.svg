@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" x="2277" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M36.3741 27.789C38.5341 27.789 40.5861 29.528 41.2921 31.438C41.4911 31.977 41.6001 32.559 41.6001 33.166C41.6001 35.927 39.3562 38.166 36.5872 38.166H33.9981C29.5801 38.166 25.8341 39.498 23.5281 43.554C23.3881 43.819 23.1091 43.999 22.7881 43.999C22.3271 43.999 21.9521 43.626 21.9521 43.166V27.319L36.3741 27.789Z"
+        fill="url(#bmpaint0_linear_45747_644)" />
+    <path
+        d="M36.3741 27.789C38.5341 27.789 40.5861 29.528 41.2921 31.438C41.4911 31.977 41.6001 32.559 41.6001 33.166C41.6001 35.927 39.3562 38.166 36.5872 38.166H33.9981C29.5801 38.166 25.8341 39.498 23.5281 43.554C23.3881 43.819 23.1091 43.999 22.7881 43.999C22.3271 43.999 21.9521 43.626 21.9521 43.166V27.319L36.3741 27.789Z"
+        fill="url(#bmpaint1_linear_45747_644)" />
+    <path
+        d="M41.291 31.438C40.586 29.528 38.745 28.166 36.585 28.166H9.849C6.619 28.166 4 25.554 4 22.333C4 19.112 6.807 16.197 10.037 16.197L20.679 15.848L34.939 15.756L35.256 16.428L41.292 31.437"
+        fill="url(#bmpaint2_linear_45747_644)" />
+    <path
+        d="M41.291 31.438C40.586 29.528 38.745 28.166 36.585 28.166H9.849C6.619 28.166 4 25.554 4 22.333C4 19.112 6.807 16.197 10.037 16.197L20.679 15.848L34.939 15.756L35.256 16.428L41.292 31.437"
+        fill="url(#bmpaint3_linear_45747_644)" />
+    <path
+        d="M43.8941 14.25L40.5661 5.976C40.0451 4.812 38.8741 4 37.5131 4H11.0381C9.50713 4 8.21613 5.027 7.82113 6.428L4.16113 20.997C4.84513 18.533 7.05513 16.5 9.74313 16.5H42.3291C43.2521 16.5 44.0001 15.754 44.0001 14.833C44.0001 14.628 43.9631 14.431 43.8941 14.25Z"
+        fill="url(#bmpaint4_linear_45747_644)" />
+    <defs>
+        <linearGradient id="bmpaint0_linear_45747_644" x1="20.0791" y1="36.288" x2="41.1031"
+            y2="30.655" gradientUnits="userSpaceOnUse">
+            <stop offset="0.536" stop-color="#0A5BAB" />
+            <stop offset="0.726" stop-color="#0A4B95" />
+            <stop offset="0.889" stop-color="#0B3B7F" />
+        </linearGradient>
+        <linearGradient id="bmpaint1_linear_45747_644" x1="31.7761" y1="36.084" x2="31.7761"
+            y2="19.404" gradientUnits="userSpaceOnUse">
+            <stop offset="0.309" stop-opacity="0" />
+            <stop offset="0.563" stop-opacity="0.4" />
+        </linearGradient>
+        <linearGradient id="bmpaint2_linear_45747_644" x1="42.37" y1="27.418" x2="5.113" y2="17.435"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0.1" stop-color="#A0A4F3" />
+            <stop offset="0.6" stop-color="#3D7DEB" />
+            <stop offset="0.95" stop-color="#2C57C2" />
+        </linearGradient>
+        <linearGradient id="bmpaint3_linear_45747_644" x1="22.647" y1="25.427" x2="22.647"
+            y2="9.74498" gradientUnits="userSpaceOnUse">
+            <stop offset="0.28" stop-color="#2C57C2" stop-opacity="0" />
+            <stop offset="0.564" stop-color="#2849AB" stop-opacity="0.5" />
+        </linearGradient>
+        <linearGradient id="bmpaint4_linear_45747_644" x1="31.9601" y1="0.274998" x2="16.0371"
+            y2="27.854" gradientUnits="userSpaceOnUse">
+            <stop offset="0.24" stop-color="#BBC2FB" />
+            <stop offset="0.8" stop-color="#79B6FB" />
+        </linearGradient>
+    </defs>
+</svg>

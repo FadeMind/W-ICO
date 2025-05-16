@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" fill="none" viewBox="0 0 32 32" x="2325" y="960"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="16" cy="16" r="13.5"
+        fill="url(#aaicon-9f053fdfdf87f673__icon-5472dfbce864ffaf__icon-365ce6b0__a)" />
+    <path
+        d="M16 9C15.4477 9 15 9.44771 15 10V15H10C9.44772 15 9 15.4477 9 16C9 16.5523 9.44771 17 10 17H15V22C15 22.5523 15.4477 23 16 23C16.5523 23 17 22.5523 17 22V17H22C22.5523 17 23 16.5523 23 16C23 15.4477 22.5523 15 22 15H17V10C17 9.44772 16.5523 9 16 9Z"
+        fill="url(#aaicon-343dd61b9b3570d9__icon-dd8337b55f4f432b__icon-365ce6b0__b)" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2C23.732 2 30 8.26801 30 16ZM28 16C28 22.6274 22.6274 28 16 28C9.37258 28 4 22.6274 4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16Z"
+        fill="url(#aaicon-a9ecf80aa68f7541__icon-ee3c486be13115bf__icon-365ce6b0__c)" />
+    <defs>
+        <linearGradient id="aaicon-9f053fdfdf87f673__icon-5472dfbce864ffaf__icon-365ce6b0__a"
+            x1="31.1682" y1="0.328473" x2="3.06298" y2="29.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFE4BE" />
+            <stop offset="1" stop-color="#96EB76" />
+        </linearGradient>
+        <linearGradient id="aaicon-343dd61b9b3570d9__icon-dd8337b55f4f432b__icon-365ce6b0__b" x1="2"
+            y1="30" x2="30" y2="2" gradientUnits="userSpaceOnUse">
+            <stop offset="0.188303" stop-color="#0A5C19" />
+            <stop offset="1" stop-color="#62BE55" />
+        </linearGradient>
+        <linearGradient id="aaicon-a9ecf80aa68f7541__icon-ee3c486be13115bf__icon-365ce6b0__c" x1="2"
+            y1="30" x2="30" y2="2" gradientUnits="userSpaceOnUse">
+            <stop offset="0.188303" stop-color="#0A5C19" />
+            <stop offset="1" stop-color="#62BE55" />
+        </linearGradient>
+    </defs>
+</svg>
