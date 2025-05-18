@@ -21,6 +21,7 @@ A collection of all Windows icons (98, XP, Vista, 7, 10, 11)
 - https://www.deviantart.com/theninjacat27/art/Windows-10X-Icons-835108137
 - https://www.folderico.com/icon-libraries.html
 - https://www.reddit.com/r/FluentDesign/comments/on8reh/fluent_design_icons/
+- https://www.reddit.com/r/Windows11/comments/1kpmqri/for_the_impatient_now_you_can_download_the_new/
 
 **CONTRIBUTORS**
 
