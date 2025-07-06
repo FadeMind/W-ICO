@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="128" viewBox="0 0 104 128">
+  <defs>
+    <clipPath id="clip-filetype_generic_128">
+      <rect width="104" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="filetype_generic_128" clip-path="url(#clip-filetype_generic_128)">
+    <g id="filetype_generic_128-2" data-name="filetype_generic_128" transform="translate(-12)">
+      <path id="Path_1" data-name="Path 1" d="M24,126a10.029,10.029,0,0,1-10-10V12A10.029,10.029,0,0,1,24,2H85.5a7.865,7.865,0,0,1,5.6,2.3l20.5,20.4a8.018,8.018,0,0,1,2.4,5.7V116a10.029,10.029,0,0,1-10,10Z" fill="#fff"/>
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_2" data-name="Path 2" d="M113.1,23.3,92.6,2.9A9.9,9.9,0,0,0,85.5,0H24A12.035,12.035,0,0,0,12,12V116a12.035,12.035,0,0,0,12,12h80a12.035,12.035,0,0,0,12-12V30.4A10.515,10.515,0,0,0,113.1,23.3ZM90,6l20.1,20H92a2.006,2.006,0,0,1-2-2Zm22,110a8.024,8.024,0,0,1-8,8H24a8.024,8.024,0,0,1-8-8V12a8.024,8.024,0,0,1,8-8H86V24a6.018,6.018,0,0,0,6,6h20v86Z" fill="#b3b3b3"/>
+      </g>
+    </g>
+  </g>
+</svg>

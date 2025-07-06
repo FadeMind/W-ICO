@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="slate_x5F_app_x5F_RGB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 240 234" style="enable-background:new 0 0 240 234;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#262000;}
+	.st2{fill:#FFDA00;}
+	.st3{fill:#FCF6C6;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M44,10.1c-27.5,0-33.8,16.3-33.8,43.8l0.1,133.4c0,27.5,8.6,36.7,36,36.7h147.2
+					c27.4,0,36.7-9.2,36.7-36.7V48.8c0-27.5-10.2-38.8-37.7-38.8C192.5,10.1,44,10.1,44,10.1z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st0">
+				<rect x="10.3" y="10" class="st1" width="220" height="214"/>
+			</g>
+		</g>
+	</g>
+	<path class="st2" d="M0,43v148.2C0,214.9,18.2,234,41.9,234h155.3c23.7,0,42.9-19.1,42.9-42.8V42.8C240,19.1,220.8,0,197.1,0H41.9
+		C18.2,0,0,19.1,0,42.8V43z M194,10.1c19.1,0,35.9,15.7,35.9,34.8v142.3c0,19.1-15.5,36.7-34.6,36.7H44.7
+		c-19.1,0-34.6-16.2-34.6-35.3l0-141.7c0-19,15.5-36.8,34.5-36.8L194,10.1L194,10.1z"/>
+	<g>
+		<rect x="94.6" y="102.9" class="st3" width="51.8" height="4"/>
+		<rect x="94.7" y="90.3" class="st3" width="69.6" height="4"/>
+		<rect x="94.5" y="115.5" class="st3" width="51.8" height="4"/>
+		<rect x="94.5" y="128.1" class="st3" width="51.8" height="4"/>
+		<rect x="77.8" y="140.7" class="st3" width="68.5" height="4"/>
+	</g>
+	<path class="st2" d="M115.1,40.7l20.6,20.7l12.4,12.4l-3,2.9l-14.4-14.4c-4.6-4.6-9.9-5.8-13.8-2.1c-4.1,3.9-49.9,47.3-54.1,51.3
+		c-3.7,3.6-3.7,7.8,1.5,12.9l16.3,16.4l-2.8,4l-35-35.6L115.1,40.7z M127.6,192.4L106.9,172l-12.5-12.3l3-2.9l14.5,14.3
+		c4.6,4.5,9.9,5.7,13.8,1.9c4.1-4,48.1-47.2,52.2-51.2c3.6-3.5,3.6-7.7-1.4-12.7C173.4,106,162,94.3,162,94.3l2.3-4l32.9,33.7
+		L127.6,192.4z"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-folder">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="folder" clip-path="url(#clip-folder)">
+    <g id="Group_2" data-name="Group 2">
+      <path id="Path_3" data-name="Path 3" d="M6,59a4.951,4.951,0,0,1-5-5V10A4.951,4.951,0,0,1,6,5H26.2A3.631,3.631,0,0,1,29,6.2l6.2,6.2a1.974,1.974,0,0,0,1.4.6H58a4.951,4.951,0,0,1,5,5V54a4.951,4.951,0,0,1-5,5Z" fill="#e1e1e1"/>
+      <path id="Path_4" data-name="Path 4" d="M58,12H36.7a.908.908,0,0,1-.7-.3L29.8,5.5A4.852,4.852,0,0,0,26.3,4H6a6.018,6.018,0,0,0-6,6V54a6.018,6.018,0,0,0,6,6H58a6.018,6.018,0,0,0,6-6V18A6.018,6.018,0,0,0,58,12Zm4,42a4.012,4.012,0,0,1-4,4H6a4.012,4.012,0,0,1-4-4V14H58a4.012,4.012,0,0,1,4,4Z" fill="#b3b3b3"/>
+    </g>
+  </g>
+</svg>

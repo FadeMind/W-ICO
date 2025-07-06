@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="psfix_x5F_app_x5F_RGB.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 240 234" style="enable-background:new 0 0 240 234;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#260F04;}
+	.st1{clip-path:url(#SVGID_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#002626;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#00FAFA;}
+	.st3{fill:#00FAFA;}
+	.st4{fill:#C7FFFF;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M42.9,8.9C15.1,8.9,8.7,25.4,8.7,53.2L8.8,188c0,27.8,8.7,37.1,36.4,37.1h148.8c27.8,0,37.1-9.3,37.1-37.1
+				v-140c0-27.8-10.4-39.2-38.1-39.2H42.9z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#260F04;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="9.4" y="9.4" class="st0" width="221.3" height="215.2"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_3_" d="M42.9,8.9C15.1,8.9,8.7,25.4,8.7,53.2L8.8,188c0,27.8,8.7,37.1,36.4,37.1h148.8
+					c27.8,0,37.1-9.3,37.1-37.1v-140c0-27.8-10.4-39.2-38.1-39.2H42.9z"/>
+			</defs>
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#260F04;"/>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<rect x="9.4" y="9.4" class="st1" width="221.3" height="215.2"/>
+		</g>
+		<path class="st2" d="M0,43v148.2C0,214.9,18.2,234,41.9,234h155.3c23.7,0,42.9-19.1,42.9-42.8V42.8C240,19.1,220.8,0,197.1,0H41.9
+			C18.2,0,0,19.1,0,42.8V43z M194,10.1c19.1,0,35.9,15.7,35.9,34.8v142.3c0,19.1-15.5,36.7-34.6,36.7H44.7
+			c-19.1,0-34.6-16.2-34.6-35.3l0-141.7c0-19,15.5-36.8,34.5-36.8H194z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M64,51.4v65.5v0.2v65.5l130.7-25.5v-40v-0.2v-40L64,51.4z M120.2,158.6c-23,0-41.6-18.6-41.6-41.6
+			s18.6-41.6,41.6-41.6S161.7,94,161.7,117S143.1,158.6,120.2,158.6z"/>
+		<g>
+			<g>
+				<path class="st4" d="M120.2,148.7c-17.5,0-31.7-14.2-31.7-31.7s14.2-31.7,31.7-31.7s31.7,14.2,31.7,31.7
+					S137.6,148.7,120.2,148.7z M120.2,88.7c-15.6,0-28.3,12.7-28.3,28.3s12.7,28.3,28.3,28.3s28.3-12.7,28.3-28.3
+					S135.8,88.7,120.2,88.7z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st4" d="M172.6,55.5v61.4v0.2v61.4L48.7,154.3v-37.2v-0.2V79.7L172.6,55.5 M176,51.4L45.3,76.9v40v0.2v40L176,182.6
+				v-65.5v-0.2V51.4L176,51.4z"/>
+		</g>
+	</g>
+</g>
+</svg>
