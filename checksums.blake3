@@ -1,7 +1,7 @@
 35e3952377ef67528a49760ed9f8c62bcb12335872f20fa32efb34e38c90fec2  .gitignore
+723e38dfd79e5ffd3c4faa9f2b358a31f516f88f8a4aef2bfd6d5ee73e22e333  Catalog.md
 303ed6acc65e9ace6c6585eec544a3adca9c8544c1810a7ccc751df83add25cc  Preview.png
-ccc354f9535c1714cccbaf9fd3df213e4f7141601f961bf6bfd4459770699377  README.md
-3c5e23f499e68a7ae3a6c867f82dc4fabeaf89038eed377fc83eb56326b7dd7e  tree.log
+48be296a58e51cf0d7747502fa41db01c35e8c0df308ef49cbd15a99c3fec792  README.md
 d1b1181632228c188c14856874570a8f237cc1023a998b23596bbc030ce7c7e2  ICO\Apps (Windows 7)\accessibilitycpl_1.ico
 5491b8271a7b37c19dfccd1d5568ec3abf9f8ff89a16581edaca07599c6a735b  ICO\Apps (Windows 7)\accessibilitycpl_320.ico
 29fc4bc42f0921e5eff7bd7bb79cbb2dd3a9743d97d50655f47163db51845592  ICO\Apps (Windows 7)\accessibilitycpl_321.ico
@@ -228,6 +228,7 @@ f87727be649a1a4578d8ab9d5227c0b9588e74941f871e9412eea60f80a6152d  ICO\Apps (Wind
 555c83ea9e4ce6d890ad440134b1c0eae9db2924e7fc35bc4f19fa1bb00112ea  ICO\Apps (Windows 7)\Picture_ JPG.ico
 0efd36f35ed28c09aa3a2f9792a3519d2025f46ac96b783e7b4fa6b4691c37ab  ICO\Apps (Windows 7)\Picture_ PNG.ico
 f3fb522111cdd4360f71b57a615324b0cbe4f8a7f4b401de7355188df0c29d51  ICO\Apps (Windows 7)\powercfg_202.ico
+96b6aca6c2f2a35fb088d2c6460d1015457160f957ce717178bf62c9f39ab629  ICO\Apps (Windows 7)\PowerShell Admin.ico
 995b338888259ff83157b88b2ed3835b7652f0bd771786f5554961ae33290bbd  ICO\Apps (Windows 7)\powershell_ise_0.ico
 1bc2d84376f64f005a90d6fd499fdf0330c064553d844153b6e4e4b8628f9ddf  ICO\Apps (Windows 7)\powershell_ise_1.ico
 0b37312bd9d04a64f39decc71d59dc35df85e0a21fc2660c620fa9e7f88e48d7  ICO\Apps (Windows 7)\powershell_MSH_MAIN.ico
@@ -273,19 +274,27 @@ cd5171dbb6de37f57a349092bca1af6eba900b148e330fd008077ed30b09b237  ICO\Apps (Wind
 8c0d51e3a5c2617ec40d81f5a19aca5adeac510418e4b32d391e1295e007e76e  ICO\Apps (Windows 7)\Message Icon\imageres_105.ico
 15d26adb0ab155bace3f7ec3f343bcebbea1c1540aaa977d11e4b5c1ed5348ce  ICO\Apps (Windows 7)\Message Icon\imageres_106.ico
 37adf41a6fd5b50d92d987c4c62b9dce601cfaf1954446103eaed7571fb33b4f  ICO\Apps (Windows 7)\Message Icon\imageres_107.ico
+e310a756e5448ef3e744c4802ac7a86e053f97954ea9f099188f61f0d0763274  ICO\Apps (Windows 8)\ATI.ico
 a13d8944ade31005bc3b1c1a9fd7b064a2bc9a09b978e43630cf1a20f8cd6b14  ICO\Apps (Windows 8)\Bluetooth.ico
 118e686154014334395b16b666c7cdfd0280c6eca14b99b16df7a38ac4e026d0  ICO\Apps (Windows 8)\Calculator.ico
 f7680575eb14229216b04ead2b2e3b8d84e2b52f169c6107117781b86b5f3dac  ICO\Apps (Windows 8)\Camera.ico
+4dbac383a6103e690d2a2fb9f9b074270d8ce1d2cc27784e2bdc3899b2308c67  ICO\Apps (Windows 8)\ChatGPT.ico
+2d166c0e6e794cee0b128ac5ca6da716e4e4fbc736828e6339c1a2b1501ed364  ICO\Apps (Windows 8)\Company.ico
 447f09f685da03eefe473c9f7e95c1d73591b81980a90340d89120e52921c9b6  ICO\Apps (Windows 8)\DotNet.ico
+00fb2173dc4c67ff84f026a1929575bb724d923300db25fac1957a744b77b33c  ICO\Apps (Windows 8)\Firefox Private Browsing.ico
 c7b5c5f4eb4ce991aecb637046a303ba4984839934372f11dcd58507f716f93d  ICO\Apps (Windows 8)\Help R2L.ico
 54df3508d0eb157b5c2d68d4845eae64665dce58750ba78ffaaeaecc76e2fa34  ICO\Apps (Windows 8)\Help.ico
 1806240345ae899aa4436aa9120e8cccc9f14edafac817c6823c3c30f425a17a  ICO\Apps (Windows 8)\Live Mesh.ico
 a676859f6c188639c0a7750efa924c3ba54fd942b99ee91f22ebc32615fe93b4  ICO\Apps (Windows 8)\Lync (Skype for Business).ico
+60a1519dd0d44f2f33f7638550f1c6d12c025f6b6150fbcb58ed632bdf94f1de  ICO\Apps (Windows 8)\MaXXAudioPro.ico
 7aceceacbcc697e898367b132935b018b74e76e62d2ae8bc207a800395434287  ICO\Apps (Windows 8)\Media Player.ico
 98eb9c770e4ca7db3f7bc04847ac0c36c752507a3a2f8e8babd1978e474f6418  ICO\Apps (Windows 8)\Microsoft Edge.ico
+9614a9ea40ffe5a5e1aec5708b23730f98aa88b6afe4304cc62abc2621fe5ba4  ICO\Apps (Windows 8)\Narrator.ico
 c17afa1723f87245e1754f27ddbc135b4ea62c7a7dcd696f7fb8480810480afb  ICO\Apps (Windows 8)\Package.ico
 879027066051be7d76c5a425d03d12242dd0be4d61c3799c3932caffd7f1ee6b  ICO\Apps (Windows 8)\Photos.ico
+98a8cdfc84c81a461368eaca896a348bf4eadb2a1ce4d7546ff9a3d60b17bfea  ICO\Apps (Windows 8)\Printer.ico
 084e17d184cc652d671fe2f16e257d35dd45d0eb4d56ad30b4f272dcfc229cb1  ICO\Apps (Windows 8)\Settings.ico
+4a3a1b7fcf5fa1eabcfee7cacaf3e68ef60a8c4cb700bd5de0b045654c068cd1  ICO\Apps (Windows 8)\Shield.ico
 984c405918eb28109b4b9fdbfb48d88083141c9bb432ede49293e1c41f80a32a  ICO\Apps (Windows 8)\Unified Write Filter UX.ico
 3f20055c57e2fa3c1b343b1db8349f1fe45ce3bf04a5d1892bcf5f128fda12d9  ICO\Apps (Windows 8)\Visual Studio.ico
 7c4cd462fd42c3e40a018088d9456fa3b8177cc62d5189815592c6920c0995a6  ICO\Apps (Windows 8)\Windows 7 Alt.ico
@@ -293,6 +302,7 @@ c17afa1723f87245e1754f27ddbc135b4ea62c7a7dcd696f7fb8480810480afb  ICO\Apps (Wind
 5dfb8e489f16579d07b1f8a6c393da8be2525c6eae3d5739ec97668f1fd10d4d  ICO\Apps (Windows 8)\Windows 7 Update.ico
 03127183b138d3544957068455c4af003ebb5c782555fc825817487895955a07  ICO\Apps (Windows 8)\Windows 7.ico
 f87259249b4ce76b9241342d2084e7f5bf6be6e74f12e39d03ec3576e30899f2  ICO\Apps (Windows 8)\Windows Phone.ico
+8aa4d130e0c5642b0f368c9b3393165339eb5563bb0994a909012b02bc02931d  ICO\Apps (Windows 8)\Windows Sandbox.ico
 5860145aa88a53b1e993a4de28d622de78c445cbecdbb665788002f7a52ed346  ICO\Apps (Windows 8)\Windows Store.ico
 da377cb62275894977d5ae7c29c44052a971273a3de1a50cf4b8e043ec7376f8  ICO\Apps (Windows 8)\Windows Update.ico
 024b389e30a8bcb66953480566b6e29ded654753d861b95d68ab695f61e38d51  ICO\Apps (Windows 8)\Windows.ico
@@ -302,11 +312,14 @@ c82658bb77919340a05370b80cc39aa6ef5e9265c8843ecee80981df9efe34e3  ICO\Apps (Wind
 f979f1060ae2ff72a21bae93e1923dc38f8d14787862548737ca84fe0067d357  ICO\Apps (Windows 10)\Virtual Machine Connection.ico
 8c280b818ef964e8e055428c94b423f8ec0b59f299cbdfe444dbeae5ce41ab1f  ICO\Apps (Windows 10)\Windows Explorer.ico
 cee58f4bd8d3a109b4a6ea22518dbde1a0c0e284d3792c5e31b5087f7fbdeb41  ICO\Apps (Windows 11)\µTorrent.ico
+60f739581b58b530a085d3da84f9ef8b3f535534b55b3e738c49b4be992e8c2f  ICO\Apps (Windows 11)\Action Response 2.ico
+4bed2c970d44baaeade4d71527f533fdbe486e7e2577308580caad144d98e8ba  ICO\Apps (Windows 11)\Action Response.ico
 301c2172afd90d339cda4a6f472b0a347d3a0970b36011e6a72350a6f506137f  ICO\Apps (Windows 11)\AIDA64.ico
+6a0aaf243dab805fb7f12246747654498b6d3c99803656438013413630e65cd7  ICO\Apps (Windows 11)\AIDevGallery Empty.ico
+b26da66bb4552f18fd463e3f2c5c1e037ce1ffdad7ba718bc6c5d5199789b7d9  ICO\Apps (Windows 11)\AIDevGallery PRE.ico
+4781f2958c03864704f1a953880ea8bda7e51eb63e8b9ec28f2c8faf170e98e6  ICO\Apps (Windows 11)\AIDevGallery.ico
 d66e3d8d14a621562a4c6cc9e1ea2bf3443cb896e1059dbd6277c213efdefd3c  ICO\Apps (Windows 11)\Alarms & Clock 1.ico
 d3511927eed94708e2dd0599f9fcff1facb693546e0ebe88f54dd45cc109897e  ICO\Apps (Windows 11)\Alarms & Clock 2.ico
-418b988b46d1d38352cf583cb5078683192da0d3e84581416648e52ea7428c2a  ICO\Apps (Windows 11)\App Edit.ico
-029507c96e081f641a6c5dd953ea83de531f926807f8daed2b53c0edd70257cb  ICO\Apps (Windows 11)\App Play.ico
 5e079d44208657ee4102e720275a1edee6f57186e2d7b3ae2abe6fcea1356de2  ICO\Apps (Windows 11)\Art.ico
 34a9e94165684734ed9138cd4d40546e5416a17941df9a9ca5faaef6a11152e2  ICO\Apps (Windows 11)\Audio.ico
 351bce1e48b2dd3f7eb9a947228cd381fe926fc2f309317a61e8a3d0fd6b7a0b  ICO\Apps (Windows 11)\AutoCAD.ico
@@ -326,9 +339,9 @@ b79379722ebc2029df76abbd2f89fd11f02d9fa3a9b4a0b22e8c470a4ae99344  ICO\Apps (Wind
 b43b164530a2c4bde36a1b1a75d0b217522c31e5f6e1914ff2d4a76b7455f94e  ICO\Apps (Windows 11)\Component.ico
 6e8bbb7fe40ab79349c79589ca662a95e48f0d3de764b22c087437afff363387  ICO\Apps (Windows 11)\Control Panel (win 11).ico
 e47cb9402ddcd2e72c57755c8b877af48430cd6f492e524ef3fbba2b31b82c80  ICO\Apps (Windows 11)\CrystalDiskInfo.ico
+9dd7343224cfeee3718fcfdc7de192fbc028b3fedc80ed94e4450929f2777077  ICO\Apps (Windows 11)\Dev Drive.ico
 f54603c2416ac8bb574fa3617014bf123bd3aec9328942957a19e13fb43fe217  ICO\Apps (Windows 11)\DevToys PRE.ico
 20823187677299406bce8f092824a9511611e25b80840e3f5a752827e99f5b3b  ICO\Apps (Windows 11)\Discord.ico
-bc26d26d7caffafe883bc8f87a585130b77ccb2b9072cb5e6f1447420d863d7a  ICO\Apps (Windows 11)\DMSMultimedia.ico
 c1833b15719064a10fe0ab9847b41eae5d4e8f9b2b5ee755deb08a9e47932387  ICO\Apps (Windows 11)\EnvironmentalSensor.ico
 30950e31aae4f9e62f8c39cf8fd8c181d73c8a02274e35a76e8d9eb7ab5f7643  ICO\Apps (Windows 11)\Epic Games.ico
 2a17d78a7d86e4b6f5959e3c6f99b51bc5ef7ac18a9831b5b3f7fb52e1feffd6  ICO\Apps (Windows 11)\Facebook.ico
@@ -336,8 +349,11 @@ e87ee4460f7dd8a19a5248f8ebf57b2406deb643b18f6f6c91beaa0ab531d269  ICO\Apps (Wind
 56ac7ae85874463d5e2d8468969bfcac8db5e84b001ce6f16a628ab01f7f7f4e  ICO\Apps (Windows 11)\Family Safety Monitor.ico
 dc1e0c2e3fb0839d73c49a9c694c9219f4abf4a76df5aa743c10c72cc76d74a3  ICO\Apps (Windows 11)\Feedback Hub.ico
 173f0f16f241077cdca183dfdbee5bba91f36bacac55c2c9b94ce4422a0c98cd  ICO\Apps (Windows 11)\File Explorer 2.ico
+b470c65ff8e9fae567cebe27de274aaa33184c4d699255d702471669309da1a4  ICO\Apps (Windows 11)\Film.ico
 8d796c6d56655b2bb02272b2a80a0338035fae92115c31c14c89c088200a3081  ICO\Apps (Windows 11)\FL Studio.ico
+31719ebbf9c5276d72de4edb18c816344ac54679a6e6ebfde4ab27aa0ddcfed7  ICO\Apps (Windows 11)\FolderTime.ico
 6da386dea024c22cbc45c400d4d7f4f1cdbd15fb5c732a13902094b31c3ff7ad  ICO\Apps (Windows 11)\Furniture.ico
+6aa39726b36b0cf0b5e4f98a7f5a810d77f14d01a4a115ed74c374e0b60603d8  ICO\Apps (Windows 11)\Gallery.ico
 ddb19f1d54a7ded4e00a35d603d19538cf16787f0cb18ba89947c0797a697bbe  ICO\Apps (Windows 11)\gd (c).ico
 c10eff368ca6b1c15ed3c853c8d9a5c81ec6f5c2550a83c7740dc41c0df7af21  ICO\Apps (Windows 11)\Get Help.ico
 036378530132c332dfd9801165c47ae7588d6371eedf59755a0e798e024e1bca  ICO\Apps (Windows 11)\Google Chrome.ico
@@ -347,7 +363,7 @@ ff6a4d5f03470950bfb5c016d1e42b3c7bf3d12c02c5740fcc07f43cb8400742  ICO\Apps (Wind
 012afaf71a845c16938c253cfb2e01a4db67e5355b0f9a5bf84b14f96b548be7  ICO\Apps (Windows 11)\Google Slides.ico
 70938eb497e93be53b3eb755bcd2448ec03abadcf7628186ad793127fb1c3e84  ICO\Apps (Windows 11)\Groove Music.ico
 989f7b3a86dee4f8e11df18862047a11dce257117f5f495e46f7b27e23f62cc1  ICO\Apps (Windows 11)\Health.ico
-26cc9c45be8509c38c93550277187e5b85d1d610b3a2a8599b513572a46ea868  ICO\Apps (Windows 11)\Home.ico
+2c08f6e7b9b4aaaac23d5ec193263223989e90ff0888f2197a3667a17ebb64a7  ICO\Apps (Windows 11)\Home.ico
 213ed582ee46e082431f095086befee147c0351074042855a87d942bf8494bda  ICO\Apps (Windows 11)\ICON5_1 (2).ico
 4ec2947808f0dc2359e949ab109510ac7469c2f7442e151b652b6b0d08f6439b  ICO\Apps (Windows 11)\ICON6_1 (2).ico
 16964a123fee385fc10928d166040a81cf21868ae0359b85b6947799fd81a45b  ICO\Apps (Windows 11)\ICON8_1 (2).ico
@@ -365,21 +381,14 @@ a610d829c6221906d903fd17c51d1db654ba53dba1a7d5fa531e45280ac57100  ICO\Apps (Wind
 20a5ef7d2e3cd089ce6cd2ec86b01be40923740e121ff7155a40c8eba0f1a752  ICO\Apps (Windows 11)\ICON83_1.ico
 272a9ce844ce5ddc7b582688aab7096ad161726f61b1daeda549f804547f8206  ICO\Apps (Windows 11)\ICON86_1.ico
 db99ac04a17de6c03396c71643b660a70a045ee3269a995d59c1850376749918  ICO\Apps (Windows 11)\ICON120_1.ico
-aac8e5a5a85f6e8986861cd3718e4034fb2437fd194181ca4ec4e34d56ab0561  ICO\Apps (Windows 11)\ICON143_1 (2).ico
 44f744c6395fce9b6d7c00cd285d29edb7d460e81e743ec657e1d5c81062bebd  ICO\Apps (Windows 11)\ICON144_1 (2).ico
 6e7a05723026d3e779d6d2f50196f2276789b2606fb26ec2904fafa44406d19f  ICO\Apps (Windows 11)\ICON147_1 (2).ico
 57f93bdceb0301507745f073741b5f1dd3ac6849e2c7a551a5fe8f7a0d1747d1  ICO\Apps (Windows 11)\ICON148_1 (2).ico
-cc09fc0284397ecf6c8f935907c73935e3dc4680b033c540d58088741e51dc2d  ICO\Apps (Windows 11)\ICON157_1 (2).ico
 b55f6f1778a1e741f4d3f69d3ffeae3cfbc87e045a63b71f457134cb420ac997  ICO\Apps (Windows 11)\ICON167_1.ico
 8124d57e31fb87b744104a65a70ae1f97b34036364b1899f8f4c20e3535ec47e  ICO\Apps (Windows 11)\ICON168_1 (2).ico
 dd1c13d5c63fb31f6497dad6f19614b923ba49f4ea4fff79da6fa3fae3eab1b8  ICO\Apps (Windows 11)\ICON171_1 (2).ico
-3d4142072ad8154464b4123474a0603d44c6b443c5056e8d0eb8277831428d0a  ICO\Apps (Windows 11)\ICON176_1 (2).ico
-2a2ba5f47d04880793ac6d416e1aaec5b5984d2ab45a948f7192284a7b9bf8e1  ICO\Apps (Windows 11)\ICON176_1.ico
 1fb660a2f57d923c7752bfd77d0cb036e9ca595e2079f938711fe79b7d3c47c3  ICO\Apps (Windows 11)\ICON179_1.ico
 5b1d15b4d6196420ef697600811ac690ea1764db9c799ad82ad1623b8a5e6d53  ICO\Apps (Windows 11)\ICON182_1 (2).ico
-ff9c9c5945e0ff3e9ee2bb5d220740b0e14d1f4d9a4d7ca990f038598bbe69b2  ICO\Apps (Windows 11)\ICON191_1 (2).ico
-98f95f735821ab17e9c0b3c51351464c26c5fce94d70ad14f097c02a06233e66  ICO\Apps (Windows 11)\ICON192_1 (2).ico
-7d6db8187d2cc5307e1aebe55186cc4ff5c507141d2a42c28ccc3bd233bbbbf8  ICO\Apps (Windows 11)\ICON193_1 (2).ico
 2a7d8c78480c81e57b0fb726fe10bde4b13bdb731c828b0e0111b08f2e1052b0  ICO\Apps (Windows 11)\ICON194_1.ico
 3f0a1c8b8310d1834bf3e39f17f8a6ee332d07f51324faa7017149485f4cecc4  ICO\Apps (Windows 11)\ICON195_1.ico
 1dc15cb9a0a0f7afd285f297b8f243f6f6a2b3d7fb17c5c0d02574705472aee8  ICO\Apps (Windows 11)\ICON242_1.ico
@@ -388,7 +397,6 @@ d62d927cbdd2a8873112eac922f5e3d1c30aa868fbdd7add7104e1f3bc002ff7  ICO\Apps (Wind
 a62a71bfbc72f56be67d51ae4a49940cab563891c55855839a60af9236e77da0  ICO\Apps (Windows 11)\ICON251_1.ico
 1333f71ff460e1d4f5289a0fd6cb6e3ec4827ab677e677112dab5dffe392b6d6  ICO\Apps (Windows 11)\ICON253_1.ico
 58ca5efe4bc515e21af58c81b7be642ba18f12a812f01e28cb3db1de223fe5db  ICO\Apps (Windows 11)\ICON255_1.ico
-26ae9010c47308a9e0fb52fbf604e9ef92345e40ae5ec308b13077f879e1e3ca  ICO\Apps (Windows 11)\ICON259_1.ico
 ee11d6f2ddb0bbdb14afe55c8652ed03adf91072c468a4c0a9c63101bea1de75  ICO\Apps (Windows 11)\ICON261_1.ico
 bcd2f2015bb809323c39aaaebdee4b5596cfece5de99badc5edd68e83efa8fd1  ICO\Apps (Windows 11)\ICON265_1.ico
 c2827b8f9de235a0e4a3287243672ff718093142bdf3325070eb1cc988ceb307  ICO\Apps (Windows 11)\ICON270_1.ico
@@ -397,10 +405,8 @@ c2827b8f9de235a0e4a3287243672ff718093142bdf3325070eb1cc988ceb307  ICO\Apps (Wind
 ef0f3b25ec52995c2798609ac792011cd8eea4ad52aafce2eeef454458314acc  ICO\Apps (Windows 11)\ICON330_1.ico
 83709fe792e57a478167b8812e7a02f60a202d353a16f90b225b7aad9bf9400d  ICO\Apps (Windows 11)\ICON337_1.ico
 6cfc9a8bac60bb89e5518381fc96c71f11877d16f0b4c762e094ecacb11188f6  ICO\Apps (Windows 11)\ICON1003_1.ico
-6f3f0cfc339270b41e7c4f7d6f0588f68ba0b053e03ac62e2a04551f0840dc5b  ICO\Apps (Windows 11)\ICON1004_1 (2).ico
 2262f7b7a94ec83f8cc04d11922b5b404ddd22e39455c264e74d5576d9566a5c  ICO\Apps (Windows 11)\ICON1010_1 (2).ico
 e0063716d690fefb02ed446cbc441b4aa0290fee0e8eb85ea821a4a32571a7e5  ICO\Apps (Windows 11)\ICON1013_1.ico
-7d30f1c9ba22a314a64ef9aa5f8f76429d4e508a9c2ec12bba4eb050bcc940e5  ICO\Apps (Windows 11)\ICON1023_1.ico
 5d894964954f3a8e10ecf1c37b7cba976406101c8fd6f51e1f61dd993c5a17c5  ICO\Apps (Windows 11)\ICON1028_1.ico
 4f49717e13ef7e2f661860b5d1be261171dd80f1538036ccdd48ab08cb5d82b0  ICO\Apps (Windows 11)\ICON5102_1.ico
 0d63d3c02347cf0e78f1d97fc814b0d8158085776f491b96a3a3730dff3ac848  ICO\Apps (Windows 11)\ICON5302_1.ico
@@ -416,8 +422,6 @@ c7da2dbb1e78871f3d83b03b3d1f170b6611be9c60f539344f47c84ccfe4d048  ICO\Apps (Wind
 8d46ddff110ef0f4d5c37f04f2b337dd764711d8f6b89e88c32bc9e88490541a  ICO\Apps (Windows 11)\ICON5315_1.ico
 948c15dcf01f9c932922478ccea54c23951833025d3075c41b5cea2fd925b9e6  ICO\Apps (Windows 11)\ICON5316_1.ico
 4fb57542d19377267883cc37eb1c7440b150c24da5aa19fafbd77e33424cb042  ICO\Apps (Windows 11)\ICON5318_1.ico
-d3769dbc511bcf862e110ff4c695dc748fc91e73f67cf06a09f03d60f6c8fffc  ICO\Apps (Windows 11)\ICON5323_1.ico
-59dadbbea106792a40e4f5069147ce521675728fba7e16563d073a6fadb4f54e  ICO\Apps (Windows 11)\ICON5324_1.ico
 d2798bd8bf15ebf4a2c9b325e6ada9a1e0b83e3e8075f592074b51c6c92505bd  ICO\Apps (Windows 11)\ICON5328_1.ico
 d74ab057911b8a8459a38a4f8eb3737bcbc3d453044a146cd4760236db1d5171  ICO\Apps (Windows 11)\ICON5333_1.ico
 1aadd2c0a0fea7a7d37739c6af4fd055e48a0652b01904bf9e5500531de83ac0  ICO\Apps (Windows 11)\ICON5335_1.ico
@@ -433,8 +437,6 @@ d9a137e3bd9c16dcf2a536268c972fdc982adf6e5464e39cab32fcf6cf516235  ICO\Apps (Wind
 7349505c6e90f031ac79c08729bc93a0aa9809d6660b6517a1c5e7bb26f8d259  ICO\Apps (Windows 11)\ICON5360_1.ico
 3d0f51f58630fa62dceb7578a4eadbfac82d50474df22ea9649f04c2ca1c67fd  ICO\Apps (Windows 11)\ICON5366_1.ico
 3c107e080404646ac09cac1a379d677e392703316c54a61016e961bda4aded03  ICO\Apps (Windows 11)\ICON5368_1.ico
-244ff1a06fa718ae9f872bf0db615a18929481b18a4278e371d2977a27d7b2d4  ICO\Apps (Windows 11)\ICON5372_1.ico
-bba7a0fd1bd413b04dd8aa3fabad7e3060230ff5b3f3dacc062de1e7b1ec550a  ICO\Apps (Windows 11)\ICON5373_1.ico
 555be34696387b929524a608dafbce5dee97a65e0b3490883f6257277a371959  ICO\Apps (Windows 11)\ICON5376_1.ico
 834cdf2606d945af620660541c7b0b84dc25f3f258804f6d690e6a14dddf9bb1  ICO\Apps (Windows 11)\ICON5377_1.ico
 f330328de84b13809e7c1f0a857325ef2cd4444187335fa519c9847072677d97  ICO\Apps (Windows 11)\ICON5378_1.ico
@@ -447,51 +449,38 @@ d522d856afdb673b63ed8892cfb5e620cee1d7e284a68d3e7ce2bb979a7db572  ICO\Apps (Wind
 317c4df17d853081d33e00d18e72fa3bd59ad8e8bac3408ad62f1414b2286ab5  ICO\Apps (Windows 11)\ICON16763_1.ico
 c26985244169657cacb6df2379616b9752e4386ab8712f1fcbf3eb2128f31998  ICO\Apps (Windows 11)\ICON16774_1.ico
 113a8da2c6343db812e40c89a84e296e0e882b28c151166fbf4a91bfce7dcc1c  ICO\Apps (Windows 11)\ICON16780_1.ico
-f3e6f0717e6cb0347e1ffb1d6c0591555c35b2ec084a2683e14938ad1c114400  ICO\Apps (Windows 11)\ICON16784_1.ico
 3f4cc475911ec332d5f122bb9081edc315f14446c3291b9b4d32fe5fed7ce796  ICO\Apps (Windows 11)\ICON16806_1.ico
 1dc69ba2bcb96d3d65728536fd18a52b805fc824309c1142d95821a02cdb8e11  ICO\Apps (Windows 11)\ICON16811_1.ico
 82f8b381c4c5b7d2ded1ae207a0b2414352ed4e27ab624f8204f58accee979d4  ICO\Apps (Windows 11)\ICON51586_1.ico
-b470c65ff8e9fae567cebe27de274aaa33184c4d699255d702471669309da1a4  ICO\Apps (Windows 11)\imageres_23.ico
 6ff634268893731841f8a7bab1975bfb16b2ae04a1a9bd98d8e16aa7883c1942  ICO\Apps (Windows 11)\imageres_25.ico
 b64a1eb7f4451ab5cc34425b5b4843ae51a60a759bca22646fd7d24d257b6ba0  ICO\Apps (Windows 11)\imageres_27.ico
 a9bcbdb0965e99aaca9b3de001ca312fbf429cba1d43d12a65ced75a57575e0f  ICO\Apps (Windows 11)\imageres_54.ico
 a5fdf5db16e3091b6dc21fa5242afaeb730d339c45adcc41acb917d673320c2b  ICO\Apps (Windows 11)\imageres_55.ico
 4907290f8e4788f212673d75f27129f3b94d13eb86a5a89e2762d31e305d8297  ICO\Apps (Windows 11)\imageres_59.ico
 7e0094c5b182c37bb6a63981fadfa5c84bd5265dd15207438b667c2d2d79a8ba  ICO\Apps (Windows 11)\imageres_60.ico
-41575a21dcbf859827088e6bb32a7d99d38447e3d439f824068798bac13b4273  ICO\Apps (Windows 11)\imageres_68.ico
 7760dd7df267a0e881eab46154143e0059e715ac17588c9ced442fb81b0ad433  ICO\Apps (Windows 11)\imageres_70.ico
 7641042cd05db178b49b7dc118bc85105ca23577042b2605fa29745c8e5858ff  ICO\Apps (Windows 11)\imageres_78.ico
 282e4961973103aa6dcc5127ca9c9dd4fdd6958586e26f70d2d518027160f6f4  ICO\Apps (Windows 11)\imageres_79.ico
 9ce4c49b4ee2362e4f72e6e4995b471bb00b5ed044080d5b990c097711c22b99  ICO\Apps (Windows 11)\imageres_80.ico
 d9ffc4d410f76d002d617dfa8f5caee77c3e9acde625ab986069717f924f8863  ICO\Apps (Windows 11)\imageres_82.ico
 d1b420e582454c44eeeda695e375c8bbe0f5bcac5115f34b17f8d28eca3f1995  ICO\Apps (Windows 11)\imageres_86.ico
-9a540b0a07de749537ba0f161fe58b733155c2f1cdb16d29bcc78915a1c2fdd6  ICO\Apps (Windows 11)\imageres_87.ico
 412be2fbb638217479d696fe4ca598f49450566185f2d542dcbcdfede78d8cc6  ICO\Apps (Windows 11)\imageres_88.ico
 17d8441730ad7306f7d3058b45c9a1ab5b794e56b461131596ee3213a31e3a37  ICO\Apps (Windows 11)\imageres_92.ico
-968b2a951fdaaf444cf74698c4add9a109e9bf7414bc4220aceb14f6128c0042  ICO\Apps (Windows 11)\imageres_97.ico
 3874e1db954b7a9c22ae2512827f4e711b4c44bc3237f4d40ebd0071962371ac  ICO\Apps (Windows 11)\imageres_100.ico
 1f5356bc45b4f3ad187433db1afc9ccb9cd906f3f8cb9c10d1d1b7645b1dfb24  ICO\Apps (Windows 11)\imageres_110.ico
 a2aac1f42b5eea6a33240d0c9e5ef85089f684275ddd7147d523426a3e669c9d  ICO\Apps (Windows 11)\imageres_114.ico
-0c97049844fb3237fb3fa14e0a19ef32ea4a43ba786476c62e744c6abd1971bc  ICO\Apps (Windows 11)\imageres_116.ico
 12e9433c871ccb7f800c25801531b498fb3fa4f2bb6096ecdaa8bfe1c2495236  ICO\Apps (Windows 11)\imageres_117.ico
 bef5763c1d1204c8c9f5e3549c8585bfcbef3b6e2d023b43d0b14a2fc3085d56  ICO\Apps (Windows 11)\imageres_122.ico
 2729e6dcfb9259390075c6a21126e3e8f7ef9a532c56e020726abeb1ec2a7bec  ICO\Apps (Windows 11)\imageres_130.ico
 71dd326058e201bd11ef6c725c88f18891d91a19cdb650f6be197e3e4bf2cc3e  ICO\Apps (Windows 11)\imageres_144.ico
 0cbf99ef6427cd81322b7089d80c49c3666202c886718071f1c30e7346fe6b97  ICO\Apps (Windows 11)\imageres_161.ico
-d68bdefe585a58633cb5c75c6e044e99254986608ba1bc43821b2410826e55b9  ICO\Apps (Windows 11)\imageres_163.ico
-9aff310e463d389997a2a9e082ce381200b25694b665b8c0ca49925114f6f0b8  ICO\Apps (Windows 11)\imageres_164.ico
-e5f4e75da5a1e6f1c6d3303c7ee78d560ff69bc2fe902fe0a2c80272ba097b4e  ICO\Apps (Windows 11)\imageres_165.ico
-5938efc73dba227acaa4c818055b9c60b50b4d65468e8c012d20cc6052591403  ICO\Apps (Windows 11)\imageres_169.ico
 73ba0c5b0be46932edcbfb21db864782fe8d60097b7366796ef3215ae5f4fa06  ICO\Apps (Windows 11)\imageres_170.ico
 fd387d51826edc4bd3af2976a0866a8f00ba79704ff48e67e38e8488a909f87f  ICO\Apps (Windows 11)\imageres_195.ico
-4f2bb0d4af5a3fc20c7fc714c0c47f218ddfe132463223c97e5fca09b1ab3ea7  ICO\Apps (Windows 11)\imageres_1013.ico
 0f16685d9d71a654ba647a400e7e0e3fa4f96bc27418e8cde6795e1f94e23308  ICO\Apps (Windows 11)\imageres_1021.ico
 85950b15868aad87a79bf327d32880226f6c3d5e6f4c2ed37b3d6e236c37ed29  ICO\Apps (Windows 11)\imageres_1024.ico
 27192db124f9a6f7805390eda9fdde2bad3d08a6997719fefa8153f57ba1e4cd  ICO\Apps (Windows 11)\imageres_1026.ico
 807e898ba259c11371fde3903753751ed735bd781ddde823b715ec255206745a  ICO\Apps (Windows 11)\imageres_1027.ico
 c8e2726a6be07529292d5c66ef3fcc8ce8af21428f3dda5f019a91916d7b1923  ICO\Apps (Windows 11)\imageres_1028.ico
-220428c491e6d5d9b6ed14bce24f2b2c0ff5dc66e0a45b7b876228090ffcce24  ICO\Apps (Windows 11)\imageres_1041.ico
-46e7a3f5eff1721e82384699c26e4c58db74957d961a0467a493f62aca88db77  ICO\Apps (Windows 11)\imageres_1042.ico
 fc897092dba78f777cf8f4c9f372bc97fb97d95b7d69b502d0f5a3c648136aa3  ICO\Apps (Windows 11)\imageres_1305.ico
 2d56a71dc34ebe0811c0a0729c4ba6eb9f7ea6101c8768013130da308edde060  ICO\Apps (Windows 11)\imageres_1306.ico
 8adcc0bd706280e5f48f5ee8fd0b8b6b932737766ecd9f75f9b7c31fb644640c  ICO\Apps (Windows 11)\imageres_5100.ico
@@ -504,6 +493,7 @@ a8675a9061bec90c0d28f8203b10b38adef4512e04df08631c8159923ea19bc7  ICO\Apps (Wind
 415e137a770af1628aa3cfd26b42541adfbb54a1cf9e56953a9f53bd4208e3fc  ICO\Apps (Windows 11)\MachineRuntime.ico
 dd434c9a18560a214b8f5c0013967ca41941c2efeb7b0e1e0cc138f944f4825a  ICO\Apps (Windows 11)\Mail.ico
 35338eb871c4e80cf136caf1dd708a4ec2b6a7df8c03f68eb6fda0539964610c  ICO\Apps (Windows 11)\Maps.ico
+f6da1211a8aeb76c96c44113a9f3a7e2bf4fe563ab6e3d530c439c94f5e6c9da  ICO\Apps (Windows 11)\Media Player.ico
 a2170a252517f59fc0beedb6122ca96a9da3dfb1735b6fe9dd410abe119a2cf9  ICO\Apps (Windows 11)\Messenger.ico
 cf0127812fab184d8af0494ecda9c73be16e8139e9ec17caf7b8e31118ecb569  ICO\Apps (Windows 11)\Microsoft Editor.ico
 5a83b22d34f2800920e2b9af43634eed21e33fde4d26998fece032f477350ad3  ICO\Apps (Windows 11)\Microsoft Emulator.ico
@@ -523,11 +513,12 @@ a688e208fdd916eda27a40efbde13d50dd3cf04110db51bbccb923be864511d1  ICO\Apps (Wind
 218bdf98e8ad3d8d9872c88adf57bb469e1c3a03269733df991477e20759d1ac  ICO\Apps (Windows 11)\MSN Weather.ico
 192a5de207b3e6f049105df75734e39f0c533f16b35b614a8a3d21f264c2b6ce  ICO\Apps (Windows 11)\mstscax_13417.ico
 a87eebe27001cc5674caefdfd944e6bdc4a64244ae866867075b0c7b3b39bc70  ICO\Apps (Windows 11)\Multimedia.ico
+c578d3225bbae5d67d03ac399b5a7cf1b033d82b85b0743f5883fadbcf47baae  ICO\Apps (Windows 11)\Music Player.ico
 0b9c12fe4fc4562463e66b300d2bd9ead498bdc54bc95bdf2716fc7d8d9f965f  ICO\Apps (Windows 11)\MyHeritage.ico
+50856a84cecb71d3b1944bb9785e2c6a11c67c7de2dad5586a7ec3c54bc43f00  ICO\Apps (Windows 11)\Narrator.ico
 865b5c5235826c6788e613e7c60e09d6fdc49dc1502fbe108204859cea21b6d3  ICO\Apps (Windows 11)\NASA's Eyes.ico
 2da052d3ce9b30b217bab11760835dc52807c9162c3c1fe014b9b436c9561272  ICO\Apps (Windows 11)\NetworkAccessPoint.ico
 c464ce3b2a448f8f2dfddd43589f3337943eb9f94c61e0ecc9c2555f9cee520b  ICO\Apps (Windows 11)\NetworkBluetooth.ico
-b59ef79f56eb155e9ddb643e5cbcc3cfd5962e14aa17691d2759153412323dde  ICO\Apps (Windows 11)\NetworkStorage.ico
 3562bb730cfb24a322d7972c15904c5e7cd8c312158f6ef6e7c805f12507f68b  ICO\Apps (Windows 11)\NetworkWirelessRouter.ico
 58fd71ccaa258f76c9793169bb387f0f5fd06a015d5e972138159f6a8cda54a9  ICO\Apps (Windows 11)\NIC.ico
 fd160028277e78c7aee9faa811458f4ac30721f07c7621c9c7ac379c5bcdb527  ICO\Apps (Windows 11)\Notepad.ico
@@ -553,25 +544,24 @@ b6a5d9bd7b330e65a16cdafd90194a79a600de1463628cd2960c07ad70da2978  ICO\Apps (Wind
 d484f605ad56a7485d2132231fd598654453e3e3983dc212df6bb3638917a447  ICO\Apps (Windows 11)\qb (c).ico
 0cba277608bfe2b6cb76f79842d13c936265cd69da6e733b561c29a16622714d  ICO\Apps (Windows 11)\Quick Assist.ico
 f93cf1b7689e7bc829528c83e0f7448416603ed6db347029c995c8cca5fe782f  ICO\Apps (Windows 11)\Rainmeter.ico
+b8d5e76f9e3e141dd656fdb78b0ffa4b67352b54783b48c51ee5c5d8dea180d4  ICO\Apps (Windows 11)\Recall.ico
 aa7007cdbcc8654593d730395536a3688785297af5e7be60fb6f1c2978c3c197  ICO\Apps (Windows 11)\Rectify11.ico
 68595a38e8f95b07e84bed2b0f8834daf7ffca6bf170f16f3902711e2290404e  ICO\Apps (Windows 11)\Remote Desktop 2.ico
 fbec007d50dd3601c7e08079a624f0bb872c40700fd179f94a063423003bbc2e  ICO\Apps (Windows 11)\Remote Desktop.ico
 1b888c8e01326914fc20902d207c15ab653a3d7cbaec47bfa6f8dfb9d5115d79  ICO\Apps (Windows 11)\Remote Help.ico
 4b9ba6fa786dc807384449929ae20110307dc3f769425f4273866545d65b6733  ICO\Apps (Windows 11)\Remote Tools for Microsoft Edge.ico
 2e94d84a7324daf53f0ca24198c1e41311cebef1785ecf6a339149c1abaabe01  ICO\Apps (Windows 11)\RemoteInput.ico
-29fdc577846b19d0aef9ce3af5471444b7503053731808be6897bb52b963b14e  ICO\Apps (Windows 11)\RivaTuner.ico
+ef34e71dee00aa563827a5c279516a3238b5b5c7597ab196617b28f0940641fd  ICO\Apps (Windows 11)\RivaTuner.ico
 ab2306e3bd3d6cf706b327cc501dda4999bda8719518667894f570aa929ed809  ICO\Apps (Windows 11)\Run.ico
 b5b217d9bcca00cbaee201c7390f1ad1e0dc61f8ddbbc8db1b0ab103db4906d8  ICO\Apps (Windows 11)\Scanner.ico
 6a278fe92adbaed19ffb24c0202ed3f7de2a976a7c0dc40c9bdb3a16d97dbe4f  ICO\Apps (Windows 11)\Scene.ico
 d612dae88a4e5c5645853ec0eb6b25a4cf0f9bae42b60cbf1eacb6400c96f881  ICO\Apps (Windows 11)\Sensor.ico
 b3770d856cca2b14154062ccc997e07cd59d10ffd42d7c1550cde9dc594df253  ICO\Apps (Windows 11)\ServicePrinter.ico
-c6ddc806ca6cbf19373c841952e0fdd29c6ed3271caade5a58e35a9d205e1de2  ICO\Apps (Windows 11)\Settings.ico
+c6ddc806ca6cbf19373c841952e0fdd29c6ed3271caade5a58e35a9d205e1de2  ICO\Apps (Windows 11)\Settings 2.ico
+18148430baecc8b793c4f23b0cace793da2114c4924f49f5152da53e14e3ad0a  ICO\Apps (Windows 11)\Settings.ico
 3de2f8e03d78db5e7a341323e130a4ac29f58fbc9143492e35c1068da31e725f  ICO\Apps (Windows 11)\shell32_14.ico
-77340c9a1d09ca5e114611d84faa9c509f76542c859b4b3bbc729b677cef7fc9  ICO\Apps (Windows 11)\shell32_186.ico
-55668fc85fefd24c8339048cdb2d1bb1025eb053cb171a6a480286a8bfb616a9  ICO\Apps (Windows 11)\shell32_187.ico
 fdbd960ec922b72f027a21a92815698a2b2077e417adbde4285b18db624b0592  ICO\Apps (Windows 11)\shell32_194.ico
 aebbeda6522f477459b623ad1f634421c88796971b2f756087ccc58d67ebdf0a  ICO\Apps (Windows 11)\shell32_231.ico
-6818de54d859145b7386e6c4e50e803097022cb6357b4a4b8801eaf754461823  ICO\Apps (Windows 11)\shell32_232.ico
 3d82d20478e3bd84ea98b4dabea50747bd60d6a1c06cabfb01bd8a6d198060a2  ICO\Apps (Windows 11)\shell32_327.ico
 b3d635a1218c2c73226263aebb2f706192030512f84bc8731f42c1bf273b53cb  ICO\Apps (Windows 11)\shell32_16739.ico
 9111f635f39e0991402d6ba461e5c513db24f8e190ca228a7315f2867e5fb7a0  ICO\Apps (Windows 11)\shell32_16752.ico
@@ -594,9 +584,7 @@ d38a5814190706d355710a7de61fd413af0a553040da3d61c3d5c09668854d9f  ICO\Apps (Wind
 06165b4fcf6216a5ddc1bfad6e7502aed539d51391dbe677376643f0d1c3efe8  ICO\Apps (Windows 11)\Steam (white).ico
 cfd1ce5dd196370db7385276a26b6ba0f08c1cb06421f3134fa4fc77b38a84d2  ICO\Apps (Windows 11)\Sticky Notes Dark.ico
 f48485c4d65e3a811679da2b49e5ac0248cec6ae8816b905c0143a7ab6008b83  ICO\Apps (Windows 11)\Sticky Notes.ico
-4f17569c42010c2e1ed9546cb5c1b1bf6a4932105ba83c07efd1fca19d0d3fc7  ICO\Apps (Windows 11)\Storage.ico
 a5bb4f603e6c239f9689b8b827afd9ea1b9a27280f1365dbe8b5bae75ce62406  ICO\Apps (Windows 11)\Streaming.ico
-7e3f716f2efb12a1fccf4337ad561019d7e98f817c09e7dcd121cd78a61e3057  ICO\Apps (Windows 11)\TapeStorage.ico
 ec2cd0df8c1dcecc8d250c6cd70136967bdc2fa7c22d5f4d0a3b69b2e271d352  ICO\Apps (Windows 11)\Task Manager Legacy Dark.ico
 cfb9e8dbb150455e951d08608f4e35c7c25144692a8fbde029bfa4d211410549  ICO\Apps (Windows 11)\Task Manager Legacy Light.ico
 63b1635177294d4c9a4e00e488cfc369e4ac0d42552a5f6edb2bc619c6ce5e1b  ICO\Apps (Windows 11)\Task Manager.ico
@@ -606,21 +594,24 @@ ef6dc7899cf8b7e81aa4a15b463536c546130490c297e2a7cab4c9b5cc1bb2a4  ICO\Apps (Wind
 5f78f31bec6887c3325f3d9abb42532503444f12b952fcac6e4df7177addf9ac  ICO\Apps (Windows 11)\Ubisoft.ico
 f501ef30924b8e8ad2c5c7a0755340cd211cd1735acd87ee46998dc8a915d21a  ICO\Apps (Windows 11)\Uninstall Tool.ico
 7c8871f4ab2efef13cbcd168c7ccbb580348b2aeef60798f5f7eb881e5429c6b  ICO\Apps (Windows 11)\Unity.ico
+cbdd15afafa2a08a00913cb3d5948492d22417888289fd8f816a82f92b9e2fdf  ICO\Apps (Windows 11)\UnplatedFolder.ico
 8c612f129396427bf35d12212388ffa3ed9092d3ed3f0e77d43cb034385c69ee  ICO\Apps (Windows 11)\Vegas Pro.ico
 42ceff2d3039d60274235118cb1f27acd86b03d588fabe92dadc3e607e81d9c1  ICO\Apps (Windows 11)\Victoria HDD.ico
+b488f7e81bd213f3ffc843f26928ccc65b2398290eb01580ebce492dc303a81c  ICO\Apps (Windows 11)\Video Player.ico
 89437e9196616c4d5579ab12128a49af9abfc11284af31ca4957820603cffac8  ICO\Apps (Windows 11)\Voice Recorder.ico
+b42a01d4feab768dda27f6b8169a81537f5b5e35966b145ef984ef208388a3a4  ICO\Apps (Windows 11)\VoiceAccess.ico
 2de421c2657596ba2abd0dd80e0677d8d40418ffa348629b604679e2bf419369  ICO\Apps (Windows 11)\Wearable.ico
 fc96253ee444110e6126f5f49f653f1fd5c0a5cde8a1876ca1e5849c22897c16  ICO\Apps (Windows 11)\Webcam.ico
 b3228dce72d6ae7318945f2f8fd753e55a8c8415cb8f73f1081e547a0c76dfcd  ICO\Apps (Windows 11)\Windows 365 Cloud.ico
 4d0ed6d6573b59959848f5ddd96ffa36514dde472c3dd9fbced7c6330f7df7b6  ICO\Apps (Windows 11)\Windows 365.ico
+50a03b7adef3bd40f3e76bd8ac004973aaac05671bb1138504452b9fffd19af5  ICO\Apps (Windows 11)\Windows Backup 2.ico
 821b65db095ffb27542403fbb06137977444825568742edf45cae38280208523  ICO\Apps (Windows 11)\Windows Backup.ico
 d80b970b2d82f808039f725e6e2ac73c33fdf64ef2c8fa7c78263e49acd4b4de  ICO\Apps (Windows 11)\Windows Defender.ico
 02217978f9aac1ea844c89f95f197c0e68196c59d4497dbc05fffeeb05da1688  ICO\Apps (Windows 11)\Windows Explorer.ico
+2861a2724f2939c225248843f4aa59b267d1642f3e229463a95b33b1c21fd2ab  ICO\Apps (Windows 11)\Windows Performance Toolkit.ico
 63be36d3e61b8a7927da0deaeea9cd508672dd9e03bd33bfdd8f723cbec41a01  ICO\Apps (Windows 11)\Windows Sandbox.ico
 5c8f47e4032b591e78beaf8b8ac03537a37607cdbe00cfb7b1ffa7eb9f2d5126  ICO\Apps (Windows 11)\Windows Security.ico
-6c7f90a05b63880c42a2b5cf4039740e7ecdd386b69b150e16b5031232048af3  ICO\Apps (Windows 11)\Windows Terminal.ico
 ea6b0b8518b9b612f5f93a259504bec32afefc997393e9a78d459134fac4e67f  ICO\Apps (Windows 11)\Windows.ico
-821b65db095ffb27542403fbb06137977444825568742edf45cae38280208523  ICO\Apps (Windows 11)\WindowsBackup.ico
 cd1302ca54c1a55c62345b8f5fbb8340428769b6b06fb8adb142320560fcde27  ICO\Apps (Windows 11)\WirelessNetworkStorage.ico
 513c4ee13f126461e4720b96bbaa0713be1ea60880d80d61a99fd9fdce03c1e3  ICO\Apps (Windows 11)\Wise Registry Cleaner.ico
 90e36c0d081735e5db08466e83e4978bdcab5bc2f6f4cb4278401f69c0f0a379  ICO\Apps (Windows 11)\WSA.ico
@@ -742,6 +733,12 @@ f9a55537124acc4e3154a257694233bc5d731141bb986c5a7a6c2f3287c0beb1  ICO\Apps (Wind
 7788609f9b547c94bdbc901ec2327a667a72d05e7ce449abafcecb88d361d6b5  ICO\Apps (Windows 11)\Adobe\Paper\InDesign INDT.ico
 de8c8c1b67befa7d59031fe3b270da44eda97dfd363c6e88bfce72bcb30dadfb  ICO\Apps (Windows 11)\Adobe\Store\ADDR.ico
 27165a84b474f5d4443a64907c1770270c736f9ef5aab79605ca1451014a1f6a  ICO\Apps (Windows 11)\Adobe\Store\LOC.ico
+418b988b46d1d38352cf583cb5078683192da0d3e84581416648e52ea7428c2a  ICO\Apps (Windows 11)\App\App Edit.ico
+41575a21dcbf859827088e6bb32a7d99d38447e3d439f824068798bac13b4273  ICO\Apps (Windows 11)\App\imageres_68.ico
+9a540b0a07de749537ba0f161fe58b733155c2f1cdb16d29bcc78915a1c2fdd6  ICO\Apps (Windows 11)\App\imageres_87.ico
+0c97049844fb3237fb3fa14e0a19ef32ea4a43ba786476c62e744c6abd1971bc  ICO\Apps (Windows 11)\App\imageres_116.ico
+e5f4e75da5a1e6f1c6d3303c7ee78d560ff69bc2fe902fe0a2c80272ba097b4e  ICO\Apps (Windows 11)\App\imageres_165.ico
+029507c96e081f641a6c5dd953ea83de531f926807f8daed2b53c0edd70257cb  ICO\Apps (Windows 11)\App\zAppPlay.ico
 223b455b800ed25d59e360ff32a2d9d2355a86b801636115453d86c1c95e0545  ICO\Apps (Windows 11)\Copilot\Copilot Blue.ico
 9ccecf4e0913b473c8b827b7724150ef0a5067ce4851fb65a3a5b15a135fb7e8  ICO\Apps (Windows 11)\Copilot\Copilot Green.ico
 95429fdb1779ef5648846ec17259fc141a17af4c0c12c4165639a0785ce05541  ICO\Apps (Windows 11)\Copilot\Copilot Purple.ico
@@ -755,10 +752,14 @@ e342926f0d4e1e998ac397c1dce2df97afbf42aa7a47af72c7d324a5eafd350a  ICO\Apps (Wind
 56e7e2312f4ca345adb1477cafe63088dfaa3f8c695034fcb99b023ccbb56e6b  ICO\Apps (Windows 11)\Deploy\Windows Package Feed (Feature Experience Pack).ico
 683dc48c705dfa5d797125a1d049a670b2e386ebf154ed682c081a01a0d79902  ICO\Apps (Windows 11)\Development\Blend for Visual Studio 2022 Preview.ico
 6f77be680e7cc240b22ef0b0569c4ed1199d802a2d1e493d374c5ab9f4b588c1  ICO\Apps (Windows 11)\Development\Blend for Visual Studio 2022.ico
+93de27c3897b29a900f28e19f7bcac914289f35cccf52124bdc293662c9f6c48  ICO\Apps (Windows 11)\Development\Developer 5.ico
+3051614a8964ad156a0643c4c798fd2e519cfa0d2c2af06fbcdee4fb31e77083  ICO\Apps (Windows 11)\Development\Developer 7.ico
 9ea80ef5dac77eb52563a0fccb009e33dbb2b77762132150ac23e97273ea8348  ICO\Apps (Windows 11)\Development\DevHome.ico
 d0136a623bbeb8f24eee6b2ceba996e7780ffe28179187e1a30542807c6e56c5  ICO\Apps (Windows 11)\Development\DevHomeGitHubExt.ico
 290a9272dfb45a3bded625048c8568a00841885480bc2915370f4d0f7e8c37b1  ICO\Apps (Windows 11)\Development\DevHomePRE.ico
 9f1e5941ebf0cd277d56b9356021cd6551c7e80cf44043b1d565790a28d5aba6  ICO\Apps (Windows 11)\Development\MSBuild.ico
+0ce01e3077d5e48696f67b91599ab165b9523ae39b57206a3c54578a2737a7e6  ICO\Apps (Windows 11)\Development\PowerShell 5.ico
+1898ec2e1e0035b977ac3a37dc9f6ff0138350f2000ee73ba1e32d530848bf47  ICO\Apps (Windows 11)\Development\PowerShell 7.ico
 20fbc22d250e8b9b11e7719fe1bf8b681b0f9de4ab4ff54c881e2bcaf2bbc089  ICO\Apps (Windows 11)\Development\SSMS PRE.ico
 ad494590bd53592810237a48469fc703d9a74e4eef2ccde7b8a9df4572c865d8  ICO\Apps (Windows 11)\Development\SUDO.ico
 4c1b63a1cd2080d3892d3397f011639842862edb9ca826de224f3ee014c0e108  ICO\Apps (Windows 11)\Development\Visual Studio 2019 Installer.ico
@@ -767,46 +768,61 @@ ad494590bd53592810237a48469fc703d9a74e4eef2ccde7b8a9df4572c865d8  ICO\Apps (Wind
 3a74572879a63859cc0978987687cadcf0a1a9777b69ab48d5f25fbc4d5da5fe  ICO\Apps (Windows 11)\Development\Visual Studio 2022 Preview.ico
 824bc412e1d32240ea03a885d78fc944ade9b927a78a1b9623b3713ef0a879e5  ICO\Apps (Windows 11)\Development\Visual Studio 2022.ico
 125e1872d59a4ac7d9d98d31c26e559f360f9ba9858d78eb19eab2e741ca86ef  ICO\Apps (Windows 11)\Development\Visual Studio Code.ico
-21346659cfdd2f18bf48968f3ad1b20f9f7d2ae0caf949bb530db642dd044a27  ICO\Apps (Windows 11)\Message Icon\Error.ico
-fac349112de7771466f4934d8e491a7bb5c79f2886ffdbae62b3ebbae1dd212b  ICO\Apps (Windows 11)\Message Icon\imageres_81.ico
-6338ed425956507787fff9f3589e1dcf8f44ddc7af14938ad7a8376cae11c6a7  ICO\Apps (Windows 11)\Message Icon\imageres_99.ico
-4fc9bfe66725b6e09245d9a6a1f1939b2396041556b2bec2ca4be8d34c66d2d5  ICO\Apps (Windows 11)\Message Icon\imageres_104.ico
-dd858a273fb5b194775328fea06a51b8052ae42d3c46f126a03cfe077b14e20a  ICO\Apps (Windows 11)\Message Icon\imageres_105.ico
-585f4fe6199903e979287ce955d6a3f06e917c7c3ff65fc9cfac84ccc9d510d2  ICO\Apps (Windows 11)\Message Icon\imageres_106.ico
-5c84ac9ffe142b96dbf24e9922f3e538a1e80769bb2bb2822081194c3cea7399  ICO\Apps (Windows 11)\Message Icon\shield_warning.ico
-6b29d4c015c2fa58d86d337f748972288fd547af7abda54ffca02b742d26243f  ICO\Apps (Windows 11)\Message Icon\Warning.ico
-2c5d136afdd6c0517e42533c1a2b11a7b1726bb82ccc4a5aa334c765eb70ce4e  ICO\Apps (Windows 11)\Microsoft 365\_M365.ico
-8f4d17ac21bf2aa94e0cd640b7d8700fb11c8290540578611109cb46815668d4  ICO\Apps (Windows 11)\Microsoft 365\_Microsoft 365.ico
-00963d102455f4ea9c58b17b66d37581138682ef779793fd52c84ef37f9fb126  ICO\Apps (Windows 11)\Microsoft 365\_Office.ico
-6de07cc0d2b6fe13b17f1e565989c16d216aff07cd0aa6487b7e738dbb6f0d40  ICO\Apps (Windows 11)\Microsoft 365\_Sticky Notes (new).ico
-becbe6e496c7b38cc12c4915bff2a5790f725e21dd070ac2d84fec0f1cdbadaa  ICO\Apps (Windows 11)\Microsoft 365\Access.ico
-6905c886510307edb8c444e8c1aeb847fcbd82f9c05270279cb4a2e6079e18f6  ICO\Apps (Windows 11)\Microsoft 365\Excel.ico
-f58b44cf937307dbe9ed605bf279dc2dd887ab759ef009cf11aa49c8d1f49ca0  ICO\Apps (Windows 11)\Microsoft 365\Exchange.ico
-d216de13d14bbe90dfa55173a7cb00a49c67a679038bfbee31c1471e39eed9bb  ICO\Apps (Windows 11)\Microsoft 365\Forms.ico
-0343c9a3125d6ec8d27c7d39cb9d27d281e0d60b314145eed0694a60cbf3283d  ICO\Apps (Windows 11)\Microsoft 365\OneNote.ico
-3560820fa2e2c4733c4592600426f62ab8d38cee07a7c12a420c9ed48b576dd9  ICO\Apps (Windows 11)\Microsoft 365\Outlook Legacy PRE.ico
-a22e41bf84b56159dfaee38dce0394611e2c833fd7511f8a379382d493350df5  ICO\Apps (Windows 11)\Microsoft 365\Outlook Legacy.ico
-f1e354ba3ebe50f95995ec21807093e704cd3e371c2843a3d589cdb7af799126  ICO\Apps (Windows 11)\Microsoft 365\Outlook NEW.ico
-6ecbdccfb030b4a2154e97b364cb14a163b2b1cd164fa6237461d1d096f9537b  ICO\Apps (Windows 11)\Microsoft 365\Outlook.ico
-cfefc8474f150c52897ff3b93a0b64f23b744ab4b82993b2298ebd8b46936720  ICO\Apps (Windows 11)\Microsoft 365\PowerPoint.ico
-4975f4d627d182e21659e5b9067f689e5ffc42b8e35a1499532188b1b9ea8f62  ICO\Apps (Windows 11)\Microsoft 365\Project.ico
-ad9910e80b7859b7fa59af2e434c36b38f4f562afd9f568159dcb0afd268daaf  ICO\Apps (Windows 11)\Microsoft 365\Publisher.ico
-281875095a208412e5380e1e9cd5651d90bc015c83fec6848d4d7b8c5eacfe49  ICO\Apps (Windows 11)\Microsoft 365\SharePoint.ico
-d001f16ea643f30fba8d35d05d389674a7a243e13c0d5725a9f13e940d2ffe44  ICO\Apps (Windows 11)\Microsoft 365\Sway.ico
-dc34df7de83d189d726c4a8ff64994de1e9e0277a8822045023385972b19c750  ICO\Apps (Windows 11)\Microsoft 365\Teams Legacy NEW.ico
-4f418186c8691678f75912057da729c30b425706303828558486dd9c45f31020  ICO\Apps (Windows 11)\Microsoft 365\Teams Legacy.ico
-dadf1f9acfeae0bd28a9fa731801c6df12f626f38c348d9cfdf89babf404b4e3  ICO\Apps (Windows 11)\Microsoft 365\Teams Profile.ico
-4e2a6206e7a6ad77c73ea3b5f408942c5032ef3b53a3f95eeb4f480bc20e49d0  ICO\Apps (Windows 11)\Microsoft 365\Teams.ico
-5f30a3dc806313318af300a578b72ad2299d11208be12c1071fa45bf7b581066  ICO\Apps (Windows 11)\Microsoft 365\Visio.ico
-dba280ed3f83ae2344efef980a1ca75ceeba6780df27bc0a51b928eee095dbcc  ICO\Apps (Windows 11)\Microsoft 365\Word.ico
-1b6be329b662b2f9e78b5e47735d5480fb94100e917367434b908978b062f372  ICO\Apps (Windows 11)\Microsoft 365\Yammer.ico
+59dadbbea106792a40e4f5069147ce521675728fba7e16563d073a6fadb4f54e  ICO\Apps (Windows 11)\Development\Windows Terminal (Admin).ico
+de3641a11f89a2ce9e30284675d5f825a45769a831a69caca939a571efcb7b72  ICO\Apps (Windows 11)\Development\Windows Terminal (Elevated).ico
+12dcabdadbff7d38ccbc74cab34a69027da50d4a51283d294cb3a1d8fc419fed  ICO\Apps (Windows 11)\Development\Windows Terminal.ico
+bba7a0fd1bd413b04dd8aa3fabad7e3060230ff5b3f3dacc062de1e7b1ec550a  ICO\Apps (Windows 11)\Development\PowerShell\ICON5373_1.ico
+51037509b457392b7d5e39fb4d671b2b1b820ffb548496e7fc8e50cc98f005b0  ICO\Apps (Windows 11)\Development\PowerShell\PowerShell Core.ico
+67141d2e538463c332382bca2d5159f7287ad1354de3c48fefd01c81904f4486  ICO\Apps (Windows 11)\Development\PowerShell\PowerShell ISE.ico
+0ce5668ed016138dfe32249aff021e630459a67565b7e1f8b6a120e6d9221b20  ICO\Apps (Windows 11)\Development\PowerShell\PowerShell User.ico
+ee477f591c9b121258cbdaf9af0150f1b9597f5209ffda00ab8a9393ec5a396c  ICO\Apps (Windows 11)\Development\PowerShell\PowerShell.ico
+2c5d136afdd6c0517e42533c1a2b11a7b1726bb82ccc4a5aa334c765eb70ce4e  ICO\Apps (Windows 11)\Microsoft 365 (Office)\_M365.ico
+8f4d17ac21bf2aa94e0cd640b7d8700fb11c8290540578611109cb46815668d4  ICO\Apps (Windows 11)\Microsoft 365 (Office)\_Microsoft 365.ico
+00963d102455f4ea9c58b17b66d37581138682ef779793fd52c84ef37f9fb126  ICO\Apps (Windows 11)\Microsoft 365 (Office)\_Office.ico
+6de07cc0d2b6fe13b17f1e565989c16d216aff07cd0aa6487b7e738dbb6f0d40  ICO\Apps (Windows 11)\Microsoft 365 (Office)\_Sticky Notes (new).ico
+becbe6e496c7b38cc12c4915bff2a5790f725e21dd070ac2d84fec0f1cdbadaa  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Access.ico
+6905c886510307edb8c444e8c1aeb847fcbd82f9c05270279cb4a2e6079e18f6  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Excel.ico
+f58b44cf937307dbe9ed605bf279dc2dd887ab759ef009cf11aa49c8d1f49ca0  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Exchange.ico
+d216de13d14bbe90dfa55173a7cb00a49c67a679038bfbee31c1471e39eed9bb  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Forms.ico
+0343c9a3125d6ec8d27c7d39cb9d27d281e0d60b314145eed0694a60cbf3283d  ICO\Apps (Windows 11)\Microsoft 365 (Office)\OneNote.ico
+3560820fa2e2c4733c4592600426f62ab8d38cee07a7c12a420c9ed48b576dd9  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Outlook Legacy PRE.ico
+a22e41bf84b56159dfaee38dce0394611e2c833fd7511f8a379382d493350df5  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Outlook Legacy.ico
+f1e354ba3ebe50f95995ec21807093e704cd3e371c2843a3d589cdb7af799126  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Outlook NEW.ico
+6ecbdccfb030b4a2154e97b364cb14a163b2b1cd164fa6237461d1d096f9537b  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Outlook.ico
+cfefc8474f150c52897ff3b93a0b64f23b744ab4b82993b2298ebd8b46936720  ICO\Apps (Windows 11)\Microsoft 365 (Office)\PowerPoint.ico
+4975f4d627d182e21659e5b9067f689e5ffc42b8e35a1499532188b1b9ea8f62  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Project.ico
+ad9910e80b7859b7fa59af2e434c36b38f4f562afd9f568159dcb0afd268daaf  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Publisher.ico
+281875095a208412e5380e1e9cd5651d90bc015c83fec6848d4d7b8c5eacfe49  ICO\Apps (Windows 11)\Microsoft 365 (Office)\SharePoint.ico
+d001f16ea643f30fba8d35d05d389674a7a243e13c0d5725a9f13e940d2ffe44  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Sway.ico
+dc34df7de83d189d726c4a8ff64994de1e9e0277a8822045023385972b19c750  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Teams Legacy NEW.ico
+4f418186c8691678f75912057da729c30b425706303828558486dd9c45f31020  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Teams Legacy.ico
+dadf1f9acfeae0bd28a9fa731801c6df12f626f38c348d9cfdf89babf404b4e3  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Teams Profile.ico
+4e2a6206e7a6ad77c73ea3b5f408942c5032ef3b53a3f95eeb4f480bc20e49d0  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Teams.ico
+5f30a3dc806313318af300a578b72ad2299d11208be12c1071fa45bf7b581066  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Visio.ico
+dba280ed3f83ae2344efef980a1ca75ceeba6780df27bc0a51b928eee095dbcc  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Word.ico
+1b6be329b662b2f9e78b5e47735d5480fb94100e917367434b908978b062f372  ICO\Apps (Windows 11)\Microsoft 365 (Office)\Yammer.ico
 7e451e68fe25bd3a5675f2e66d0204d32831e6883fc67e4dd34ec869fef973d9  ICO\Apps (Windows 11)\Microsoft Edge\Edge BETA.ico
 1f4fb9c5e9a952dd5e71aaf2620fbf58185569d5a4dc9fca89346ce71afa5514  ICO\Apps (Windows 11)\Microsoft Edge\Edge CAN.ico
 35ded078e28fbe34506641ba4d298d66a38e2f30826f9a2befc6046e0843a7a6  ICO\Apps (Windows 11)\Microsoft Edge\Edge DEV.ico
 d7b970a29527da354119d34eeec864c3755b4b6c5422055ab449856a3a900141  ICO\Apps (Windows 11)\Microsoft Edge\Edge WebView.ico
 433adbc4aff17eb291eb07a9d876c783a40e0ba59eab99e005b9a6bf7c94e454  ICO\Apps (Windows 11)\Microsoft Edge\Edge.ico
+d456394926e4befe310dffc5c24d872329f56a4312788d5a888df668f0d3e03f  ICO\Apps (Windows 11)\office-refresh-2025-ico\Access.ico
+c255ea430b0f80981a59e53ee9f4fc60f4b7b80a8128c26c459870859148d3ea  ICO\Apps (Windows 11)\office-refresh-2025-ico\Excel.ico
+bf49648e9713e9ec657f8b65b50208ac19b4735a7c3b92128072d54e21f7955b  ICO\Apps (Windows 11)\office-refresh-2025-ico\OneDrive.ico
+ccb7e958cc0450e9403eaf55c58755bde01bc9f17fbd7ca166b8c3c714614706  ICO\Apps (Windows 11)\office-refresh-2025-ico\OneNote.ico
+e43d93bb8ffd79a5d0c4b4625ccd5c0e434274690a80856d5da393ae14367c1c  ICO\Apps (Windows 11)\office-refresh-2025-ico\Outlook gold.ico
+ad23752f20045c79f09438f0681e0a3f049f017fa1e19285568d7dfb2dbc0c56  ICO\Apps (Windows 11)\office-refresh-2025-ico\Outlook.ico
+0b20624a77fbb0b4f994e2471287c67b9668f2d160820ded3810a7f7bc35bc6c  ICO\Apps (Windows 11)\office-refresh-2025-ico\PowerPoint  2.ico
+e7637cb5c33d68226eded7c4f10383c6fb2ad269fb4eb6b62ae6c504a92659ec  ICO\Apps (Windows 11)\office-refresh-2025-ico\Powerpoint.ico
+0b74cac298303d807fe6829bee466a96feb2d0a199a7efe8413d98a8e7ca9f45  ICO\Apps (Windows 11)\office-refresh-2025-ico\Publisher 2.ico
+fc152117fb7573c0df65da414669e674f44f5fbc8edddae1ec82798d1105ef69  ICO\Apps (Windows 11)\office-refresh-2025-ico\Publisher.ico
+57db21cd37b02f02064661112ca561a6f2f8fcf8deaeb8b6feb0f3f861e5fc57  ICO\Apps (Windows 11)\office-refresh-2025-ico\Sharepoint.ico
+a734b207d0c12a9e0b6cc60274d5c0841703e8f5a0eb5aeebd6192349af26c5e  ICO\Apps (Windows 11)\office-refresh-2025-ico\Teams.ico
+b3df36a46f02172fbdacf7cf9f796c144a5f2abed59b0882ac8e4666e1a900e8  ICO\Apps (Windows 11)\office-refresh-2025-ico\Word.ico
 c9321052b233161c601882ded4e304aa3deb2d61509ce0a2ad414e35695d1a71  ICO\Apps (Windows 11)\PowerToys\Advanced Paste.ico
 efdb34ede7d59ec4d6348bd32f6d4057b7367e8c8ea5f08258770f192abff314  ICO\Apps (Windows 11)\PowerToys\Color Picker.ico
+e480db503e0c4756660eab8a9a3a8a44a793292d0adab84ef004ff83b0d489d1  ICO\Apps (Windows 11)\PowerToys\Command Palette 2.ico
+00578d1893003012741e6c278374700f061895f91d0c678d4710f8f200cc6ce0  ICO\Apps (Windows 11)\PowerToys\Command Palette.ico
 7e5bf23524831660adb2ef70837d2b00cbbea0f02e72f777361698a399441124  ICO\Apps (Windows 11)\PowerToys\DefaultIcon.ico
 e6483a4d320dd107d771789ac3c2032ffd4e1c486ffdd34c7c535b1ead408ae5  ICO\Apps (Windows 11)\PowerToys\Environment Variables.ico
 22eb8cdb072defc3dc9e33745403743ba19ccea6c9b0a30b5a2e54d37f320de1  ICO\Apps (Windows 11)\PowerToys\Fancy Zones.ico
@@ -880,6 +896,100 @@ fc7faa66c20c35ba5046d6386b9293637f5bf5de52dfc3703f09a84a76e909e6  ICO\Devices (W
 52080fb976ce4a2ed60dfe10b5a469d5824a96f8a38e52f29ea61b49ee6e62bb  ICO\Devices (Windows 7)\sensor.ico
 1dddf80eb6794d946a345782546d7fd213d2b298e31feccea8cb83997ebb039e  ICO\Devices (Windows 7)\sideshow.ico
 b57319f0f69b83b15afff8e007feba7da4e1a6aeecdc8e906d1f1d3648d16d98  ICO\Devices (Windows 7)\touch.ico
+fca31c253c6457152bd47c08591a706d8414800954d70fdcac02a0433e64f721  ICO\Devices (Windows 10)\ICON2001_1.ico
+d33d5c1161d91d209e6ebbf287976404306cac3f77629be07d8a7a8c004f1bb1  ICO\Devices (Windows 10)\ICON2011_1.ico
+dae51ed35c9241f1a9ee62e4696ca613d8d617504b51dcdb184a5394f52fe7b5  ICO\Devices (Windows 10)\ICON2013_1.ico
+fd350626982df3fcf5c4bd2c65a90711935dc3cdab2dbae004f350c12fe1aa7a  ICO\Devices (Windows 10)\ICON2014_1.ico
+3c78a52d847bbd2b93b76a43a4e2f0ad9b4fda82c495b755b4bf6229ba9ef6a0  ICO\Devices (Windows 10)\ICON2015_1.ico
+a62e1bde582ce0ec9dd4dd043e6897b9b38c9046490f6acab6c7c027946322eb  ICO\Devices (Windows 10)\ICON2018_1.ico
+4944856114c38553de9d6982aad93136ad21d022a2217badd6296cf60b5286c7  ICO\Devices (Windows 10)\ICON2032_1.ico
+f11270c28f199344a66163206e0ae5ba983a8daff326828225733c2b26b44540  ICO\Devices (Windows 10)\ICON2033_1.ico
+3379c9078461653c37ae32d132949bfeb35aef9a46b8c1ef4cddf9d46c8d0625  ICO\Devices (Windows 10)\ICON2035_1.ico
+62cadfc6d6714fedd9aa322defe714c05b267d138e0ca46f2975878f0dff542b  ICO\Devices (Windows 10)\ICON2061_1.ico
+7117efd836dbd55059bcf1fa3720ebbf6233529820527b685c5d60cb2428c265  ICO\Devices (Windows 10)\ICON2066_1.ico
+dc03f94af59ac23456bab886779a11b722ee8fedd8f14cebb429491b179b0a57  ICO\Devices (Windows 10)\ICON2067_1.ico
+01efcbf2df422c6be4671c620224d800742120dd11ae172901f45516d6a07009  ICO\Devices (Windows 10)\ICON2068_1.ico
+df09e3a6b1e1d56d396a13c637a8065cb285ae33e921cec123d8b745ed9275e4  ICO\Devices (Windows 10)\ICON2076_1.ico
+95f700c510c274d6a356b41ce47470bc5a5549712c94839716616ae20d538641  ICO\Devices (Windows 10)\ICON2078_1.ico
+cbc6a1ae9f95ad0fb31bae0b4a69a44fa18a68cce2331c19788db7c77864b0ae  ICO\Devices (Windows 10)\ICON2102_1.ico
+625e9008cd65e141aab53521c740f5cf285e834f679c82fdba2078994f4012dd  ICO\Devices (Windows 10)\ICON2106_1.ico
+4acd499fb219feaaa71a53da1b8555a005a939e6176e4c696bffebb01ad39947  ICO\Devices (Windows 10)\ICON2107_1.ico
+7117efd836dbd55059bcf1fa3720ebbf6233529820527b685c5d60cb2428c265  ICO\Devices (Windows 10)\ICON2108_1.ico
+a0c40179eb7e9f4611df283eb3e86e605749ccff72e43d7ae1fe762e049c7a92  ICO\Devices (Windows 10)\ICON2114_1.ico
+3650c52a914ae1f5cb6ad0187c3e44e3a65e40ed41111b0ad6f45d61738f4ce0  ICO\Devices (Windows 10)\ICON2115_1.ico
+b322f54287958c842fb2e8c8c5a5a32c5a86d829cfb7162433b386be1eeaef6f  ICO\Devices (Windows 10)\ICON2143_1.ico
+10d9d7d3e595deb5f2de4f1a965e718ceb06b9f5875d4e4fe9b985f784dc7738  ICO\Devices (Windows 10)\ICON2169_1.ico
+141792451af0013853920da706fec2265dd208f1c5477880b0efa8847bed7f22  ICO\Devices (Windows 10)\ICON2174_1.ico
+91a4935b2262bfc8dcd70822496f7ca8cf9385a9f6494624cf3fcbe5d1bea55a  ICO\Devices (Windows 10)\ICON2201_1.ico
+27ae9abe1faca5080e4661189470c7641d94ec1ed4054e15b89a12c3a7205747  ICO\Devices (Windows 10)\ICON2202_1.ico
+c6299afc59099e3cba02cd381dfb77472f354049ca8df2e4bf844f6be2e6a216  ICO\Devices (Windows 10)\ICON2207_1.ico
+b2bc67e3c6ae0fa80611efca8fc3f3cdcaa5990c16e2641c2532a9cfaeb92fe1  ICO\Devices (Windows 10)\ICON2210_1.ico
+7a35c97801c1ff8fb3e04ba4090a42bd81379d1d2fb3de647697525b5b6f5071  ICO\Devices (Windows 10)\ICON2212_1.ico
+074c25fba7c84f4a8fa5199ce21075ed80bcbd325fb249270114434984e2037e  ICO\Devices (Windows 10)\ICON2214_1.ico
+b05b7856c11f55446753f5bc52d93ff4adf68e3c985be14a888a5c893169cafe  ICO\Devices (Windows 10)\ICON2241_1.ico
+01f96ea31bf7c7d4b781b753a3790090f0033b9bad046db0419c055c7c669ddd  ICO\Devices (Windows 10)\ICON2302_1.ico
+4e607b8a16ecf210539c4a418439be9e35e3130d07bd33c96008f85e55335ace  ICO\Devices (Windows 10)\ICON2305_1.ico
+3a70e0a6de2d7d1e58468e36a9d1a1be50ec1129b6717e0f6c3bd65e5237c5d6  ICO\Devices (Windows 10)\ICON2307_1.ico
+93ead3c0494be4fcfde13f8a73c856f21b83f71273a4e62b350f9e365c716ae0  ICO\Devices (Windows 10)\ICON2308_1.ico
+a5c862146e1ec50fce1883382299e1cdf101db6bb7558ef7b8e419cebac6b894  ICO\Devices (Windows 10)\ICON2354_1.ico
+d132409c53721d7b61830dc7fc605a0d84d3de3bcac5a0d820ca7ba3a9f13f31  ICO\Devices (Windows 10)\ICON2355_1.ico
+9affaf26e0021d4f1d22e1d273f0c3fca6f69bf845ccb489d56d74df50b5ca12  ICO\Devices (Windows 10)\ICON2356_1.ico
+12854e1e79cc6c814826e508d92cf179919ca544996165be3b009c6b64ded94e  ICO\Devices (Windows 10)\ICON2357_1.ico
+d0bc53bc77d2516f205f49b05a013c1f60d7ac7634d107275601ec27ddb6cf80  ICO\Devices (Windows 10)\ICON2358_1.ico
+c74758fd4c0b540bf5fad20d60a0d3d729ad8d8dd4ac15ba916216c7b851784e  ICO\Devices (Windows 10)\ICON2359_1.ico
+a5c862146e1ec50fce1883382299e1cdf101db6bb7558ef7b8e419cebac6b894  ICO\Devices (Windows 10)\ICON2361_1.ico
+a5c862146e1ec50fce1883382299e1cdf101db6bb7558ef7b8e419cebac6b894  ICO\Devices (Windows 10)\ICON2362_1.ico
+a5c862146e1ec50fce1883382299e1cdf101db6bb7558ef7b8e419cebac6b894  ICO\Devices (Windows 10)\ICON2363_1.ico
+3650c52a914ae1f5cb6ad0187c3e44e3a65e40ed41111b0ad6f45d61738f4ce0  ICO\Devices (Windows 10)\ICON2371_1.ico
+7f2242bcf3acc29d755362229f73e18620ae5b5ab2529daa769f548c81df2459  ICO\Devices (Windows 10)\ICON2372_1.ico
+0bb5cb5e941d9d6f7081a61bddc7acbdf243b883d051c63be5aed7e519d98e71  ICO\Devices (Windows 10)\ICON2374_1.ico
+46ac867207b44a8c8b2d04df016e55bcf483fb76b5aacb655ec0eab47bfa2a4c  ICO\Devices (Windows 10)\ICON2376_1.ico
+0e698fdaec30f50d0c9bf1e5d1d5262ee44f2300d533366b0f4a445c0410239b  ICO\Devices (Windows 10)\ICON2378_1.ico
+a4e44248d55c25ebbb86fa3897451f4cb16c2c9215ca4dfec248f30a89dda8b8  ICO\Devices (Windows 10)\ICON2381_1.ico
+26ed1bd8ddabde222c6ba1668fd010035933e6f655a8de63852c84c77bcd6d85  ICO\Devices (Windows 10)\ICON2383_1.ico
+dfe3b1def034e6bde9ac004b5dccabb44ad03171017965756dc11a9798b2250a  ICO\Devices (Windows 10)\ICON2389_1.ico
+e379cf0f3450326ad7ddef014e4ed8621dfe8268039c5fb533726b98ae4fd5cc  ICO\Devices (Windows 10)\ICON2412_1.ico
+6e2b9bea62746ea3d7e7b4cf1c4cb160a6a4a86de652a55a3ca071f93641b08d  ICO\Devices (Windows 10)\ICON2413_1.ico
+d94ccbdd118d08453ccb9eae0ccc5cdef5eaa5f42c4ce54cbbe1dd25b22a1649  ICO\Devices (Windows 10)\ICON2414_1.ico
+8143d9f20bcdce5a7f3c909799e9b30624b78098964b871ccf2f36924ee7aef4  ICO\Devices (Windows 10)\ICON2419_1.ico
+af46b0b7d6aee23910ec9c5490ba600bef0a61c24b5d8808be39aa6fbdfd3e45  ICO\Devices (Windows 10)\ICON2431_1.ico
+d10f9e4fa88a45c3652a0f5944bdef11d6c7fb87c7340f7cc9e8d916bd95b112  ICO\Devices (Windows 10)\ICON2433_1.ico
+edc3329457764be878958f299a176029fd75a5525a989c45a0364470e0018857  ICO\Devices (Windows 10)\ICON2434_1.ico
+dc443371fe0c99ea3e2a6e987f4125ba4ee248544cd7f672fd532a5fc0e33bd6  ICO\Devices (Windows 10)\ICON2435_1.ico
+3b6403154b7ef479537870308a8a5f144a112cc2c343cf6645b750799bb536bd  ICO\Devices (Windows 10)\ICON2436_1.ico
+c10f690e6293e7949922e1ca7d1357016754d70af79ffce865b9f609f2ff67f1  ICO\Devices (Windows 10)\ICON2437_1.ico
+d1f5313ff61fd1d1de8e47bd84065c11dccfb21a81552e9de0fcc6ea51bf5a4f  ICO\Devices (Windows 10)\ICON2438_1.ico
+8f8ae8039ceae233d2530e53728909985a43025bfd2d11c047104fe86d75d861  ICO\Devices (Windows 10)\ICON2439_1.ico
+57282eab9b0b16eb773a2192f58596aaeb0cd9f6a2c41a6f683de9783127e853  ICO\Devices (Windows 10)\ICON2440_1.ico
+05d90f12e2340aff8eeb5495a0834c016e5524255edf9f7b8f47211af0aedd9d  ICO\Devices (Windows 10)\ICON2441_1.ico
+f96bf8c3eca3b31fd1797b842d9c6dc3ffe61dab17822eaa80be58e3722da519  ICO\Devices (Windows 10)\ICON2442_1.ico
+ed1540e3cba70f87fd3ca02fcd9fd5272f90667cb95beefd88ca28fa95644026  ICO\Devices (Windows 10)\ICON2443_1.ico
+d9b4d3711ce4a92cdd689185ab062ec7025d3bad906ed86aed40dd0b0666d965  ICO\Devices (Windows 10)\ICON2444_1.ico
+9a82d7fd8d81830d0515e3cf80ed421e3e48872d75840bf2f57a8d2b6b1688d1  ICO\Devices (Windows 10)\ICON2445_1.ico
+e80099ae2164784a1180a4e8d0eb0adef60f0a34718e4f22362d4d141c34a204  ICO\Devices (Windows 10)\ICON2446_1.ico
+f80972b5c57f92094fa34a1684c189d6d65dbdee32b32307c1f9f7334df8be77  ICO\Devices (Windows 10)\ICON2447_1.ico
+4816498a4fb64db3c800f0ff051e4e331bca7d6785bd351d08461af76ede9512  ICO\Devices (Windows 10)\ICON2511_1.ico
+fc4011c6d061aa1b5635b6edabf863b22206e102e958828d577adc6897c3f462  ICO\Devices (Windows 10)\ICON2512_1.ico
+4dd0fb6664fdd461a13ef123ac5f9505da305a86acb90588286880ce51be8625  ICO\Devices (Windows 10)\ICON2516_1.ico
+e42424a5638f4a2d189048806b5a57117818ab45a6c2f0f6507c1ac2b26d6afd  ICO\Devices (Windows 10)\ICON2519_1.ico
+73c8c371da84378399abc9e06c982d9f9de7bed43fa67ecdbadd09b20a323dfb  ICO\Devices (Windows 10)\ICON2521_1.ico
+76ef9a17236807e3f437b49540ae27df937aaea939a77f0e4d063a2b8c9dcbb5  ICO\Devices (Windows 10)\ICON2522_1.ico
+7dacb05f9d26ee96e1652e7e1e81c9dfef5ae20804e620d51838667f3542ead0  ICO\Devices (Windows 10)\ICON2524_1.ico
+d4dad6e124b9fa71d91de72db828b39b0a3f311a7f8b2690dc963714df6a34e3  ICO\Devices (Windows 10)\ICON2525_1.ico
+8d85c10c5fdabef759f2f907e68d6fa05653d66ec885400ef227636c68c2dfd8  ICO\Devices (Windows 10)\ICON2526_1.ico
+a0706f59213eeaac0ab1c03263fdf348aee49432f2d4caa50f70993f98468be7  ICO\Devices (Windows 10)\ICON2551_1.ico
+03055cb7994f44d7daf61393b0faee9dc54a191fea60fb1818ea59f7568835f8  ICO\Devices (Windows 10)\ICON2552_1.ico
+5600d28ad8dfa87ae8d40ff4e487c53eb073feae03ef14769276ce3f46589d28  ICO\Devices (Windows 10)\ICON2553_1.ico
+adcfd90b1eb36c39c5d49c9c1b915a294ab167cc59970c05c14099b527f23d4b  ICO\Devices (Windows 10)\ICON2554_1.ico
+b632e624eaaeea76de7841bc4c6a7cebe6d35032cad0c3e35e92d1e27d192c5f  ICO\Devices (Windows 10)\ICON2555_1.ico
+b5a6cd0069b544039a4bf89cf691c10cd37583d83ea8dde022059f7634bf621c  ICO\Devices (Windows 10)\ICON3157_1.ico
+953fe1f4f950ec09ad8d5480d20c72364b3598231102d00eef4fe0da939b75fa  ICO\Devices (Windows 10)\ICON3161_1.ico
+e2844a29c2539d691d7ba2b6407af490ed67d562ab998e2ffcdaf70f552c2c0d  ICO\Devices (Windows 10)\ICON3165_1.ico
+53c3995ee210d414c991ecd4c670ac04c4dead43ae1d95ecdc3b3c9513a5cb04  ICO\Devices (Windows 10)\ICON3169_1.ico
+132d745d3e570943a2b5ebf3db80eafc1b229d432e0476af736127a2343a3f5d  ICO\Devices (Windows 10)\ICON3173_1.ico
+f0a4e772fc134790a8754c8475af8c41deac432260e40bf68d55c492eb01f054  ICO\Devices (Windows 10)\ICON3186_1.ico
+d132409c53721d7b61830dc7fc605a0d84d3de3bcac5a0d820ca7ba3a9f13f31  ICO\Devices (Windows 10)\TV & Receiver.ico
+e95b6a4d440277e16145e6e03c51bf1a14c9466b600e306005e9071aaa67421c  ICO\Devices (Windows 10)\TV.ico
 953fe1f4f950ec09ad8d5480d20c72364b3598231102d00eef4fe0da939b75fa  ICO\Devices (Windows 10)\POS\POS Bar Code Scanner.ico
 0e25ffbadbf616d192439ef99e5cd689579546dd048ba38f837c21fb43071732  ICO\Devices (Windows 11)\3DFaxPrinter.ico
 df40493a02fbe83c2809ea313b84212743f510a7dc30c13f2f590c5ecaa560f5  ICO\Devices (Windows 11)\CardReaderStorage.ico
@@ -900,7 +1010,6 @@ df09e3a6b1e1d56d396a13c637a8065cb285ae33e921cec123d8b745ed9275e4  ICO\Devices (W
 7bf4002171b903e4537999d452890fb713aff4c88be4069d345af0fc92c11654  ICO\Devices (Windows 11)\ICON2102_1.ico
 625e9008cd65e141aab53521c740f5cf285e834f679c82fdba2078994f4012dd  ICO\Devices (Windows 11)\ICON2106_1.ico
 4acd499fb219feaaa71a53da1b8555a005a939e6176e4c696bffebb01ad39947  ICO\Devices (Windows 11)\ICON2107_1.ico
-9acf148a1cec89084503997e2d347fbf22ae6b1af3bce9e9386fb6b1a86a57a7  ICO\Devices (Windows 11)\ICON2109_1.ico
 07b6156cb254eebdb2b664b769c5d47a20f21d4711dda83dc0d76720461516a7  ICO\Devices (Windows 11)\ICON2114_1.ico
 3650c52a914ae1f5cb6ad0187c3e44e3a65e40ed41111b0ad6f45d61738f4ce0  ICO\Devices (Windows 11)\ICON2115_1.ico
 b322f54287958c842fb2e8c8c5a5a32c5a86d829cfb7162433b386be1eeaef6f  ICO\Devices (Windows 11)\ICON2143_1.ico
@@ -912,7 +1021,6 @@ b322f54287958c842fb2e8c8c5a5a32c5a86d829cfb7162433b386be1eeaef6f  ICO\Devices (W
 526af49bdb62cdde6837e094979a800d63c159bf9c0f71dded409dc20863ca74  ICO\Devices (Windows 11)\ICON2307_1.ico
 340770b4c1d0b6bbd1798a4e6f611b3b8da7aafaf20053083b5c03306d931b7f  ICO\Devices (Windows 11)\ICON2308_1.ico
 a5c862146e1ec50fce1883382299e1cdf101db6bb7558ef7b8e419cebac6b894  ICO\Devices (Windows 11)\ICON2354_1.ico
-d132409c53721d7b61830dc7fc605a0d84d3de3bcac5a0d820ca7ba3a9f13f31  ICO\Devices (Windows 11)\ICON2355_1.ico
 9affaf26e0021d4f1d22e1d273f0c3fca6f69bf845ccb489d56d74df50b5ca12  ICO\Devices (Windows 11)\ICON2356_1.ico
 12854e1e79cc6c814826e508d92cf179919ca544996165be3b009c6b64ded94e  ICO\Devices (Windows 11)\ICON2357_1.ico
 3650c52a914ae1f5cb6ad0187c3e44e3a65e40ed41111b0ad6f45d61738f4ce0  ICO\Devices (Windows 11)\ICON2371_1.ico
@@ -940,7 +1048,7 @@ d02b1107c829c2b6b7ff507fef4ff6ee0b26d48293aa24d32f99a7169850fffa  ICO\Devices (W
 2aa0961e33f0a36bf7035a47e024ad32a4048416c74d69b88777e83f200b7c58  ICO\Devices (Windows 11)\Network.ico
 45b16fa19fddd7c8865028720b1cccb8edf26717c509a430ed24202d3b39f1bf  ICO\Devices (Windows 11)\TouchPad.ico
 c2b2a8722f82c3ec9a8959f4cacdb56dfa488e9665733a46b33bae4858a7f936  ICO\Devices (Windows 11)\Trackball.ico
-80521b7996093a2a530b349d41f4cd137df20708e24d7672213cfb2608e62e5b  ICO\Devices (Windows 11)\TV.ico
+9acf148a1cec89084503997e2d347fbf22ae6b1af3bce9e9386fb6b1a86a57a7  ICO\Devices (Windows 11)\TV.ico
 baa843f78b60aaf9ab785d18b1cd2b3eb14ee8aefa5068e0227f93717316c157  ICO\Devices (Windows 11)\UFDStorage.ico
 ac6561deffa6f43e92c237eddfc9f086842aff0230ec4748a561a05f436380f1  ICO\Devices (Windows 11)\UnknownDevice.ico
 f85c31964cd68e30cbc1f65aa58a163865fd0ce48dc425e42956d9221ec6fe6c  ICO\Devices (Windows 11)\Audio\Communication.ico
@@ -1062,7 +1170,20 @@ cbd64da45a2ef04fcc4e59009f35e5eb815e0a91b6be8befc360b6f0ee04d088  ICO\Disk (Wind
 5cf266eae0ac34fc1742eb8c99a03f40b19f4dacabfae1689850e493e242c125  ICO\Drive (Windows 7)\imageres_43.ico
 747e4b9e5f66aa457f6ab0c2255ebc7f393c9c24c15a106951ba7c0a3fff0137  ICO\Drive (Windows 7)\imageres_44.ico
 bcf71037ab64a50557624d774eda0fd01fd786c891692a5f1ec0964405a9c4a0  ICO\Drive (Windows 7)\Locked Drive.ico
-697ab44007fee730c48d0535b771b6b4bd11166ab51f74bd73a8d97561894df0  ICO\Drive (Windows 10)\Disk Cleanup.ico
+3015637eb9fc0ad7650e4d50d41cefbe4d9537e4d844869dfa4544d668621291  ICO\Drive (Windows 10)\Blue Drive Disk.ico
+d54feacaf3a0e61d7ae5000739a33f31cdad702a4afef8d93240fd56dc7f0694  ICO\Drive (Windows 10)\Blue Drive Driver.ico
+2f750db225c74ee6d3c9cee306e18b1d4cb2de3b9c1463362c283f262a24bac5  ICO\Drive (Windows 10)\Blue Drive Error.ico
+87585eb8d3d3ddd064a41352ca7db2d9ead21b38903cc7b74d93c70fc8df70d8  ICO\Drive (Windows 10)\Blue Drive Warning.ico
+e8f2d7c7d4b4d338cac031bdec893dba8ea60acce4a41cb27ac3095b7dcff2e7  ICO\Drive (Windows 10)\Blue Drive.ico
+3668465c3e2f4e46a3530b3a57b4beb4524b3743517502de0ba198ade8a0bf84  ICO\Drive (Windows 10)\Drive Driver.ico
+30a073ad12787ca3f0e7720954e56a0f56d5b7a152715342e6931c45caec89ea  ICO\Drive (Windows 10)\Drive Error.ico
+951ecd2dbc3b18878dfee3d492f9655a42557ce745106482b36938611ec4c61e  ICO\Drive (Windows 10)\Drive Removable.ico
+35de7dedf3630d84f523c60e648d6125249816d0a8462efc6e7cee33da6f73b3  ICO\Drive (Windows 10)\Drive Warning.ico
+712236f0d33eff9be7f328fb51ad86604c485d9a783cdaeca4ff715875db9411  ICO\Drive (Windows 10)\Drive.ico
+5d8708400d065ad9dbe5b52e810c3acc215e0e0e4b33ca8587d669a372de50af  ICO\Drive (Windows 10)\Videos.ico
+74cfe86b8efbb6392a565ad1dda071c62dceee78b6d304935bf528ee498879b2  ICO\Drive (Windows 10)\Windows.ico
+697ab44007fee730c48d0535b771b6b4bd11166ab51f74bd73a8d97561894df0  ICO\Drive (Windows 10)\z\Disk Cleanup.ico
+cb66c85f8c4d68a9331aa5e530680d4201a25f3d5ab0f582ac3f7b151980438c  ICO\Drive (Windows 10)\z\ICON344_1.ico
 c3daab24c27033b5a250d799def50115dc7473b5a04fe95ac964bfa8a0b30f6a  ICO\Drive (Windows 11)\CD Disk.ico
 b372b511c6bcb6f1dc704ae7722106e168a338aec4a9cb03f5d3ab69a436b0d7  ICO\Drive (Windows 11)\CD Locked.ico
 2fcdc7ba58099692c0e94e7352105c32a0e9c921a9982197a2aa499a170969ec  ICO\Drive (Windows 11)\CD Unlocked.ico
@@ -1070,6 +1191,7 @@ b372b511c6bcb6f1dc704ae7722106e168a338aec4a9cb03f5d3ab69a436b0d7  ICO\Drive (Win
 fc4e7d1eb6d65e0c56f3ac49f406bd83b6938b07324726b756eba9c398e53709  ICO\Drive (Windows 11)\DDORes_2512.ico
 972af23a409c6db62f4c5b89dce4fb38b90109d635e97f9deefb78f1b32fc8d5  ICO\Drive (Windows 11)\DDORes_2519.ico
 a0eddbd0dccce797cf919e9e000a9cde9072bdae04845e35a007fadda931d863  ICO\Drive (Windows 11)\DDORes_2525.ico
+4481cd4b8c493122e338e380c1b7499c57d5e70991fac2acebbdc16710f07aa0  ICO\Drive (Windows 11)\Documents.ico
 989d0f13547208974f514cf0f0742050de566d18df213b0c897ff4c88be7c012  ICO\Drive (Windows 11)\Drive Lock.ico
 9a6219026423cc77097f4aad07d6c0a075ab5bd3e3a925401d8663542db759ff  ICO\Drive (Windows 11)\Drive Locked.ico
 10b5d898b91fde14d400c75c8e06f33b7bdab692bb4b8d55a44a23c89653f198  ICO\Drive (Windows 11)\Drive Unlocked.ico
@@ -1113,8 +1235,10 @@ acc53853b45913a7d0a3e75c212f117e10b58b45df4501742ad6847d15638d67  ICO\Drive (Win
 54f8527ab712ca966240d6fbd86d1821efa5ef5e09e6b63e35d777ff619def35  ICO\Drive (Windows 11)\drive-youtube.ico
 6c9e447fd8100fac122db96fa0fa0ed56f270deb126602cf966386c701e5cdc3  ICO\Drive (Windows 11)\drive-zorin.ico
 19868be094083c125dc2ec2be27b9b022241c225c2689e4d1c7e34ef4c8b7035  ICO\Drive (Windows 11)\DVD.ico
+acd40a8dc3bbebb496818b277b7697754045230578aefc3a7e9e91338dd914c0  ICO\Drive (Windows 11)\Filmm.ico
 9c2ceb66af145346648810a2c6c6d630eb94106325d07621b02ee9b80b8b313d  ICO\Drive (Windows 11)\Floppy.ico
 43330f69dfb6cc017d7c3ff3b7de33c18ddcf7cfc68133f3d411c9926d8cb235  ICO\Drive (Windows 11)\Folder.ico
+ce094e1a0c9eeeb5077bb5b6dc8f6272a3d47c5607bdab1f2678d783d7492e4b  ICO\Drive (Windows 11)\Games.ico
 c6f7be5d98effdb2e472cb90db1eebe71b5d7b09b5e917b9435dcfc0c20f3dc2  ICO\Drive (Windows 11)\Google Drive.ico
 2e5cbc092f5ad4559a133d5ecf2ad776149cdc255affad98e80ef47dc2f7fa8f  ICO\Drive (Windows 11)\ICON29_1.ico
 ff3c85a07d454797babb78689c529307005c6cea7483a159af4fb35fcacd3233  ICO\Drive (Windows 11)\ICON31_1 (2).ico
@@ -1144,15 +1268,28 @@ fc4e7d1eb6d65e0c56f3ac49f406bd83b6938b07324726b756eba9c398e53709  ICO\Drive (Win
 a0eddbd0dccce797cf919e9e000a9cde9072bdae04845e35a007fadda931d863  ICO\Drive (Windows 11)\ICON2525_1.ico
 ef1adf11265b613ff93bdd21caec708c542bc32beaeed4898f9d67863934cf21  ICO\Drive (Windows 11)\imageres_91.ico
 45b1f60b2a94a0699f01a61b4fe796ea50f5abaff1032d79ffaaa86fdce179d3  ICO\Drive (Windows 11)\imageres_5379.ico
+f08fb5a670adfe22883e24995b38aa7bcee92ba56425191c7811589240a61704  ICO\Drive (Windows 11)\Music.ico
+53fd88fa03058f4294eb6b5139040527dec06782b53e68bc9660fc675a5f6482  ICO\Drive (Windows 11)\OneDrive.ico
 10cd4720b0c1b6af3e6d3b40dfaa926a78039d447138631370ceb2fe6ac6a22d  ICO\Drive (Windows 11)\pCloud Drive.ico
+3f3c946f03c355230399050d0baa91f4b040161bc92bbe9c98a08f3a2a1e18ea  ICO\Drive (Windows 11)\Pictures8.ico
 00f1a2024d93bb6ba0195f12c7840266697b853f203952ed1288ba53f5ec51dc  ICO\Drive (Windows 11)\Refresh.ico
 ad6f84407c8df2aa61113a85386e6d270a4e85957b04ff6db2af3ee38ff52dd0  ICO\Drive (Windows 11)\SD Card.ico
 fddf08806ae5d892e98209e85cefe137601ac24d21bbc1c6cf744ea0adb83f82  ICO\Drive (Windows 11)\SD.ico
 02c7c8df3a1bf4d84bbfcec5f5a73f8e89aaab97d170c897c9ac37e43d7c69bb  ICO\Drive (Windows 11)\Search.ico
 bb943a779146ceb2f48fd6d4c706993a904b3d87f9a183572d2967bc66f9bb24  ICO\Drive (Windows 11)\Unknown.ico
+0c4a04a22ab07da5f263ba85124725eda2205cf8cf7594a84325505c69a44078  ICO\Drive (Windows 11)\Videos.ico
 dbbab7db83164970bfa132ceb7fef41d8eea99861dc28ee5d7dfdfc71f10987a  ICO\Drive (Windows 11)\Windows 10 Drive Unlocked.ico
 b2a8f78f767944a1c6c55197bacc99ba8a6d78675ebce00eb40fb2109eb51428  ICO\Drive (Windows 11)\Windows 11 Drive Locked.ico
 91e664feebd9aa1d6c4f97a6ea6f8ab8c48b469263dcbf2612fd840d25e66d10  ICO\Drive (Windows 11)\Windows 11 Drive Unlocked.ico
+605b0983f11f048a04544657d6d9d632cc874d4427ef4cba0653e31d54b3feb2  ICO\Drive (Windows 11)\Development\Developer 5.ico
+788272a9a90443e9232ada2678a6819ccecbe9bae7db63d2c9b142ff484ffbaa  ICO\Drive (Windows 11)\Development\Developer 7.ico
+88beb95b75fab9bde89646067bb672d95b47436d308f15ee31e627dae452c5b6  ICO\Drive (Windows 11)\Development\Network Developer 5.ico
+573fe478c5e35207fda9ad5ddfdab4a5453d4bce00e66759e93bb71a1b00836d  ICO\Drive (Windows 11)\Development\PowerShell 5.ico
+6f38bcece0666d99b275cc9342420ecbfa552706c146687450a5cdec01960e87  ICO\Drive (Windows 11)\Development\PowerShell 7.ico
+bc26d26d7caffafe883bc8f87a585130b77ccb2b9072cb5e6f1447420d863d7a  ICO\Drive (Windows 11)\z\DMSMultimedia.ico
+b59ef79f56eb155e9ddb643e5cbcc3cfd5962e14aa17691d2759153412323dde  ICO\Drive (Windows 11)\z\NetworkStorage.ico
+4f17569c42010c2e1ed9546cb5c1b1bf6a4932105ba83c07efd1fca19d0d3fc7  ICO\Drive (Windows 11)\z\Storage.ico
+7e3f716f2efb12a1fccf4337ad561019d7e98f817c09e7dcd121cd78a61e3057  ICO\Drive (Windows 11)\z\TapeStorage.ico
 b0a364c1bf93692cfd98fb5e3fec3d2e943bdfb90fe702f1dd6c62f5d813dfd6  ICO\Filetypes (Windows 7)\DVDMaker_440.ico
 7aeeb7a73a06c15dbecc1d324bcb84e96ab301fde723072a048d259610a16284  ICO\Filetypes (Windows 7)\ehres_2.ico
 2a7a7dcc674c5efcce6e62530025f33531e17a20ca72d5c77134e38acf7acd80  ICO\Filetypes (Windows 7)\Google Drive_ (1).ico
@@ -1202,6 +1339,7 @@ ab70e275ba22729d28baafc1027d31864918123c245a980c365a77a15a59fc9d  ICO\Filetypes 
 6ab0d0159d6f296cf30296a3a707b0279acc4ed856594bf04ae10ae402136728  ICO\Filetypes (Windows 7)\Journal_127.ico
 bc4965c27a42a22a35a66a964fda8fe32e8260d21e773cdc8e753404e9e9a4c8  ICO\Filetypes (Windows 7)\MSOERES_19.ico
 79763637ea77e68e392d67ee5deb4fe57eafa9b23a4ca703c407a6875de81793  ICO\Filetypes (Windows 7)\MSOERES_20.ico
+3a6e7c7191584d3fe2e8d6be5353f9121f3efc4f0bd59f5a28eb142dd1acd3b1  ICO\Filetypes (Windows 7)\PowerShell ISE.ico
 332b00ddae7b36406c8df94995894105ec668672e5426e654c08278da1b7a667  ICO\Filetypes (Windows 7)\wmplayer_120.ico
 92d84078ebda4160e8cc83e81f8f22d1931f28e0f8e28bce1d97587236683635  ICO\Filetypes (Windows 7)\wordpad_154.ico
 281b75af96cc74a501b2e0daf1bbb2f950289540ef45e5b30115f82813095fd8  ICO\Filetypes (Windows 7)\wordpad_156.ico
@@ -1232,6 +1370,13 @@ c11ece9fe5a26568a1bbf5305a17394ea9da00738c05e8d82979c8be1574b3a3  ICO\Filetypes 
 bb2179359a55e5c7050ca1a8c079bf6b30ff6957a77a8af210c4d309863cca33  ICO\Filetypes (Windows 10)\23. XZ+TXZ (1).ico
 c56d11d6bc275d9f34e0a81bd72e3b568975cf029e1aca46e3daf5dc3a188fb6  ICO\Filetypes (Windows 10)\23. XZ+TXZ (2).ico
 c143fd1db50dfb55be00810e29a87851913bdd268b6ada775bbfab5117e2c9fa  ICO\Filetypes (Windows 10)\24. SQUASHFS.ico
+3f01cd27440bb2858f098561cb0ff220dad807450038c2c59eeda991d1490aad  ICO\Filetypes (Windows 10)\Dropbox\ICON4001_1.ico
+ecbec7dfed7699a0c8ac4d0258518f3ab7494d53b136f27b0b467d73049b04bd  ICO\Filetypes (Windows 10)\Dropbox\ICON4002_1.ico
+0aac119918ed12764ef0d07874ac2b454a5d11122c6925e632e780f4ae4619db  ICO\Filetypes (Windows 10)\Dropbox\ICON4003_1.ico
+692615fe27b578b842871526d93a5a90d479faf1862ae1cfdd36304ad0bad61f  ICO\Filetypes (Windows 10)\Dropbox\ICON4004_1.ico
+7a8701cad9fd0cb437d0e8b0878b988713bcef103dc8dcceefb442b648c0ee44  ICO\Filetypes (Windows 10)\Dropbox\ICON4005_1.ico
+58983ac76688d4a4045b49dafabdcd95c6ec3793e9e0f8603e403c100effb974  ICO\Filetypes (Windows 10)\Dropbox\ICON4006_1.ico
+8b25d0efa862d4111bf97fbf6e62e1210155d6d6acd40ecd2a4b84fa6ff41070  ICO\Filetypes (Windows 10)\Dropbox\ICON4007_1.ico
 45467c6e5055cf4ae2200ee73e3f8723629c20823818385e250a98ef6a27694a  ICO\Filetypes (Windows 11)\Audio.ico
 75897b21cde2deeba653965712d0f56e3f11335247d37c0a7d4ba2b3240ce1ae  ICO\Filetypes (Windows 11)\AutoHotkey.ico
 15914f4f0ad414262da08cf9901fad56c4c2f981ae66439555c7bd2d3c8e21e9  ICO\Filetypes (Windows 11)\Disk.ico
@@ -1246,6 +1391,7 @@ ba6e332a2b715a969b3267d854b4935c893db17b8b2df0a7e344608b211ed483  ICO\Filetypes 
 0ba7e1cd699a91a75244bb26c179fbc3de1749fd03d1f9d2b73c333b1ef59add  ICO\Filetypes (Windows 11)\ICON5343_1.ico
 2233249d65703746cf6ef089083d095f42da4bca787e18fbc4f7775c1fa5774b  ICO\Filetypes (Windows 11)\ICON5350_1.ico
 eeb8a5071ee0bd269d3592a9d25998da7aa3777033ae52b6beab9412b312a7a4  ICO\Filetypes (Windows 11)\Linwood Butterfly.ico
+a695da746b2525affb0f400e9521966f6e1ccde5eedbf3a1e0d6158a803a6c37  ICO\Filetypes (Windows 11)\Media Player.ico
 fb9cd23fbd6602014c17ca8a1a867b6806ca9ae7617568f9513a74b91da57b42  ICO\Filetypes (Windows 11)\Music Video.ico
 acb7717d97213289d839da8df0319a7c5ac29f6f2c4e2d58f4e595b6eff43df3  ICO\Filetypes (Windows 11)\Music.ico
 7023c5654c4998d40b9dce6e4f7b99276e3245b5f6584ecb834c867e94566d60  ICO\Filetypes (Windows 11)\Picture.ico
@@ -1254,6 +1400,8 @@ ad8e248530c258ced44712627e784af921ca7a722654e00416ce8e62f7b3e2a0  ICO\Filetypes 
 fa0ba2c6d5dc7907a6dbc02983eafcde854a61ec9505a0d8c34c1adfdaef94c8  ICO\Filetypes (Windows 11)\shell32_134.ico
 00e1847a422f051cf9152bf4a80524a1fc7df19ac2c394b77764e30924152259  ICO\Filetypes (Windows 11)\shell32_145.ico
 bbc41ba3db8c9cb1dd6731e85a56dd2acc5cdbbec8e0836232283bd18ecae446  ICO\Filetypes (Windows 11)\shell32_148.ico
+77340c9a1d09ca5e114611d84faa9c509f76542c859b4b3bbc729b677cef7fc9  ICO\Filetypes (Windows 11)\shell32_186.ico
+55668fc85fefd24c8339048cdb2d1bb1025eb053cb171a6a480286a8bfb616a9  ICO\Filetypes (Windows 11)\shell32_187.ico
 1a66b6161bf5ea4cef5d310126741bb66ef351758973910a969146c156909761  ICO\Filetypes (Windows 11)\shell32_16777.ico
 c3904021ec531a07b8dfcd0b75dbc9d4496270cfd5afecf45b282623198d5764  ICO\Filetypes (Windows 11)\Text.ico
 faf5491e5dc298895c81bdc33262f5e0c073ed850fbc454ad3581d1168e9e468  ICO\Filetypes (Windows 11)\Video.ico
@@ -1912,6 +2060,14 @@ f9c443d74ed32cb7230f618c17fd4cfc0dd2dfa5fef8f3ef86b1c4c5547a0772  ICO\Folder (Wi
 b70054a6555ec0415f836ef4637cc3009f1bc786c2bd349edca79099137f0caa  ICO\Folder (Windows 7)\Development\worldwide-1.ico
 15a4c6274445f9d3b7cf7b63b725f4af12f19a79d42b2952535bd597ea61bcf4  ICO\Folder (Windows 7)\Development\wrench.ico
 8a79295a8e9017fd4e53033ca10348238375e99e0414cef10b199c95fcefca9a  ICO\Folder (Windows 7)\Development\writing.ico
+227c673afdc485de6ab73aef29692a1447c2b50d5a27401588fd75322953d670  ICO\Folder (Windows 7)\Dropbox\ICON2001_1.ico
+f7ca7b2d8be4cd8d8bf109fec74877d6f7c9788a60328171b6f1dd934bade705  ICO\Folder (Windows 7)\Dropbox\ICON2101_1.ico
+35c8ea024014a6040a0aaec0198cdce269c2df508074ea486511b26a52e86a76  ICO\Folder (Windows 7)\Dropbox\ICON2401_1.ico
+22ad1582793e8e2287b83a5d1268019e4300402d8bff62797e217834997bd20c  ICO\Folder (Windows 7)\Dropbox\ICON2501_1.ico
+2643283a8771a609f727a34f1e7bbf76d1b8bad6393f98e0c100c8626ceba2bd  ICO\Folder (Windows 7)\Dropbox\ICON2603_1.ico
+7c56bfd101f5e2f52ab3713f6f34ea35943814f1a80c8d7c5f470f04f6a52082  ICO\Folder (Windows 7)\Dropbox\ICON2604_1.ico
+b7b0be96c7c17ac7510d46de657a1c001ca45304153b198b3fc81404ac9367f2  ICO\Folder (Windows 7)\Dropbox\ICON2606_1.ico
+359d054267104109db02f4e505869106c127634bcda25a7d14de09c6955b46fd  ICO\Folder (Windows 7)\Dropbox\ICON2709_1.ico
 2e4cca7b39dcc166d400a503758c637dde0550790ba86af8fec36e7eb06ed0c4  ICO\Folder (Windows 7)\Education\abacus.ico
 6bbc56d1bb13c3a9e501fdb1c64f70e823702413792b9863d9d894ecd1fb5f25  ICO\Folder (Windows 7)\Education\acoustic-guitar.ico
 01df8ad94673b9bba0b693b4f5af4954214ffb6a0f4cc2b63593897222bfe9f8  ICO\Folder (Windows 7)\Education\alarm-clock.ico
@@ -4695,6 +4851,15 @@ c28f1061ec4d2a2d59d4517ae74fd4577f57eccd94b93ba907d81511c9e7dfa8  ICO\Folder (Wi
 c8083a31449a401d4c30488050daa3fa722256b93388fc85d5e25acba1e92fa4  ICO\Folder (Windows 10)\Development\worldwide-1.ico
 1ea8b64961074493c7c44689602db4d4dc34e67cf7aa425930fd19584f432cf8  ICO\Folder (Windows 10)\Development\wrench.ico
 1ac4d868e2410e977f6d9fa88811e24d0655a5c1904ec2dbdb49daa0d65a9893  ICO\Folder (Windows 10)\Development\writing.ico
+3a7c8904880a151c3d8730b9fc8eefe8310b8e76452a17694164a2428b747dc1  ICO\Folder (Windows 10)\Dropbox\ICON3001_1.ico
+4fee39f6aeaab5301c73bd1502faf9a4aa743a8686c63f4339f4f1cc8fa0150c  ICO\Folder (Windows 10)\Dropbox\ICON3101_1.ico
+fdfba98d540acb0f5d8a49afc99fa391620c4cbf690b806f4cd37577d1b78655  ICO\Folder (Windows 10)\Dropbox\ICON3401_1.ico
+29669cf9c692edae874a4c03ae944e45f01911b906b407340bf1cc48fbc65c20  ICO\Folder (Windows 10)\Dropbox\ICON3501_1.ico
+dc81276f4666084c20c6755df8b7b7a53458759d711ec43ecb1f58c592459f23  ICO\Folder (Windows 10)\Dropbox\ICON3603_1.ico
+ba32c86bf0e68510fc5e37e0378620d5400f6f1174638866d6c349d9efcee872  ICO\Folder (Windows 10)\Dropbox\ICON3604_1.ico
+27060fa8f50ef1bfc4db0dcdd29c566be10a1abad4dc3cca54654a24b587215c  ICO\Folder (Windows 10)\Dropbox\ICON3605_1.ico
+b35f7c510e301803198f6a134b234dcd4536d8173e2544c217f5980d26fcf196  ICO\Folder (Windows 10)\Dropbox\ICON3606_1.ico
+c4e45d8b5dd7df8787aac8faa848c4f509771c29c231d82ed3927614d78c5c8d  ICO\Folder (Windows 10)\Dropbox\ICON3709_1.ico
 7afeb59d19965810ead582cc9cfcb2dbb1fbf9ed8a8d6b8c977e948bb4f96b21  ICO\Folder (Windows 10)\Education\abacus.ico
 1ac01b46d3628c95592f748921e9be23cdc3a13cdd2c379a91780613f4cfbb20  ICO\Folder (Windows 10)\Education\acoustic-guitar.ico
 5cb642570c4c7f06e3cf17af4653deddc38252dad23b47468357f2e0000f1179  ICO\Folder (Windows 10)\Education\alarm-clock.ico
@@ -6732,6 +6897,7 @@ d0062f6ba44eeea5c3a01b38b86f436b3ee9dd1804d5b6da632b79fabbe02297  ICO\Folder (Wi
 fa4722124726ff391ff3f87d12e044badf5c224b32e9884cf226d35bddb98ce2  ICO\Folder (Windows 11)\color\Affinity Designer.ico
 8a80b9acf1404ba2903153e84763acef37767ad5d135cfdb0cd9c10b70bc0797  ICO\Folder (Windows 11)\color\Affinity Photo.ico
 e49e71ff3b1171a4f1a96750301c2a7e3cba2399ff815c64436841d936b60637  ICO\Folder (Windows 11)\color\Affinity Publisher.ico
+b147c777fd980bb4f9d1c9741c697b02a03b3fef4d4b765402242d99b26dc8e6  ICO\Folder (Windows 11)\color\aida64.ico
 db1133a9a1f6cf810fbcba768bd6d14b23f3f24a902c1e797e9432c46ef36e54  ICO\Folder (Windows 11)\color\AIMP.ico
 1260a623fb9314ee9a53227b2f1b1559776dd33b90b9849230b1245177d96d53  ICO\Folder (Windows 11)\color\Alienware.ico
 eec9bd3f76b614cbaf25c232f70a4570332086065c69aa99acdeb3877309f959  ICO\Folder (Windows 11)\color\Amazon.ico
@@ -6749,7 +6915,7 @@ b7c9048e28c10b8cba8cf60f700389c598227a08cab00da4237b5ca52ee3f78d  ICO\Folder (Wi
 4558da4ef7605b6cda83aebfcd087da508ff5bf7e5309c7c799953c1e5c36766  ICO\Folder (Windows 11)\color\Battle.net.ico
 821ed7b67607b3acb01f1d5ef6ea6d5a4cb159ccc641b2ddbb5b188d55e5744a  ICO\Folder (Windows 11)\color\Battlestate.ico
 72c3bf41af04d86f06383a3085fdc26b0db7605eb2a8f5b24b9a727ccd13494a  ICO\Folder (Windows 11)\color\Bethesda.ico
-5cab2835562e2f1cf80ec129fb5ff1e962faa58a47066a981fb11e8ea552ac0d  ICO\Folder (Windows 11)\color\Bitwarden.ico
+7c6ee0a4fa94f0c46a9217e098517d5ce44ee14a0eb60e397cc6d385c74311e6  ICO\Folder (Windows 11)\color\Bitwarden.ico
 83d650c6798382b0e2004ae73246a707410f1afee58db1af9e0c7dfe251b1398  ICO\Folder (Windows 11)\color\Blizzard.ico
 509777d2ef3371048043999904830d1e2b858005af1c22be72c904c30cc4cacc  ICO\Folder (Windows 11)\color\Bookmark Folder.ico
 62c684c61f6f4f9b06749771e9368da84822d004a4f04395aa2b00814ffd8ccd  ICO\Folder (Windows 11)\color\Calibre.ico
@@ -6842,7 +7008,7 @@ e7fa1dec14d90c663a03daeb8ead8f31761ff799bef31835bef0fa798d6b559e  ICO\Folder (Wi
 71917f6006a9a7b252f2ade8b0a1c88de8b41964eaccb02696ccd9297315295c  ICO\Folder (Windows 11)\color\VBS Folder.ico
 29b41c2d04d20561669cc897fbfe0cd60f8872b5b46ff4802a985a8eb3600d59  ICO\Folder (Windows 11)\color\vectra.ico
 ad216286f21d8298f6dc98ef6c60ec571d35bf221a576a29ad94ace1fe6549ee  ICO\Folder (Windows 11)\color\Virtualbox.ico
-0d9d1a21fc5c59c0da294ec7252694384498b327a9d4e7f2899782e47bdcd37c  ICO\Folder (Windows 11)\color\vlc.ico
+db24eaa7be98503ec0ffc8305db03fec4728a00d998c5c3300904bb715290716  ICO\Folder (Windows 11)\color\vlc.ico
 814d209cbeeadfe61564a63319cff2e115718c6d4a0040c42f438cc5eb663cd0  ICO\Folder (Windows 11)\color\vmware-workstation.ico
 1867cdc005c6f3ff86b6e72d1b43e227d21cae13f0fb6922e48b138c47d62ca6  ICO\Folder (Windows 11)\color\Wacom.ico
 15dbf2ed62717bfacbc01299efbfd5866fe733f5a9d5cbdd2d2d9eeb4c519e7e  ICO\Folder (Windows 11)\color\Windows 11.ico
@@ -6869,6 +7035,17 @@ ba0733a82bef72171b6516391c5fa2070b0a9713d2e64306e1d0311ad9eda0df  ICO\Folder (Wi
 c7aa7ee5ca6a61b6d8723718b1079af5a8371d80144774de148ea112c64e957d  ICO\Folder (Windows 11)\color\movies_shows__sameerasw\Senior Year (2022).ico
 00188ed2ae59833ec72a4767b3ec24ba9e4b9c82ff8f6e1a6d37fc0eb23d2987  ICO\Folder (Windows 11)\color\movies_shows__sameerasw\Spiderhead (2022).ico
 8747e4b88ca3691780506f891ce9680a5fec9ddfbdef731df06afdbe88fde660  ICO\Folder (Windows 11)\color\movies_shows__sameerasw\wednesday.ico
+621a98ff3feba3d7ed57fcb43138d92ee3b8adf78b65884fc045219d6b7c0a11  ICO\Folder (Windows 11)\Dropbox\ICON13001_1.ico
+641cd7b0709cb34ae761f26bfe5b154b3f6a838d69ec26af289939b0d2b38763  ICO\Folder (Windows 11)\Dropbox\ICON13003_1.ico
+117a70d992ff3d40e581ea35dee34716bfd6e53016a160f49912922bcc702b18  ICO\Folder (Windows 11)\Dropbox\ICON13004_1.ico
+9fdacf9b9c0714d154a2a0fac675ab300490ceec23081066eab419e4045912fd  ICO\Folder (Windows 11)\Dropbox\ICON13005_1.ico
+39ed3d5b4986c329e377118e01752e544f6f581e23b14b9e05dce5a6eb86b786  ICO\Folder (Windows 11)\Dropbox\ICON13006_1.ico
+c0c854f5e42dc740714aaa726ec9c26329a10ff40dca563d9278d844ef7b9ccf  ICO\Folder (Windows 11)\Dropbox\ICON13007_1.ico
+85b06dbdd9c2197744924e1e90a13d0a6b0cbae4dc0bfdd5185ae35c507d4c03  ICO\Folder (Windows 11)\Dropbox\ICON13008_1.ico
+c885833050069ce3cd73e630bbb3e654d4bf2354945e834931f9ceb7a2f46401  ICO\Folder (Windows 11)\Dropbox\ICON13009_1.ico
+069d9ad4bc2cbb8456f69edb6a8a170445b26411b57cb00e50e0ca86ad24eadd  ICO\Folder (Windows 11)\Dropbox\ICON13010_1.ico
+4db580539cd3645bdd4468994d9139a193778f50c0ec5cd43f8e09a4925cfa4e  ICO\Folder (Windows 11)\Dropbox\ICON13012_1.ico
+833607f17a5b9a6eee88422b86be1a54fd82fd7d1b919bd516f7bb6939322e62  ICO\Folder (Windows 11)\Dropbox\ICON13014_1.ico
 34076c6a39496a4230f9a1d2df1015fb2dee18b282dd0c6c2dbd01e1a131fbec  ICO\Folder (Windows 11)\Extra Color Folder Icons\Blue\Blue Folder 3d Objects.ico
 86d449ff55dfe9841b523896cda0b651296af771d4835ed9dee064fa63db6cc9  ICO\Folder (Windows 11)\Extra Color Folder Icons\Blue\Blue Folder cloud.ico
 37497c6b609f07ec0b8a5d1769bb45faf19b5bf5c44354f7bc510662bcdd944b  ICO\Folder (Windows 11)\Extra Color Folder Icons\Blue\Blue Folder contacts.ico
@@ -8910,6 +9087,12 @@ bc3603f1b3c6e7396cd45d75c2f36b8b8674b30059bd8c8310862bf01284900d  ICO\Folder (Wi
 98b1775a87484a207ec90bcb612fa1d82a120b548f4b4773407d2299348324c8  ICO\Folder (Windows XP)\New Folder.ico
 2e835dd8aeca06c6542bb75422cb1c6d8e20ae9b3785c42187a201ed4a2e4dfc  ICO\Folder (Windows XP)\Pictures.ico
 3b470ab9d06542205c4a58549641d55d9ff8a4220a13f826044f826bec80e27b  ICO\Folder (Windows XP)\Videos.ico
+f1ebdab077cc429d497ae36cbceb984557190a8694d7eab8cf7f53f65ffbc301  ICO\Library (Windows 10)\Documents.ico
+f2185781f33b7c2a27fec279bbee8ebb3e72dba3c79ac27a7f06d594b1625688  ICO\Library (Windows 10)\File Pictures.ico
+a33db229b420533825df3bff2d6cb7bef731192c6220b8a1bc7bd23a5be42ac2  ICO\Library (Windows 10)\Music.ico
+2f1f78fa12207b39fa34efd1b9acc26451c5e7e4b3481d51d9a4b08823d333a1  ICO\Library (Windows 10)\Pictures.ico
+40b88ebeed99d920999fc4f9da7098d6fa6790cd131833f4986cbee63b403343  ICO\Library (Windows 10)\TV.ico
+6d267399c86cfec6edf2cc750e73c1bf0183292fa50fdb65f93c12d8cf7b4b33  ICO\Library (Windows 10)\Videos.ico
 612b54ea67760e5ee3a2192c3baf02a760d7dada9017a0e0ba7ea4ac8f571ef1  ICO\Library (Windows 11)\Documents.ico
 5dba51c0cca6cd57c71bdec08a0c3fd6b0b6d434bbea3a3ba6049c38963e3b19  ICO\Library (Windows 11)\File Folder.ico
 75b66e6e6de581a541830687e34cb65288f660b17d8cd6cc395e1205707675b8  ICO\Library (Windows 11)\Folder.ico
@@ -8917,6 +9100,16 @@ bc3603f1b3c6e7396cd45d75c2f36b8b8674b30059bd8c8310862bf01284900d  ICO\Folder (Wi
 10139553fa47a3fd5ddcb8bb4f0705fa74c033e12fa6dafd2d3608595be9d1f6  ICO\Library (Windows 11)\Pictures.ico
 7a995ef4b12145967f174aa4a3b4770cf00cb784bbbd0c7716a477c3ebee9940  ICO\Library (Windows 11)\TV.ico
 7287f09ac1f8852d64363f2f206a1c94b1ca5dd4c9dcfe90aad442cd46ade65a  ICO\Library (Windows 11)\Videos.ico
+aa71e34f4b5ff1896d16791c6e23e39686d7bbd7f937560ffcb667dd99dcbed8  ICO\Message (Windows 10)\Information.ico
+6eb44404be3891a650350ec788d309b625fc120cddf24593da1b9ce7d69826d7  ICO\Message (Windows 10)\Warning.ico
+21346659cfdd2f18bf48968f3ad1b20f9f7d2ae0caf949bb530db642dd044a27  ICO\Message (Windows 11)\Error.ico
+6338ed425956507787fff9f3589e1dcf8f44ddc7af14938ad7a8376cae11c6a7  ICO\Message (Windows 11)\Help.ico
+fac349112de7771466f4934d8e491a7bb5c79f2886ffdbae62b3ebbae1dd212b  ICO\Message (Windows 11)\Information.ico
+6b29d4c015c2fa58d86d337f748972288fd547af7abda54ffca02b742d26243f  ICO\Message (Windows 11)\Warning.ico
+dd858a273fb5b194775328fea06a51b8052ae42d3c46f126a03cfe077b14e20a  ICO\Message (Windows 11)\Shield\Shield Error.ico
+4fc9bfe66725b6e09245d9a6a1f1939b2396041556b2bec2ca4be8d34c66d2d5  ICO\Message (Windows 11)\Shield\Shield Help.ico
+585f4fe6199903e979287ce955d6a3f06e917c7c3ff65fc9cfac84ccc9d510d2  ICO\Message (Windows 11)\Shield\Shield Ready.ico
+5c84ac9ffe142b96dbf24e9922f3e538a1e80769bb2bb2822081194c3cea7399  ICO\Message (Windows 11)\Shield\Shield Warning.ico
 b8510580575fa809bafdb818812791c31d62e9dfe5b02463988f8f4891345245  ICO\Monitor (Windows 7)\Screen Saver.ico
 d8331d02e10fb438e5988cf2f53839d96fd399a10e49492c3ef7cbe3e3dbde09  ICO\Monitor (Windows 7)\Session Agent.ico
 02dd5f5f69c25b1d98df3eda405a656c45093cf9f24b9f5dd23d874f76d6ee79  ICO\Monitor (Windows 7)\Sleep.ico
@@ -8938,6 +9131,28 @@ ea0ffc1e64f0fffed97bc76eaf16f0d790fd38584a1e2f026b2f3fffcda07b53  ICO\Monitor (W
 00feb767f3bf78dd07a3c616852fe8f33f82234660c4bf42a423226df73a93fc  ICO\Monitor (Windows 11)\Monitor.ico
 37b59172a8973fd0dc78f9789f58bf950918de061f43b023182b1277550d6ef1  ICO\Monitor (Windows 11)\Music.ico
 d1f0d484dd4a76f87a26d5fa50f89d37375a069d04e200150164729880e814ad  ICO\Monitor (Windows 11)\Sleep.ico
+aac8e5a5a85f6e8986861cd3718e4034fb2437fd194181ca4ec4e34d56ab0561  ICO\Network (Windows 11)\Folder.ico
+26ae9010c47308a9e0fb52fbf604e9ef92345e40ae5ec308b13077f879e1e3ca  ICO\Network (Windows 11)\Home.ico
+2a2ba5f47d04880793ac6d416e1aaec5b5984d2ab45a948f7192284a7b9bf8e1  ICO\Network (Windows 11)\PCs.ico
+cc09fc0284397ecf6c8f935907c73935e3dc4680b033c540d58088741e51dc2d  ICO\Overlay (Windows 11)\ICON157_1 (2).ico
+3d4142072ad8154464b4123474a0603d44c6b443c5056e8d0eb8277831428d0a  ICO\Overlay (Windows 11)\ICON176_1 (2).ico
+968b2a951fdaaf444cf74698c4add9a109e9bf7414bc4220aceb14f6128c0042  ICO\Overlay (Windows 11)\imageres_97.ico
+d68bdefe585a58633cb5c75c6e044e99254986608ba1bc43821b2410826e55b9  ICO\Overlay (Windows 11)\imageres_163.ico
+9aff310e463d389997a2a9e082ce381200b25694b665b8c0ca49925114f6f0b8  ICO\Overlay (Windows 11)\imageres_164.ico
+5938efc73dba227acaa4c818055b9c60b50b4d65468e8c012d20cc6052591403  ICO\Overlay (Windows 11)\imageres_169.ico
+220428c491e6d5d9b6ed14bce24f2b2c0ff5dc66e0a45b7b876228090ffcce24  ICO\Overlay (Windows 11)\imageres_1041.ico
+46e7a3f5eff1721e82384699c26e4c58db74957d961a0467a493f62aca88db77  ICO\Overlay (Windows 11)\imageres_1042.ico
+6818de54d859145b7386e6c4e50e803097022cb6357b4a4b8801eaf754461823  ICO\Overlay (Windows 11)\shell32_232.ico
+8254764fc121b4a32b53c077907a08065fd50b0fc494e422dba5e7a15704f073  ICO\Overlay (Windows 11)\Dropbox\ICON10_1.ico
+a30a49cc77f73d884ec917a2e9d00be0fa05270f3acff42fcc4263dce8043e74  ICO\Overlay (Windows 11)\Dropbox\ICON20_1.ico
+b9559224c54e0a58ed756e9708e070868d740836a7f6980091e577acce2a759b  ICO\Overlay (Windows 11)\Dropbox\ICON30_1.ico
+0b60cdcf8dd59f025717972108305b8c18f8a3f483cb42b334105292004cdac0  ICO\Overlay (Windows 11)\Dropbox\ICON40_1.ico
+013d8c3f8677fb47263299ad08da14b4e392f1baf4da39c053ff95aa5f40b32e  ICO\Overlay (Windows 11)\Dropbox\ICON50_1.ico
+430fad22bf03323ad8bc19c1ed936c4460b084f2814abf9f03fbab3ee70e0a93  ICO\Overlay (Windows 11)\Dropbox\ICON60_1.ico
+b5cfdc4b81b1e4c86380f668d7809949ae0bfa5ad1dc1ea2050f87bab363a406  ICO\Overlay (Windows 11)\Dropbox\ICON70_1.ico
+6e4cc2af8e0a6e17b0897a9e3126704a0ce1c6966b3376455e76e163f1c565d9  ICO\Overlay (Windows 11)\Dropbox\ICON80_1.ico
+456e4fc3bff647a49833469d38ae475630e6ca77f14be648e89e6e0adc173eab  ICO\Overlay (Windows 11)\Dropbox\ICON90_1.ico
+b20ea6e489e248db6199b6860e184a7f55c973d68480c5a6acc9928f5cfc4036  ICO\Overlay (Windows 11)\Dropbox\ICON100_1.ico
 7fa159704a0e7e02316910fe51f777037a68234b803628e5b4a99b80b446580c  ICO\Printer (Windows 10)\Printer.ico
 3e1cf99398c87df81da3fcd5ae4f48ec050f592c8990b0f9a50db38df72b29e8  ICO\Printer (Windows 11)\FilePrinter.ico
 00b7e7d3b28798d54814cf725a2558d8c2568302950425adeec0fe18dd69fbcf  ICO\Printer (Windows 11)\ICON45_1 (2).ico
@@ -8997,24 +9212,275 @@ ee3e7c3fc91d053f4b856faf91e0275fd4678e9facd245e4f7fccb89205b05c7  ICO\zExtracted
 b246a2309b30a1ae15f73771075615cd2c9aa374ec058b3b41320bb58df4354d  ICO\zExtracted From EXE\OneDrive\OneDrive_588.ico
 1eacea3fdad58488fea904acc7afb0817399203f793e3483ebcd3a1041cbeb9c  ICO\zExtracted From EXE\OneDrive\OneDrive_589.ico
 73e82384ecdb35271b42763c33eef82347588e085f05fa005a8153813a086679  ICO\zExtracted From EXE\OneDrive\OneDrive_590.ico
+db912d162cf646ce665c2abc6c71be4e4bcda45386bceea81ea83b0983e642fd  PNG\media-player\FileType Media Player.png
+344c0cfad52549d1be87edaa998e27ceb9938fc0c021b7b25bc4110a2ecb265e  PNG\media-player\Media Player.png
+dcbc7ba63458fca5a63a3edb6873f7ef003a76cb0af63dca6c5ef72319d73685  PNG\media-player\Music Player.png
+eb271faed8463cb090fb60ccfc01fadbc4971a8e48f4bc954f3e02a7500046d5  PNG\media-player\StartApp.png
+55ff36c71ba6e94fd4005a4c46eba571b70baf2a5cd804977ba257ee121fe3ca  PNG\media-player\Video Player.png
+7ce9925e81914110b502eb1cd35a54a70eeff9cbf8fd6d91585ade5d076d0c9d  PNG\office-refresh-2025-png\Access.png
+6799a44e6b1b4b993d6a5c6da0d55cdb9cfbab3d8dd6a970db0b3e8dff1ca0c0  PNG\office-refresh-2025-png\Excel.png
+231f2abba254d13523cb41056a87d32b30595bc4911358b871fc18216f01c6eb  PNG\office-refresh-2025-png\OneDrive.png
+145bc88217a26111b2a612731f8e0cd30b6112b8dff99269fa928dc385e97220  PNG\office-refresh-2025-png\OneNote.png
+9d2fc77868e29babe57aa9bdbb4b333c0b53314443089abb6050031ae1fc29c6  PNG\office-refresh-2025-png\Outlook gold.png
+50b56165cb2fcd9d4bb6ab19b31f4985a9244474432186c39fdb0de226fc6d62  PNG\office-refresh-2025-png\Outlook.png
+93c3bd2ea5c1aa1a3090bcc0567e5e0358082b9e929f3f2e11c2005afb6e6ecc  PNG\office-refresh-2025-png\Powerpoint 2.png
+cef5f67d9ceeba4b400667581d54f4b2d469defb85cfd7ba15c58e2e13afc6c6  PNG\office-refresh-2025-png\Powerpoint.png
+a39b6a4f690cb65d19dbc39b79a76fc99260a3154e007a9dcd02e3fc858531cb  PNG\office-refresh-2025-png\Publisher 2.png
+52dd0394510c3ad126b01d53125fe71a349a35058e38cc43c349fb984b76ef81  PNG\office-refresh-2025-png\Publisher.png
+4816d7af12c0eb737036b864c65c1876509f0102877c57eeb2b531beace76626  PNG\office-refresh-2025-png\Sharepoint.png
+74981e2ddbbfa84d68b430942148b0e60869b88fa4dc27ff6b10934af3fc4b2d  PNG\office-refresh-2025-png\Teams.png
+47e2d20113309e6fb5cdc48cd0dcff562ec38c0012f23788c90212f5e70a8713  PNG\office-refresh-2025-png\Word.png
 179208e3381dc25b95490af825f5a073b86db9a09b12e7d7b63c256d0f795fcd  PSD\Archive Icon.psd
-356b6fa4af7fcbdb9c005002bf177baeae084ba02fc779ad7f4eb0ec5e47c554  PSD\Drive.psd
+223af1b3fa9f83bf848c21b093f833ac011c2423588b41fcde61cc4942d58687  PSD\Drive (Windows 10).psd
+cf31960319898d3e0a47eb0bafd11f718a98f6e6286b70cd44d44775776064a5  PSD\Drive (Windows 11).psd
 acdbceff06509ec4782707112186aad20da82f722a8a0769ce8a35d8773598c0  PSD\Preview Adobe.psd
 4aeefeb26fa2a937b20a699619d88421c16a5469669ce63e935b227f392f49c9  PSD\Preview Windows.psd
+7720d6c90af8364b7b4bb58cf18eebf49c49c9d5c47eb68ca26e0d087eb063f5  SVG\Amazon S3.svg
+8266ce03f045ede3703480ebbf515b4627d590cfb5e17677ed2b7d84629cbe84  SVG\Analyze.svg
+131c6d70bfbdcf3180aa135337947201af21c62aa10e97b60b06843855ebf124  SVG\Azure Blob Storage.svg
+93e9b0e9ce7f10349d795968aee91a7e887f028e1e21ca962a674104e959428f  SVG\Azure Data Lake Storage.svg
+7685f45d352cc6dfdf2a8b000ec81113308bd54371e563b6bff6ee38eb2b58a3  SVG\Azure Data Studio.svg
+c626579d59a8d79bc7ce2536998107ffd1284054632ecf4e5cf3f62eed0a6ceb  SVG\Azure DevOps.svg
+2b36c5cf61a3eea13310c59a1599a016babf1da9365156d8bee54775c80447f3  SVG\Azure Synapse.svg
+8836ee61ab4e86a8b3cad6c3be4afd341ffb38f051b48f99a29d6062b4724339  SVG\Bing.svg
 cbf90a599758ec0e7a136de6006bc0f86c48b704f51d6bb46248010a625cfd77  SVG\Copilot.svg
 f18e2ef3deeef59d6da98f5c3308850ce528867992dade9c1e44afb7c9d87874  SVG\CopilotPRE.svg
+329137b9402b125a0da495b46c94aa9320faf7f2677309a9f536bd7c36ed2abf  SVG\Data Activator.svg
+5dfdd38ef6fec5a4d00919f0fa17d9f81ae947fbe217c8b958e76cacfccda000  SVG\Data Engineering.svg
+babcba70cc501e8fb2e5b08aca09bc822ba817ca41e3d980d30c6556c1510661  SVG\Data Explorer.svg
+13b0454cda61144bdf73024eaa5f27281f4c8d4ab445f237d0d9c8a0d8909cc1  SVG\Data Integration.svg
+410a07ad569148dfe5a6a083c796fe261b2aa0f1b04257318c0e99dae5435d8e  SVG\Data Science.svg
+06e72b85448ffc05b12ea3cde37ed0dd6af97471b861e5532c4ddd6a99aba8b5  SVG\Data Warehousing.svg
+b56789284256b8d69a04bd51f094281da98e3420828a9821d65a260ee71b1ea8  SVG\Databases.svg
+179d49a7102732476c5cbeeb7fa77bfadf9999f662e7edc6dca3e8b72e612bab  SVG\Dataverse.svg
+b02eae91da88f4eac0718830e9cdb9507aa348d4d77473ed415c4efae1aad518  SVG\Fabric.svg
 233ce8caba2bec12afeb31bedb7df4243c1d4ad47e213f0407c1526aa0b3963d  SVG\FindMoreWidgets.svg
-628ce1b3f8e531d7269178ae71dac76f1980690af769b0299abd4c0f612ee832  SVG\generic-console.svg
 8f52ebd6442d1e8b5db80520179e7daf8196f654a4ae492ea117134a623721a5  SVG\generic-desktop.svg
 33c87cd9225673073a56d23648969993824120fffc6754681fc4530e509dae17  SVG\generic-laptop.svg
 3581ff562d780def108d73161c0d1fe195de278e7075c62039973e6f9cd232d5  SVG\generic-phone.svg
+0c74ba501c3d4dda514eb74f95f6717aa52462c4630e347694b4f5c08dcfdd94  SVG\Google Cloud Platform.svg
+4a2cf585e11ae40bfcef5c63be26822e330363188fad5d4eafedd1b6408d74a5  SVG\Graph.svg
+c248bb5e2f1348ac5a5e7cbd3e46ae84f4ff6c207a193b4acf63eaf24e3b6ba5  SVG\Industry Solutions.svg
 091cb1b03d9ce9216eaed38e09519e2680fbeb833001f18044aef78f36687493  SVG\m365.svg
+599867264c0f47ebd9553f35fc7043f97e02190d44ca63115cf17c85d434d2f9  SVG\Media Center.svg
+27b418784f4398f8a00b9ecc8c0e7a880d408d84a7a140ad525d562bb179b76c  SVG\Media Player.svg
+066824f9c8027a698f512df3f32a829bdd97e7cf2a58ca97045780fd5edcde6a  SVG\Microsoft Excel.svg
+c67620689e01e324c5f547f60f4146f71dc29347789b417a9406c8e6a62ebaed  SVG\Microsoft OneDrive.svg
+64b3bb3c2dce52484019a36c7ef18455f0feecad20d4648a6a948c58cea87bd9  SVG\Microsoft Supply Chain Center.svg
+e1c55b8c2bd0fb6ec47fe7a74d894c9c6457c521522c86ec32f0f86940ce3e18  SVG\Music Player.svg
 b966717599374bca9bd5d5954dfc927d2c24f6735805dcb9134a9e9de333259c  SVG\office.svg
 9b4d37833768b656a6df5ef4a9a4d1662b8bec006365c50ed40decb1831c4ae1  SVG\OneDrive.svg
+62af6c4c89d8e018c7b443766913fdb36c60e9a4986a68b9ff470f569ab7f687  SVG\OneDriveAppIconImage.svg
+f785299aea098cb7422815ac8177fd985d4b9f173293dc72fd270608215b45e1  SVG\OneLake.svg
+126a53938b42e3cbcc52e432ebab8bd1fe7194760069861120f45b84f81a48c7  SVG\Outlook.svg
 926dfad512cbaa303d18e1dc5b954f264400efe308c7e68f7acdbca723521308  SVG\Paint.svg
 ea0342b1cd14433b26ab9a36c64cba06dc256e4ed6847cb96d4e9f74878ebf63  SVG\PhoneLink.svg
 41297dea56150512ab58c2c07d8c03d2a5b145214720238c1c7ca11b7d28d65f  SVG\Photos.svg
+06534c026832d7b95571766758051d0ce69ac9079f0f916b49da3a7d51281c84  SVG\Power Automate.svg
+1c4ff690adf402eb312f9dd7aeed687425a35194268169f2573745f1ba227b08  SVG\Power BI.svg
 3a8a131ea79c126e6149c5a6dc40e971c8a5673e2128da2b9f02e607287f219c  SVG\security.svg
+a960f42c4f61aafba10e436d54d338ab2145d0839ea905dbf50a40a99068c69f  SVG\SharePoint.svg
+4bff412f3a05ef9c8d199b41a270fa361f0b45174a419bbde1114702e784b342  SVG\SQL Server Management Studio.svg
+e8199ae082d05fc0bffcc8f2f0269fefd11464e6d16e4f0b0c680d2a903082bd  SVG\SQL Server.svg
+cea7a51f721d8896dff45039521c2b22ebc1915ab5c0802dda986d3b4546ab55  SVG\SQL Virtual Machine.svg
+14130da027c1726567dbf841befbc7be47cdee8335e512be9223c79afa78a85b  SVG\StartAppIcon.svg
+ef870ef21ee247de2551ce8352f7a2e874f60b9458db6ed9ba6a45fc0576cf82  SVG\Storage.svg
+ab9423056b441f30021366e412b17ee3daf0198f35146636be3819dd5235c37d  SVG\Visual Studio Code.svg
+08c7b592e743ad805641d5612e030816d3b0e3e0e83e8245a7c2075cbe7b339b  SVG\VS.svg
 e96838ce1702a165e792017aa22177d3046c6a2e27feae959bc1ea5cfd763e44  SVG\WindowsBackupAppImage.svg
 065ec71f816fa0c8b984275a20eaec0c7c77400d9618819ccfb94b9b5a1901ee  SVG\WindowsMigrationAppImage.svg
 04b19593cf83c1ee28a882d800b491bde092a80ca841d1bbae651cb136981ec7  SVG\WindowsUpdate_Logo.svg
+82cc3b562b1ebb3f3f1a6399b94f86137d1195b9b01f3ea7aa2e795eda30fc8e  SVG\YouTube.svg
+30e867254a498eb70dbbb5390054e3646ad20cda2372c851f7b4a6ec013a7ad1  SVG\Adobe\Apps (beta)\Ae.svg
+1647178c72a9e4c2ddcf14415d1a0a584e78d3e3658606250b4f9ccded6614f7  SVG\Adobe\Apps (beta)\Ai.svg
+2842b18a40bb6a18effc9679f3a23b85238d006b1300db5428a0b02abe1f9dca  SVG\Adobe\Apps (beta)\Pr.svg
+5a76d5b939f521515a03f86f36ba017559de4f47b5730e39ca1d13b795bed2a8  SVG\Adobe\Apps (beta)\Ps.svg
+afc8ab5e00b54d9f511170dd6cc7fce08b2bd13d7f8642a3b9fc52752a2e8efa  SVG\Adobe\Apps (beta)\Xd.svg
+abf819c429c22bbf30877c86f1a7ab277937ad067fb7efae6764f64660e769ac  SVG\Adobe\Apps (mobile)\2d3579d684c33a158875a21f0dc49c07.svg
+ed07302de5dee1be9475df30fe7f9963ee9adc9d1a8a6dda2556bf11ebbcce30  SVG\Adobe\Apps (mobile)\3b995a0a5b0d3be9a213ab51088e0c6c.svg
+84625c31f39f711e3e7eb5cf54ad11a3ab56209d0892a3818771243711b8668f  SVG\Adobe\Apps (mobile)\9a5eeef8032cc8a1a6ac224447f58517.svg
+3a00c5603a51fa10eb997f75d77e8511f8ff8466fa24bd6fba0c4746679be0f2  SVG\Adobe\Apps (mobile)\17c9309fcb6597f775025276fbb6ada3.svg
+5a9bf7662e7a71cf3b4de66c1653251c2124cf18b492a50a3f9264e692e03bf3  SVG\Adobe\Apps (mobile)\78a828cd178388c75b74ad142ca9d1e1.svg
+ef4683e84230134d3cdb669560f2559768cb37546767557e57833155408554f8  SVG\Adobe\Apps (mobile)\78deee6a7dd15722b8ed787862d2a8d9.svg
+bd36ae9e8441d10cfe779643f1fd1610e331183fe1cca9610e28ed32e125b2dc  SVG\Adobe\Apps (mobile)\038138d00637849d42f5b4ce6fc33d92.svg
+e3272619ce5e61c18783823e8ce885f3a95d388f0fbc55fa72aa3a6c03bacf79  SVG\Adobe\Apps (mobile)\75288b85a437af6d09050518830f19fa.svg
+5e6e09ff0dd41b53aa0c92fcce3c513056fc996bd541a3c66d91dd48711d010b  SVG\Adobe\Apps (mobile)\a0f062f3f3a03f9a02f2b7e1c49b2f15.svg
+b2ecf0d5c12051092eb4b62dc56ad09596343d167d82a253a9f73d884810eec3  SVG\Adobe\Apps (mobile)\a5b2252b212be21501166db431d6219a.svg
+bb9409d1bc0b7e820e40bdf486ed02b9758bef46e9f3672232854b1368779c3f  SVG\Adobe\Apps (mobile)\a6f1ac1d47c6003412434b2e4974e801.svg
+7a22164a85327dfc1be46533126a0adec21f6f96387c6c3ff6b330001d279f62  SVG\Adobe\Apps (mobile)\bdf6dbf05f67e843363332f617e52d0a.svg
+f30febac7227f932711f2ff42ac72c7155d56777b80797b237c38e8aaf48df5e  SVG\Adobe\Apps (mobile)\d1c8b405c4c0a88ac89505ae0c90eedd.svg
+38745b2f7d8428a2746b8cb72c9edef9067b6e8780c202694c1055568819579f  SVG\Adobe\Apps (mobile)\d79d9154d32e13a7c16fba2a5671b84c.svg
+93d64dd0024ba36e410476de0b2b3905d875c24287d07ff4b6f8a91b2a3693a9  SVG\Adobe\Apps (mobile)\mobile_fillsign_logo.svg
+8d371c371ffa0e1e4e593acdb41ad260f9930ca8a601049d9cd1920eeebc3fd4  SVG\Adobe\Apps (mobile)\mobile_scan_logo.svg
+f30febac7227f932711f2ff42ac72c7155d56777b80797b237c38e8aaf48df5e  SVG\Adobe\Apps (mobile)\product-rune-SPKL (2).svg
+ea7b57b92fe944e7d61e631e96facb048954f35e04bc5109f1bbb96b0a6e7ca2  SVG\Adobe\Apps (old)\Acrobat.svg
+8866b188ae9c0307c9eb1a123c3c020aa81e8a1acc302a1668035c143981e922  SVG\Adobe\Apps (old)\Ae.svg
+9cf67294e30eb29ace47c613d05703d3f517ada3886fec716146a3601387e6d1  SVG\Adobe\Apps (old)\Ai.svg
+1c9978d1b41bcbf2a48eb7d9c12b0785d01d3cc76ffa61558e15f42281a587ff  SVG\Adobe\Apps (old)\Au.svg
+19a5eb08fe120389e32af92fd9804df4d12bbb60e1399fe4c133889299321981  SVG\Adobe\Apps (old)\Be.svg
+e983daaebbea31e1f4039fd751c38bec8b550352d3dfd978fd8f215b01a46690  SVG\Adobe\Apps (old)\Br.svg
+3048f18c60c5494e266d30505b662036457fc72c4ebcf5c8f7ae3928c2d4bbfb  SVG\Adobe\Apps (old)\Ch.svg
+56180d25ff36fa1bb6bac07093c92cbf5963c99f25051db83c3dd9656479f058  SVG\Adobe\Apps (old)\Dw.svg
+0eda7561dd85335f1dc50df533402e30513b2943694fece5c4fc11a0013de67b  SVG\Adobe\Apps (old)\Fs.svg
+f6289d1fd5476b5b26c5b8c1d4ccc3d599f140abdbf8be4a9339037a2196cb8f  SVG\Adobe\Apps (old)\Ic.svg
+d6af38b9320cfb7e559d70df4588fa3f21275737e199fc27cdd667d884981463  SVG\Adobe\Apps (old)\Id.svg
+0ac20d9b1912edcb7b698aaba9e4c039974d28c324e45058b4d3a76b16cb27fc  SVG\Adobe\Apps (old)\Lr.svg
+e482ab5e0fbe50a7667574e0657515f6fabc87c81511da28ee866907264f9c10  SVG\Adobe\Apps (old)\Mu.svg
+023e70cb6bf298e6d6e3629c682e55544f6f4fd87ddf1254aea3513ac9a9f6a7  SVG\Adobe\Apps (old)\Pf.svg
+b3a39eb3af3bb5b0d4a913d45bd39a658cfa80c016d57feca784e5612f21a5d4  SVG\Adobe\Apps (old)\Pl.svg
+3e36270408a0ddc1738702893fc0023c6357218a29e32177bf7a166b6858d99c  SVG\Adobe\Apps (old)\Pr.svg
+1879cb160636613128db89e48497bc2b21ea3800c0ed267ffcd2159124a65903  SVG\Adobe\Apps (old)\Ps.svg
+4e3f5bfa91d13932d2233108f0ef6d8eacfe95e4083853c063a2541a3f80038a  SVG\Adobe\Apps (old)\St.svg
+769db0eb07f215287f3360819e35749e2aa828d3cdd8c55d360710dbfe135ec2  SVG\Adobe\Apps (old)\zMedia Encoder.svg
+27236f69e61305192710c4b70cc7ba9beb05ce13b6262c3d5b539eb98d574775  SVG\Adobe\Apps\Ae.svg
+c70ba7470b273ddd0eb66967e2b834318895adb68349aa7c63f08b0d695d948d  SVG\Adobe\Apps\Ai.svg
+922b70e3ba9eaeb5c0276d97d2065f29556e4e2dbc593b39e8557cbe4e9820a6  SVG\Adobe\Apps\Id.svg
+70ed0909ce7d6a9c99e272604c6bb4e0f865e4ee4ac2ab6029e8615f50a611fd  SVG\Adobe\Apps\Lr.svg
+b2d702dcfd91013cce2d3314dda4ecb30fb28a3ce8172b5cc8c4de0455633f48  SVG\Adobe\Apps\Pr.svg
+be8c0c0b0b7f47be90fd57772ef867be0755fca12645286b6329e07ed223be6b  SVG\Adobe\Apps\Ps.svg
+36c68a210f6a7476c5a8eee38df2aae48dd036a967288f4b487a97475a56e651  SVG\Adobe\Apps\St.svg
+acca4a949c0d201c151d269956c946d68eaa6a5ab85bc677d4232b2338b6c717  SVG\Adobe\Apps\Xd.svg
+04bde2ccb60fcc217319619b40782cd4ddeb305ce93ba1bbdb5e779c9ba9ff89  SVG\Adobe\FileType\0b43631fb26c255ae5cfa257c18a5329.svg
+a94cf2433745559930ce959db8b0f3b70797f427affb68052af0e58a522a7d26  SVG\Adobe\FileType\5b38bb92f570fd688d87e0918ca16167.svg
+9c6fba8df06f2624f115fa5f773c2803e2a7d663ed09bf200a9396a27d3b7e1d  SVG\Adobe\FileType\5c6b25e2307304f13b11f49d0219fb85.svg
+9a82e6507597e95851629b1b89d30e7c58f918b3be8adaafb41079efcc997a62  SVG\Adobe\FileType\5fedb62bb40d81fd969d4968f01280e0.svg
+37d6e05effd1886bd939679a867356b34697d0e54daf7a9aacdc8c48efbc6ca0  SVG\Adobe\FileType\28f8003f2bafefa04d7d8ecbef50614e.svg
+1976508184966c6728b138961b65ed743d0ae9b761eda2d4eb9be004e930dbc8  SVG\Adobe\FileType\66a625694d47167a8449e85bfc59dcd3.svg
+596fd15810712c5598b959422c2b74b0c5cf2e787b88a48b449b6cfb2a4dbef9  SVG\Adobe\FileType\88b7e0fc3eb82e91aa32b4debcae65af.svg
+894cfe1ed32a992ccdbadcb8e9f07e2206226439fac84bf26c4ed69b5414fea8  SVG\Adobe\FileType\669e0b7707163a226707b7d689ae22be.svg
+6b34bcd608b3c5a912fb05d809cffd9ef12343b9af0cc8a7f7c3a705a57fc478  SVG\Adobe\FileType\1099cfd379466192ea0b9aeb12edfaff.svg
+21531461d14bf120d84ad9d4732801150bacc9db7fbe285b3a034d698cf7128c  SVG\Adobe\FileType\1422bb8d652aca1f7638591b8eea4a13.svg
+91f6473f614d52d34639dbb943952a5136a58d292d8f718f8027a928356b776e  SVG\Adobe\FileType\6760e33eb5bb1cc42c3e97bbe2a87d8e.svg
+8e5845a63a5945ff9ed5399d41b0b65fae25c0489f43d41bf2fd08071d1ecd30  SVG\Adobe\FileType\8517212a29146237ae202f00e4eb07a0.svg
+d1941193a7dcce6b0f95d22868100b2c43768ff9e0ed0a1c6495d8eb9a1a69ce  SVG\Adobe\FileType\a8f4bdb16a1efa6fea9f5a67322e3135.svg
+11fe6438cc4115c2965acc68bea2974cd95f5395b4b0706d03e883b2a5b65490  SVG\Adobe\FileType\acrobat_pdf (2).svg
+69d309525083aa092aabdde1fa2a216d6399afe89d016ba0dfec584c9ffc5139  SVG\Adobe\FileType\acrobat_pdf.svg
+6284e7706fb5d1fc5d7bacd32795fa2e610608f34afc3a4611222750b880253d  SVG\Adobe\FileType\af7b8e236015261895c3a5e67beee4ad.svg
+674cc84b7eaa90a939bdabfa9ef554bbafde0b15ccc37b2b7efdbf2c66813ec2  SVG\Adobe\FileType\b0aed12ccf5e5813d4b91ceb7488338c.svg
+4e49fe9a6172c5d3b5c0173100ecfb6b3510ad4d04f333eb2e67bbd8cbca43c7  SVG\Adobe\FileType\c0ddeaf3c174332a9dc2e5e42b078190.svg
+9445ec7ef2dc02aba801d41a78c665d93cf2ba5d54c6547bf15a23f358ba9ff9  SVG\Adobe\FileType\c1f849a9a963e09ac4ada27f8dbcc1b6.svg
+03c58f4fc985679b21bcf359c49f5ff22bda82757c717ffb34ef8f086176ea93  SVG\Adobe\FileType\cbf04ef7682163ccde5f85b04924a045.svg
+2da94fbda65b31222c58ab73d09f6db631efc81288f6dc2a71ef5dcfa6c42667  SVG\Adobe\FileType\d25776f2bcd1348e083926c77080780a.svg
+8e9b825cb14006bf45a1952be089824a93eb86c18af0ac67ca70c5ea70aaf3c8  SVG\Adobe\FileType\s_agreement_filetype (2).svg
+bc0faa790c55179fa7055164cb9b8e685cca3b39e4b5fad92bc1e7f111b738e0  SVG\Adobe\FileType\s_agreement_filetype.svg
+2da94fbda65b31222c58ab73d09f6db631efc81288f6dc2a71ef5dcfa6c42667  SVG\Adobe\FileType\s_filetype_psd (2).svg
+2da94fbda65b31222c58ab73d09f6db631efc81288f6dc2a71ef5dcfa6c42667  SVG\Adobe\FileType\s_filetype_psd.svg
+1f779d578d15f1d84cbb4871cebcd2a80f7272f01604f45f7f5505b5e85ff4f3  SVG\Adobe\FileType\s_filetype_xd (2).svg
+1f779d578d15f1d84cbb4871cebcd2a80f7272f01604f45f7f5505b5e85ff4f3  SVG\Adobe\FileType\s_filetype_xd.svg
+9c6fba8df06f2624f115fa5f773c2803e2a7d663ed09bf200a9396a27d3b7e1d  SVG\Adobe\FileType\s_shared_single_filetype (2).svg
+b0358d993fe6873153e983b78c482a071b788f4106bc633b41c2004d3989116f  SVG\Adobe\FileType\s_shared_single_filetype.svg
+e8077227ca537ec41b6ce8ac2c74abb63301e28f085ac3ad4e67484fe77e8aa0  SVG\Adobe\FileType2\aac_filetype_64 (2).svg
+e8077227ca537ec41b6ce8ac2c74abb63301e28f085ac3ad4e67484fe77e8aa0  SVG\Adobe\FileType2\aac_filetype_64.svg
+6306e6a6145dca8491ba5df40254b0d13c084bd705d6fbe461808b8403ec8bfa  SVG\Adobe\FileType2\aac_filetype_256 (2).svg
+6306e6a6145dca8491ba5df40254b0d13c084bd705d6fbe461808b8403ec8bfa  SVG\Adobe\FileType2\aac_filetype_256.svg
+aee8158ea362c18255c7141ac927dd59e5a7134a1c346ee228fd312e7ffda5c2  SVG\Adobe\FileType2\acrobat_docx_icon (2).svg
+d90ac2430c17dbc9b542e6687856ff6b312b9f6d517a65e08babef07385f2307  SVG\Adobe\FileType2\acrobat_docx_icon.svg
+66a1e5e9efee120c7352a9c0c9f40536916c756d41749c2d9ce70ebae18aa2bf  SVG\Adobe\FileType2\acrobat_html_icon (2).svg
+5d7eb9a1a026262925007f97d55948efcdcd3ae930377df4f066dcbbb06d6b90  SVG\Adobe\FileType2\acrobat_html_icon.svg
+6710e76f59cef52b4506e1dcd0db54014baca25dad07a9bb6e371a61d0358620  SVG\Adobe\FileType2\acrobat_image_icon (2).svg
+77bc027009dfd84c64f3f285e219a8a7ebee66bbcee617e62c64a2bc3d9ddc14  SVG\Adobe\FileType2\acrobat_image_icon.svg
+2862bf46c60e0313accfd46a27ebc9b2eec0a972f62bfab668422e6f0b80236e  SVG\Adobe\FileType2\acrobat_pdf (3).svg
+8be29d917ba893d8840635d23270e4d12a0c93f8054e459613491cdbec4dcfc7  SVG\Adobe\FileType2\acrobat_pdf (4).svg
+3f9f94639e2d428cce3ff6d09225957d20e031f4041f1a7b4a1db3d577fda6cd  SVG\Adobe\FileType2\acrobat_ppt_icon (2).svg
+75422b4f4073f092fee083580e3c51ae77d580232c1fa3dfaf7694ff621221b0  SVG\Adobe\FileType2\acrobat_ppt_icon.svg
+aee8158ea362c18255c7141ac927dd59e5a7134a1c346ee228fd312e7ffda5c2  SVG\Adobe\FileType2\acrobat_text_icon (2).svg
+d90ac2430c17dbc9b542e6687856ff6b312b9f6d517a65e08babef07385f2307  SVG\Adobe\FileType2\acrobat_text_icon.svg
+a73edd0ddeecc04e9cb0f3b2bf6c536d6127cea4c426f302f9b0ec0a2b8ce80a  SVG\Adobe\FileType2\acrobat_xls_icon (2).svg
+f45eb583eba6ab3c4e94840110e5e9dd778297ae2ce7e050bae1a78816f05131  SVG\Adobe\FileType2\acrobat_xls_icon.svg
+8db73f9eb5488be4e9fa44a0d01ae31db3b2bce75af7a218b8a6a8459c01ea28  SVG\Adobe\FileType2\aif_filetype_64 (2).svg
+8db73f9eb5488be4e9fa44a0d01ae31db3b2bce75af7a218b8a6a8459c01ea28  SVG\Adobe\FileType2\aif_filetype_64.svg
+65367c6f67a26e4fc09c14640f460a285f3f2914a977db1c897fab9ea97d01d1  SVG\Adobe\FileType2\aif_filetype_256 (2).svg
+65367c6f67a26e4fc09c14640f460a285f3f2914a977db1c897fab9ea97d01d1  SVG\Adobe\FileType2\aif_filetype_256.svg
+7bde9507188e09fb411f08d9651e722f42eb594479098c94451d1cbb7a0a3c2f  SVG\Adobe\FileType2\aiff_filetype_64 (2).svg
+7bde9507188e09fb411f08d9651e722f42eb594479098c94451d1cbb7a0a3c2f  SVG\Adobe\FileType2\aiff_filetype_64.svg
+347ccdc091be28859864448888a39fada37945b30d3eae30d464af95f42f4f16  SVG\Adobe\FileType2\aiff_filetype_256 (2).svg
+347ccdc091be28859864448888a39fada37945b30d3eae30d464af95f42f4f16  SVG\Adobe\FileType2\aiff_filetype_256.svg
+547a9fdd87d4af93995992c2e3c282205a3e12bd6ffa4de7a39c934928e7941a  SVG\Adobe\FileType2\dn_filetype_1024 (2).svg
+547a9fdd87d4af93995992c2e3c282205a3e12bd6ffa4de7a39c934928e7941a  SVG\Adobe\FileType2\dn_filetype_1024.svg
+3ed90ef3686371903b9d4cf3c7ab65b8ac1ac0a15b2645a0c66c797f623a1546  SVG\Adobe\FileType2\exr_filetype_1024 (2).svg
+3ed90ef3686371903b9d4cf3c7ab65b8ac1ac0a15b2645a0c66c797f623a1546  SVG\Adobe\FileType2\exr_filetype_1024.svg
+d4149a7ad9671e9c70c2e32bb919db9038271b9401cffdc90e2d8d1222d7e1c0  SVG\Adobe\FileType2\fbx_filetype_1024 (2).svg
+d4149a7ad9671e9c70c2e32bb919db9038271b9401cffdc90e2d8d1222d7e1c0  SVG\Adobe\FileType2\fbx_filetype_1024.svg
+a3a78a5533689d43987ab08a08bf48041de8622e055015772bbf126ec0a28257  SVG\Adobe\FileType2\glb_filetype_1024 (2).svg
+a3a78a5533689d43987ab08a08bf48041de8622e055015772bbf126ec0a28257  SVG\Adobe\FileType2\glb_filetype_1024.svg
+6be598ae53af45d6e78520853a106e045fbe366c993e13b4c2db88a3a95b331d  SVG\Adobe\FileType2\gltf_filetype_1024 (2).svg
+6be598ae53af45d6e78520853a106e045fbe366c993e13b4c2db88a3a95b331d  SVG\Adobe\FileType2\gltf_filetype_1024.svg
+3370eda21bac344e7958f1a85810b40d116c19abbd1482f8a17c079e9bc74a3c  SVG\Adobe\FileType2\hdr_filetype_1024 (2).svg
+3370eda21bac344e7958f1a85810b40d116c19abbd1482f8a17c079e9bc74a3c  SVG\Adobe\FileType2\hdr_filetype_1024.svg
+296e150d0dbadf0e2171926960b6e31652646b5d7901302fe5c8e0319906bf18  SVG\Adobe\FileType2\ibl_filetype_1024 (2).svg
+296e150d0dbadf0e2171926960b6e31652646b5d7901302fe5c8e0319906bf18  SVG\Adobe\FileType2\ibl_filetype_1024.svg
+80f256aa4d9aff306ea40b7d83f70846d4ceafef2537893cb8e47122545e6596  SVG\Adobe\FileType2\m4a_filetype_64 (2).svg
+80f256aa4d9aff306ea40b7d83f70846d4ceafef2537893cb8e47122545e6596  SVG\Adobe\FileType2\m4a_filetype_64.svg
+6be2b28b0428db0058f825303fc26e03bf9192a53da2d3f357997b4f67f9743e  SVG\Adobe\FileType2\m4a_filetype_256 (2).svg
+6be2b28b0428db0058f825303fc26e03bf9192a53da2d3f357997b4f67f9743e  SVG\Adobe\FileType2\m4a_filetype_256.svg
+241e2aef7b2f62b9e781448dc2e2d954c38d8d4825c60b88073f4a946a9b49d4  SVG\Adobe\FileType2\mdl_filetype_1024 (2).svg
+241e2aef7b2f62b9e781448dc2e2d954c38d8d4825c60b88073f4a946a9b49d4  SVG\Adobe\FileType2\mdl_filetype_1024.svg
+0b626a52fd99b4c61e3f613f8165ba9c029ce5fdf5713c82c2aade386efa6a82  SVG\Adobe\FileType2\mp2_filetype_64 (2).svg
+0b626a52fd99b4c61e3f613f8165ba9c029ce5fdf5713c82c2aade386efa6a82  SVG\Adobe\FileType2\mp2_filetype_64.svg
+0b44ab6812d612edd649e0f9087a55035e676ed7946b91ab457caab0916d5d6a  SVG\Adobe\FileType2\mp2_filetype_256 (2).svg
+0b44ab6812d612edd649e0f9087a55035e676ed7946b91ab457caab0916d5d6a  SVG\Adobe\FileType2\mp2_filetype_256.svg
+13ed1a4e8aaf513f4571d4ee1c015c5b8341c7623be4eb21e5446870084eaf50  SVG\Adobe\FileType2\mp3_filetype_64 (2).svg
+13ed1a4e8aaf513f4571d4ee1c015c5b8341c7623be4eb21e5446870084eaf50  SVG\Adobe\FileType2\mp3_filetype_64.svg
+3188f6e1f3770351288d37cc60f492f0038ead166c87773d16c9ca6573f62246  SVG\Adobe\FileType2\mp3_filetype_256 (2).svg
+3188f6e1f3770351288d37cc60f492f0038ead166c87773d16c9ca6573f62246  SVG\Adobe\FileType2\mp3_filetype_256.svg
+c49eea67f4db41105327f6b0fbb99a4624376eeb928cc6a70bd99adb9ae9d8d4  SVG\Adobe\FileType2\obj_filetype_1024 (2).svg
+c49eea67f4db41105327f6b0fbb99a4624376eeb928cc6a70bd99adb9ae9d8d4  SVG\Adobe\FileType2\obj_filetype_1024.svg
+e36b1d8369514dd9175da1222648d255a08c3b5ba632d12d47067d1e8465373b  SVG\Adobe\FileType2\s_agreement_filetype (3).svg
+06e71a722a4c5078055728440192389ef3014c93763f35884ed8a985aa796a42  SVG\Adobe\FileType2\s_agreement_filetype (4).svg
+befbb2f2c2a0f6c24a8c8fc78e160d72000ccd9a36a1a04810802fac33626214  SVG\Adobe\FileType2\s_filetype_vtt (2).svg
+fc7c2507f9367b1a857eca41b9336f8197034bd4dbd8803c7b6b5ea572c5b094  SVG\Adobe\FileType2\s_filetype_vtt.svg
+fcd34fac9bb534a717f5b599252d5d0ec8b10a6e14a5dfd82a2e3e5fb3fa0797  SVG\Adobe\FileType2\s_nothumbnail_34 (2).svg
+fcd34fac9bb534a717f5b599252d5d0ec8b10a6e14a5dfd82a2e3e5fb3fa0797  SVG\Adobe\FileType2\s_nothumbnail_34.svg
+13021d91bb6fbb0f5f5d9b428eacb3472f30fe8bf2dc8635929d8f15f443ade7  SVG\Adobe\FileType2\sbsar_filetype_1024 (2).svg
+13021d91bb6fbb0f5f5d9b428eacb3472f30fe8bf2dc8635929d8f15f443ade7  SVG\Adobe\FileType2\sbsar_filetype_1024.svg
+7e8de0b09f895510bc74680c3b5c1934d221b074e12f1a21d79b6650a13e9ccb  SVG\Adobe\FileType2\usdz_filetype_1024 (2).svg
+7e8de0b09f895510bc74680c3b5c1934d221b074e12f1a21d79b6650a13e9ccb  SVG\Adobe\FileType2\usdz_filetype_1024.svg
+316be1d086a4499218a90355292ae9868e2e209980e1c37204b35679146d4459  SVG\Adobe\FileType2\wav_filetype_64 (2).svg
+316be1d086a4499218a90355292ae9868e2e209980e1c37204b35679146d4459  SVG\Adobe\FileType2\wav_filetype_64.svg
+bf8cd82cb263987ba8edd9243d822f278759a9cd299bad2ad0ef49bde68bf283  SVG\Adobe\FileType2\wav_filetype_256 (2).svg
+bf8cd82cb263987ba8edd9243d822f278759a9cd299bad2ad0ef49bde68bf283  SVG\Adobe\FileType2\wav_filetype_256.svg
+4c83852928ec487314a3104dd234465c8debd7aad42340681dfb0dce98ca2d13  SVG\Adobe\Other\3ae7789e164a8504727090400f750740.svg
+0fdc6f6dadd9ec7cb7a063767f31db8ffd4f699412080e9254c014b82a086caf  SVG\Adobe\Other\3ea4d7173b66bf77a7f05a18da5406ee.svg
+0de3681bd8049863ba6f8232eb4d99464fa1ffc2b915296a5b25cb4dd9ef2045  SVG\Adobe\Other\6aa89886540c19a385c2cfd62da78375.svg
+38c9debed9a42d71f12cd14e5cbfafc1b9b18f61b3900ca3d37d0afcaeebf786  SVG\Adobe\Other\9a774f62c22f558d0208b2b833fa8363.svg
+2578a1a8a70d0e4520e37cf41632bd9534a4797842cb40a28392e8d4f4ee4c05  SVG\Adobe\Other\85a335d1458d429ac34a8f70b865a40c.svg
+8cd8e226968450356c5f80c1d7cf65c494c32306814d07f4d09bf1cd7832345d  SVG\Adobe\Other\610f3632ea8589f1329deb0d51f05a16.svg
+bdad56be57b50822cf8d8896bf310729b2dde9d15b5ef2181c7181fb7463fa31  SVG\Adobe\Other\829df95a1c235ace1673ee85b44ef657.svg
+81cb811e6578dc775c21dfff9757a7772e1a017827566376687c004b7563fcfe  SVG\Adobe\Other\1979b4fbf2e18e894338bfcb88dfea70.svg
+af8ea202492048ab9e4679a743c20b96680eeb77324c3764f732fa4eb8a3604d  SVG\Adobe\Other\a13d91b2d80e35879b2358e7b86568c6.svg
+0f52ba6683ab6f68221b71a9e1714dfe398c0fbb5db6f19c95e0889568886076  SVG\Adobe\Other\aa3e71872acb122921cc2da178034059.svg
+23046db636962a1bab85117c6a7094d20191cf022623895115bb8ce15b24c123  SVG\Adobe\Other\b2bb993459ee658ef194ce04b6076c26.svg
+6845a3c133b886c1d4789f16e33b99604b2f9ca7b267bfe52722a84480ee1536  SVG\Adobe\Other\virgo_mycomputer_folder_icon.svg
+2bb914a709123af805f9eb003a10bfa83ee500531d7b6a403ecdadb3cd1be216  SVG\Banners\Data Activator.svg
+94b7d517c4977b427d33ddbcc8a4338586d18fbfb3c818b6854f73272b301321  SVG\Banners\Data Engineering.svg
+54dddee8f8246dc588d7abcfe771f3417b09aac32e0c99d2697b8fb1286ec670  SVG\Banners\Data Factory.svg
+51089ee656b4be10be78d0cdf5c032ac8fe62ec0976a2cb9e186a5c5c04db1a1  SVG\Banners\Data Science.svg
+982eba04006a989f5d4acf29a766ab293f75442877f67fbc49bd74ffaabd2026  SVG\Banners\Data Warehousing.svg
+bbcdfbb8db2f933ca34f028d23dba952531ec7f9646547c8c718a2f1c47e3c1f  SVG\Banners\Databases.svg
+66d6c3159c74cedb43966eb598994dce9049a1d44d1d43d739ad7f1ea8d906b8  SVG\Banners\Default.svg
+fbb2655cb16bababcad53f2b76125b37731086d8c5a28e01dbda2e162d4023e0  SVG\Banners\Industry Solutions.svg
+469f85b9fecd41b74f392eb33315d877fee83540ba3a7265fbf0590551bc2f29  SVG\Banners\Power BI.svg
+ce63e5876600ad66dc88f72310be245037428145421c1ccdd5d2d6fcf28117de  SVG\Banners\Project Alpine Lakes.svg
+778e962e8696aff2137fad020e507183a54e6f57e7e75a03af1e64095bdf3e79  SVG\Banners\Real Time Analysis.svg
+be7ab4cc116048fd9d0b6f5c288cc8ff3524df7ff9557b2b638b2a0d7b8682f0  SVG\Circle\Add Circle.svg
+6470d4942ca7d6fe8437d7070394c8646fa2978a99c0ac64cc9316796f0068df  SVG\Circle\Arrow Circle Sync.svg
+70ee330e00f1e54c24825f0a02903c131107561ceb2607e253dc0dadfa32e972  SVG\Circle\Arrow Circle Trending.svg
+f27cd14713d247557e62a33ea87ef49eeab30a2461fd70da8ae3af22a4725793  SVG\Circle\Arrow Circle Up.svg
+c99a8c344de32bdb2e889ca69b78c53dc75d07f5de1cc5e27775329e7a755a43  SVG\Circle\Checkmark Circle.svg
+b76ba3333421de377934ef1287ae2695f6f2c1d9fc1fe45065f4a35663c723bb  SVG\Circle\Lock Circle.svg
+6b0f5640444c475443fa15601aa521acbe04312e181efe24f4002c3d9f44f13c  SVG\Circle\Subtract Circle.svg
+3b136779d074e51b044747d73d1bb2aeed9514e1c83d36eb4a821103c28eb510  SVG\FileType\powerbi_file_20_regular.svg
+47c7bb0d329d02694aa3020fc093d965fea500b26029f0fb550d72dd0c0fb913  SVG\FileType\powerbi_file_32_regular.svg
+e5e445e03ad912f81909267e60fd5f534e69a13ec9df7250741c5280e39fb48a  SVG\FileType\powerbi_file_64_regular.svg
+628ce1b3f8e531d7269178ae71dac76f1980690af769b0299abd4c0f612ee832  SVG\Game\ConsoleWithGamepad.svg
+da03427fc2ef2ce31937f48940b56bd2549885f472d2959e7c453dccd8498d5c  SVG\Game\Gamepad.svg
+281fe3012704129610f8551ca2c0093a14d03a47cd346491fcd1f4b2e9506c39  SVG\Office\excel.svg
+f84df17210273087882be80c2eea9bd6d0947f186b2d5816bb8a8d71037af768  SVG\Office\Microsoft Teams.svg
+b74c963f8f784b2234259cd5b43cdd9afc770035856f79290264def79ab3001e  SVG\Office\onedrive.svg
+c4e1e5bde54575b61a6964a4dd1a6da1869e637938ffef7767661fd6260a487f  SVG\Office\onenote.svg
+489684b62902b2c03670c30c758904d6850563d51fb4eb16277136596e99390b  SVG\Office\outlook.svg
+7c5a33802eb473d82ba9b9b1ce05e828adb6b7a849c37f1910ad96e1d0c1754c  SVG\Office\powerpoint.svg
+75fe0c4348ddf530a2f1d3b914b78e761acd74a414d4d4097146737b3b7d1192  SVG\Office\sharepoint.svg
+442fec73c6c4bc63c475a756ad0c2fc6af3f892215820f056195c7c99d66e15b  SVG\Office\teams.svg
+716b4aaf5dc787be5e7d32a530dbb1d1e2de6ed6766ff6d685d8e0dbc7226739  SVG\Office\word.svg
+18d0583eae8328ac3e78a0e9f6a62d7d1072bc553edebca20a2f13a54bf73bae  SVG\Office\yammer.svg
