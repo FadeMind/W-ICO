@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="comp_x5F_app_x5F_RBG.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 240 234" style="enable-background:new 0 0 240 234;" xml:space="preserve">
+<g>
+	<radialGradient id="SVGID_1_" cx="3969.2114" cy="3952.7866" r="143.432" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#1D0F0B;stop-opacity:0.85"/>
+		<stop  offset="0.7669" style="stop-color:#1D0F0B"/>
+	</radialGradient>
+	
+		<rect x="3881.501" y="3881.5" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" width="220.001" height="213.999"/>
+</g>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#12004D;" d="M41.894,7.454c-28.131,0-34.623,16.745-34.623,44.896
+	l0.113,136.637c0,28.162,8.779,37.56,36.9,37.56h150.764c28.121,0,37.57-9.398,37.57-37.549V47.177
+	c0-28.152-10.5-39.724-38.621-39.724H41.894z"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#A78AFF;" d="M0,43.05v148.17C0,214.85,18.21,234,41.88,234h155.26
+	c23.67,0,42.86-19.15,42.86-42.78V42.78C240,19.15,220.81,0,197.14,0H41.88C18.21,0,0,19.15,0,42.78V43.05z M194.04,10.134
+	c19.115-0.03,35.85,15.687,35.85,34.772v142.303c0,19.054-15.475,36.657-34.57,36.657H44.68c-19.095,0-34.57-16.232-34.57-35.286
+	L10.09,46.922c0-19.034,15.465-36.758,34.53-36.788H194.04z"/>
+<path style="fill:#D7CAFF;" d="M117.529,114.636l-60.822,35.865l5.291,3.132l60.671-36.086L117.529,114.636z M134.996,121.748
+	l-63.289,37.719l5,2.952l63.269-37.719L134.996,121.748z M149.162,130.091l-63.299,37.749l5.01,2.881l63.259-37.749L149.162,130.091
+	z M163.629,138.544l-62.245,38.361l4.729,2.781l62.255-38.391L163.629,138.544z M178.537,147.228l-62.004,38.662l5.022,3.138
+	l62.092-38.809L178.537,147.228z"/>
+<polygon style="fill:#A78AFF;" points="87.541,100.345 56.721,117.985 120.442,154.515 183.721,117.985 153.331,100.585 
+	120.221,119.385 "/>
+<path style="fill:#D7CAFF;" d="M120.331,45.24l-64.13,38.104l64.177,36.619l63.463-36.619L120.331,45.24z M122.721,51.339
+	l50.012,30.006h-50.012V51.339z M118.721,81.345H67.397l51.323-30.495V81.345z M118.721,85.345v29.069L67.777,85.345H118.721z
+	 M122.721,85.345h49.651l-49.651,28.649V85.345z"/>
+</svg>
