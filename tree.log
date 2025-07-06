@@ -9758,7 +9758,6 @@
     |   |       d79d9154d32e13a7c16fba2a5671b84c.svg
     |   |       mobile_fillsign_logo.svg
     |   |       mobile_scan_logo.svg
-    |   |       product-rune-SPKL (2).svg
     |   |       
     |   +---Apps (old)
     |   |       Acrobat.svg
@@ -9781,122 +9780,88 @@
     |   |       St.svg
     |   |       zMedia Encoder.svg
     |   |       
-    |   +---FileType
-    |   |       0b43631fb26c255ae5cfa257c18a5329.svg
-    |   |       1099cfd379466192ea0b9aeb12edfaff.svg
-    |   |       1422bb8d652aca1f7638591b8eea4a13.svg
-    |   |       28f8003f2bafefa04d7d8ecbef50614e.svg
-    |   |       5b38bb92f570fd688d87e0918ca16167.svg
-    |   |       5c6b25e2307304f13b11f49d0219fb85.svg
-    |   |       5fedb62bb40d81fd969d4968f01280e0.svg
-    |   |       669e0b7707163a226707b7d689ae22be.svg
-    |   |       66a625694d47167a8449e85bfc59dcd3.svg
-    |   |       6760e33eb5bb1cc42c3e97bbe2a87d8e.svg
-    |   |       8517212a29146237ae202f00e4eb07a0.svg
-    |   |       88b7e0fc3eb82e91aa32b4debcae65af.svg
-    |   |       a8f4bdb16a1efa6fea9f5a67322e3135.svg
-    |   |       acrobat_pdf (2).svg
-    |   |       acrobat_pdf.svg
-    |   |       af7b8e236015261895c3a5e67beee4ad.svg
-    |   |       b0aed12ccf5e5813d4b91ceb7488338c.svg
-    |   |       c0ddeaf3c174332a9dc2e5e42b078190.svg
-    |   |       c1f849a9a963e09ac4ada27f8dbcc1b6.svg
-    |   |       cbf04ef7682163ccde5f85b04924a045.svg
-    |   |       d25776f2bcd1348e083926c77080780a.svg
-    |   |       s_agreement_filetype (2).svg
-    |   |       s_agreement_filetype.svg
-    |   |       s_filetype_psd (2).svg
-    |   |       s_filetype_psd.svg
-    |   |       s_filetype_xd (2).svg
-    |   |       s_filetype_xd.svg
-    |   |       s_shared_single_filetype (2).svg
-    |   |       s_shared_single_filetype.svg
-    |   |       
-    |   +---FileType2
-    |   |       aac_filetype_256 (2).svg
-    |   |       aac_filetype_256.svg
-    |   |       aac_filetype_64 (2).svg
-    |   |       aac_filetype_64.svg
-    |   |       acrobat_docx_icon (2).svg
-    |   |       acrobat_docx_icon.svg
-    |   |       acrobat_html_icon (2).svg
-    |   |       acrobat_html_icon.svg
-    |   |       acrobat_image_icon (2).svg
-    |   |       acrobat_image_icon.svg
-    |   |       acrobat_pdf (3).svg
-    |   |       acrobat_pdf (4).svg
-    |   |       acrobat_ppt_icon (2).svg
-    |   |       acrobat_ppt_icon.svg
-    |   |       acrobat_text_icon (2).svg
-    |   |       acrobat_text_icon.svg
-    |   |       acrobat_xls_icon (2).svg
-    |   |       acrobat_xls_icon.svg
-    |   |       aiff_filetype_256 (2).svg
-    |   |       aiff_filetype_256.svg
-    |   |       aiff_filetype_64 (2).svg
-    |   |       aiff_filetype_64.svg
-    |   |       aif_filetype_256 (2).svg
-    |   |       aif_filetype_256.svg
-    |   |       aif_filetype_64 (2).svg
-    |   |       aif_filetype_64.svg
-    |   |       dn_filetype_1024 (2).svg
-    |   |       dn_filetype_1024.svg
-    |   |       exr_filetype_1024 (2).svg
-    |   |       exr_filetype_1024.svg
-    |   |       fbx_filetype_1024 (2).svg
-    |   |       fbx_filetype_1024.svg
-    |   |       glb_filetype_1024 (2).svg
-    |   |       glb_filetype_1024.svg
-    |   |       gltf_filetype_1024 (2).svg
-    |   |       gltf_filetype_1024.svg
-    |   |       hdr_filetype_1024 (2).svg
-    |   |       hdr_filetype_1024.svg
-    |   |       ibl_filetype_1024 (2).svg
-    |   |       ibl_filetype_1024.svg
-    |   |       m4a_filetype_256 (2).svg
-    |   |       m4a_filetype_256.svg
-    |   |       m4a_filetype_64 (2).svg
-    |   |       m4a_filetype_64.svg
-    |   |       mdl_filetype_1024 (2).svg
-    |   |       mdl_filetype_1024.svg
-    |   |       mp2_filetype_256 (2).svg
-    |   |       mp2_filetype_256.svg
-    |   |       mp2_filetype_64 (2).svg
-    |   |       mp2_filetype_64.svg
-    |   |       mp3_filetype_256 (2).svg
-    |   |       mp3_filetype_256.svg
-    |   |       mp3_filetype_64 (2).svg
-    |   |       mp3_filetype_64.svg
-    |   |       obj_filetype_1024 (2).svg
-    |   |       obj_filetype_1024.svg
-    |   |       sbsar_filetype_1024 (2).svg
-    |   |       sbsar_filetype_1024.svg
-    |   |       s_agreement_filetype (3).svg
-    |   |       s_agreement_filetype (4).svg
-    |   |       s_filetype_vtt (2).svg
-    |   |       s_filetype_vtt.svg
-    |   |       s_nothumbnail_34 (2).svg
-    |   |       s_nothumbnail_34.svg
-    |   |       usdz_filetype_1024 (2).svg
-    |   |       usdz_filetype_1024.svg
-    |   |       wav_filetype_256 (2).svg
-    |   |       wav_filetype_256.svg
-    |   |       wav_filetype_64 (2).svg
-    |   |       wav_filetype_64.svg
-    |   |       
-    |   \---Other
-    |           1979b4fbf2e18e894338bfcb88dfea70.svg
-    |           3ae7789e164a8504727090400f750740.svg
-    |           3ea4d7173b66bf77a7f05a18da5406ee.svg
-    |           610f3632ea8589f1329deb0d51f05a16.svg
-    |           6aa89886540c19a385c2cfd62da78375.svg
-    |           829df95a1c235ace1673ee85b44ef657.svg
-    |           85a335d1458d429ac34a8f70b865a40c.svg
-    |           9a774f62c22f558d0208b2b833fa8363.svg
-    |           a13d91b2d80e35879b2358e7b86568c6.svg
-    |           aa3e71872acb122921cc2da178034059.svg
-    |           b2bb993459ee658ef194ce04b6076c26.svg
-    |           virgo_mycomputer_folder_icon.svg
+    |   \---FileType
+    |           aac_filetype_256.svg
+    |           aac_filetype_64.svg
+    |           acrobat_docx_icon (2).svg
+    |           acrobat_docx_icon.svg
+    |           acrobat_html_icon (2).svg
+    |           acrobat_html_icon.svg
+    |           acrobat_image_icon (2).svg
+    |           acrobat_image_icon.svg
+    |           acrobat_pdf (2).svg
+    |           acrobat_pdf (3).svg
+    |           acrobat_pdf (4).svg
+    |           acrobat_pdf.svg
+    |           acrobat_ppt_icon (2).svg
+    |           acrobat_ppt_icon.svg
+    |           acrobat_text_icon (2).svg
+    |           acrobat_text_icon.svg
+    |           acrobat_xls_icon (2).svg
+    |           acrobat_xls_icon.svg
+    |           aecap.svg
+    |           aeg.svg
+    |           aep.svg
+    |           aet.svg
+    |           aetx.svg
+    |           af7b8e236015261895c3a5e67beee4ad.svg
+    |           aiff_filetype_256.svg
+    |           aiff_filetype_64.svg
+    |           aif_filetype_256.svg
+    |           aif_filetype_64.svg
+    |           b0aed12ccf5e5813d4b91ceb7488338c.svg
+    |           blank 2.svg
+    |           blank-dark.svg
+    |           blank-white.svg
+    |           dn_1024.svg
+    |           dw.svg
+    |           dwt.svg
+    |           exr_filetype_1024.svg
+    |           fbx_filetype_1024.svg
+    |           folder-dark.svg
+    |           folder-ppl-dark.svg
+    |           folder-white.svg
+    |           glb_filetype_1024.svg
+    |           gltf_filetype_1024.svg
+    |           hdr_filetype_1024.svg
+    |           ibl_filetype_1024.svg
+    |           idap.svg
+    |           idml.svg
+    |           indb.svg
+    |           indd.svg
+    |           indp.svg
+    |           indt.svg
+    |           m4a_filetype_256.svg
+    |           m4a_filetype_64.svg
+    |           mdl_filetype_1024.svg
+    |           mp2_filetype_256.svg
+    |           mp2_filetype_64.svg
+    |           mp3_filetype_256.svg
+    |           mp3_filetype_64.svg
+    |           muse.svg
+    |           obj_filetype_1024.svg
+    |           page.svg
+    |           post.svg
+    |           proj.svg
+    |           psd.svg
+    |           sbsar_filetype_1024.svg
+    |           sp.svg
+    |           s_agreement_filetype-dark.svg
+    |           s_agreement_filetype-white.svg
+    |           s_filetype_vtt (2).svg
+    |           s_filetype_vtt.svg
+    |           s_filetype_xd (2).svg
+    |           s_filetype_xd.svg
+    |           s_nothumbnail_34.svg
+    |           s_shared_single_filetype-dark.svg
+    |           s_shared_single_filetype-white.svg
+    |           usdz_filetype_1024.svg
+    |           video.svg
+    |           virgo_mycomputer_folder_icon-dark.svg
+    |           wav_filetype_256.svg
+    |           wav_filetype_64.svg
+    |           xd.svg
+    |           zip.svg
     |           
     +---Banners
     |       Data Activator.svg
