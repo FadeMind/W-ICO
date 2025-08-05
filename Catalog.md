@@ -10,3 +10,4 @@
 | `Headphones`              | `C:\Windows\System32\DDORes.dll,2`  |
 | `Earbuds`/`AirPods`       | `C:\Windows\System32\DDORes.dll,6`  |
 | `Microphone`/`Mic`/`Mike` | `C:\Windows\System32\DDORes.dll,3`  |
+| `Camera`                  | `C:\Windows\System32\DDORes.dll,86` |
