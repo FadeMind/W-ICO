@@ -5004,12 +5004,13 @@
     |   |   |   humble2.ico
     |   |   |   Image Settings.ico
     |   |   |   Jellyfin.ico
+    |   |   |   kingston.ico
     |   |   |   Kodi Folder 1.ico
     |   |   |   Kodi Folder 2.ico
     |   |   |   Lenovo.ico
     |   |   |   Link Folder.ico
     |   |   |   mediaexpert.ico
-    |   |   |   mega.ico
+    |   |   |   Mega.ico
     |   |   |   Minecraft.ico
     |   |   |   mpw.ico
     |   |   |   Music Generic.ico
@@ -5031,6 +5032,7 @@
     |   |   |   Playnite.ico
     |   |   |   Playstation.ico
     |   |   |   Plex.ico
+    |   |   |   proton.ico
     |   |   |   qbittorent.ico
     |   |   |   qBittorrent 2.ico
     |   |   |   Riot.ico
@@ -5259,6 +5261,7 @@
     |   |       apple-alt.ico
     |   |       apple.ico
     |   |       arch.ico
+    |   |       arduino.ico
     |   |       arrow.ico
     |   |       asus.ico
     |   |       audacity.ico
@@ -5274,8 +5277,10 @@
     |   |       blockbench.ico
     |   |       bluetooth.ico
     |   |       brave.ico
+    |   |       c++.ico
     |   |       c-plus-plus.ico
     |   |       c-sharp.ico
+    |   |       c.ico
     |   |       cad.ico
     |   |       canon.ico
     |   |       Cemu-emu.ico
@@ -5471,6 +5476,7 @@
     |   |       nintendo-3ds.ico
     |   |       nintendo-switch.ico
     |   |       nintendo.ico
+    |   |       nodejs.ico
     |   |       notepad++.ico
     |   |       numpad-macros.ico
     |   |       nvidia.ico
@@ -5548,6 +5554,7 @@
     |   |       rainmeter.ico
     |   |       razer.ico
     |   |       rdr-2.ico
+    |   |       react.ico
     |   |       Readyfor-Motorola.ico
     |   |       Redbubble.ico
     |   |       reddit.ico
@@ -5613,6 +5620,7 @@
     |   |       tv-shows.ico
     |   |       twitter.ico
     |   |       twrp.ico
+    |   |       typescript-ts.ico
     |   |       ubuntu-studio.ico
     |   |       ubuntu.ico
     |   |       user.ico
