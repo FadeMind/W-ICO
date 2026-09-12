@@ -1,6 +1,6 @@
 .
 |   .gitignore
-|   checksums.blake3
+|	checksums.blake3
 |   Preview.png
 |   README.md
 |   tree.log
@@ -342,26 +342,6 @@
     |   |       Voice access.ico
     |   |       
     |   +---Adobe
-    |   |   +---App
-    |   |   |       Acrobat Distiller.ico
-    |   |   |       Acrobat Reader.ico
-    |   |   |       Acrobat Updater.ico
-    |   |   |       Adobe.ico
-    |   |   |       Audition.ico
-    |   |   |       Bridge.ico
-    |   |   |       Creative Cloud 1.ico
-    |   |   |       Creative Cloud 2.ico
-    |   |   |       Creative Cloud Diagnostics.ico
-    |   |   |       ExtendScript Toolkit.ico
-    |   |   |       Illustrator.ico
-    |   |   |       InCopy.ico
-    |   |   |       InDesign.ico
-    |   |   |       Photoshop.ico
-    |   |   |       Prelude.ico
-    |   |   |       Premiere Pro.ico
-    |   |   |       Premiere Rush.ico
-    |   |   |       UXP Developer Tools.ico
-    |   |   |       
     |   |   +---App (Beta)
     |   |   |       Premiere Elements.ico
     |   |   |       Premiere Pro.ico
@@ -381,9 +361,34 @@
     |   |   |       Creative Cloud.ico
     |   |   |       Elements Organizer.ico
     |   |   |       ExtendScript Toolkit.ico
+    |   |   |       Extensions Service.ico
     |   |   |       Flash.ico
     |   |   |       Photoshop Elements.ico
     |   |   |       Premiere Elements.ico
+    |   |   |       
+    |   |   +---App 2025
+    |   |   |       Acrobat Distiller.ico
+    |   |   |       Acrobat Reader.ico
+    |   |   |       Acrobat Updater.ico
+    |   |   |       Adobe.ico
+    |   |   |       Audition.ico
+    |   |   |       Bridge.ico
+    |   |   |       Connect.ico
+    |   |   |       Creative Cloud 1.ico
+    |   |   |       Creative Cloud 2.ico
+    |   |   |       Creative Cloud Diagnostics.ico
+    |   |   |       ExtendScript Toolkit.ico
+    |   |   |       Illustrator.ico
+    |   |   |       InCopy.ico
+    |   |   |       InDesign.ico
+    |   |   |       Photoshop.ico
+    |   |   |       Prelude.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       Premiere Rush.ico
+    |   |   |       UXP Developer Tools.ico
+    |   |   |       
+    |   |   +---App 2026
+    |   |   |       BridgeApp.ico
     |   |   |       
     |   |   +---Book
     |   |   |       InDesign INDB.ico
@@ -406,7 +411,6 @@
     |   |   |       Premiere Pro.ico
     |   |   |       
     |   |   +---File
-    |   |   |       Acrobat Reader.ico
     |   |   |       After Effects AEP NEW.ico
     |   |   |       After Effects AEP.ico
     |   |   |       Audition CDLX.ico
@@ -421,17 +425,18 @@
     |   |   |       Premiere Pro NEW.ico
     |   |   |       Premiere Pro.ico
     |   |   |       Premiere Rush.ico
-    |   |   |       z ACTION.ico
-    |   |   |       z FDF.ico
-    |   |   |       z PDX.ico
-    |   |   |       z PS.ico
-    |   |   |       z SEC.ico
-    |   |   |       z XDP.ico
-    |   |   |       z XFD.ico
-    |   |   |       z XFDF.ico
     |   |   |       
     |   |   +---File (Beta)
+    |   |   |       ACTION.ico
+    |   |   |       FDF.ico
+    |   |   |       Portable Document File.ico
+    |   |   |       Portable Document Index.ico
+    |   |   |       PS.ico
+    |   |   |       SEC.ico
     |   |   |       Substance 3D Viewer.ico
+    |   |   |       XDP.ico
+    |   |   |       XFD.ico
+    |   |   |       XFDF.ico
     |   |   |       
     |   |   +---File (Old) 1
     |   |   |       ExtendScript Toolkit JSX.ico
@@ -443,7 +448,17 @@
     |   |   +---File (Old) 2
     |   |   |       Idea.ico
     |   |   |       
-    |   |   +---Folder
+    |   |   +---Folder (Beta)
+    |   |   |       Character Animator.ico
+    |   |   |       Media Encoder.ico
+    |   |   |       Premiere Pro.ico
+    |   |   |       Substance 3D Viewer.ico
+    |   |   |       
+    |   |   +---Folder (Old)
+    |   |   |       Photoshop Elements.ico
+    |   |   |       Plugin Photoshop.ico
+    |   |   |       
+    |   |   +---Folder 2025
     |   |   |       Acrobat.ico
     |   |   |       After Effects.ico
     |   |   |       Audition.ico
@@ -459,15 +474,8 @@
     |   |   |       Premiere Pro.ico
     |   |   |       UXP Developer Tools.ico
     |   |   |       
-    |   |   +---Folder (Beta)
-    |   |   |       Character Animator.ico
-    |   |   |       Media Encoder.ico
-    |   |   |       Premiere Pro.ico
-    |   |   |       Substance 3D Viewer.ico
-    |   |   |       
-    |   |   +---Folder (Old)
-    |   |   |       Photoshop Elements.ico
-    |   |   |       Plugin Photoshop.ico
+    |   |   +---Folder 2026
+    |   |   |       Bridge.ico
     |   |   |       
     |   |   +---Package
     |   |   |   |   Acrobat.ico
@@ -476,6 +484,7 @@
     |   |   |   |   Audition.ico
     |   |   |   |   Bridge.ico
     |   |   |   |   Character Animator.ico
+    |   |   |   |   Connect.ico
     |   |   |   |   Creative Cloud.ico
     |   |   |   |   Dimension.ico
     |   |   |   |   Dreamweaver.ico
@@ -525,6 +534,10 @@
     |   |   |       Photoshop.ico
     |   |   |       Premiere Elements.ico
     |   |   |       
+    |   |   +---Package (Old) 2
+    |   |   |       Adobe Old.ico
+    |   |   |       Adobe.ico
+    |   |   |       
     |   |   +---Paper
     |   |   |       Dreamweaver.ico
     |   |   |       Illustrator.ico
@@ -538,9 +551,7 @@
     |   |   |       
     |   |   \---zOther
     |   |           Acrobat (Add).ico
-    |   |           Adobe Old.ico
     |   |           Adobe Update Helper.ico
-    |   |           Adobe.ico
     |   |           Drive.ico
     |   |           MAINICON.ico
     |   |           Photoshop.ico
@@ -690,6 +701,7 @@
     |   |   |   Peek.ico
     |   |   |   Power OCR.ico
     |   |   |   Power Rename.ico
+    |   |   |   PowerDisplay.ico
     |   |   |   PowerToys.ico
     |   |   |   Registry Preview.ico
     |   |   |   Workspaces.ico
@@ -738,9 +750,11 @@
     |   |       Sharepoint.ico
     |   |       Teams.ico
     |   |       Word.ico
+    |   |       _Capture.ico
     |   |       _Microsoft 365.ico
     |   |       _OneDrive.ico
     |   |       _Sticky Notes.ico
+    |   |       _Writing Assistant.ico
     |   |       
     |   \---Visual Studio
     |           Visual Studio Insiders.ico
@@ -995,8 +1009,9 @@
     |   |       imageres_98.ico
     |   |       imageres_99.ico
     |   |       
-    |   \---Office
-    |           Excel.ico
+    |   \---Microsoft 365 (Office)
+    |           Excel 2007.ico
+    |           Visio 2010.ico
     |           
     +---Apps (Windows 8)
     |   |   ATI.ico
@@ -1039,14 +1054,25 @@
     |   |   
     |   +---Color
     |   |       ChatGPT.ico
+    |   |       Intel.ico
     |   |       NVIDIA FrameView Dark.ico
     |   |       NVIDIA FrameView Light.ico
     |   |       NVIDIA.ico
     |   |       Skype (Offline).ico
     |   |       
-    |   +---Office
+    |   +---Microsoft 365 (Office)
     |   |       Access.ico
+    |   |       Excel.ico
+    |   |       InfoPath.ico
     |   |       Lync (Skype for Business).ico
+    |   |       OneNote.ico
+    |   |       Outlook.ico
+    |   |       PowerPoint.ico
+    |   |       Project.ico
+    |   |       Publisher.ico
+    |   |       Visio.ico
+    |   |       Word.ico
+    |   |       zExchange.ico
     |   |       
     |   +---Shadow
     |   |       Xbox.ico
@@ -5224,7 +5250,17 @@
     |   |           Yellow Folder zip.ico
     |   |           
     |   +---folder-icons_sameerasw
+    |   |       1.ico
+    |   |       2.ico
+    |   |       3.ico
+    |   |       4.ico
+    |   |       5.ico
+    |   |       6.ico
+    |   |       7.ico
     |   |       8).ico
+    |   |       8.ico
+    |   |       9.ico
+    |   |       ableton-folder.ico
     |   |       acer.ico
     |   |       adb.ico
     |   |       adobe-acrobat.ico
@@ -5244,8 +5280,10 @@
     |   |       adobe.ico
     |   |       ae.ico
     |   |       ahk.ico
+    |   |       ai-1.ico
     |   |       ai.ico
     |   |       alienware.ico
+    |   |       alipay-folder.ico
     |   |       amd.ico
     |   |       ancientos.ico
     |   |       android-11.ico
@@ -5255,7 +5293,10 @@
     |   |       android-one.ico
     |   |       android-text.ico
     |   |       android.ico
+    |   |       angular-folder.ico
+    |   |       anthropic-folder.ico
     |   |       aorus.ico
+    |   |       apache-folder.ico
     |   |       apex-legends.ico
     |   |       app.ico
     |   |       apple-alt.ico
@@ -5263,26 +5304,40 @@
     |   |       arch.ico
     |   |       arduino.ico
     |   |       arrow.ico
+    |   |       aseprite-folder.ico
     |   |       asus.ico
     |   |       audacity.ico
     |   |       audio.ico
     |   |       auto-cad.ico
     |   |       autoruns.ico
     |   |       awakenos.ico
+    |   |       aws-folder.ico
+    |   |       azure-folder.ico
     |   |       backup.ico
     |   |       backups.ico
+    |   |       baidu-folder.ico
+    |   |       bash-folder.ico
+    |   |       bilibili-folder.ico
     |   |       bit.ico
     |   |       bitbucket.ico
     |   |       blender.ico
     |   |       blockbench.ico
     |   |       bluetooth.ico
+    |   |       boris-continuum-folder.ico
+    |   |       boris-sapphire-folder.ico
     |   |       brave.ico
+    |   |       budget-monthly.ico
+    |   |       budget-savings.ico
     |   |       c++.ico
     |   |       c-plus-plus.ico
     |   |       c-sharp.ico
     |   |       c.ico
     |   |       cad.ico
     |   |       canon.ico
+    |   |       car-electric.ico
+    |   |       car-fuel.ico
+    |   |       car-maintenance.ico
+    |   |       car-personal.ico
     |   |       Cemu-emu.ico
     |   |       centos.ico
     |   |       chat-gpt.ico
@@ -5292,7 +5347,10 @@
     |   |       cities-skylines.ico
     |   |       citra-emu.ico
     |   |       civitai.ico
+    |   |       claude-folder.ico
     |   |       clone-hero-emu.ico
+    |   |       cloudflare-folder.ico
+    |   |       cmd-folder.ico
     |   |       cobalt.tools.ico
     |   |       code.ico
     |   |       corsair.ico
@@ -5303,15 +5361,20 @@
     |   |       crunchyroll.ico
     |   |       csgo.ico
     |   |       css.ico
+    |   |       cursor-folder.ico
     |   |       cyberpunk.ico
+    |   |       dart-folder.ico
     |   |       davinci.ico
     |   |       deepin.ico
+    |   |       deepseek-folder.ico
     |   |       degree.ico
     |   |       dell.ico
     |   |       design.ico
     |   |       desktop-computer.ico
     |   |       destiny-2.ico
+    |   |       developer-folder.ico
     |   |       diablo-4.ico
+    |   |       dingtalk-folder.ico
     |   |       disabled.ico
     |   |       discord.ico
     |   |       Dism++.ico
@@ -5322,6 +5385,8 @@
     |   |       dot-net.ico
     |   |       dota-2.ico
     |   |       dotos.ico
+    |   |       doubao-folder.ico
+    |   |       douyin-folder.ico
     |   |       downloads.ico
     |   |       dragon-ball.ico
     |   |       dreamcast.ico
@@ -5329,6 +5394,11 @@
     |   |       ea.ico
     |   |       earthbound.ico
     |   |       elden-ring.ico
+    |   |       electron-folder.ico
+    |   |       elevenlabs-folder.ico
+    |   |       entertainment-cinema.ico
+    |   |       entertainment-gaming.ico
+    |   |       entertainment-music.ico
     |   |       epic-games.ico
     |   |       escapist-2.ico
     |   |       Europa-Universalis-4.ico
@@ -5337,18 +5407,30 @@
     |   |       excel.ico
     |   |       f1.ico
     |   |       fedora.ico
+    |   |       feishu-folder.ico
     |   |       figma.ico
+    |   |       filmora-folder.ico
+    |   |       finance-banking.ico
+    |   |       finance-investments.ico
+    |   |       finance-taxes.ico
     |   |       firefox.ico
     |   |       fitgirl-repacks.ico
     |   |       fiveM.ico
     |   |       fiverr.ico
+    |   |       fl-studio-folder.ico
     |   |       flamegapps.ico
     |   |       flight-simulator.ico
+    |   |       flutter-folder.ico
     |   |       folder-icons.ico
     |   |       font.ico
     |   |       fonts.ico
+    |   |       food-bakery.ico
+    |   |       food-coffee.ico
+    |   |       food-restaurant.ico
+    |   |       food-takeaway.ico
     |   |       fortnite.ico
     |   |       forza-horizon.ico
+    |   |       gamemaker-folder.ico
     |   |       games-alt.ico
     |   |       games.ico
     |   |       gapps.ico
@@ -5356,17 +5438,22 @@
     |   |       garuda-linux.ico
     |   |       gcam.ico
     |   |       gdrive.ico
+    |   |       gemini-folder.ico
     |   |       gentoo.ico
     |   |       gigabyte.ico
     |   |       gimp.ico
     |   |       github-alt.ico
     |   |       github.ico
     |   |       gitlab.ico
+    |   |       glm-folder.ico
     |   |       gnome-web.ico
+    |   |       godotengine-folder.ico
     |   |       gog.ico
     |   |       golang.ico
     |   |       google-2025.ico
     |   |       google-b.ico
+    |   |       google-cloud-folder.ico
+    |   |       google-drive-2026-folder.ico
     |   |       google-drive.ico
     |   |       google-photos.ico
     |   |       google-pixel-fold.ico
@@ -5385,12 +5472,14 @@
     |   |       google-pixel7pro.ico
     |   |       google-pixel8.ico
     |   |       google-pixel8pro.ico
+    |   |       google-pixel9pro.ico
     |   |       google-w.ico
     |   |       google.ico
     |   |       gopher.ico
     |   |       gopro.ico
     |   |       gphotos.ico
     |   |       graphics.ico
+    |   |       grok-folder.ico
     |   |       grounded.ico
     |   |       GSI.ico
     |   |       gtav.ico
@@ -5403,6 +5492,8 @@
     |   |       howtomen.ico
     |   |       hp.ico
     |   |       html.ico
+    |   |       huggingface-folder.ico
+    |   |       hunyuan-folder.ico
     |   |       Hwinfo.ico
     |   |       icons.ico
     |   |       id.ico
@@ -5416,20 +5507,30 @@
     |   |       intellij-pycharm.ico
     |   |       intellij-rider.ico
     |   |       intellij-webstorm.ico
+    |   |       ios-folder.ico
+    |   |       itchdotio-folder.ico
+    |   |       iterm2-folder.ico
     |   |       java.ico
     |   |       javascript-js.ico
     |   |       json.ico
     |   |       Kaspersky.ico
     |   |       kde-connect.ico
+    |   |       kimi-folder.ico
     |   |       kirby.ico
     |   |       kotlin.ico
+    |   |       kubernetes-folder.ico
     |   |       kubuntu.ico
+    |   |       laravel-folder.ico
     |   |       lawnchair-alt.ico
     |   |       lawnchair.ico
     |   |       league-of-legends.ico
     |   |       legion.ico
     |   |       lenovo.ico
     |   |       lg.ico
+    |   |       life-cleaning.ico
+    |   |       life-health.ico
+    |   |       life-home.ico
+    |   |       life-laundry.ico
     |   |       lineageos.ico
     |   |       linux-mint.ico
     |   |       linux.ico
@@ -5438,6 +5539,11 @@
     |   |       lumion.ico
     |   |       m02-alt.ico
     |   |       m02.ico
+    |   |       macos-folder.ico
+    |   |       mall-department-store.ico
+    |   |       mall-food-court.ico
+    |   |       mall-outlet.ico
+    |   |       mall-shopping-centre.ico
     |   |       manjaro.ico
     |   |       mario.ico
     |   |       markdown.ico
@@ -5453,10 +5559,12 @@
     |   |       mi.ico
     |   |       microg.ico
     |   |       minecraft.ico
+    |   |       minimax-folder.ico
     |   |       miui.ico
     |   |       mkbhd-b.ico
     |   |       mkbhd-w.ico
     |   |       modern-warfare-2.ico
+    |   |       mongodb-folder.ico
     |   |       moonrepo-moon.ico
     |   |       moonrepo-proto.ico
     |   |       more.ico
@@ -5467,10 +5575,13 @@
     |   |       music.ico
     |   |       MY.ico
     |   |       myanimelist.ico
+    |   |       mysql-folder.ico
     |   |       n7.ico
     |   |       n9.ico
     |   |       nameless.ico
     |   |       naruto-japanese-cuisine.ico
+    |   |       netlify-folder.ico
+    |   |       nginx-folder.ico
     |   |       nikgapps.ico
     |   |       nikon.ico
     |   |       nintendo-3ds.ico
@@ -5483,6 +5594,7 @@
     |   |       nzxt.ico
     |   |       obs-studio.ico
     |   |       obsidian.ico
+    |   |       ollama-folder.ico
     |   |       omen.ico
     |   |       onedrive.ico
     |   |       oneplus-6.ico
@@ -5491,6 +5603,7 @@
     |   |       open-ai.ico
     |   |       open-suse.ico
     |   |       opengapps.ico
+    |   |       openvpn-folder.ico
     |   |       opera-gx.ico
     |   |       opera.ico
     |   |       orangefox.ico
@@ -5510,6 +5623,7 @@
     |   |       p7.ico
     |   |       P7P.ico
     |   |       package.ico
+    |   |       paint-net-folder.ico
     |   |       paladins.ico
     |   |       paranoid.ico
     |   |       pe.ico
@@ -5535,11 +5649,15 @@
     |   |       popchat.ico
     |   |       popmods.ico
     |   |       popwalls.ico
+    |   |       postgresql-folder.ico
+    |   |       powerdirector-folder.ico
     |   |       powerpoint.ico
+    |   |       powershell-folder.ico
     |   |       PPSSPP-gold-emu.ico
     |   |       PPSSPP-standard-emu.ico
     |   |       pr.ico
     |   |       predator.ico
+    |   |       proton-vpn-folder.ico
     |   |       ps.ico
     |   |       ps1.ico
     |   |       ps2.ico
@@ -5549,15 +5667,21 @@
     |   |       pubg.ico
     |   |       python.ico
     |   |       Qbittorent.ico
+    |   |       qq-folder.ico
+    |   |       qt-folder.ico
+    |   |       qwen-folder.ico
     |   |       radeon.ico
     |   |       rainbow-six.ico
     |   |       rainmeter.ico
     |   |       razer.ico
     |   |       rdr-2.ico
+    |   |       react-native-folder.ico
     |   |       react.ico
     |   |       Readyfor-Motorola.ico
+    |   |       red-giant-folder.ico
     |   |       Redbubble.ico
     |   |       reddit.ico
+    |   |       renpy-folder.ico
     |   |       resident-evil.ico
     |   |       retroarch.ico
     |   |       revanced.ico
@@ -5572,6 +5696,7 @@
     |   |       ropbox.ico
     |   |       Rosalies-Mupen-GUI-emu.ico
     |   |       RPCS3-emu.ico
+    |   |       rust-folder.ico
     |   |       ryujinx-emu.ico
     |   |       ryzen.ico
     |   |       s20fe.ico
@@ -5581,12 +5706,20 @@
     |   |       samsung-galaxy-m02.ico
     |   |       samsung.ico
     |   |       sass.ico
+    |   |       school-backpack.ico
+    |   |       school-campus.ico
+    |   |       school-study.ico
+    |   |       school-university.ico
     |   |       sega-genesis.ico
     |   |       sega-saturn.ico
     |   |       settings.ico
     |   |       setups.ico
     |   |       sharex.ico
     |   |       shonen-jump.ico
+    |   |       shop-books.ico
+    |   |       shop-clothing.ico
+    |   |       shop-storefront.ico
+    |   |       shop-supermarket.ico
     |   |       sims.ico
     |   |       sketchup.ico
     |   |       smite.ico
@@ -5598,6 +5731,9 @@
     |   |       sound.ico
     |   |       sparkos.ico
     |   |       spirited-away.ico
+    |   |       sport-basketball.ico
+    |   |       sport-football.ico
+    |   |       sport-tennis.ico
     |   |       spotify.ico
     |   |       sql.ico
     |   |       stardew-valley.ico
@@ -5605,32 +5741,51 @@
     |   |       steam.ico
     |   |       stex.ico
     |   |       study.ico
+    |   |       sublime-text-folder.ico
     |   |       supirioros.ico
     |   |       surface.ico
+    |   |       svelte-folder.ico
     |   |       swift.ico
     |   |       syberia alt.ico
     |   |       syberia.ico
     |   |       syberiaos6.ico
+    |   |       synology-folder.ico
+    |   |       tailscale-folder.ico
+    |   |       taobao-folder.ico
+    |   |       tauri-folder.ico
     |   |       teamfiles.ico
     |   |       telegram.ico
     |   |       terminal.ico
     |   |       thinkpad.ico
     |   |       tidwib.ico
+    |   |       tiktok-folder.ico
     |   |       tools.ico
+    |   |       transport-bicycle.ico
+    |   |       transport-bus.ico
+    |   |       transport-ferry.ico
+    |   |       transport-train.ico
+    |   |       travel-flights.ico
+    |   |       travel-hotels.ico
+    |   |       travel-luggage.ico
     |   |       tv-shows.ico
     |   |       twitter.ico
     |   |       twrp.ico
     |   |       typescript-ts.ico
     |   |       ubuntu-studio.ico
     |   |       ubuntu.ico
+    |   |       unity-folder.ico
+    |   |       unrealengine-folder.ico
     |   |       user.ico
     |   |       user2.ico
     |   |       Vagrant.ico
     |   |       valorant.ico
+    |   |       vegas-pro-2021-folder.ico
+    |   |       vercel-folder.ico
     |   |       vhd.ico
     |   |       videos.ico
     |   |       vim.ico
     |   |       Virtualbox.ico
+    |   |       visual-studio-folder.ico
     |   |       Vita3K-emu.ico
     |   |       viz.ico
     |   |       voltageos.ico
@@ -5639,6 +5794,8 @@
     |   |       wallpapers.ico
     |   |       warzone.ico
     |   |       web.ico
+    |   |       wechat-folder.ico
+    |   |       weibo-folder.ico
     |   |       whatsapp.ico
     |   |       wii-u-alt01.ico
     |   |       wii-u.ico
@@ -5651,21 +5808,28 @@
     |   |       windows-95.ico
     |   |       windows-alt01.ico
     |   |       windows-alt02.ico
+    |   |       windows-calendar-folder.ico
+    |   |       windows-contacts-folder.ico
     |   |       Windows-updated-blocker.ico
     |   |       windows-vista.ico
     |   |       windows-xp.ico
+    |   |       wireguard-folder.ico
     |   |       word.ico
+    |   |       wordpress-folder.ico
     |   |       work.ico
+    |   |       wps-office-folder.ico
     |   |       x.ico
     |   |       x3.ico
     |   |       Xbox-one.ico
     |   |       xd.ico
+    |   |       xiaohongshu-folder.ico
     |   |       yaap.ico
     |   |       youtube-black.ico
     |   |       youtube-white.ico
     |   |       youtube.ico
     |   |       yuzu-emu.ico
     |   |       zelda.ico
+    |   |       zerotier-folder.ico
     |   |       zorin.ico
     |   |       
     |   +---folder11
@@ -10017,57 +10181,60 @@
     |   |       zoom-in.ico
     |   |       zoom-out.ico
     |   |       
-    |   \---Wedding
-    |           balloons.ico
-    |           bed.ico
-    |           bell.ico
-    |           bouquet.ico
-    |           bow-tie.ico
-    |           bow.ico
-    |           camcorder.ico
-    |           candles.ico
-    |           carriage.ico
-    |           champagne-1.ico
-    |           champagne.ico
-    |           chat.ico
-    |           church.ico
-    |           cocktail.ico
-    |           cupcake.ico
-    |           cupid-1.ico
-    |           cupid.ico
-    |           diamond.ico
-    |           diploma.ico
-    |           doorknob.ico
-    |           dove.ico
-    |           engagement-ring-1.ico
-    |           engagement-ring.ico
-    |           eternity.ico
-    |           fireworks.ico
-    |           garland.ico
-    |           gift.ico
-    |           heart-1.ico
-    |           heart.ico
-    |           high-heel.ico
-    |           key.ico
-    |           kiss.ico
-    |           microphone.ico
-    |           music.ico
-    |           padlock.ico
-    |           photo-camera.ico
-    |           placeholder.ico
-    |           room-service.ico
-    |           rose.ico
-    |           suitcase.ico
-    |           toast.ico
-    |           tuxedo.ico
-    |           wedding-arch.ico
-    |           wedding-cake-1.ico
-    |           wedding-cake.ico
-    |           wedding-day.ico
-    |           wedding-dress.ico
-    |           wedding-invitation-1.ico
-    |           wedding-invitation.ico
-    |           wedding.ico
+    |   +---Wedding
+    |   |       balloons.ico
+    |   |       bed.ico
+    |   |       bell.ico
+    |   |       bouquet.ico
+    |   |       bow-tie.ico
+    |   |       bow.ico
+    |   |       camcorder.ico
+    |   |       candles.ico
+    |   |       carriage.ico
+    |   |       champagne-1.ico
+    |   |       champagne.ico
+    |   |       chat.ico
+    |   |       church.ico
+    |   |       cocktail.ico
+    |   |       cupcake.ico
+    |   |       cupid-1.ico
+    |   |       cupid.ico
+    |   |       diamond.ico
+    |   |       diploma.ico
+    |   |       doorknob.ico
+    |   |       dove.ico
+    |   |       engagement-ring-1.ico
+    |   |       engagement-ring.ico
+    |   |       eternity.ico
+    |   |       fireworks.ico
+    |   |       garland.ico
+    |   |       gift.ico
+    |   |       heart-1.ico
+    |   |       heart.ico
+    |   |       high-heel.ico
+    |   |       key.ico
+    |   |       kiss.ico
+    |   |       microphone.ico
+    |   |       music.ico
+    |   |       padlock.ico
+    |   |       photo-camera.ico
+    |   |       placeholder.ico
+    |   |       room-service.ico
+    |   |       rose.ico
+    |   |       suitcase.ico
+    |   |       toast.ico
+    |   |       tuxedo.ico
+    |   |       wedding-arch.ico
+    |   |       wedding-cake-1.ico
+    |   |       wedding-cake.ico
+    |   |       wedding-day.ico
+    |   |       wedding-dress.ico
+    |   |       wedding-invitation-1.ico
+    |   |       wedding-invitation.ico
+    |   |       wedding.ico
+    |   |       
+    |   \---_Other
+    |           Adobe Crative Cloud.ico
     |           
     +---Folder (Windows 98)
     |       00. 7Z.ico

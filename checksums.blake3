@@ -185,6 +185,8 @@ cd5171dbb6de37f57a349092bca1af6eba900b148e330fd008077ed30b09b237 *ICO\Apps (Wind
 8c0d51e3a5c2617ec40d81f5a19aca5adeac510418e4b32d391e1295e007e76e *ICO\Apps (Windows 7)\Message Icon\imageres_105.ico
 15d26adb0ab155bace3f7ec3f343bcebbea1c1540aaa977d11e4b5c1ed5348ce *ICO\Apps (Windows 7)\Message Icon\imageres_106.ico
 37adf41a6fd5b50d92d987c4c62b9dce601cfaf1954446103eaed7571fb33b4f *ICO\Apps (Windows 7)\Message Icon\imageres_107.ico
+35ba0e25231f88a6369bf5a2f4476e6298bf162369cede1670f25a1569a5239d *ICO\Apps (Windows 7)\Microsoft 365 (Office)\Excel 2007.ico
+2425236a07eb2c394d1f4550fae68d587221f977eda4e4b27c59b3b73741ba3e *ICO\Apps (Windows 7)\Microsoft 365 (Office)\Visio 2010.ico
 ddeb2d412b5e1442c4641fcdc6cbe8237622fcc5080b2a77cddc53031ae0de88 *ICO\Apps (Windows 7)\msgsres_1.ico
 cf76899560e5c9027b1bd4dc272824ca398b737e838d567f910ec2c97c577220 *ICO\Apps (Windows 7)\MsMpRes_103.ico
 26d6965b4c6966536acb8f405edff9ec7643dc300dfc1fa0b2c0ffe54552e384 *ICO\Apps (Windows 7)\MSOERES_2.ico
@@ -208,7 +210,6 @@ e113c4c87d33280e7d96a3b22afa2349f5a0ed15f7fa3bd5dc9d525d5b365bcb *ICO\Apps (Wind
 bb42d3fd42927e77410f5d40361f389486beb54719f8b8e79d1838a987590b7d *ICO\Apps (Windows 7)\netcenter_504.ico
 360ba221b6593cfc2f8087ea115fe37de1c0733662308155059162ea629214cf *ICO\Apps (Windows 7)\netcenter_506.ico
 6a262882712e1ca6820b41af9de0c0a7493708ce5eb578d9a4fecf15b323e86e *ICO\Apps (Windows 7)\notepad_2.ico
-35ba0e25231f88a6369bf5a2f4476e6298bf162369cede1670f25a1569a5239d *ICO\Apps (Windows 7)\Office\Excel.ico
 ad859de29e5b6e521f6130bc34a931a4570858f5794f0dd08c59a53277eca5fa *ICO\Apps (Windows 7)\Picture_ BMP.ico
 f87727be649a1a4578d8ab9d5227c0b9588e74941f871e9412eea60f80a6152d *ICO\Apps (Windows 7)\Picture_ GIF.ico
 555c83ea9e4ce6d890ad440134b1c0eae9db2924e7fc35bc4f19fa1bb00112ea *ICO\Apps (Windows 7)\Picture_ JPG.ico
@@ -244,7 +245,8 @@ a13d8944ade31005bc3b1c1a9fd7b064a2bc9a09b978e43630cf1a20f8cd6b14 *ICO\Apps (Wind
 118e686154014334395b16b666c7cdfd0280c6eca14b99b16df7a38ac4e026d0 *ICO\Apps (Windows 8)\Calculator.ico
 f7680575eb14229216b04ead2b2e3b8d84e2b52f169c6107117781b86b5f3dac *ICO\Apps (Windows 8)\Camera.ico
 d5c1d307e8fcbb67ae8646cb3cdd1b9e38628c20da09809ad1be6f8f663b9cf0 *ICO\Apps (Windows 8)\ChatGPT.ico
-4dbac383a6103e690d2a2fb9f9b074270d8ce1d2cc27784e2bdc3899b2308c67 *ICO\Apps (Windows 8)\Color\ChatGPT.ico
+ddb22ed6b33db261c7fb711d3b283e3476a3aed8fb59feae03b3821d6388a6d9 *ICO\Apps (Windows 8)\Color\ChatGPT.ico
+6dc6bfee3d9585c7207d94018160991bb56b0672b780c0b1eda2ebb65e7edcd4 *ICO\Apps (Windows 8)\Color\Intel.ico
 56dacdf56579833589bfc4cb1a22035a91c123a482edbbbaa8c2e2c5dd57134b *ICO\Apps (Windows 8)\Color\NVIDIA FrameView Dark.ico
 902228e5231fce8bd25fc8657267928ff4f855c62766950d2037c1b7f9ccdeb7 *ICO\Apps (Windows 8)\Color\NVIDIA FrameView Light.ico
 b864427b04a08a727d78b50137167a81d55afb29afc947c9ce9b2a91f4e6626b *ICO\Apps (Windows 8)\Color\NVIDIA.ico
@@ -261,11 +263,21 @@ c7b5c5f4eb4ce991aecb637046a303ba4984839934372f11dcd58507f716f93d *ICO\Apps (Wind
 7aceceacbcc697e898367b132935b018b74e76e62d2ae8bc207a800395434287 *ICO\Apps (Windows 8)\Media Player.ico
 be1f31562803f554d6f74e819f7a1338e88c69b50c8242e873f2b74b88deb687 *ICO\Apps (Windows 8)\MediaPlayer.ico
 6c812f18c589ee3b5da3c3580f4d94df819994a8020b727ef47242956300b0b6 *ICO\Apps (Windows 8)\Messaging.ico
+b661d4074e21d2c7bc3c807dec0c27297491f833fcaa772607b8595ca5784d26 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Access.ico
+1083a900ba75a9e63c7691d7502bc7da464b6c6d25330fd6cdcb01099d952593 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Excel.ico
+4d3fbf9b9e38efe5fac8521431ac384869bc419dd881352a7e4e0a1ea1ca575b *ICO\Apps (Windows 8)\Microsoft 365 (Office)\InfoPath.ico
+a676859f6c188639c0a7750efa924c3ba54fd942b99ee91f22ebc32615fe93b4 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Lync (Skype for Business).ico
+9ffe5e38cb44d201bcbb0a72297bd6f4984c83092fe23c8375d9c510a6345d9a *ICO\Apps (Windows 8)\Microsoft 365 (Office)\OneNote.ico
+76569b09810e3424b14e69efb314c432c41141ad300ba32ebb2017b83c1863b5 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Outlook.ico
+ab1a77e164b595cd6faf044d0ee2a5002abcd3fb33ce7ae7dba15e80540f9064 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\PowerPoint.ico
+44ce2a467aa0a950cf7d5ba545d4aba49a58f79545f3e045f6fd225803748b15 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Project.ico
+9d21b4077d48575e85ccb2616740b5aabb96793940e30fe185376d42ab814318 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Publisher.ico
+0fa65ef3f24cf4c37fb6cf68fc83087b0f380ca257558e02ddf6084d3bbc4d11 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Visio.ico
+4198e13cea3ef6b0b7f5e62674cf891be0e36df67674fe2a9dae637572788efb *ICO\Apps (Windows 8)\Microsoft 365 (Office)\Word.ico
+2166b0dbbee82e71f6843e7bb94b89c0f1d2d86a75a3837eaaac1a01aad92cc1 *ICO\Apps (Windows 8)\Microsoft 365 (Office)\zExchange.ico
 98eb9c770e4ca7db3f7bc04847ac0c36c752507a3a2f8e8babd1978e474f6418 *ICO\Apps (Windows 8)\Microsoft Edge.ico
 0ec63798b755482bfce779d9b47d1c82442bb3c7508acb9c34814c5b6d09a728 *ICO\Apps (Windows 8)\MovieMaker.ico
 9614a9ea40ffe5a5e1aec5708b23730f98aa88b6afe4304cc62abc2621fe5ba4 *ICO\Apps (Windows 8)\Narrator.ico
-b661d4074e21d2c7bc3c807dec0c27297491f833fcaa772607b8595ca5784d26 *ICO\Apps (Windows 8)\Office\Access.ico
-a676859f6c188639c0a7750efa924c3ba54fd942b99ee91f22ebc32615fe93b4 *ICO\Apps (Windows 8)\Office\Lync (Skype for Business).ico
 c17afa1723f87245e1754f27ddbc135b4ea62c7a7dcd696f7fb8480810480afb *ICO\Apps (Windows 8)\Package.ico
 879027066051be7d76c5a425d03d12242dd0be4d61c3799c3932caffd7f1ee6b *ICO\Apps (Windows 8)\Photos.ico
 98a8cdfc84c81a461368eaca896a348bf4eadb2a1ce4d7546ff9a3d60b17bfea *ICO\Apps (Windows 8)\Printer.ico
@@ -322,27 +334,30 @@ dc7e81db34c6fb7f4ed15b08eefdb4704dcae6ccea2492c36ab2703f6645bd81 *ICO\Apps (Wind
 5e3e0d9a8d59044e066c63d19ff0e94fe81f3c5ebfc68215ebdcec2669b5250a *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Creative Cloud.ico
 7a3ecc617a8ef50d6b6206c4a7470cc4416cba70e6d7fdd16b53797e5a45d5e3 *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Elements Organizer.ico
 403c25839b58fec4caab43f3ded1d0e8ade5bfd0bd3ef3f7b439da941c4d9b77 *ICO\Apps (Windows 11)\Adobe\App (Old) 3\ExtendScript Toolkit.ico
+39edc83212182e5da5275f9b67ac0e24d5943b2f68d6709707535f3a6b7d773d *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Extensions Service.ico
 cb7402cd20d2a6bb7bfc0b1c67952c4e52abd18aafb656b71f8f14d478764143 *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Flash.ico
 ba83f9eaaaf184a431f085187534e7e5bf2084fe2642ca1e5ddf0e373ed90484 *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Photoshop Elements.ico
 30b12929926fa0682f225a33b7d941a88852801376f53b74c4f464ebf68d8086 *ICO\Apps (Windows 11)\Adobe\App (Old) 3\Premiere Elements.ico
-93a8118cb8ab70b720d68755daa9f5801b7a879733fbaa8a7a96f8bce2664ad5 *ICO\Apps (Windows 11)\Adobe\App\Acrobat Distiller.ico
-16cef80f13ad52b3029e7e5ddc814abb2a06a93a34ef8e1e4dfe74e6ab122f89 *ICO\Apps (Windows 11)\Adobe\App\Acrobat Reader.ico
-10ca0446e6deaf87a311cd583d6540e08b2d95f7b52fab962eeaa40df272e0bd *ICO\Apps (Windows 11)\Adobe\App\Acrobat Updater.ico
-d5208a5b7b23c723f950b0bd1058b89489243fb86d9f443ddc64a5df5644b9bb *ICO\Apps (Windows 11)\Adobe\App\Adobe.ico
-efceebd5d523e48ba225958c87ba2e224b909f307b3ae8dce27281bdb9ce0e3c *ICO\Apps (Windows 11)\Adobe\App\Audition.ico
-2b681a7a1f4d8b0c0d0f216ac5aa86ca598334fbd1168efc5abddbec3994654c *ICO\Apps (Windows 11)\Adobe\App\Bridge.ico
-9d6969f1f504b043c19007a3254157aa6d6eda4ff126b09b138c5197faa56bed *ICO\Apps (Windows 11)\Adobe\App\Creative Cloud 1.ico
-1b1039c2c5eeeed7a1914a6942af78485820c5ff6c579ccd942b30a15c45a7fa *ICO\Apps (Windows 11)\Adobe\App\Creative Cloud 2.ico
-8a774658a5964560ff74a4905532e53bb53fa93def0b9515e0e0e7a4766a4a88 *ICO\Apps (Windows 11)\Adobe\App\Creative Cloud Diagnostics.ico
-e231b18232c1d73715e7fd0d555f5e2fef2ac56a425d94d7be4b9435ad9de4cb *ICO\Apps (Windows 11)\Adobe\App\ExtendScript Toolkit.ico
-6c93e41e08d113a619c8380e2c10ed015e62c3f2fab918bf5855d01134e2e3b1 *ICO\Apps (Windows 11)\Adobe\App\Illustrator.ico
-150c9a4110e0b57bcce03a30d02ff96f85d4d3f6363250304bb15f1d15e90026 *ICO\Apps (Windows 11)\Adobe\App\InCopy.ico
-30698dd3b9e4879ad4091a0cbb711511b37b41e36ae83db7dfd831d560618867 *ICO\Apps (Windows 11)\Adobe\App\InDesign.ico
-cb540e7f7fe3f177751df650729a4ca787b272104b2ee190f330eecbbc973341 *ICO\Apps (Windows 11)\Adobe\App\Photoshop.ico
-215d72eb8af75b0509267d8e1846ada4b6623d5e221d2eec5dbefc519a4758bb *ICO\Apps (Windows 11)\Adobe\App\Prelude.ico
-c40f5c1a2565bbe5c4bf25ab3b05e2ed01c126f8f84e3a0ba94ccfad9973ba38 *ICO\Apps (Windows 11)\Adobe\App\Premiere Pro.ico
-15632d0d0bee3d0c930290f5a8b806b0c0fef64520338d9f67bb7ebaf8acac91 *ICO\Apps (Windows 11)\Adobe\App\Premiere Rush.ico
-40399730cea99f85533cf870e164f2e719678270091043bc0a52e03388ac331d *ICO\Apps (Windows 11)\Adobe\App\UXP Developer Tools.ico
+93a8118cb8ab70b720d68755daa9f5801b7a879733fbaa8a7a96f8bce2664ad5 *ICO\Apps (Windows 11)\Adobe\App 2025\Acrobat Distiller.ico
+16cef80f13ad52b3029e7e5ddc814abb2a06a93a34ef8e1e4dfe74e6ab122f89 *ICO\Apps (Windows 11)\Adobe\App 2025\Acrobat Reader.ico
+10ca0446e6deaf87a311cd583d6540e08b2d95f7b52fab962eeaa40df272e0bd *ICO\Apps (Windows 11)\Adobe\App 2025\Acrobat Updater.ico
+d5208a5b7b23c723f950b0bd1058b89489243fb86d9f443ddc64a5df5644b9bb *ICO\Apps (Windows 11)\Adobe\App 2025\Adobe.ico
+efceebd5d523e48ba225958c87ba2e224b909f307b3ae8dce27281bdb9ce0e3c *ICO\Apps (Windows 11)\Adobe\App 2025\Audition.ico
+2b681a7a1f4d8b0c0d0f216ac5aa86ca598334fbd1168efc5abddbec3994654c *ICO\Apps (Windows 11)\Adobe\App 2025\Bridge.ico
+37c1b208613d5f446a23be4e9bbefa5030703eff2de4679f11cfda72eb2ee52a *ICO\Apps (Windows 11)\Adobe\App 2025\Connect.ico
+9d6969f1f504b043c19007a3254157aa6d6eda4ff126b09b138c5197faa56bed *ICO\Apps (Windows 11)\Adobe\App 2025\Creative Cloud 1.ico
+1b1039c2c5eeeed7a1914a6942af78485820c5ff6c579ccd942b30a15c45a7fa *ICO\Apps (Windows 11)\Adobe\App 2025\Creative Cloud 2.ico
+8a774658a5964560ff74a4905532e53bb53fa93def0b9515e0e0e7a4766a4a88 *ICO\Apps (Windows 11)\Adobe\App 2025\Creative Cloud Diagnostics.ico
+e231b18232c1d73715e7fd0d555f5e2fef2ac56a425d94d7be4b9435ad9de4cb *ICO\Apps (Windows 11)\Adobe\App 2025\ExtendScript Toolkit.ico
+6c93e41e08d113a619c8380e2c10ed015e62c3f2fab918bf5855d01134e2e3b1 *ICO\Apps (Windows 11)\Adobe\App 2025\Illustrator.ico
+150c9a4110e0b57bcce03a30d02ff96f85d4d3f6363250304bb15f1d15e90026 *ICO\Apps (Windows 11)\Adobe\App 2025\InCopy.ico
+30698dd3b9e4879ad4091a0cbb711511b37b41e36ae83db7dfd831d560618867 *ICO\Apps (Windows 11)\Adobe\App 2025\InDesign.ico
+cb540e7f7fe3f177751df650729a4ca787b272104b2ee190f330eecbbc973341 *ICO\Apps (Windows 11)\Adobe\App 2025\Photoshop.ico
+215d72eb8af75b0509267d8e1846ada4b6623d5e221d2eec5dbefc519a4758bb *ICO\Apps (Windows 11)\Adobe\App 2025\Prelude.ico
+c40f5c1a2565bbe5c4bf25ab3b05e2ed01c126f8f84e3a0ba94ccfad9973ba38 *ICO\Apps (Windows 11)\Adobe\App 2025\Premiere Pro.ico
+15632d0d0bee3d0c930290f5a8b806b0c0fef64520338d9f67bb7ebaf8acac91 *ICO\Apps (Windows 11)\Adobe\App 2025\Premiere Rush.ico
+40399730cea99f85533cf870e164f2e719678270091043bc0a52e03388ac331d *ICO\Apps (Windows 11)\Adobe\App 2025\UXP Developer Tools.ico
+95b6d13c731fcbbf41ff5141a13b3b9dd0ea575683c093a47e6b2a7db6ddaebf *ICO\Apps (Windows 11)\Adobe\App 2026\BridgeApp.ico
 b1c4bebc26ebe790e0fded5635ed268b9cb712f4e371ff22491d219af50ec387 *ICO\Apps (Windows 11)\Adobe\Book\InDesign INDB.ico
 91d357c5e5572e542febf1c4e09a4198ef8c800a873b0afd3e06fd72c8d8abe8 *ICO\Apps (Windows 11)\Adobe\Box\InDesign IDAP.ico
 f8df88ea7563c5e7d9e52017a7ca0db4fac9f67170a76febc376f1eb212160bf *ICO\Apps (Windows 11)\Adobe\Box\InDesign IDML.ico
@@ -357,14 +372,22 @@ f987be04cd705ec0f24ecbc220571be657fde9da3f1479223eb017b5c1220716 *ICO\Apps (Wind
 a2652d74b2ba0aae00d0be7bd399abf2d527dca48619d4ed54be4ea23a58e096 *ICO\Apps (Windows 11)\Adobe\Disk\Photoshop Elements.ico
 d14048b8cd7df967e8bdffc7f385876ca4333f07d10ff99ea3828589879695e5 *ICO\Apps (Windows 11)\Adobe\Disk\Photoshop.ico
 c128524a4e1480830df5bca79809661aba633c28de7ee206c0d8260a501d310c *ICO\Apps (Windows 11)\Adobe\Disk\Premiere Pro.ico
+66206c7ac46b84358f227cb78bd59228b89b79b760f5b82ea1c333c3fa7fbab6 *ICO\Apps (Windows 11)\Adobe\File (Beta)\ACTION.ico
+072d2617bda690d93ae58180ab058ab7095418e4c212da189c85b015fbef28b6 *ICO\Apps (Windows 11)\Adobe\File (Beta)\FDF.ico
+4133b0f0d0290bb5e924a332e4549c0ce7f4b18c951e1b2a4788c5d609657adf *ICO\Apps (Windows 11)\Adobe\File (Beta)\Portable Document File.ico
+44b2e077616d0373a09195a3a7812f5d6f9c4917e70dfcf1acfe4073f52a69bf *ICO\Apps (Windows 11)\Adobe\File (Beta)\Portable Document Index.ico
+90607258626f5f5d26d4c1bfbb4f01b84d390e82ff500beb7167be1c2598a548 *ICO\Apps (Windows 11)\Adobe\File (Beta)\PS.ico
+83dab97888a446ff75cf711ceff55ded2e8f3a47e4e901e21e2c375ff1c58a51 *ICO\Apps (Windows 11)\Adobe\File (Beta)\SEC.ico
 2805ea34344284feba935fbb38d54cfe70d8d74145edb814cf0b22e6094ffbb5 *ICO\Apps (Windows 11)\Adobe\File (Beta)\Substance 3D Viewer.ico
+fd2fd4bcba28fe97daee840c44986e4234226fa501e0eca684c053cb310c8402 *ICO\Apps (Windows 11)\Adobe\File (Beta)\XDP.ico
+75b34f43bb6be319c7eeefc6a06b8984292939ce4ff95cda55c7961e067b0a94 *ICO\Apps (Windows 11)\Adobe\File (Beta)\XFD.ico
+34715c7e9e2cf2bcbe7dc1c4a786c676e06e75d9a7f883cf70ae97e9110b7527 *ICO\Apps (Windows 11)\Adobe\File (Beta)\XFDF.ico
 606ad4c16a7da1dba4c8ca062ca8c59962f84640541a3eb5ded3b65baf488142 *ICO\Apps (Windows 11)\Adobe\File (Old) 1\ExtendScript Toolkit JSX.ico
 ceb55c64bbd4e16227dab2bb9c713e357e4d4eaf474557bffab64421928444c8 *ICO\Apps (Windows 11)\Adobe\File (Old) 1\Photoshop Elements PSD.ico
 f36c60fb4133f1d80b7de83a41241093b01c07721f57093abb7d5631d07e7829 *ICO\Apps (Windows 11)\Adobe\File (Old) 1\Photoshop Elements PSE.ico
 97e4ae3430e1bbe09a4db22928c968aa1b2781aee5a305bffc51a9dec1077281 *ICO\Apps (Windows 11)\Adobe\File (Old) 1\Photoshop PSD.ico
 74436f1f6e2a01c7a7fe2c9475f2334d4f3b193ac5ad417ff59d2e0cb6521143 *ICO\Apps (Windows 11)\Adobe\File (Old) 1\Premiere Elements PRE.ico
 14a281f0e82dd27aec488a88f97450cfcd74de08c99c959dadbed844b001365a *ICO\Apps (Windows 11)\Adobe\File (Old) 2\Idea.ico
-73718a64755c2a83df3cfc88cc0329b65160b925b0b83043a5f89f4d1175c3d3 *ICO\Apps (Windows 11)\Adobe\File\Acrobat Reader.ico
 ac94a69c0c4fc75949bdb504c300843838760d47564b9d1064888b0a2f899bc3 *ICO\Apps (Windows 11)\Adobe\File\After Effects AEP NEW.ico
 b961ecdf297c4172c87954e79c9a4bc4d10c29e625b18896a016bc763b4a55c8 *ICO\Apps (Windows 11)\Adobe\File\After Effects AEP.ico
 6d9ac6b2ac73fb982ffae5a3c95cb9985fd68b4523da4222b45febdf0811a486 *ICO\Apps (Windows 11)\Adobe\File\Audition CDLX.ico
@@ -379,39 +402,34 @@ ceb5fd39509b7ff0c195775e3437c4533a5fecc1a2988789de607d9913eba465 *ICO\Apps (Wind
 e8cba565e57d5b6e97b4985aefa62d94ef9b28bb3276731ebdbac2336201b873 *ICO\Apps (Windows 11)\Adobe\File\Premiere Pro NEW.ico
 caef142e4bbedf802c637d8e1b9afc75c4e697c9774ee33f326955e1fc872e95 *ICO\Apps (Windows 11)\Adobe\File\Premiere Pro.ico
 203a905dcf95d9240b3afcc4380c65b8db6033f5464ee528da813759d9a99745 *ICO\Apps (Windows 11)\Adobe\File\Premiere Rush.ico
-9b9c63f7da7c62cb1e8329a044bcaff02d050113c7ca011209bbbdffee668b85 *ICO\Apps (Windows 11)\Adobe\File\z ACTION.ico
-99389f47467bd74b06596fd62776932cb3a74bc3f7b49bf285d13de7675d6819 *ICO\Apps (Windows 11)\Adobe\File\z FDF.ico
-d5812f68448e2f991d472e2fcb3f61f42cdfe54d5a510d695fc8b71cb93d31c7 *ICO\Apps (Windows 11)\Adobe\File\z PDX.ico
-6c69f65b1dd25222760eee3453ff476d02df313d71fea71ac07d406ebe7902e2 *ICO\Apps (Windows 11)\Adobe\File\z PS.ico
-1d29de84278bf6c8cb3817ed54938b4858b432e74c98d5712aca8f0ddb29a0aa *ICO\Apps (Windows 11)\Adobe\File\z SEC.ico
-ed376056ce6a171995719e78c150651694910f1ca5ccfcfb813d71d1f6f075f6 *ICO\Apps (Windows 11)\Adobe\File\z XDP.ico
-945862840be62e250d384cab7d92a2c9e1a6add60caff623ef979e767d2db464 *ICO\Apps (Windows 11)\Adobe\File\z XFD.ico
-1e351845f292bdf1068b2fa80c6dced97db337849917771a9a4f601e3cd67b62 *ICO\Apps (Windows 11)\Adobe\File\z XFDF.ico
 d2865fd40515aa97eeede811728860f9ead9ea5acc9f405938c4936f02cd2156 *ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Character Animator.ico
 1992416d4448f506029123014af9f8c51230f7f6bcedd1c471869b2efd47e31e *ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Media Encoder.ico
 d7b793f3bb6995f8191ad5d7608433e02c0d9705384fc55b04e8c9a1dd4d5e87 *ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Premiere Pro.ico
 b1a9cc3d5a7fff428207b05116bd493984325839acfb6636f4f0a0870f4c2560 *ICO\Apps (Windows 11)\Adobe\Folder (Beta)\Substance 3D Viewer.ico
 603db95651c9dbbaf6574e79c8e558772a63f7e2985733d36ee376c508261a34 *ICO\Apps (Windows 11)\Adobe\Folder (Old)\Photoshop Elements.ico
 f149505609580027199e898f9789628876560b33d34e05cdf04965970f45c34a *ICO\Apps (Windows 11)\Adobe\Folder (Old)\Plugin Photoshop.ico
-a537236aa7775ef90d034e700fdf7ba0a85defa7d5f058eb37d7f34411061134 *ICO\Apps (Windows 11)\Adobe\Folder\Acrobat.ico
-01a4b0d95a3f540f4e9091ea0244bd7a520aa226dc512fc6ab614b96438ec335 *ICO\Apps (Windows 11)\Adobe\Folder\After Effects.ico
-99f7f2f544b9ca1518b053167e312c8431781edc34cb6cc5579034b1ffbd91ea *ICO\Apps (Windows 11)\Adobe\Folder\Audition.ico
-78acc34b797489e2849ac1bae42fcbb1cf7dfb832cf97ea6d800a44c5ef9717c *ICO\Apps (Windows 11)\Adobe\Folder\Bridge.ico
-79d4b61bebf0c448870c6c18f8bb98bc6ed3be37f418886dc934635ffcb5bf68 *ICO\Apps (Windows 11)\Adobe\Folder\Character Animator.ico
-8236dba8d6d6d56fc93ed714b4c2fcc2e3a2cd6a0c85c5793a5ff736143f9f7a *ICO\Apps (Windows 11)\Adobe\Folder\InCopy.ico
-c2d6fe0e5c10cfb9f6dd31215122508a40f1f846edbcc4f83d71aafed7bdc1bc *ICO\Apps (Windows 11)\Adobe\Folder\InDesign.ico
-cd94c68755ada3fc5f04b4295387030c5bee9738df69d1179661bd9abcec0316 *ICO\Apps (Windows 11)\Adobe\Folder\Media Encoder.ico
-0f612e1963215318b5527514be9dc6b97fcfecbe40f038363a4c139f66ac62cf *ICO\Apps (Windows 11)\Adobe\Folder\Photoshop.ico
-b46828995a829728f1d744847cf7dd4515d580c654ac865ba734f4fea422ff99 *ICO\Apps (Windows 11)\Adobe\Folder\Plugin InDesign.ico
-1a46cd99c34793be817e50c4ad8d423c137065610a479f5e21c1eb9bd81c224f *ICO\Apps (Windows 11)\Adobe\Folder\Plugin Photoshop.ico
-0e8662143fa315f44ac89ec4e4df98f8d84039820ab52ad998c8f950785ae03f *ICO\Apps (Windows 11)\Adobe\Folder\Prelude.ico
-5447e9fd728450c33504459a41ab78d15ae5584911fe736f246f431c6ef14347 *ICO\Apps (Windows 11)\Adobe\Folder\Premiere Pro.ico
-60db587b23790d26ad75e8b054c18f03ca79447173eb77acdf469a384c9f354e *ICO\Apps (Windows 11)\Adobe\Folder\UXP Developer Tools.ico
+a537236aa7775ef90d034e700fdf7ba0a85defa7d5f058eb37d7f34411061134 *ICO\Apps (Windows 11)\Adobe\Folder 2025\Acrobat.ico
+01a4b0d95a3f540f4e9091ea0244bd7a520aa226dc512fc6ab614b96438ec335 *ICO\Apps (Windows 11)\Adobe\Folder 2025\After Effects.ico
+99f7f2f544b9ca1518b053167e312c8431781edc34cb6cc5579034b1ffbd91ea *ICO\Apps (Windows 11)\Adobe\Folder 2025\Audition.ico
+78acc34b797489e2849ac1bae42fcbb1cf7dfb832cf97ea6d800a44c5ef9717c *ICO\Apps (Windows 11)\Adobe\Folder 2025\Bridge.ico
+79d4b61bebf0c448870c6c18f8bb98bc6ed3be37f418886dc934635ffcb5bf68 *ICO\Apps (Windows 11)\Adobe\Folder 2025\Character Animator.ico
+8236dba8d6d6d56fc93ed714b4c2fcc2e3a2cd6a0c85c5793a5ff736143f9f7a *ICO\Apps (Windows 11)\Adobe\Folder 2025\InCopy.ico
+c2d6fe0e5c10cfb9f6dd31215122508a40f1f846edbcc4f83d71aafed7bdc1bc *ICO\Apps (Windows 11)\Adobe\Folder 2025\InDesign.ico
+cd94c68755ada3fc5f04b4295387030c5bee9738df69d1179661bd9abcec0316 *ICO\Apps (Windows 11)\Adobe\Folder 2025\Media Encoder.ico
+0f612e1963215318b5527514be9dc6b97fcfecbe40f038363a4c139f66ac62cf *ICO\Apps (Windows 11)\Adobe\Folder 2025\Photoshop.ico
+b46828995a829728f1d744847cf7dd4515d580c654ac865ba734f4fea422ff99 *ICO\Apps (Windows 11)\Adobe\Folder 2025\Plugin InDesign.ico
+1a46cd99c34793be817e50c4ad8d423c137065610a479f5e21c1eb9bd81c224f *ICO\Apps (Windows 11)\Adobe\Folder 2025\Plugin Photoshop.ico
+0e8662143fa315f44ac89ec4e4df98f8d84039820ab52ad998c8f950785ae03f *ICO\Apps (Windows 11)\Adobe\Folder 2025\Prelude.ico
+5447e9fd728450c33504459a41ab78d15ae5584911fe736f246f431c6ef14347 *ICO\Apps (Windows 11)\Adobe\Folder 2025\Premiere Pro.ico
+60db587b23790d26ad75e8b054c18f03ca79447173eb77acdf469a384c9f354e *ICO\Apps (Windows 11)\Adobe\Folder 2025\UXP Developer Tools.ico
+94017fc5c4d8d0f4a1e099e6e0d25ad0cf151955e79ceff5f43534c950730994 *ICO\Apps (Windows 11)\Adobe\Folder 2026\Bridge.ico
 4235cd5b146a9b55f0fdc5b0280d0705894633f4e278a990282ea291ccb04fd0 *ICO\Apps (Windows 11)\Adobe\Package (Beta)\Aero.ico
 4b8629a167716b2632564a7a453a8a14c9ec15129d8ed12f39d555a79da36a90 *ICO\Apps (Windows 11)\Adobe\Package (Beta)\Character Animator.ico
 cdd9be6a2339f5ff788d4988ecf7439dd50942864e643c0f567b932b5f0f8fb0 *ICO\Apps (Windows 11)\Adobe\Package (Beta)\Media Encoder.ico
 12a1b2b8f92590352980f967d5e3c383e27c76d71e4c43ea4794757c89f28c81 *ICO\Apps (Windows 11)\Adobe\Package (Beta)\Premiere Pro.ico
 f6d9ddc6f7c9ee08bed4222944f03f79a8960cf135ce0a14d3b05a878f15c061 *ICO\Apps (Windows 11)\Adobe\Package (Beta)\Substance 3D Viewer.ico
+fa7e768d2b7950a02ee3a4446575ef6fe4e296e23252025eb31103f4eaf4c800 *ICO\Apps (Windows 11)\Adobe\Package (Old) 2\Adobe Old.ico
+af4da2b6340d0e7118ab91ca83828248285fc5d0426bf845d8678d65f3deb35b *ICO\Apps (Windows 11)\Adobe\Package (Old) 2\Adobe.ico
 04b387d82919aae1193412dfaaecf1822c845082dc99d3a3e9a17a732185379d *ICO\Apps (Windows 11)\Adobe\Package (Old)\Adobe.ico
 c83ff2cd12aa59a211719945c7535c9d09aff64e01d9c88964a59045e0922347 *ICO\Apps (Windows 11)\Adobe\Package (Old)\Air.ico
 68cef96971a9a104412e1d862dedcd12c87ecf03a255ffda60cabd7f20d582af *ICO\Apps (Windows 11)\Adobe\Package (Old)\Creative Cloud.ico
@@ -425,6 +443,7 @@ dc7d8fd37e1a3711889c1d9301843b4ebdf0da6d5083bda9443c246333d912eb *ICO\Apps (Wind
 e666610191ea67fb55bbd2d34f441bed70cd458eeb1685a73a7ad21f4eed2892 *ICO\Apps (Windows 11)\Adobe\Package\Audition.ico
 942d61ca73c9d17cfc311e1e908f199a47b8bb297fb821a8ffc159ec10197623 *ICO\Apps (Windows 11)\Adobe\Package\Bridge.ico
 d052657a92933ab4b0a113ad2adf213f276a170f66c921bd898fc82c4750ac28 *ICO\Apps (Windows 11)\Adobe\Package\Character Animator.ico
+fea6f02c095f9c28c1703eaaaf90aa8ed5c72e3441b25c4d508b4f5e72713a01 *ICO\Apps (Windows 11)\Adobe\Package\Connect.ico
 e655d98b3055983eac1db65e18399b6ad15714280828ed79126d733ecfd96842 *ICO\Apps (Windows 11)\Adobe\Package\Creative Cloud.ico
 5e26c8f386f92abb59f0e41b3349ada97127fcbb6054c9017c38f4b7ca659cc5 *ICO\Apps (Windows 11)\Adobe\Package\Dimension.ico
 7a763ad4c58a8ff19bf1324a34098bd74a2b9862ae5cb5ba98f434adb1ee40f2 *ICO\Apps (Windows 11)\Adobe\Package\Dreamweaver.ico
@@ -452,12 +471,10 @@ f9a55537124acc4e3154a257694233bc5d731141bb986c5a7a6c2f3287c0beb1 *ICO\Apps (Wind
 85a44cc07f704d8b1f1473e8ab13fbee95e14fee0eeb6c4a40c26af26ea0a900 *ICO\Apps (Windows 11)\Adobe\Paper\InCopy ICAP.ico
 0cc3999c7372daf006ee418a38918a8e0fb34e6f70adaefba0b362d09b6b0ec7 *ICO\Apps (Windows 11)\Adobe\Paper\InCopy ICMT.ico
 7788609f9b547c94bdbc901ec2327a667a72d05e7ce449abafcecb88d361d6b5 *ICO\Apps (Windows 11)\Adobe\Paper\InDesign INDT.ico
-de8c8c1b67befa7d59031fe3b270da44eda97dfd363c6e88bfce72bcb30dadfb *ICO\Apps (Windows 11)\Adobe\Store\ADDR.ico
-27165a84b474f5d4443a64907c1770270c736f9ef5aab79605ca1451014a1f6a *ICO\Apps (Windows 11)\Adobe\Store\LOC.ico
+9c7716fde707779ec3f35d33ce2e40e028d1a63c25fec6ce29ff818409f9c9c2 *ICO\Apps (Windows 11)\Adobe\Store\ADDR.ico
+b715f81f72ce28e064d07b3b5af53838c502704d34c7117cc7a089338fe3d5bb *ICO\Apps (Windows 11)\Adobe\Store\LOC.ico
 055a984cb0992803e3eb19e805146f26cd82915a06fdbb76db0baea15db59422 *ICO\Apps (Windows 11)\Adobe\zOther\Acrobat (Add).ico
-fa7e768d2b7950a02ee3a4446575ef6fe4e296e23252025eb31103f4eaf4c800 *ICO\Apps (Windows 11)\Adobe\zOther\Adobe Old.ico
 f597c7d19fe65b8854ef383883c024bc889821600cb171a8b70383aea870f552 *ICO\Apps (Windows 11)\Adobe\zOther\Adobe Update Helper.ico
-af4da2b6340d0e7118ab91ca83828248285fc5d0426bf845d8678d65f3deb35b *ICO\Apps (Windows 11)\Adobe\zOther\Adobe.ico
 63b1b93468845a0ea988237882f5caef08f25892df80fcf3d82e2cdefbd2b0bb *ICO\Apps (Windows 11)\Adobe\zOther\Drive.ico
 69a4c5eee3a1365f1727a6bf7de5ae23e91bf18b0370099b4265ed80e50be4fe *ICO\Apps (Windows 11)\Adobe\zOther\MAINICON.ico
 9807a7a21950508a707ee695c3bef03b28304dd457c0b8aa9d1e7abc0e898b25 *ICO\Apps (Windows 11)\Adobe\zOther\Photoshop.ico
@@ -806,6 +823,7 @@ d3b431f3d9a71c4341b9002927a1c63b344cca97688249ab43c6a27a56ae42e6 *ICO\Apps (Wind
 e02e24598c5019881460d6357221b05ad28996088fc87cc04a6952184983d2e9 *ICO\Apps (Windows 11)\PowerToys\Peek.ico
 10a18f29a3624cd089f7bd78a3b4d68692df686ec2872ebbbe049d1a914a4efd *ICO\Apps (Windows 11)\PowerToys\Power OCR.ico
 ef4f4cd8cbb2a931499837b6a06a74ff67ffe9b10044229acd449a007a153611 *ICO\Apps (Windows 11)\PowerToys\Power Rename.ico
+deb9358976557420dc926761824423720501ee5939828554349e94be372a50ab *ICO\Apps (Windows 11)\PowerToys\PowerDisplay.ico
 15330d83078ab5e337ab86fcde8a4f660ac63fdb133556e3ef229b2803b2507f *ICO\Apps (Windows 11)\PowerToys\PowerToys.ico
 83fc9c75fb746e15587395935070289d29e58e7872fe067c9d55f92d3574d42f *ICO\Apps (Windows 11)\PowerToys\Registry Preview.ico
 72286088ab531d3c023d8e0a82ed1c9cc042e0f2ef1d4d69469e02b2618e9bf6 *ICO\Apps (Windows 11)\PowerToys\Workspaces.ico
@@ -904,10 +922,12 @@ f86f32560aabece7c0a716bf96363a8cd0a48582ee70fa87bcc6d8e536c661d8 *ICO\Apps (Wind
 1fc86dd71c4569f9a6a8e438f34c749359c045e9428f492a55199694499e7f7c *ICO\Apps (Windows 11)\YouTube.ico
 4e9cf12123b6b1f5147f7d434b4a50eb5b2b0a10ec64d410702947e10828501b *ICO\Apps (Windows 12)\Blend for Visual Studio Insiders.ico
 d8dbc81b814d92665a424678055007c45bc0a479c4327779788760de7f45c824 *ICO\Apps (Windows 12)\Blend for Visual Studio.ico
-2c5d136afdd6c0517e42533c1a2b11a7b1726bb82ccc4a5aa334c765eb70ce4e *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Microsoft 365.ico
+4394a55716dc0db891d40ca9c3d0e40f54fbf38fbaff9e48fe3dbfbdf8e363fb *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Capture.ico
+41539c3e27cdeb64f2dd6d3d729d99e1cd5f90d6df3b7ee192e1bd61249193ac *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Microsoft 365.ico
 65a14bbe16b98b07b11b4c7ef85525ddc445b7e7bf1d8732aaa94d7fea469b06 *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_OneDrive.ico
-6de07cc0d2b6fe13b17f1e565989c16d216aff07cd0aa6487b7e738dbb6f0d40 *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Sticky Notes.ico
-d456394926e4befe310dffc5c24d872329f56a4312788d5a888df668f0d3e03f *ICO\Apps (Windows 12)\Microsoft 365 (Office)\Access.ico
+052def9ff8ee6cb5a955fcaff7e0e0d3f3e450640f843509b9eeff78b7e755a4 *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Sticky Notes.ico
+9b2ad1c4149759e5b1934adbb40c7468b94e3f0a57274028c538d6acb93afe5c *ICO\Apps (Windows 12)\Microsoft 365 (Office)\_Writing Assistant.ico
+4dda6722176967de59e79024bd9541e95f07d20562529a93069a14a1d0b7d7cf *ICO\Apps (Windows 12)\Microsoft 365 (Office)\Access.ico
 3c940c6246cc85b7cb1ff423bf81a02b963d1161758bb48460db2a3efc487580 *ICO\Apps (Windows 12)\Microsoft 365 (Office)\Excel.ico
 bca443623597a331a646bee8a2dfee49e10f3e9b7b284f93f703df853e09350a *ICO\Apps (Windows 12)\Microsoft 365 (Office)\OneNote.ico
 e43d93bb8ffd79a5d0c4b4625ccd5c0e434274690a80856d5da393ae14367c1c *ICO\Apps (Windows 12)\Microsoft 365 (Office)\Outlook (gold).ico
@@ -1726,6 +1746,7 @@ d53173374a8a54869920b2a1327ff49bf9886c60f369d44742a8203c09d7fb9f *ICO\Filetypes 
 0e286c9cca5a4fe3b6735448487b718df9c94e1c2ab67298fe57d4fa800af90d *ICO\Filetypes (Windows XP)\WRI.ico
 148a96bb70b13b3b5972c2fcebf32c7e0f7a74250d24fa5b36245aa4f583d98c *ICO\Filetypes (Windows XP)\XML.ico
 74aa86cb513cb05ae4183e2f4b128848b45343210480415702f84d4c89b3dbba *ICO\Filetypes (Windows XP)\XSL.ico
+feef1f8df1a3e0410177da4b92c3bc79dd2767bd130217e215a951b0c36e0f6a *ICO\Folder (Windows 7)\_Other\Adobe Crative Cloud.ico
 b60c8a27778134477df57f0f97f473f97e557f148019e7ac51296bf41b79e163 *ICO\Folder (Windows 7)\Animals\bull.ico
 4932f238c0c6d7f9d36c426733789543934eca56b856b34c4794587b305aee2f *ICO\Folder (Windows 7)\Animals\chick.ico
 b690c503e68fb9f1bb33788e2ae6ba1856d2b1e6a732e12035e993223a8ef4fc *ICO\Folder (Windows 7)\Animals\crab.ico
@@ -8807,7 +8828,17 @@ e3f274873d27a74dc80fd72a491afbd5c363847629ceeae897c040173f72dd77 *ICO\Folder (Wi
 ebf8ca18a8659870983eea954d020725dc7f2b8f766543c0486598d612234023 *ICO\Folder (Windows 11)\FolderIconizer\41.ico
 6f42f5968d98df6370956963fc5daf65e3ea87784416210ed5c243427a5f2ffb *ICO\Folder (Windows 11)\FolderIconizer\42.ico
 f776c4554f45ed0b346374d540ad4d9a026681d51e3868def2e5f371d23574bc *ICO\Folder (Windows 11)\FolderIconizer\logo.ico
+5bb27d7cba3a4143074abfa8e32792c19bbe1ef806a01200d808252cee6f62f4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\1.ico
+b7d4bc36420d5e5c6878fa9ef21a2939fedeb978d7fcd1ac62e906dee14af680 *ICO\Folder (Windows 11)\folder-icons_sameerasw\2.ico
+6d0e281a8c26ae9009f10e96e2d5ef787bab80600e1087a0ef95349d29e25d3e *ICO\Folder (Windows 11)\folder-icons_sameerasw\3.ico
+fb4496dd5ac7817ee24e04779af10314efb3d48257225c99be7b6b91692c1e16 *ICO\Folder (Windows 11)\folder-icons_sameerasw\4.ico
+5565e139340348e7aab2f1f2aa3f57ca6cda1a4619aba302a6153f7a1d2e2cba *ICO\Folder (Windows 11)\folder-icons_sameerasw\5.ico
+c23bd17b56f301f64bc2ddbe0a7ce9dae36b276611cfdf1490bfb4ecd9e92d78 *ICO\Folder (Windows 11)\folder-icons_sameerasw\6.ico
+3151b17fb8ea8377ff6dd755a9045324717ffbcb5084605242a63d79091383a0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\7.ico
 faea03d5f8903e0452150c99712dbd01ff433c6e792daa0f31d87fe7094fd715 *ICO\Folder (Windows 11)\folder-icons_sameerasw\8).ico
+b29f35d46ccf55bcd49940d84fb3b79840661d531aff7677332b127f7801065c *ICO\Folder (Windows 11)\folder-icons_sameerasw\8.ico
+f5a9d6dcd26036947702bd9c75e4d00a76d2a95ba2bb6a11c0b63152bb16fe00 *ICO\Folder (Windows 11)\folder-icons_sameerasw\9.ico
+ebda961f1c14964bb017ec7a36dedd62e11c9c4fce86d5e8d578e91858dd0326 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ableton-folder.ico
 41cfe67ec3b01d87e6c44e21ab000f51ee1dcec286e05d99718643d91df71e6a *ICO\Folder (Windows 11)\folder-icons_sameerasw\acer.ico
 09013a7bfe6fa85beb7fe66d04d98747dc75b8827240fffc8360302c903c95ee *ICO\Folder (Windows 11)\folder-icons_sameerasw\adb.ico
 06fb826952a51af329c3840d7aa86df93ebc406a1a29c01d5a19ab2d2af73c87 *ICO\Folder (Windows 11)\folder-icons_sameerasw\adobe.ico
@@ -8827,8 +8858,10 @@ e9d50fbb70b32a4531b711d5d69beba8aa393d86b3b36d7b71546ff5ff801a5c *ICO\Folder (Wi
 3cc143eb6a874a6f18992d0e309adbf5dc02e4d7ac7830b7a8834e34d2c118c1 *ICO\Folder (Windows 11)\folder-icons_sameerasw\adobe-substance3d.ico
 cddb9616e8c2b8122ad0eaae962ca02d7f7ef8f5e71cb959155b70ffaff07336 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ae.ico
 7b71be7e2c21fa71ef75922277b4e0dfdfbf2cfa0f2efea53efc4077bdf89d93 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ahk.ico
-cd298a75ec12ef9add329138e16e8061cb55a5dfcbfbdcaa6fd243dd3f7323de *ICO\Folder (Windows 11)\folder-icons_sameerasw\ai.ico
+d62cbfca937f1c0f69144df55ff96b8a2ba35cdd169af5c3db3c7bab8a4babcf *ICO\Folder (Windows 11)\folder-icons_sameerasw\ai.ico
+cd298a75ec12ef9add329138e16e8061cb55a5dfcbfbdcaa6fd243dd3f7323de *ICO\Folder (Windows 11)\folder-icons_sameerasw\ai-1.ico
 b9e85e069323a6b380df0b78810a17caf6b76ca3e9cb451daec2d6b5154c473c *ICO\Folder (Windows 11)\folder-icons_sameerasw\alienware.ico
+cd3d662b158358c4f94fb2a8e8fddf9c252a536d6a8d548b215594bf70904857 *ICO\Folder (Windows 11)\folder-icons_sameerasw\alipay-folder.ico
 3980ce66028fb262024f752816ce01bc5a8c38b2c7cefcf34abe3c5af14f0418 *ICO\Folder (Windows 11)\folder-icons_sameerasw\amd.ico
 6fc537dbb0a42fea5904356c287f72cdffce1aebe1dcedd22981d496987d12e6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ancientos.ico
 92fb8a2168a59051fc46b66a84d79145455048159331a27fee4e6b75ee9d8f83 *ICO\Folder (Windows 11)\folder-icons_sameerasw\android.ico
@@ -8838,7 +8871,10 @@ d2097a5f4a26b8706fbeb75924efd3bae4e959476674f2f542acacdcbb2101e2 *ICO\Folder (Wi
 86102b28972d00d333c78952905b4b681974f70bacd0c1d9365b5326c2a86929 *ICO\Folder (Windows 11)\folder-icons_sameerasw\android-14.ico
 e68275535fc83ebadb55577f1a3dbb7dc89b841476f8db9f977902f9a21049e8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\android-one.ico
 48e647bbbcf9d6aec6c4f4b11508508db5a39f8dbbaa913aa2d9a7d5d13f08b6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\android-text.ico
+19a2b7570fac219103cff2535f43284abacf1b840f5e82f1529f49b952667c32 *ICO\Folder (Windows 11)\folder-icons_sameerasw\angular-folder.ico
+78677900b2e80bb6fabebfe69cac96e3842fef66cef8466b31cdb37619b233f7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\anthropic-folder.ico
 e888210079aac23de03e6d5c47f2f5727cd84d3814b91e7a7f5cc3f609870d6f *ICO\Folder (Windows 11)\folder-icons_sameerasw\aorus.ico
+0382a448ed834906b773de885d4970f8d3ae513b5e71323dcbb2d3a64b56c1ab *ICO\Folder (Windows 11)\folder-icons_sameerasw\apache-folder.ico
 50ae0c3508cddddc2958b489c48ea2f1e2ecd88a2301cb26bf0f6c0452667fea *ICO\Folder (Windows 11)\folder-icons_sameerasw\apex-legends.ico
 34713ef80553f50edf9335b27e78ac7c2265d8d6df1d8d0c3460cb93747af508 *ICO\Folder (Windows 11)\folder-icons_sameerasw\app.ico
 9eb1b6e0edb3c263030a140274e9df588b45ac49167b1b5ed95c4546e67851aa *ICO\Folder (Windows 11)\folder-icons_sameerasw\apple.ico
@@ -8846,24 +8882,38 @@ e888210079aac23de03e6d5c47f2f5727cd84d3814b91e7a7f5cc3f609870d6f *ICO\Folder (Wi
 8506a6ab71ad1389847ffab798693012672a4421e4e5a5d631848c9932b22fb6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\arch.ico
 5db52f88df7f1d838a309e4937d1e205bc3c8bca18227c16f3b520d43252e66f *ICO\Folder (Windows 11)\folder-icons_sameerasw\arduino.ico
 53992828d45b456c197fe8a03a74d769d47328a20dd06ec42795355d3cecdcc0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\arrow.ico
+adf22eb19aaeecbfb28c445da8b79abdc2eb0897784111066f1c8bc30ba91dd6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\aseprite-folder.ico
 a9315ddb61f4f80594848eb59a13222a108c22999470b4fd552f67ac178471f3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\asus.ico
 ed69fcd8bc7549962632989f90e09bcea46ff9489385f5d622bbddd66afbc4bd *ICO\Folder (Windows 11)\folder-icons_sameerasw\audacity.ico
 511c94a7be37c6a437be227dde419ad673cc92d0d12763b26dcbf6255c04c830 *ICO\Folder (Windows 11)\folder-icons_sameerasw\audio.ico
 b5f12be00518dcdde530e89678d26edce2f69934f54c1f3ae24d6420166c592c *ICO\Folder (Windows 11)\folder-icons_sameerasw\auto-cad.ico
 9266e1aff17872fa22964ac072c9eb7d3888000e46765c40c1ffadca9e860be0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\autoruns.ico
 80221a36f681d243f1b9e625463d3b13ba6cda2a405aea8c48a014967dc6aba2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\awakenos.ico
+14d0bfbb2c79bd6b9897649a565b58f98cc8ef704f97eb3ff88ff784806a7cab *ICO\Folder (Windows 11)\folder-icons_sameerasw\aws-folder.ico
+7ef28db8440c35a9ce4f0403429badb2ad828e037a29473f72c9776954dc3949 *ICO\Folder (Windows 11)\folder-icons_sameerasw\azure-folder.ico
 ec2c5483061ba325978e2640c0986d791c1356709d4ce674f2bb4818bdc3881e *ICO\Folder (Windows 11)\folder-icons_sameerasw\backup.ico
 c534e544bec08bb147a3f687c6660c6df36858ca7e1239f5232c85c508023e3e *ICO\Folder (Windows 11)\folder-icons_sameerasw\backups.ico
+4aa7bbcdbb45f0eaa58d96e4b296f7c2589df7a4365b4924340ef7488a2518f4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\baidu-folder.ico
+4ae4483c067f50f6923a9bcd01bb2ea140a5e8974b7c92b31eecb9e883556419 *ICO\Folder (Windows 11)\folder-icons_sameerasw\bash-folder.ico
+e5b5c1db6e2368501bbde0a9bc268845bfecb9b432adae88c182888358685ee4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\bilibili-folder.ico
 7b078422588db8331168fcef8e5491fe959d14ea56c5e416ab2a7377e5ba8c19 *ICO\Folder (Windows 11)\folder-icons_sameerasw\bit.ico
 8926786647fbf8b1765d19a87ab793c9bb804d1f7df0a34c4f86a76e5a9f3ba2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\bitbucket.ico
 59b8cd6cfdca6777121137e7fbc4487bf451594f9e11f3446d3c55f7558ebd20 *ICO\Folder (Windows 11)\folder-icons_sameerasw\blender.ico
 6421a064b246d1e26d119ba8f774f38893b130f6b95b36afe8c0e6f375703c5b *ICO\Folder (Windows 11)\folder-icons_sameerasw\blockbench.ico
 7bd4d0da6745222864d7e12b1aa7a9f31006d4874088ed6f1d05b47bfcbecf9d *ICO\Folder (Windows 11)\folder-icons_sameerasw\bluetooth.ico
+992f66d5e343fa831021c9b0e1debe989a6190d36d4de8904e6e0a4f25986487 *ICO\Folder (Windows 11)\folder-icons_sameerasw\boris-continuum-folder.ico
+ea7b51aa64156c7bd5196f7321c7ab09e8c81ef98c0c701d6a268e19fec724ea *ICO\Folder (Windows 11)\folder-icons_sameerasw\boris-sapphire-folder.ico
 638d783d79f5716d930e19b2fb7cfe93e4a436de37f6ad266c7761d2d77eace3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\brave.ico
+9451fa443d9b249250c4cf341f9e6d47f535e6f1f5083714f50a784f4cf33842 *ICO\Folder (Windows 11)\folder-icons_sameerasw\budget-monthly.ico
+be44f92941679ebcf1ac96ca5f98b2b4a41978ca5662b28e492c70b1c42f2214 *ICO\Folder (Windows 11)\folder-icons_sameerasw\budget-savings.ico
 f01d14f4d5f5d1c56231b4128efbc85e07c41316dd0e360017a8e6935da3b87e *ICO\Folder (Windows 11)\folder-icons_sameerasw\c.ico
 f3222d6081c451f115debd54689ce4d6c3b47f17019781220019e2ce36b48544 *ICO\Folder (Windows 11)\folder-icons_sameerasw\c++.ico
 b5f12be00518dcdde530e89678d26edce2f69934f54c1f3ae24d6420166c592c *ICO\Folder (Windows 11)\folder-icons_sameerasw\cad.ico
 fd97834cb429f941c82e315d90e34334547071588f363f3aacdc9f6de75bb957 *ICO\Folder (Windows 11)\folder-icons_sameerasw\canon.ico
+0683f90d30611b80a2e5d5d866fa117249ebeabc468112491c7affc62e8aed57 *ICO\Folder (Windows 11)\folder-icons_sameerasw\car-electric.ico
+e23c8880c3f5e9ac4eff46c9191c0169fcf14a49256a04e947dc8659549fcab1 *ICO\Folder (Windows 11)\folder-icons_sameerasw\car-fuel.ico
+9a533d17d05ae38d544c38daf9d75b756b2fc67b1ecc922be2bbafb5216a977c *ICO\Folder (Windows 11)\folder-icons_sameerasw\car-maintenance.ico
+142f73555d1407dcf132e0f9e80d4ffddb8ef6aa7f63989b7f9695020d31c407 *ICO\Folder (Windows 11)\folder-icons_sameerasw\car-personal.ico
 6dc7c80d4bdda8ab8681eecb4b511bc81dc2fc8d0a06756f67f4d4de6a69ce2f *ICO\Folder (Windows 11)\folder-icons_sameerasw\Cemu-emu.ico
 9de59c5b84088d7a104de3049bc979f49642403ee0f95d63763292bf6a5f2bc9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\centos.ico
 b78be7d05afa07dd0a8130f07b8f0ca3e19c34601f0b4352cbd21cc5847aeb96 *ICO\Folder (Windows 11)\folder-icons_sameerasw\chat-gpt.ico
@@ -8873,7 +8923,10 @@ e2203d47032e38ece7dd516488852a12c4a588e795ea2b90b97dbd8451452d3d *ICO\Folder (Wi
 eaf0ed066f806e8fe708d54c5fe292ca476dd67d34b8de9b909632c01f71121c *ICO\Folder (Windows 11)\folder-icons_sameerasw\cities-skylines.ico
 0aa53b0a03d84200b0266e7dfd0f6e1f201e6f129ff728ab60346e72d151e09d *ICO\Folder (Windows 11)\folder-icons_sameerasw\citra-emu.ico
 e1797f755ee886b7b565e3926a1e9034c37640314b5f8a4721e64df6adc4fc89 *ICO\Folder (Windows 11)\folder-icons_sameerasw\civitai.ico
+e36e9ee4f52c3b86d126d88f5a52fdb26545196c719d4d7f2ee5590bb85ca4b8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\claude-folder.ico
 99579061d872f37df75b295af2ac363d391fd0852f47a48793e82fdc7b392431 *ICO\Folder (Windows 11)\folder-icons_sameerasw\clone-hero-emu.ico
+8fb9a467381859df78f70221101ae4c2c1da4f6b60a6e0a1d31da066367e1286 *ICO\Folder (Windows 11)\folder-icons_sameerasw\cloudflare-folder.ico
+bc67780c8ee46e0d65579a62000132d0b9fbbe7b98a111b4ad616d3720624695 *ICO\Folder (Windows 11)\folder-icons_sameerasw\cmd-folder.ico
 b3e3231ab945ce358cd0aea2dce2de3883fa5dfc452f5353676e07e489c9757d *ICO\Folder (Windows 11)\folder-icons_sameerasw\cobalt.tools.ico
 a838cef469c47268fbe31fe52502d6b124be906c95463b401fbd57eaf83a9622 *ICO\Folder (Windows 11)\folder-icons_sameerasw\code.ico
 a211ae177f42dd36482243dcd1e1a01c64ef3853f3694eacdeae8ea9c283162d *ICO\Folder (Windows 11)\folder-icons_sameerasw\corsair.ico
@@ -8886,15 +8939,20 @@ f074ae1291384b09a9db8b0af96f6f67f9ce6a991d15fa66a70e16f4c361f838 *ICO\Folder (Wi
 7b490a347afdce145d4020e56e371c593383b747a5d2bf034fbb3367a7a22f18 *ICO\Folder (Windows 11)\folder-icons_sameerasw\csgo.ico
 d6313471577ad5e61334d5b89f0e3504756fb1ee3a44f38acc08f64e24679290 *ICO\Folder (Windows 11)\folder-icons_sameerasw\c-sharp.ico
 02f838dc1d382ae504caeb40ba9d266cf585b96a47383c05088a84f596ce1579 *ICO\Folder (Windows 11)\folder-icons_sameerasw\css.ico
+c3e8a6d9a3a86f3850ce17ec02b09a1f2e8edfd90b4f49fbb8080554fa6acdd3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\cursor-folder.ico
 946f2e17facbd8ac29b11d785391ded6bfb02ae01773f87f05bb78e195bbf308 *ICO\Folder (Windows 11)\folder-icons_sameerasw\cyberpunk.ico
+ee227716e78cbfbd63367e9d22689154d405993e7b19365e6f519be39b6aefec *ICO\Folder (Windows 11)\folder-icons_sameerasw\dart-folder.ico
 5b27f8632d302c4f7d621c3ee6a9db86d19fbc4aeebc08e16abf5996f58c7374 *ICO\Folder (Windows 11)\folder-icons_sameerasw\davinci.ico
 824e730043a514167161b7ab68e6a4f2ad376712b4b830e93fc01e0ea7bd4ae7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\deepin.ico
+1fc37336c4e6e186ca5d55869939ce3c2cf4a52dc694731c8ad89fbe9220763f *ICO\Folder (Windows 11)\folder-icons_sameerasw\deepseek-folder.ico
 28341a401ee5001e4a3ddd85e128be584998f3b8933ebbda4b3aed667e5701e7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\degree.ico
 a67be84e6dc43aa510a1059653f47e68be51f3bff228fce4ae542f9f730cd2f6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\dell.ico
 e43546d674e49f484b508ab08dc8b5fcfbbb3d1fbd9d84ad8f124fb384509ace *ICO\Folder (Windows 11)\folder-icons_sameerasw\design.ico
 ee81dc28e6cec413d36c35e3669484dd19fd2b93a920185611b761eaa42ecbff *ICO\Folder (Windows 11)\folder-icons_sameerasw\desktop-computer.ico
 48aa6c8ae3a0f94f7113fcaaefbb7481edac7a6afee4297546a5ce0c9325a520 *ICO\Folder (Windows 11)\folder-icons_sameerasw\destiny-2.ico
+48eba7fc9ce7c09c9af18ebc1ad8f7826d48cf5d93b4c093131e00f471860ec4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\developer-folder.ico
 1b4195773f013f51490605d0ce06dfe0b027115721db4771ba252f9a90df2ae9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\diablo-4.ico
+0ec53ca2e935764c59b09417808f745c0e587604ba4b371883863d4ce89bc372 *ICO\Folder (Windows 11)\folder-icons_sameerasw\dingtalk-folder.ico
 da05dca76927ca4b1f24eb37ed0b249f1c19c09a518cbed144e34bde028ccf6a *ICO\Folder (Windows 11)\folder-icons_sameerasw\disabled.ico
 0eef20b75a9c14c9016c8e7ca3910a6fcb2be77d953d7ba1fc2b02f78fd6ce67 *ICO\Folder (Windows 11)\folder-icons_sameerasw\discord.ico
 571827db463815e51f46dc018c0d3f51105b916484d636313b8880bd6cf12ba6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Dism++.ico
@@ -8905,6 +8963,8 @@ d47a440eff13e1bfaed745041d329fd9bf5d4ea043d3d044b47477010b966ce3 *ICO\Folder (Wi
 e5cf0393e86be29a1a208aa3f9e92526019bba84c7f0ce4937842ffb7f9b0248 *ICO\Folder (Windows 11)\folder-icons_sameerasw\dota-2.ico
 9eb24feaf1f9832cca076d251104793e6c68377cab3c7bf3dec249f21500545e *ICO\Folder (Windows 11)\folder-icons_sameerasw\dot-net.ico
 1579ba9a571eb0490645bba421a85b8fe692562eca5615a77a959bbc22a66805 *ICO\Folder (Windows 11)\folder-icons_sameerasw\dotos.ico
+63bbf55cbece2408c7f7f92d0f6f4040f1315e568a46ebddd9a3aaeab5704753 *ICO\Folder (Windows 11)\folder-icons_sameerasw\doubao-folder.ico
+90a6c62cd523169acb0a475b26627e56d693994ca9c3dc98f18d0fc0bc44d7a4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\douyin-folder.ico
 1d1597ba76698cf1fc4c5faa65b1356a6c8ed79fc95323759d323135685c056e *ICO\Folder (Windows 11)\folder-icons_sameerasw\downloads.ico
 45285eb59aa095a4faff64e1bf696e7722678199ce23d876943d5dc5eb5eabdb *ICO\Folder (Windows 11)\folder-icons_sameerasw\dragon-ball.ico
 b39fa9e1e5ccde166264ddf3f9e61064b6b20e700f1c8fec49185cc5f3b934b7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\dreamcast.ico
@@ -8912,6 +8972,11 @@ b39fa9e1e5ccde166264ddf3f9e61064b6b20e700f1c8fec49185cc5f3b934b7 *ICO\Folder (Wi
 4682f11a4c200a85a0d4af057f435c968174578160354d5863602dc411d79263 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ea.ico
 f74fffffd6bfde8a95a38fbfc02b83b22aa667cc42bedd3e2861330c2b3d5515 *ICO\Folder (Windows 11)\folder-icons_sameerasw\earthbound.ico
 4ccec6137c9d6f59c0a739b4582d9e24b9b2ec13803e9854234d9bab4d973cee *ICO\Folder (Windows 11)\folder-icons_sameerasw\elden-ring.ico
+a023309886ce20c7f9326ec86ff957ea87fd1811ea379b0ac7c63f0a9b6aa602 *ICO\Folder (Windows 11)\folder-icons_sameerasw\electron-folder.ico
+88174d5faf1b88a52fac42ded06475d8b2495d9bea6458a83802671878f4b11f *ICO\Folder (Windows 11)\folder-icons_sameerasw\elevenlabs-folder.ico
+5d63d27cc8f802ef317ddff95421dd3a7b1c9dafc9c72dff8d731a6a7b868598 *ICO\Folder (Windows 11)\folder-icons_sameerasw\entertainment-cinema.ico
+8ec5442f5212505acbbeb5058ae553a19bc231eb9899f7db8d48d0c45f693313 *ICO\Folder (Windows 11)\folder-icons_sameerasw\entertainment-gaming.ico
+c486a25794888731ef8a2e3b4ea074d3ba1c28fd5d70f529af19b938b4e13e1f *ICO\Folder (Windows 11)\folder-icons_sameerasw\entertainment-music.ico
 0f06184cb95922e76b3ab62a4b57d2468d8d4de5727a3df86a7ac4bda1908f1f *ICO\Folder (Windows 11)\folder-icons_sameerasw\epic-games.ico
 00ecd407bc531d5938142e61fe933ec61c9cf725117d69de9489462a75f8bf0e *ICO\Folder (Windows 11)\folder-icons_sameerasw\escapist-2.ico
 5d4f9a8c63882ef9cb0407f40c3a2d1ad8aa0cfcf89cf07eba247bf363f25145 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Europa-Universalis-4.ico
@@ -8920,18 +8985,30 @@ e32683dc91476ca4883f081310f921685acc33f5b492c98103bd55c70b08d39b *ICO\Folder (Wi
 2a183ef5af994e4440657084bcbf6cc51334473f4c9afd7c5cbf257bbabc0335 *ICO\Folder (Windows 11)\folder-icons_sameerasw\excel.ico
 0ccebcdba7f589795d30045f15d69a87ec4527c8a4d6457d8b4f68ac46194d94 *ICO\Folder (Windows 11)\folder-icons_sameerasw\f1.ico
 6c828860ec6d467c6888523ec19d680527a2c9b0b94d4b73c0b2746cff7d71ce *ICO\Folder (Windows 11)\folder-icons_sameerasw\fedora.ico
+6589ca5dbde8ae3dbf01a122366f5273024e723d3658dc461b1f0e40d6573cc7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\feishu-folder.ico
 d58c8a6d146c09f358ca8741946ca17d4f79d929d2ef5a5af3a51c3e803ac19a *ICO\Folder (Windows 11)\folder-icons_sameerasw\figma.ico
+9525781e8547d7f166daebe24b56830a15bf0a2208c0e2155b30677d42a18d7e *ICO\Folder (Windows 11)\folder-icons_sameerasw\filmora-folder.ico
+bd150bb129a9a333c9cdcfeca936ba8f74d1a23b6bfb2e4683a5996d453a7b0c *ICO\Folder (Windows 11)\folder-icons_sameerasw\finance-banking.ico
+d607e8a3295fe79c340c8758985ebe38f6f8e6f67f0d3df0eb0c6f5e0a2ebbfb *ICO\Folder (Windows 11)\folder-icons_sameerasw\finance-investments.ico
+ea550d69d4db8761b42c9eccc8b82ff711917b1954d75c08ca6c0dc856b621c4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\finance-taxes.ico
 5ce04929cb7e1a3bcad3bcf2e6b9aab6b971b1516d85a21db50d5371e4642b67 *ICO\Folder (Windows 11)\folder-icons_sameerasw\firefox.ico
 238a3b0a96fae5c422613bd503d9052089fe09c0382a01ba2b30b30f6888543e *ICO\Folder (Windows 11)\folder-icons_sameerasw\fitgirl-repacks.ico
 13b4cf8d60fb61b16c93cad368ca8ed0681cabd0f1ab59c3f7e82785bb0de4ad *ICO\Folder (Windows 11)\folder-icons_sameerasw\fiveM.ico
 d664af9ce43f666088622f1be18ab24b05ffc1fde5222e8f936b062e03fcd4ad *ICO\Folder (Windows 11)\folder-icons_sameerasw\fiverr.ico
 bb31d0e9bfcd146c7192c8fbb6e93386d8abc9dd7ea3a99bbebc1cccce6a3bbc *ICO\Folder (Windows 11)\folder-icons_sameerasw\flamegapps.ico
 4f49c2e9d98003cadb6379967f6f20b74132de7a6b58db4d1711a84ebe45e2f6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\flight-simulator.ico
+0457d0c8fc4640d200646a44a5884a5b1f6cff4cbbc8f67b15b31c1f407963fd *ICO\Folder (Windows 11)\folder-icons_sameerasw\fl-studio-folder.ico
+c4161545b23b52283f2fb33249e43feabc491e2d25663aa3f2cc699a98d2fda8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\flutter-folder.ico
 22a04747acaab72e435e79b6f9155e4d69f82db0bbc2dbf2ccce31ba823ac3ce *ICO\Folder (Windows 11)\folder-icons_sameerasw\folder-icons.ico
 5f6e195d964b9d81d3b39d1bbe366d5b746c19fa9ffe9eee232be98971e03f43 *ICO\Folder (Windows 11)\folder-icons_sameerasw\font.ico
 0a5a8985401df7d8e311a8a0f66ffb33a5e99131b873cd7ab3b17932bb71fe8b *ICO\Folder (Windows 11)\folder-icons_sameerasw\fonts.ico
+b8a8b83bc80e6abb23683c1c9b2c17b785e2d44f6a894cf95acd4cfd4d68005e *ICO\Folder (Windows 11)\folder-icons_sameerasw\food-bakery.ico
+979fcfc0b0621c5b24e3d011b3c7ef7bee62ac30f4b8d639a09639df8cc74486 *ICO\Folder (Windows 11)\folder-icons_sameerasw\food-coffee.ico
+333c6c22e90ba701fc7103db41e0132c2fb09ae06441e2c223dbe86084c557c7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\food-restaurant.ico
+d8b012fbf3620ed0cab86e96f1af9d325d69470364dd818ea24b55386bf806b4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\food-takeaway.ico
 aa83dd2fc026305eb16e6d4208065f6fdc19f141fc57b84dd58187b651c67101 *ICO\Folder (Windows 11)\folder-icons_sameerasw\fortnite.ico
 90706adc23927b80b89c6ad8c4dddacd7e48173d4161893f4769e4cb57b12f7d *ICO\Folder (Windows 11)\folder-icons_sameerasw\forza-horizon.ico
+aed207111c0511b2b7dfd72d08e5e4cc5fbb789bccddabea2831c34a07cba074 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gamemaker-folder.ico
 32bd9340d12173dfef27deeb07792e12ae1db575a572eaef44b18a764491481f *ICO\Folder (Windows 11)\folder-icons_sameerasw\games.ico
 ebefbd9fb6e3e8659c39d2321bf49d3dd547c012aed9e80fcc6e741a5bf5571e *ICO\Folder (Windows 11)\folder-icons_sameerasw\games-alt.ico
 3288272cb1d37247dce3d8c0b3cea6530f332bb74439f7b817998bbacf4964cf *ICO\Folder (Windows 11)\folder-icons_sameerasw\gapps.ico
@@ -8939,19 +9016,24 @@ ebefbd9fb6e3e8659c39d2321bf49d3dd547c012aed9e80fcc6e741a5bf5571e *ICO\Folder (Wi
 35e1c47c8075715f089f527cfcd8a564c45b947284a92e534048f51f104e963a *ICO\Folder (Windows 11)\folder-icons_sameerasw\garuda-linux-dragonized.ico
 e5d601506484338e504be36a9f441935157847a96b2d4d443fc3a2bfeeaf1cca *ICO\Folder (Windows 11)\folder-icons_sameerasw\gcam.ico
 b0d4e092fb32281367ab30156c93152728caec3df372b4ead7d2405696c7e7bb *ICO\Folder (Windows 11)\folder-icons_sameerasw\gdrive.ico
+aa7a2ac16b70aeab59033e7e4c97f42e1431ccabc5aec5e4bb2ce9f669b7065c *ICO\Folder (Windows 11)\folder-icons_sameerasw\gemini-folder.ico
 90fec2c60dc1dadab03b492ae6de965b2eccc31ac0fd6369f248d1a63463bed5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gentoo.ico
 52141990178c103a4e9a79614621f36a19fa93b9ba0f0814af034c8e8ff3c3c9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gigabyte.ico
 f468b8fae3424a7dfbcd15b3af2e3ed87319b98c0fc22568fcecc52eb517e700 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gimp.ico
 8614b0a7f6201b190bf2695b670321db5a064bc77329b91ff065da4c11c83d85 *ICO\Folder (Windows 11)\folder-icons_sameerasw\github.ico
 e0b5988c9910602bd738d9741f2dadf16366846819f96fd6456e603c8aa8173e *ICO\Folder (Windows 11)\folder-icons_sameerasw\github-alt.ico
 819318f0b708cbc5bd7fab3c4db64920084e2ab8e5877c679f4a981e6067010a *ICO\Folder (Windows 11)\folder-icons_sameerasw\gitlab.ico
+2a5e16bc88f57b75cc06439b724b1be425e022e59847d8edb79969616b5116fc *ICO\Folder (Windows 11)\folder-icons_sameerasw\glm-folder.ico
 074563ff026651dda9452b666b040e9e2d8bc9a42809bb7de37b80f200b65e90 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gnome-web.ico
-ed226689df077dcaeb1f0f731ce8c85f883f5f0db3aa4100abd000cb165aa5f5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gog.ico
+6be4034e826b4aad96ed13fd7ba6bca2e3e5badec50c38ba8c7339d815b36495 *ICO\Folder (Windows 11)\folder-icons_sameerasw\godotengine-folder.ico
+0ff0b80ea29cf57f79e34f4cd6dc3d5a585aed0dd0a4fb6e59cc231624ad479d *ICO\Folder (Windows 11)\folder-icons_sameerasw\gog.ico
 c7d71e4f513e27cca7be231f765da8ea75b505029227ad7bad3d7872a7ac1d68 *ICO\Folder (Windows 11)\folder-icons_sameerasw\golang.ico
 8f6d8eb9630a059128570d06593754c406826fe92971598be2d3a2122bdba9c5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google.ico
 214772e610e50990fc1ccd519adbc5c9aba6a799a4eef4f22d76188f3759137f *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-2025.ico
 bc980acaa5375975874aa29aef413cb6b4287bd03c3a25db289d2d867322d8b5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-b.ico
+c6be10140e12847f5d69ef10a36b32f1aa16c8daf48deb8219e8dafd08b99511 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-cloud-folder.ico
 b0d4e092fb32281367ab30156c93152728caec3df372b4ead7d2405696c7e7bb *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-drive.ico
+045a1a3e4fe91f4104cc5cb8382f185c099296018175c58b004bb09e30218dfb *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-drive-2026-folder.ico
 92495c5af6a3b05e01bc23708a3194c1c0549b360c4b6e81bf4c9f2e7bce8e5d *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-photos.ico
 8356e43dc8116c3fd023ca2cca82847b415b1b1badb0f2500ca224314ec0c057 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel1.ico
 d618018ac419c69c1cb7f3087b5901604dc887a58d34ed2c0d0fb1f23e72fa40 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel2.ico
@@ -8968,12 +9050,14 @@ d9ec21d39f688a0001a73caf0cf91f1439e845f2cd6a699ef5abacb4c11bda55 *ICO\Folder (Wi
 7bee82390a42d184430203c180a38779c4668080a08d4ac1dee46e3fefdaa093 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel7pro.ico
 b7e99af67b211ff75b92db09e3f4bde4a58962b644e047a731428ca3e1c5c54a *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel8.ico
 b934a5848488771ddfebfeac91452ef108dc5f280729052ed38baf75571fc8da *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel8pro.ico
+d934c940b72a780596d9809395e9d7b11f46ef11281996ef15d2a1eeb29694dc *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel9pro.ico
 7a4305a701accc4de666246d06486262ea073cc5729f93adfd5232334c7c3d73 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-pixel-fold.ico
 0ab457384a81f760837efa4eea3166c956d3a6511d3e3f2de4f58008175b7f09 *ICO\Folder (Windows 11)\folder-icons_sameerasw\google-w.ico
 c500c4c4560c6c183c957949a3c34c428df7b6d5887d6828733c7cbec91655cf *ICO\Folder (Windows 11)\folder-icons_sameerasw\gopher.ico
 30601f1f47d250e934f70e110556655e9f8d0e15a243a0f7a29ffe458254708f *ICO\Folder (Windows 11)\folder-icons_sameerasw\gopro.ico
 92495c5af6a3b05e01bc23708a3194c1c0549b360c4b6e81bf4c9f2e7bce8e5d *ICO\Folder (Windows 11)\folder-icons_sameerasw\gphotos.ico
 3cb4f4fc49de7e0ae0b3fef9d82660843505eced17aaa675d32034688b0e84a2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\graphics.ico
+aa1fa2196b92427016df884a5e43ffd63cb892ab3ae107ea9cc3a2353e7c14a4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\grok-folder.ico
 99c73c92105e960cdd61d4135ece62412291ef765ea9d030f4be06b9b669ef5e *ICO\Folder (Windows 11)\folder-icons_sameerasw\grounded.ico
 e7f2d2d68740f6df0154445fdef97ad9aaeac851c43793805f43d62070723eea *ICO\Folder (Windows 11)\folder-icons_sameerasw\GSI.ico
 c49d52269d97363eacf4117d986e399b68dac1cf9914e95056df5b8ecd18bbd0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\gtav.ico
@@ -8986,6 +9070,8 @@ fecf8aef839d4b737068407fcf15d6313e9a6a59702828418941681a5e7f5efc *ICO\Folder (Wi
 edb9452ba872fd66625e24428d96b0e23796ae4f9d44fe96558f9d4d942cdd8e *ICO\Folder (Windows 11)\folder-icons_sameerasw\howtomen.ico
 1220f6aac6c233242200888abdb4e992cec9b151025923c2cace262d9ace4f60 *ICO\Folder (Windows 11)\folder-icons_sameerasw\hp.ico
 8c298843f4a9747f359e5aae1e331cd6229b882c1dee98cffac4ed59fbb2c1ac *ICO\Folder (Windows 11)\folder-icons_sameerasw\html.ico
+776d144694f2de4af418107830da3c6f3ad74867a0ee2b6b836f59439f706bfc *ICO\Folder (Windows 11)\folder-icons_sameerasw\huggingface-folder.ico
+1c33d960621fa41eff77edd8c51edadd73b7ae0af91075046ab1d9fd4f9a8c09 *ICO\Folder (Windows 11)\folder-icons_sameerasw\hunyuan-folder.ico
 637fee5f156fe645d24487e884d37c3bffa9495126026d74ca8d8b6ab686216a *ICO\Folder (Windows 11)\folder-icons_sameerasw\Hwinfo.ico
 4688400499c50b2f6d10dc51c61757b92bdcb2272cc359c0542146eeeef85da1 *ICO\Folder (Windows 11)\folder-icons_sameerasw\icons.ico
 861b94e0c88b20ca4db375639c72e62a7c593c350a4b030fcfe8f24ae966695a *ICO\Folder (Windows 11)\folder-icons_sameerasw\id.ico
@@ -8997,22 +9083,32 @@ f1bf2aa8788400279c61e6a39c61996b4775b60ff41b1c692fbbbb28ed2954de *ICO\Folder (Wi
 a9f8d6dece24b5273acc561ee3ccb75c5c527062fac9be049adc0692620d64e8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-idea.ico
 eeef8a8300b3400b6b21b043b47c3805d1e5e15a3e02e1e02b3070f19a3e7c31 *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-php-storm.ico
 7a157a42532df74a657e7a71cf4501f7e7c1b79b544d89d7e2f8bcea7c978583 *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-pycharm.ico
-e07ea9c14837c6195ae687cd577402de5693ad601bd127ff89e0a022ece7858e *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-rider.ico
+7380afe872cc5263ac6426a68f17606e7ce4221b163221033d8d1b432cd316f5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-rider.ico
 aa1ca6e700ecd62a17fdee0d42595572613d64125c87602cd9f4bae1b7f5c26a *ICO\Folder (Windows 11)\folder-icons_sameerasw\intellij-webstorm.ico
+1f40cae0a4c278f4953c55c04f30b2639c4012cc2872ccbdc86c62416ec616a6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ios-folder.ico
+895a416e25bd3d045b84ea6bb24eb443b7a2f1964fc06e1d82264706b0dfe0bb *ICO\Folder (Windows 11)\folder-icons_sameerasw\itchdotio-folder.ico
+1cd79dc55fd0f77bad7013c5408deb18257c3ded676eec5522dee0b39846ab3f *ICO\Folder (Windows 11)\folder-icons_sameerasw\iterm2-folder.ico
 486a87b17be4b5e922194de1e884aaf8467bc4f3ca2e7a75a79da9061dad0522 *ICO\Folder (Windows 11)\folder-icons_sameerasw\java.ico
 2456a2e93194336b0b81f30d405f3980eda88e211915b3191c37fa2a584119a4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\javascript-js.ico
 d4adeebf3a2591ad56fbbc64fe5a4e826e18995622ce728ffab27739d6bb69dc *ICO\Folder (Windows 11)\folder-icons_sameerasw\json.ico
 bc8328912bb0914388ffbd730a153afddcbbcef91b059b9fdfee90d18ed1cee2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Kaspersky.ico
 73f6bc2da371ed78511747790eb2971dfdb2ee8f16a8c81e7b802f796e574043 *ICO\Folder (Windows 11)\folder-icons_sameerasw\kde-connect.ico
+66a9e241f85fded750b63e299d05e27544ddf8bd1a6084f8346f5ffef8dc2f36 *ICO\Folder (Windows 11)\folder-icons_sameerasw\kimi-folder.ico
 f9c047edc3602b2c1f548e2b5ac9f267368a68f29512b3f9d0df62a55b5b3add *ICO\Folder (Windows 11)\folder-icons_sameerasw\kirby.ico
 f71e8d6be53c3037885cb75a250346398a82ae385c4eb5a3af40106da214584a *ICO\Folder (Windows 11)\folder-icons_sameerasw\kotlin.ico
+cc84351c9880c0cc71b7145b3e30f859891bca377ac5bd62bd65b7e2293c7e45 *ICO\Folder (Windows 11)\folder-icons_sameerasw\kubernetes-folder.ico
 8c3276c180a51cf502771c49c4a3edfc9ac6d0a58f0fa187744d9f973a886585 *ICO\Folder (Windows 11)\folder-icons_sameerasw\kubuntu.ico
+c3ebffbf6dc6f6d55d350a48197442dbb15612cf05112bde637ad2f2af57afac *ICO\Folder (Windows 11)\folder-icons_sameerasw\laravel-folder.ico
 5675047a23334475955582c4c49a4068c18dd3e1548986c3d18130a2408a5fc7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\lawnchair.ico
 99bfface0dc4985b2f990397c355abea0d8e96cf3718548e85ae3bdfc16aa396 *ICO\Folder (Windows 11)\folder-icons_sameerasw\lawnchair-alt.ico
 b4dd4e957ece85f2e163cb830bd13222cd3434535434947cb66975f0b0de653b *ICO\Folder (Windows 11)\folder-icons_sameerasw\league-of-legends.ico
 8bbb4841fccf68cfcda187ed572d6273cfa52614ad599aff1b3b6c40d8163601 *ICO\Folder (Windows 11)\folder-icons_sameerasw\legion.ico
 b14b7d525d88a58424f808eab51e878243b962bb29f410383d7fef14e43a01b0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\lenovo.ico
 394be45e86ceef4560939ba3830cd5e238ab8c58d8ea4e33d6bc56f41838954c *ICO\Folder (Windows 11)\folder-icons_sameerasw\lg.ico
+943aacbd64edfbede26a94d81b455a48122e43d84af2e79d751ce631c35e777c *ICO\Folder (Windows 11)\folder-icons_sameerasw\life-cleaning.ico
+39e8b1d2f37a572a5984c137614ba7c3e4ab562e74c87bdce4710bf5c6eb8933 *ICO\Folder (Windows 11)\folder-icons_sameerasw\life-health.ico
+5851310f27d74a57829c927e4fd97de9a83ce4f9865d5db3190b034a32711d8b *ICO\Folder (Windows 11)\folder-icons_sameerasw\life-home.ico
+b8a17604b808a9d116830ddf3e9e9318eb92fc8a01d53c931cf8d8471dc12ed2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\life-laundry.ico
 034eded3e0b24b7bfdcb1dfdb67fc5f807761e3034d0ee1b433c97edd28fb53c *ICO\Folder (Windows 11)\folder-icons_sameerasw\lineageos.ico
 4b5ea915003d0c7b52617b9fdae5886e772b414c3dd216cafb28c11e3dbc820d *ICO\Folder (Windows 11)\folder-icons_sameerasw\linux.ico
 3f448f9590f31dea44c1722190f45db79f358cd2a8dac910f632dc7f68876a3f *ICO\Folder (Windows 11)\folder-icons_sameerasw\linux-mint.ico
@@ -9021,6 +9117,11 @@ c0d34d17af9240cc7718c6e2f1ddb82938a74416ac4180ad2e9eebf2640a8bc8 *ICO\Folder (Wi
 af670676eb912c5f070f1915dc3af2d4223e9475427bf6ddfea2716550348b89 *ICO\Folder (Windows 11)\folder-icons_sameerasw\lumion.ico
 bada3b805e1caef0881d66c65a598dd7f54427dc1bef16fd1afb5c797734b51a *ICO\Folder (Windows 11)\folder-icons_sameerasw\m02.ico
 81e268941f1282bda714ece75df0283133b3d2188ea6ef6df9a4793637711e30 *ICO\Folder (Windows 11)\folder-icons_sameerasw\m02-alt.ico
+7daa3443806dc6b27d6f4fc00d0a2bcedbae980ffb01c10461813469f24283ea *ICO\Folder (Windows 11)\folder-icons_sameerasw\macos-folder.ico
+0f4cc8d416da065b70db961f6fd6aa18c3cf95a4575218b386ac2e0510f349ca *ICO\Folder (Windows 11)\folder-icons_sameerasw\mall-department-store.ico
+d3e182f02db7200ffadc110e1364c02b53697684ff33efc02c0cdd2dfd57b83a *ICO\Folder (Windows 11)\folder-icons_sameerasw\mall-food-court.ico
+f2f2c9668b36838353ce37ab4d7a0665e4e374cb073bc4a874c9b7061285c551 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mall-outlet.ico
+ad4dfcf59a2cb397ff04acb609efec56261b88215731392d4036030cd90f78bb *ICO\Folder (Windows 11)\folder-icons_sameerasw\mall-shopping-centre.ico
 cc3e48ca8933b002ef13f5415770bdf76063ebf2d0869f1d7a563711be07ed3e *ICO\Folder (Windows 11)\folder-icons_sameerasw\manjaro.ico
 9655efefe2ae36450b35ce112ea245d6956387cb6dd9cf98691a8ed591e66107 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mario.ico
 619dc04ae1ddbdbf86589b628fcea01a7a6a27fb1cfd21216e58af7581132cf6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\markdown.ico
@@ -9032,6 +9133,7 @@ fb47212a9cb46fdd08ca72d74199427843582f61411926cf43dbbe7fffc32862 *ICO\Folder (Wi
 fb47212a9cb46fdd08ca72d74199427843582f61411926cf43dbbe7fffc32862 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mi-a2-lite.ico
 be1f3c7d4b5d020f86f801a39db6fdd7cf40595b9a3dea77cdd05068274ea638 *ICO\Folder (Windows 11)\folder-icons_sameerasw\microg.ico
 9b49c017458e703b449c18360f67a18517b0312c39a6f9dba770802005f586b0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\minecraft.ico
+41fd429a865d78384689bf01ece4f9d8addaa1a9dd37b1957def22b566016fd1 *ICO\Folder (Windows 11)\folder-icons_sameerasw\minimax-folder.ico
 23bb9011574bc99e7f9e11b593034e40d28c9ae86d91accabc0f57db9391fb4d *ICO\Folder (Windows 11)\folder-icons_sameerasw\mi-note-7.ico
 e23211c3accf9992a9792a97d2bc09509b593954b0d129c0a55e3a250ff1be78 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mi-note-9.ico
 823b5f012140fd813a71ffa3c22cf81c5720699eabf3b804f652e5d7784d12b7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mi-note-10-pro.ico
@@ -9040,6 +9142,7 @@ e23211c3accf9992a9792a97d2bc09509b593954b0d129c0a55e3a250ff1be78 *ICO\Folder (Wi
 e1370cf21ceade16f0c3d5d913c74ed5921ce505dffae0c48b055bf4994a0b8f *ICO\Folder (Windows 11)\folder-icons_sameerasw\mkbhd-b.ico
 117fa4e69499a9904bd6bcc46fe024b1b49e8f9c1cfccc3d2094bcb8eb84ceb9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mkbhd-w.ico
 258be8307bbecce38deb2ea446f1441c4870b753a2d221dbeeceacf32fab62e0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\modern-warfare-2.ico
+fdb8e2ff0a02176d530f5bf79145071aa805b17333c4e0085264b717c8dcd065 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mongodb-folder.ico
 83a5e82e66630e467f81982221227e904ab07d5be472a6e4e9e0818e57d0d9ab *ICO\Folder (Windows 11)\folder-icons_sameerasw\moonrepo-moon.ico
 97a5f523c958ef718869b8bd5dda8d63432084c3e33f1f15d996325d35861123 *ICO\Folder (Windows 11)\folder-icons_sameerasw\moonrepo-proto.ico
 bd205f597d52ddbc05de13660ab95d118dfe7d47c02c037b72e04af556951b99 *ICO\Folder (Windows 11)\folder-icons_sameerasw\more.ico
@@ -9050,22 +9153,26 @@ aa369712898df749228c954cc2bd03b9e9b16ec9f5fb48bcb832c9f31240078d *ICO\Folder (Wi
 3122dbf4b87388ab432723f83d11c59cf980347438309fb0143d2c45a97317d2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\music.ico
 bb90757baa290793bbebb6d3fb1c9e984185afae7b2388accaa5d92ab857e8de *ICO\Folder (Windows 11)\folder-icons_sameerasw\MY.ico
 9e2530de841741603188f224d069aeedcd15d2b6c34325577abe574d5d6de495 *ICO\Folder (Windows 11)\folder-icons_sameerasw\myanimelist.ico
+3d50e61a79851b3613b98797dc1380ef89e2be7d88b4f7d97677985d2404e752 *ICO\Folder (Windows 11)\folder-icons_sameerasw\mysql-folder.ico
 23bb9011574bc99e7f9e11b593034e40d28c9ae86d91accabc0f57db9391fb4d *ICO\Folder (Windows 11)\folder-icons_sameerasw\n7.ico
 e23211c3accf9992a9792a97d2bc09509b593954b0d129c0a55e3a250ff1be78 *ICO\Folder (Windows 11)\folder-icons_sameerasw\n9.ico
 a6770027f45eea9f12259dce108868ca0ff675eb76024e11c423cb53a8f54f7f *ICO\Folder (Windows 11)\folder-icons_sameerasw\nameless.ico
 eb5a23830da93fddfbbb7fa004b10c0fdd74cde7ce7cab8f767a93acd71a5f7c *ICO\Folder (Windows 11)\folder-icons_sameerasw\naruto-japanese-cuisine.ico
+4e66dec8f97b5c9f0755c42573196d044b726017ec46388d330c57ffdf9eb794 *ICO\Folder (Windows 11)\folder-icons_sameerasw\netlify-folder.ico
+fbbf4424c4f1cd90ea828383a4b2ad5460b4143b87a2e3867d129e2d8c67d496 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nginx-folder.ico
 4e50de94d13320d5b0c5fb6121838f910eabd1b81cf8aa3df9dfe2a1f2ae46cd *ICO\Folder (Windows 11)\folder-icons_sameerasw\nikgapps.ico
 bb667a73c27c0a875f094e98cc59b65d3290c31fbf064d504786fa0a6b6307d5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nikon.ico
 ef731354e996f121a9929937c8057e91628d9f9a4e597a88cb15e2a5140a4f23 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nintendo.ico
 5765653d440f41bbb2df84beef2a639b219d8f6c101dad855193554edfa5808e *ICO\Folder (Windows 11)\folder-icons_sameerasw\nintendo-3ds.ico
 02565d62f0b4d8e500657f5ce10f6d779edc581296ba07b2faa03a22f70e1681 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nintendo-switch.ico
-6abead8ee1c149d8a245114e407c3ed8e9b758a7f583c86cbc397617ead41dc3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nodejs.ico
+1e5661ad3e1f5ac9d3e3a94742743b492f19bd9c4a823a2f08b48d433bc460ef *ICO\Folder (Windows 11)\folder-icons_sameerasw\nodejs.ico
 e3b053d32b0df67736a598d7b9c64313ec93edc75d1a3d71ec312d7cf4e757ce *ICO\Folder (Windows 11)\folder-icons_sameerasw\notepad++.ico
 14f4b4ba8594e804a56aed38636ed5ef0f34d9c5042b455491dfa3d81db2783d *ICO\Folder (Windows 11)\folder-icons_sameerasw\numpad-macros.ico
 5d50d1b6de8f9a743d73a97c9da59cd1a75e7269641c99ebb1024407730206fe *ICO\Folder (Windows 11)\folder-icons_sameerasw\nvidia.ico
 f3ddfc95b240defba70354c6e153381434029c775bfe8a3bcc56f52ed03cb2e5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\nzxt.ico
 305e14dab3ba9f3787627719ff7886793259e14815419e06fe5ce7a8f6886637 *ICO\Folder (Windows 11)\folder-icons_sameerasw\obsidian.ico
 d14013485f2f2cc82fda80e9a248a2ddb965feec5ce39f6f79c2b65b5cec3ed9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\obs-studio.ico
+e519d376186623ce8bd83171ecd4945f6d5481a579bbf1983e3ca9c573682726 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ollama-folder.ico
 472b5ee62499136961dbd9bebf345333c9c49048918ece179834bdbdb7a401cb *ICO\Folder (Windows 11)\folder-icons_sameerasw\omen.ico
 b579d07c5026e93cd49a66e70197e2de7fd58fece91a5bc7656fef9e5ede3966 *ICO\Folder (Windows 11)\folder-icons_sameerasw\onedrive.ico
 b728034d52ea80aaa19eab5563d936f0139030a186c1f0c75a82103d969c2017 *ICO\Folder (Windows 11)\folder-icons_sameerasw\oneplus-6.ico
@@ -9074,6 +9181,7 @@ b728034d52ea80aaa19eab5563d936f0139030a186c1f0c75a82103d969c2017 *ICO\Folder (Wi
 7b24fded125b515f2c448c6b38df941e3c8afd9ef7a15f37c13b6a7c88d0966a *ICO\Folder (Windows 11)\folder-icons_sameerasw\open-ai.ico
 201ea2a964be97eaa24e348839e139f44c65142c6d0264ecf8fb6f3a93d23d25 *ICO\Folder (Windows 11)\folder-icons_sameerasw\opengapps.ico
 cab4e311b489ac22c02862457ccb2e9bfbae0c17d9c62791565b52671d965cb9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\open-suse.ico
+835a762a0241ecfde4c890af5685f9e21761d7a4ab6d602d321c765957924d48 *ICO\Folder (Windows 11)\folder-icons_sameerasw\openvpn-folder.ico
 462291d45779300007642214e58e5ca8f48c7dee10c823eb4e0aa9e094da18bd *ICO\Folder (Windows 11)\folder-icons_sameerasw\opera.ico
 88be87be76195356b4e88bbc16c650f15c250dcd08d2c624adb04906fe5c3815 *ICO\Folder (Windows 11)\folder-icons_sameerasw\opera-gx.ico
 09f4d033bec63eb075b54a5dbf79c7b2528ce34416f44184eea0638a454e1d00 *ICO\Folder (Windows 11)\folder-icons_sameerasw\orangefox.ico
@@ -9092,6 +9200,7 @@ fdfc1ff90ed49c5fdc8f4c43a2dfb7925e3f1a8e58d6cb7bc9a6e2155ef964fd *ICO\Folder (Wi
 d9ec21d39f688a0001a73caf0cf91f1439e845f2cd6a699ef5abacb4c11bda55 *ICO\Folder (Windows 11)\folder-icons_sameerasw\p7.ico
 7bee82390a42d184430203c180a38779c4668080a08d4ac1dee46e3fefdaa093 *ICO\Folder (Windows 11)\folder-icons_sameerasw\P7P.ico
 37a6c1a1a78bcc54c15e67dc13b191631084c82adc0c5c685447f15dfcb4b6f8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\package.ico
+d5ab8c9ecd5273a55e080a33212c91c4a35f2fc5d2bdc1b7e94eb6a1c92c6193 *ICO\Folder (Windows 11)\folder-icons_sameerasw\paint-net-folder.ico
 d871e4adedbe8c9acfe64eb1a9b48840fbafd53abfc957cee7f12b395d01dc37 *ICO\Folder (Windows 11)\folder-icons_sameerasw\paladins.ico
 7dc64e2b20c265b4f184e0a30dbd8a228e9f2cc96bc29b5508398de25d14cbdc *ICO\Folder (Windows 11)\folder-icons_sameerasw\paranoid.ico
 58f56ed5166875217f6933bc956546c6d7c5ff40daa86c9f1a58d5a161f3e532 *ICO\Folder (Windows 11)\folder-icons_sameerasw\pe.ico
@@ -9117,12 +9226,16 @@ d13a296a0b92f1ea0244870f4cfef2c7b53d39954a697eb4bb2c297485a1e752 *ICO\Folder (Wi
 cbaaf9de27a7c37ca4d0afee197ab28c1cdfde7d8779ba0331dc0b5836fc77a9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\popchat.ico
 0b80bd41b1932a7f99d35700f8db535e89a5f61b5128a38b8ff2ff78086af124 *ICO\Folder (Windows 11)\folder-icons_sameerasw\popmods.ico
 632af6836c112123966f587a7a8792431d3cc24e6dc92b70fabb4fc476fafa64 *ICO\Folder (Windows 11)\folder-icons_sameerasw\popwalls.ico
+dbbd6f84d4b291daae7b7055fdfcb0026462b97e620acc3db752b2a4661fce4b *ICO\Folder (Windows 11)\folder-icons_sameerasw\postgresql-folder.ico
+a1e485fe2955a17ceac2da976b4272f44e254e7b0aa1eba16281432a6bb4d6db *ICO\Folder (Windows 11)\folder-icons_sameerasw\powerdirector-folder.ico
 030afb4392db8a1b81fefe9754b88fc55a83fd6b825b31eaf459077bf426a49e *ICO\Folder (Windows 11)\folder-icons_sameerasw\powerpoint.ico
+c705f0c2dc36de85251ec72ce944c0af6a1205d4b25b5513938edfbde9aa6160 *ICO\Folder (Windows 11)\folder-icons_sameerasw\powershell-folder.ico
 b30ed79bcb72828360c4ec17e264139c95507ff9a6f9af82dfeb98299316ec2a *ICO\Folder (Windows 11)\folder-icons_sameerasw\p-plus.ico
 00671f2cd89dda96267e7391e82da8a26e5b340f765d5f0618f572fee0e7e58c *ICO\Folder (Windows 11)\folder-icons_sameerasw\PPSSPP-gold-emu.ico
 b7759d1627aa718fc2a38161bcdc4c542f1fb12df943c0e599d8b3d2e7e120db *ICO\Folder (Windows 11)\folder-icons_sameerasw\PPSSPP-standard-emu.ico
 77972a99a7977c575e4ed6f9b5a5476a7ae66fa3438b4e516dc15624d279e8bd *ICO\Folder (Windows 11)\folder-icons_sameerasw\pr.ico
 84051e88799a2249591e7f48b17d8f3592dfb96d8a29965ac28f9c07fc4cae39 *ICO\Folder (Windows 11)\folder-icons_sameerasw\predator.ico
+710ebc4a74f3a07b90b6c6f234b4c0d7b247f2b7235839cc94d5733983d1b2eb *ICO\Folder (Windows 11)\folder-icons_sameerasw\proton-vpn-folder.ico
 319f93e9c166284995f0586949c961de7615a1876fe9e4b9508e0bafb9195aaf *ICO\Folder (Windows 11)\folder-icons_sameerasw\ps.ico
 e2e3aa29ec7dd1d31feb5cb1a289a209101923d3f6e9fce2bcaaf81f520036bb *ICO\Folder (Windows 11)\folder-icons_sameerasw\ps1.ico
 bf64f5b76e6d2fa47d48f0b43be354c365361b64ce03a5b3764d99a4a0574fa0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ps2.ico
@@ -9132,15 +9245,21 @@ ecd661bef3fc2777317a3299c8d9437817a9024040812790e4199108a44dccba *ICO\Folder (Wi
 f32bfea71361a62c4d3d2fdec34fefeb1f216a9709d6941093ce3d62dc1a1418 *ICO\Folder (Windows 11)\folder-icons_sameerasw\pubg.ico
 3e68fbdfb561348d53e10630f4f5239a11dd9e75f8759960c639bcf82a44a260 *ICO\Folder (Windows 11)\folder-icons_sameerasw\python.ico
 ae85414106b7d2c21e80bf89b01c86152dd3573469c174ac7274fa28e9ab2d51 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Qbittorent.ico
+3fa7fae4c8411b7bf89fde7b4ce9971025b060109efb0ee570b1b1ff2f5541ae *ICO\Folder (Windows 11)\folder-icons_sameerasw\qq-folder.ico
+1299420eb30c762f7c3b9ede4270811ba3ce77dccc21c10bd53ac56bc8114c34 *ICO\Folder (Windows 11)\folder-icons_sameerasw\qt-folder.ico
+75f85d758818477f3f6e41a1bdbe4fedf50bf9bcfc1fe31e3c372c2e99a31ec2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\qwen-folder.ico
 c912c9ac4e9dcb33659a3d77f46e08847138efcdfa3a58efdf37f0ab73ec8775 *ICO\Folder (Windows 11)\folder-icons_sameerasw\radeon.ico
 8081b2d0f61ab6bdbb97496eaccf245925d8cfaed502d7b432b6020f7735431b *ICO\Folder (Windows 11)\folder-icons_sameerasw\rainbow-six.ico
 8c300f8b36c8dbb9b46cf9941a24629029291a65b31816f18f97e15862ac8e8b *ICO\Folder (Windows 11)\folder-icons_sameerasw\rainmeter.ico
 3158d12d4814ba61472d97cdff23317a4c7b88619a600ebf5e0894f943287348 *ICO\Folder (Windows 11)\folder-icons_sameerasw\razer.ico
 bcc039f39b0ce66a72a807582832018b5d569ef018bc4a36ea4dffd83520d2ce *ICO\Folder (Windows 11)\folder-icons_sameerasw\rdr-2.ico
 cf54708e2a21ff56665f95229be7f50bb9434d2675151bc8631c772a37038f27 *ICO\Folder (Windows 11)\folder-icons_sameerasw\react.ico
+47fb74d604cecdcaaab8b570490e459fc37ac81496ebe52d573637c24a6f8128 *ICO\Folder (Windows 11)\folder-icons_sameerasw\react-native-folder.ico
 a30daea0d7f98617b06f13e5a7eac2b7fcf68fa22e3d6c429a2f1485e0fe2056 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Readyfor-Motorola.ico
 cfc584ba62c971f1858e20edef598180a570d24c058bb285fe4c03fe2b45f66f *ICO\Folder (Windows 11)\folder-icons_sameerasw\Redbubble.ico
 6208397d774685a215333a0af5b3d911cf259c51f03528503f389688963d484a *ICO\Folder (Windows 11)\folder-icons_sameerasw\reddit.ico
+f0b38e593598aec1830be345d6f7bab684514692ad2af531df4f6463c83c2e07 *ICO\Folder (Windows 11)\folder-icons_sameerasw\red-giant-folder.ico
+23eb30eccacd3f0fc02b275365063afa3a3ab0de3810ed5520eb7def6289f1f1 *ICO\Folder (Windows 11)\folder-icons_sameerasw\renpy-folder.ico
 7b9ac80b35b6d52fa05ffd31fba3ba5a30fd0b545b174688494e88646ceb161f *ICO\Folder (Windows 11)\folder-icons_sameerasw\resident-evil.ico
 5d48db4593d5411ef8128a328975e6765946a2a74628d1556410edd71183e9b4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\retroarch.ico
 0de320ff9eddeca27660367e0cc6f9ff67003811ab3a5763e34bd31971c63bac *ICO\Folder (Windows 11)\folder-icons_sameerasw\revanced.ico
@@ -9155,6 +9274,7 @@ f55cf4cd5cf5d0d6342d21c5119d4298a3f0079b28167a736dfee555f9413ef7 *ICO\Folder (Wi
 db09cae77dab39d360bf95eb7b2f53cc3b880103f52ed3cb546d3a3a1797e3d7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\ropbox.ico
 2c694e64a316951fc876fd96df52058d962b740105fbbfa8993621a65f13dad6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Rosalies-Mupen-GUI-emu.ico
 6adb26f20f9934a848f17fdaf11ffc67671c6413fcbb1797fc97767ad1eccbfb *ICO\Folder (Windows 11)\folder-icons_sameerasw\RPCS3-emu.ico
+4233a271c6547f2d1bf4c41383d2e90463a23b3743ee420662f387a967c3a759 *ICO\Folder (Windows 11)\folder-icons_sameerasw\rust-folder.ico
 aef461bf1b021ec147d3cc29fe1f6fbfa5603d616a934143febf91d28684aeed *ICO\Folder (Windows 11)\folder-icons_sameerasw\ryujinx-emu.ico
 fd27b607ef4cb498a76ff5dbcc4c17acf2df01c3dae665c0c6fddd0040c1334c *ICO\Folder (Windows 11)\folder-icons_sameerasw\ryzen.ico
 18e8680f9db6844c0ee73d62189e4f4b74afd9db69e2188ac7e0f419f85545dd *ICO\Folder (Windows 11)\folder-icons_sameerasw\s20fe.ico
@@ -9164,12 +9284,20 @@ fd27b607ef4cb498a76ff5dbcc4c17acf2df01c3dae665c0c6fddd0040c1334c *ICO\Folder (Wi
 cdac7a8a5b23c4c7633e21210fcc9fae7b384191d2eb45aff88e73dd432b5938 *ICO\Folder (Windows 11)\folder-icons_sameerasw\samsung-budget.ico
 bada3b805e1caef0881d66c65a598dd7f54427dc1bef16fd1afb5c797734b51a *ICO\Folder (Windows 11)\folder-icons_sameerasw\samsung-galaxy-m02.ico
 f9a8bd85f27f7d206100f31aaa1ccb3b9757cd838b6159faaea41975d79f0a8d *ICO\Folder (Windows 11)\folder-icons_sameerasw\sass.ico
+52f409feb0ecdb33c8c020592bd877919ee167686b26d8398b3c901787719eda *ICO\Folder (Windows 11)\folder-icons_sameerasw\school-backpack.ico
+ce2f3f432abf113f562fcf5ac1c55dfd51091a6344822e2a715ec8807545ba34 *ICO\Folder (Windows 11)\folder-icons_sameerasw\school-campus.ico
+c70067e4135c7f6ccedd4313e7e9b114d6ac5ab44fa308694ed672b9641cebea *ICO\Folder (Windows 11)\folder-icons_sameerasw\school-study.ico
+1a7891820f550286327ea0713771b73ecaadad7154c692f26ffff65d804aed22 *ICO\Folder (Windows 11)\folder-icons_sameerasw\school-university.ico
 702263653b7ce18c0d5640ec0ef0c75a24a4c2a080c929fe8664e528f2bb90cc *ICO\Folder (Windows 11)\folder-icons_sameerasw\sega-genesis.ico
 128d4124284a2ec77d6d4a14662757e360252f1f12845a64427dfb81ae2e9569 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sega-saturn.ico
 e75735fe2fd15fc5aa2355856f74890102dee683e690248eaefa3ceb04454682 *ICO\Folder (Windows 11)\folder-icons_sameerasw\settings.ico
 8cc7701cb2873aeb0c293531099917a3d6d3163ab7ec84280c537bafa05f10a0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\setups.ico
 d9ba37736e3263534756b86e1f05a0e06f83d5321a1fd66f362eede4ecd0f19d *ICO\Folder (Windows 11)\folder-icons_sameerasw\sharex.ico
-f5512c3a7c22a7817b7f2da26f84acd5555593ac2ffcd4bcd299535d852eba01 *ICO\Folder (Windows 11)\folder-icons_sameerasw\shonen-jump.ico
+a5a599195ebf5d9e5c2d132344eb2ea47b9a482a8a60792842dfbc34cc4fa4ad *ICO\Folder (Windows 11)\folder-icons_sameerasw\shonen-jump.ico
+4f8e15034fcc12ae84b561fbbb11a66b028e328cbdb0d717a0513a8da8000262 *ICO\Folder (Windows 11)\folder-icons_sameerasw\shop-books.ico
+8c17ff801edd556e2ebbdd25e163ee78a67b054615ded75507328374d09ae913 *ICO\Folder (Windows 11)\folder-icons_sameerasw\shop-clothing.ico
+eb61c44c8582be12b5eedc7d3e7e79bb123fd2cf0ce5bd4766b083d5d6cc4f15 *ICO\Folder (Windows 11)\folder-icons_sameerasw\shop-storefront.ico
+8cdac31848b17206a99383afb5bf760bd3478dd2e2aeb5fe38ed3844ba4ea100 *ICO\Folder (Windows 11)\folder-icons_sameerasw\shop-supermarket.ico
 a5c7358e8aed993c7f13ec829c654ad29e7a7e1a3e0c4187fa155c1a9e77fcd0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sims.ico
 6c47101ed99b5194966b2f7e18020152d98ec8d84fb9f98b2f9ef7acccea3a81 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sketchup.ico
 185d66187321f7a4d7bddada2e4a77a26a0949215a7dd961e6ebccc20f702079 *ICO\Folder (Windows 11)\folder-icons_sameerasw\smite.ico
@@ -9181,6 +9309,9 @@ d3c5e19582c6e4c88ea549730cb6cdd06a942c2e19a433d1ed886916bcff0806 *ICO\Folder (Wi
 5232149a8caf611743d3667b3925f372512f5d825729c3b9b2728bd031527d5c *ICO\Folder (Windows 11)\folder-icons_sameerasw\sound.ico
 6fd8900911897adeaa8c612fb0a9883255be4791fded7935869e26e400013a61 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sparkos.ico
 c9b7646b67049035f36951119db1dfe56ccf4504401d4f3500822fe48506adea *ICO\Folder (Windows 11)\folder-icons_sameerasw\spirited-away.ico
+3f741fccc168dbd56ae9da23a460d47c6dce44de662cc422c03ea33aee05a69b *ICO\Folder (Windows 11)\folder-icons_sameerasw\sport-basketball.ico
+bf6c3798fd14ca32c2d44b0178db7b1d77d882958a8b3a66f03ad20cffa14285 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sport-football.ico
+61fdfcae9dc26e1bc809a99ad948c33b92161c065292b977fb7470a57465fc57 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sport-tennis.ico
 1d36e2c8eab9bfb8fd00b4695a9d44a404587f871bceb41cffb16ceca52a44e5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\spotify.ico
 393617f72a4baa6edf6d18e522a2b2c013308beef995b2721694469f19bbbaf3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sql.ico
 5447ee8ebc18137baa1e3a84f57855b83db62e5d4d67889284b00032d107592e *ICO\Folder (Windows 11)\folder-icons_sameerasw\stardew-valley.ico
@@ -9188,40 +9319,61 @@ c9b7646b67049035f36951119db1dfe56ccf4504401d4f3500822fe48506adea *ICO\Folder (Wi
 48aedec1557eebcc3396d4bb54dbfc50a6b16b8720f355f490bdf6e65102e6ed *ICO\Folder (Windows 11)\folder-icons_sameerasw\steam.ico
 379fc873d3026ae0436cb50f2e6a6601256bc7d7e43d73acc775f370dc6e8a84 *ICO\Folder (Windows 11)\folder-icons_sameerasw\stex.ico
 7a4af4cc5ffea921e2667cd8c7e921777e8c62eacb64a7c638023837df6362a4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\study.ico
+587495d5a8dad6ff32b419793cb0317fa06396926f5e7485d2d3a2a2af85b0d5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\sublime-text-folder.ico
 b540d49ecbc09fd177c853b25b2411fe057750d536048afbb9ed6685585a208b *ICO\Folder (Windows 11)\folder-icons_sameerasw\supirioros.ico
 f6319b440513454710a3cefe29caa901a0adcfa27cc5bb0a4f92bb6f916b152d *ICO\Folder (Windows 11)\folder-icons_sameerasw\surface.ico
+a5c475c79f09936db45197f1817e8ed878a7de37deba7fddea1eb01e6f7dc1e6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\svelte-folder.ico
 ad3d362d63a1124832a6337e5cd3ffbe272a720f366eb421df1e6e25d0d95d29 *ICO\Folder (Windows 11)\folder-icons_sameerasw\swift.ico
 8f926aa057dfdeb42a4f88a724a93ecf8be77c454cbf06a7f664e6b0d17ffd25 *ICO\Folder (Windows 11)\folder-icons_sameerasw\syberia alt.ico
 cb74f901ae576eec9a54504dca99a7171c6851d25420975bd9aede3be03af8d7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\syberia.ico
 bd2afc00409b41f9ee376b6fbeaa516602891bd33549e6909c431e59ec3c5c9d *ICO\Folder (Windows 11)\folder-icons_sameerasw\syberiaos6.ico
+180d419ebbc144e0df5b3f49454a6a901bf4c6f0d7f578825e3e41ce68a1b8eb *ICO\Folder (Windows 11)\folder-icons_sameerasw\synology-folder.ico
+5027e74e74227926d8abc09b417cbd188f92fb28a4ab5beea9c4d872753e9de7 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tailscale-folder.ico
+1916c3ed07308832f96aa1eb7c23d04b4764e425e2acf558ef0cf081ee3efb6d *ICO\Folder (Windows 11)\folder-icons_sameerasw\taobao-folder.ico
+4fb44c65411749ef94d424dcf4b81cca8836b62c8134c7ef8c6c68fc120dfe45 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tauri-folder.ico
 71025120da9a17f7121f624f79b812b083595c1775a83d73d073336168bc7eeb *ICO\Folder (Windows 11)\folder-icons_sameerasw\teamfiles.ico
 5674e4d2c3a39b1561675f2465dbdd35256d71760ab3fe8596a5052538632801 *ICO\Folder (Windows 11)\folder-icons_sameerasw\telegram.ico
 1eaeb2e75b6c56390937bccb0549aa41a7c413f6e1b1e23a0e786ef7b63c66ab *ICO\Folder (Windows 11)\folder-icons_sameerasw\terminal.ico
 bd976d0c0654430faeb54c651d1e0780a76335ac6e36a3680588c1f6587d1a78 *ICO\Folder (Windows 11)\folder-icons_sameerasw\thinkpad.ico
 fa573e9e8e825cb2169b18b500ec1c8e67f4053abe8e832702e63b0f7ab60338 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tidwib.ico
+46a8500525a4b59aafc563c90671ffcc834eaea6ec2c662d097f330d780c1c66 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tiktok-folder.ico
 98a15a21446721db99a9270979c50af310ce88892a401853cb983f9ac65e5011 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tools.ico
+7e76d6664aaa1eee943317b383b2e961a2d17855e83f27a07f752f011ea5e7a8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\transport-bicycle.ico
+f5c13f9758e0bf70c332f213e3b6cf0648171de182d81a957b6abeb0c20247ed *ICO\Folder (Windows 11)\folder-icons_sameerasw\transport-bus.ico
+df0bc6ac03b2cb007fcbcaf6b2f29e1b2b0c795d97c62d2168a870801c59b32a *ICO\Folder (Windows 11)\folder-icons_sameerasw\transport-ferry.ico
+226e5b7d48ac81bac29f977008e3e8f0be595ba9890afa06df6eebe131c4fc7f *ICO\Folder (Windows 11)\folder-icons_sameerasw\transport-train.ico
+943eea6e8db5dc4d7d1d40e7aff8420b50f559aa729a1a2d29bf37eda1f96c25 *ICO\Folder (Windows 11)\folder-icons_sameerasw\travel-flights.ico
+e75f954e7cc658feae49724f67486735160fcd3acc45128e54c0ae9ab1338190 *ICO\Folder (Windows 11)\folder-icons_sameerasw\travel-hotels.ico
+f4a5832062e623542f1f3784f5482c46e513659eedf9132b571756e82371f6c2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\travel-luggage.ico
 2883c80e737964ab97ffaba044dc2b0ccc45ce9504d9b3b6a3dbccb638187179 *ICO\Folder (Windows 11)\folder-icons_sameerasw\tv-shows.ico
 b5f1ed1927bae82820a48fe9b7b1950a891111571cf89f5e8451056e8d7dc58a *ICO\Folder (Windows 11)\folder-icons_sameerasw\twitter.ico
 af6dced86a382fb12f5a5136c60daab881165bd3634c665886e454771d373bb9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\twrp.ico
-81d7497a2478a8208c10005bd11523c575ca8d45c0e2428a19e5e2ad7ead81cd *ICO\Folder (Windows 11)\folder-icons_sameerasw\typescript-ts.ico
+578549aa3dd381eb4ec87f0dac5a2dc505457befa987b05ab745773bf7f2de6a *ICO\Folder (Windows 11)\folder-icons_sameerasw\typescript-ts.ico
 124703de8081ee85b3335209c1175590e9b8356aa132c06d82a405ee70dfeb4b *ICO\Folder (Windows 11)\folder-icons_sameerasw\ubuntu.ico
 71e2bb8e342f57bf5eaeb2f23970cb8a336810e68c5988004bc4f984e652c50e *ICO\Folder (Windows 11)\folder-icons_sameerasw\ubuntu-studio.ico
+33195466c5fc1816a7e8f7c394f54850990c26d9864d92b4c1d2c8ef64c90d23 *ICO\Folder (Windows 11)\folder-icons_sameerasw\unity-folder.ico
+aa941ccd573a80be7272603d8e425082a455bae0e0d961e59df6ebf285b3ddc5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\unrealengine-folder.ico
 90744fcb26b3d6c17964363d2e45e23a7c5497f27c68ecc37cb4abc66d271eb6 *ICO\Folder (Windows 11)\folder-icons_sameerasw\user.ico
 84a08b86191f02493fbef0901cc52b62f4a4b3705ab653f853a052e4f8a4efc9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\user2.ico
 268d5e13e8c4dcfecf1e1571f5ae1c278b41e078e9f422cc390ad59f29061334 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Vagrant.ico
 302186a450fe58192653cb2c80d8bd04b9f5819bceaba3c68094a716d9d4c438 *ICO\Folder (Windows 11)\folder-icons_sameerasw\valorant.ico
+c3717a2fbfa3cbc4790527aad1811706b52685d3f132fd48a8e11e296e37adaa *ICO\Folder (Windows 11)\folder-icons_sameerasw\vegas-pro-2021-folder.ico
+5a1cd3983dd79c7aee3c89cdf7bab7638546d3e2da60d0f66c8187a70700a06c *ICO\Folder (Windows 11)\folder-icons_sameerasw\vercel-folder.ico
 d955a8ee8c339f91096e4ef57e38ded9d5733a166903dd9c01b10254011b790f *ICO\Folder (Windows 11)\folder-icons_sameerasw\vhd.ico
 af929e6a555589cf783aae450098c0892b85d7358a2ef50a1be7cf83eecd996c *ICO\Folder (Windows 11)\folder-icons_sameerasw\videos.ico
 1c133276ada10682781ce42533926b5e195a8a1a5e6e4c0c2ce67c656cb3e275 *ICO\Folder (Windows 11)\folder-icons_sameerasw\vim.ico
 3cea22c7ecbc10e0fd3f9c7a0de76712ec0d2f7a471847de34ef8ed49bd12fe5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Virtualbox.ico
+6b5d7a541f575e300852aa1b53ae70f9a461e839c57aff5891949fff575837e8 *ICO\Folder (Windows 11)\folder-icons_sameerasw\visual-studio-folder.ico
 afaaf06bfa312364d4c5011c4c22a99422e2dd6f735f0f6f80039b59eb1d61d2 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Vita3K-emu.ico
-6ce7e1af5e18d798543114ea844307540c1e22493b8dad741f655114e77fb639 *ICO\Folder (Windows 11)\folder-icons_sameerasw\viz.ico
+55fe47eb13bc3105ed6fc5b31ea71f6983f71ebd5357889befd4abffcd940270 *ICO\Folder (Windows 11)\folder-icons_sameerasw\viz.ico
 ed275a9ae62209b8d5617d742f4b9ee461eb2da9b53a887587d45caf3bef0955 *ICO\Folder (Windows 11)\folder-icons_sameerasw\voltageos.ico
 66f19f9c03569ac2f637b12d3ebeed22a6cf22b4df3acf956ed6b460b5c0be9d *ICO\Folder (Windows 11)\folder-icons_sameerasw\vscode.ico
 b20d9b4e706ceb5a6483ff28dbbe8399d871d752460d1baed74c58f7e929f1b5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\vue.ico
 a569d788bba651e4a8566dd9c1519559f2eb94065aa8fd59809abd34117bcaa5 *ICO\Folder (Windows 11)\folder-icons_sameerasw\wallpapers.ico
 436c5b23f71eeb5082d6ea5176443a0c931d5b582827bf552a809de845aeefee *ICO\Folder (Windows 11)\folder-icons_sameerasw\warzone.ico
 b34cd3a93f083a32c2b8c9109928d15b53e28a219a1c7e5c1ce34be98b4ebc58 *ICO\Folder (Windows 11)\folder-icons_sameerasw\web.ico
+e5085537aa877fc9f177c98719f9bab095e729366f629b7796a2751ee5fece73 *ICO\Folder (Windows 11)\folder-icons_sameerasw\wechat-folder.ico
+fecf60be37b74d2cadd119cea7ae74535dfc118b2eefa75aed1b34c659464b30 *ICO\Folder (Windows 11)\folder-icons_sameerasw\weibo-folder.ico
 7a9fa50a8eee43db7ee13b33eb43d178c940e3ab796bddfe24419c890e212af0 *ICO\Folder (Windows 11)\folder-icons_sameerasw\whatsapp.ico
 4c2f0be3af40099b9a8de52af18e2eae39ae3467c18be63623c215513de12220 *ICO\Folder (Windows 11)\folder-icons_sameerasw\wii.ico
 c8447d883137df5fb9956b403397cf3bbcfe3b31001b0a7425b0ba738e7e7ac9 *ICO\Folder (Windows 11)\folder-icons_sameerasw\wii-u.ico
@@ -9234,21 +9386,28 @@ ca7e7f7f79293c1c073ddfe9a52eab997b9d78fd621a6dd65dde325539f16259 *ICO\Folder (Wi
 c38922c70cbf2802c1251c8b015e04b57dcd544ac0a42b0ccfeecb6679f7c47d *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-95.ico
 9cbd8ef6c5f6283764708ddb89a6751d0fcbb1efe463ceaf8b3c9d1d4a70c26e *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-alt01.ico
 4e6190c81d81aa2c45803dba0a4dec635f014b55fabd502e9bd399c723bc4f81 *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-alt02.ico
+160a278cd4b32edce37ddef1b0a71f792caaf0f74b08b44659bf4d2d449c2d72 *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-calendar-folder.ico
+c0c67cdc44541970194a74864d58064056736bbf3c2669864490fdf6668121db *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-contacts-folder.ico
 e54821c49eba268a7445d05aa7911cdf4c0bafe300a074d7956d6f0c4674a758 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Windows-updated-blocker.ico
 67762d857a9996cab88328d59669306a3cbb2314b2be4232453985e33bf1da1e *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-vista.ico
 3a5b7a2d6e084b0fc85e1481023781fed26f5677dd05a90c85ecffcb4dcb0a01 *ICO\Folder (Windows 11)\folder-icons_sameerasw\windows-xp.ico
+5daf9e05eb75803572b457148c9b26f1379f86cdf8e37178222e78773b620f50 *ICO\Folder (Windows 11)\folder-icons_sameerasw\wireguard-folder.ico
 961932a6c6589daebfe3e14f2fb3068f9b74ad0c8aefed373672290f2f4a5898 *ICO\Folder (Windows 11)\folder-icons_sameerasw\word.ico
+7480ef6a31b6fbb15460e0a69d4feae3d6626c4a4440228123b885a496310f6e *ICO\Folder (Windows 11)\folder-icons_sameerasw\wordpress-folder.ico
 a6685ce49c43f279195b9b2709da2d2daef33408c8467c326b7e4b63d2ad4273 *ICO\Folder (Windows 11)\folder-icons_sameerasw\work.ico
+7f76e5e9f2a64684e594288df8e5f8bab223636305c90241d48fc1c1c594be1d *ICO\Folder (Windows 11)\folder-icons_sameerasw\wps-office-folder.ico
 3cbb39da627e49f688a406f31ee59443518ccb730832a2123fc00cb1f9a2f589 *ICO\Folder (Windows 11)\folder-icons_sameerasw\x.ico
 4a8caaf0167ebc3961eb16c9a7a4291e20f9cfb97b48435cfa7329339c6d450f *ICO\Folder (Windows 11)\folder-icons_sameerasw\x3.ico
 62cb855aedd90551b064e0f269ad8946d68e37ba259a498ccef764a238b3a7b4 *ICO\Folder (Windows 11)\folder-icons_sameerasw\Xbox-one.ico
 5845a04c4101063f738935d06d2d28ff9f8597424dafe42c9ab4661a4ebc018d *ICO\Folder (Windows 11)\folder-icons_sameerasw\xd.ico
+f80e5b388b8b4bf1797adfaa3912e42bd3fbfd1748bb9675e630a5cbdb8c8eaa *ICO\Folder (Windows 11)\folder-icons_sameerasw\xiaohongshu-folder.ico
 2c3f60a138a775783aa35eee2b142fc9b141f1383eb3da20dff5f8c398fc8723 *ICO\Folder (Windows 11)\folder-icons_sameerasw\yaap.ico
 ce1654e746cf55ea3915b768e0dda6b6cea5189aa6850a8d69ad8be213147671 *ICO\Folder (Windows 11)\folder-icons_sameerasw\youtube.ico
 a6c72b115a3e12f07de09b83913863f7b8b16ca40c814db41aa260381f7b9129 *ICO\Folder (Windows 11)\folder-icons_sameerasw\youtube-black.ico
 ce1654e746cf55ea3915b768e0dda6b6cea5189aa6850a8d69ad8be213147671 *ICO\Folder (Windows 11)\folder-icons_sameerasw\youtube-white.ico
 7d987c1c21c70806f8b6e019f5219d3f0ad69500ae59b7fda7ff54896e1b4c4f *ICO\Folder (Windows 11)\folder-icons_sameerasw\yuzu-emu.ico
 4c84dc3054fb7a824fab916b115fb27441885bf3fa180eb94069262a38aeca2f *ICO\Folder (Windows 11)\folder-icons_sameerasw\zelda.ico
+744e25e5bb0f9859bce42d9648838e1d399df1bab5640b5b5ed9a9ee2cf5b5b3 *ICO\Folder (Windows 11)\folder-icons_sameerasw\zerotier-folder.ico
 8493e4b2d06ebf62eede3e52e97a96cd89515de73058b0a3dba34dc65151894e *ICO\Folder (Windows 11)\folder-icons_sameerasw\zorin.ico
 4d11f9ec4bacdbf1e07329d1f693fb98e52538303045e637aefa844055544617 *ICO\Folder (Windows 11)\generic\3D.ico
 665062470a324bf97ba9b5108a8a0ed620a7482590af49445c7ea8027951d7db *ICO\Folder (Windows 11)\generic\1883.ico
