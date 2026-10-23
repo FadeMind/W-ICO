@@ -5,7 +5,7 @@ A collection of all Windows icons (98, XP, Vista, 7, 10, 11)
 
 **SOURCES**
 
-- [Unified-Folder-Icons-for-Win11-by-QuickHows Source](https://www.quickhows.com/articles/change-user-folder-icons-windows11/)
+- Unified-Folder-Icons-for-Win11-by-QuickHows Source
 - https://github.com/icon11-community/Folder11-Ico
 - https://github.com/sameerasw/folder-icons
 - https://www.deviantart.com/adni18/art/New-Windows-11-Icons-937640902
@@ -21,8 +21,6 @@ A collection of all Windows icons (98, XP, Vista, 7, 10, 11)
 - https://www.deviantart.com/theninjacat27/art/Windows-10X-Icons-835108137
 - https://www.folderico.com/icon-libraries.html
 - https://www.reddit.com/r/FluentDesign/comments/on8reh/fluent_design_icons/
-- https://www.reddit.com/r/Windows11/comments/1kpmqri/for_the_impatient_now_you_can_download_the_new/
-- [Colored Obsidian icons](https://github.com/xmha97/W-ICO/tree/master/ICO/Apps%20(Windows%2011)/Colored Obsidian icons) — created with the [Obsidian website](https://obsidian.md/blog/new-obsidian-icon/)
 
 **CONTRIBUTORS**
 
